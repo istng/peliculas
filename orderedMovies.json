@@ -9,7 +9,7 @@
     "nationality": "Argentina",
     "imdbid": "tt11162974",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-01T18:30:00"
@@ -24,7 +24,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-03T17:00:00"
@@ -39,7 +39,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-03T17:00:00"
@@ -54,7 +54,7 @@
     "nationality": "",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-03T19:00:00"
@@ -69,7 +69,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-03T19:00:00"
@@ -84,7 +84,7 @@
     "nationality": "España",
     "imdbid": "tt0076050",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-04T17:30:00"
@@ -99,7 +99,7 @@
     "nationality": "Níger, Francia",
     "imdbid": "tt0342157",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-04T19:00:00"
@@ -114,7 +114,7 @@
     "nationality": "España",
     "imdbid": "tt0255067",
     "trailer": "https://www.youtube.com/watch?v=xxogD57zp8E",
-    "adress": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-06T18:30:00"
@@ -129,7 +129,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-07T19:00:00"
@@ -144,7 +144,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27520543",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-07T19:00:00"
@@ -159,7 +159,7 @@
     "nationality": "Argentina",
     "imdbid": "tt18350982",
     "trailer": "https://www.youtube.com/watch?v=cb7rK_6cJy8",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-07T21:00:00"
@@ -174,7 +174,7 @@
     "nationality": "Francia, Alemania",
     "imdbid": "tt0211915",
     "trailer": "https://www.youtube.com/watch?v=Py7cDXQae2U",
-    "adress": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-08T18:30:00"
@@ -189,7 +189,7 @@
     "nationality": "Argentina, Chile, Japón",
     "imdbid": "tt10009608",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-08T19:00:00"
@@ -204,7 +204,7 @@
     "nationality": "Estados Unidos de América , Canadá , México .",
     "imdbid": "tt0450345",
     "trailer": "https://www.youtube.com/watch?v=r86OlE7rlFc",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-08T20:00:00"
@@ -219,7 +219,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-08T21:00:00"
@@ -234,7 +234,7 @@
     "nationality": "Uruguay, Argentina",
     "imdbid": "tt3826628",
     "trailer": "https://www.youtube.com/watch?v=KcdodOH1V_g",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-09T17:30:00"
@@ -249,7 +249,7 @@
     "nationality": "Argentina, Chile, Japón",
     "imdbid": "tt10009608",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-09T19:00:00"
@@ -264,7 +264,7 @@
     "nationality": "Argentina, Alemania, Francia",
     "imdbid": "tt0499540",
     "trailer": "https://www.youtube.com/watch?v=kGUOfCJ1GIg",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-09T19:30:00"
@@ -279,7 +279,7 @@
     "nationality": "Reino Unido",
     "imdbid": "tt0087075",
     "trailer": "https://www.youtube.com/watch?v=Ir34SoEgik0",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-09T20:00:00"
@@ -294,7 +294,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-09T21:00:00"
@@ -309,7 +309,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-10T16:00:00"
@@ -324,7 +324,7 @@
     "nationality": "",
     "imdbid": "tt28821435",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-10T17:00:00"
@@ -339,7 +339,7 @@
     "nationality": "Francia, Túnez",
     "imdbid": "tt19783912",
     "trailer": "https://www.youtube.com/watch?v=rRTzM2fd9FE",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-10T17:00:00"
@@ -354,7 +354,7 @@
     "nationality": "Argentina, Francia, Uruguay",
     "imdbid": "tt4955012",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-10T17:30:00"
@@ -369,7 +369,7 @@
     "nationality": "Argentina",
     "imdbid": "tt32444728",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-10T18:00:00"
@@ -384,7 +384,7 @@
     "nationality": "Francia",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-10T19:00:00"
@@ -399,7 +399,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-10T19:00:00"
@@ -414,7 +414,7 @@
     "nationality": "Argentina",
     "imdbid": "tt28865157",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-10T19:30:00"
@@ -429,7 +429,7 @@
     "nationality": "Argentina",
     "imdbid": "tt13648184",
     "trailer": "https://www.youtube.com/watch?v=ggDptt-f6fU",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-10T19:30:00"
@@ -444,7 +444,7 @@
     "nationality": "Reino Unido",
     "imdbid": "tt0063285",
     "trailer": "https://www.youtube.com/watch?v=QSq9SZ6WMmY",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-10T20:00:00"
@@ -459,7 +459,7 @@
     "nationality": "Argentina",
     "imdbid": "tt32901835",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-10T22:00:00"
@@ -474,7 +474,7 @@
     "nationality": "Argentina-España",
     "imdbid": "tt0087027",
     "trailer": "https://www.youtube.com/watch?v=BTCm6R_EL_g",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-11T16:00:00"
@@ -489,7 +489,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-11T16:00:00"
@@ -504,7 +504,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt0087363",
     "trailer": "https://www.youtube.com/watch?v=PXXZx6skXrw",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-11T17:00:00"
@@ -519,7 +519,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-11T18:00:00"
@@ -534,7 +534,7 @@
     "nationality": "Senegal, Francia",
     "imdbid": "tt0063268",
     "trailer": "https://www.youtube.com/watch?v=L3LJ5RJ8wOg",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-11T18:00:00"
@@ -549,7 +549,7 @@
     "nationality": "",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-11T20:00:00"
@@ -564,7 +564,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-11T20:00:00"
@@ -579,7 +579,7 @@
     "nationality": "España, Italia",
     "imdbid": "tt0395125",
     "trailer": "https://www.youtube.com/watch?v=LBjDCwL807M",
-    "adress": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-13T18:30:00"
@@ -594,7 +594,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-14T19:00:00"
@@ -609,7 +609,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-14T19:00:00"
@@ -624,7 +624,7 @@
     "nationality": "Argentina",
     "imdbid": "tt18350982",
     "trailer": "https://www.youtube.com/watch?v=cb7rK_6cJy8",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-14T21:00:00"
@@ -644,7 +644,7 @@
     "nationality": "Argentina",
     "imdbid": "tt33050502",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T12:00:00"
@@ -667,7 +667,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T12:15:00"
@@ -690,7 +690,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T12:45:00"
@@ -710,7 +710,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T13:30:00"
@@ -733,7 +733,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T13:45:00"
@@ -756,7 +756,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T14:15:00"
@@ -779,7 +779,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T15:10:00"
@@ -799,7 +799,7 @@
     "nationality": "Argentina",
     "imdbid": "tt15525430",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T15:20:00"
@@ -820,7 +820,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T15:45:00"
@@ -840,7 +840,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T16:45:00"
@@ -860,7 +860,7 @@
     "nationality": "Bélgica, Francia, Suiza",
     "imdbid": "tt19713112",
     "trailer": "https://www.youtube.com/watch?v=tlpYOmma334",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T17:15:00"
@@ -883,7 +883,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T17:45:00"
@@ -898,7 +898,7 @@
     "nationality": "Argentina",
     "imdbid": "tt0182874",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-15T18:30:00"
@@ -918,7 +918,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T18:40:00"
@@ -938,7 +938,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T18:45:00"
@@ -961,7 +961,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T19:15:00"
@@ -981,7 +981,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T20:20:00"
@@ -1004,7 +1004,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T20:30:00"
@@ -1025,7 +1025,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T20:45:00"
@@ -1045,7 +1045,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T22:00:00"
@@ -1065,7 +1065,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T22:15:00"
@@ -1085,7 +1085,7 @@
     "nationality": "Paraguay",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-15T22:30:00"
@@ -1105,7 +1105,7 @@
     "nationality": "Argentina",
     "imdbid": "tt33050502",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T12:00:00"
@@ -1128,7 +1128,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T12:15:00"
@@ -1151,7 +1151,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T12:45:00"
@@ -1171,7 +1171,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T13:30:00"
@@ -1194,7 +1194,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T13:45:00"
@@ -1217,7 +1217,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T14:15:00"
@@ -1240,7 +1240,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T15:10:00"
@@ -1260,7 +1260,7 @@
     "nationality": "Argentina",
     "imdbid": "tt15525430",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T15:20:00"
@@ -1281,7 +1281,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T15:45:00"
@@ -1301,7 +1301,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T16:45:00"
@@ -1321,7 +1321,7 @@
     "nationality": "Bélgica, Francia, Suiza",
     "imdbid": "tt19713112",
     "trailer": "https://www.youtube.com/watch?v=tlpYOmma334",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T17:15:00"
@@ -1336,7 +1336,7 @@
     "nationality": "Argentina",
     "imdbid": "tt13648184",
     "trailer": "https://www.youtube.com/watch?v=ggDptt-f6fU",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-16T17:30:00"
@@ -1359,7 +1359,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T17:45:00"
@@ -1379,7 +1379,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T18:40:00"
@@ -1399,7 +1399,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T18:45:00"
@@ -1422,7 +1422,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T19:15:00"
@@ -1437,7 +1437,7 @@
     "nationality": "Argentina, Francia, Uruguay",
     "imdbid": "tt4955012",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-16T19:30:00"
@@ -1457,7 +1457,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T20:20:00"
@@ -1480,7 +1480,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T20:30:00"
@@ -1501,7 +1501,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T20:45:00"
@@ -1521,7 +1521,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T22:00:00"
@@ -1541,7 +1541,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T22:15:00"
@@ -1561,7 +1561,7 @@
     "nationality": "Paraguay",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-16T22:30:00"
@@ -1581,7 +1581,7 @@
     "nationality": "Argentina",
     "imdbid": "tt33050502",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T12:00:00"
@@ -1604,7 +1604,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T12:15:00"
@@ -1627,7 +1627,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T12:45:00"
@@ -1647,7 +1647,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T13:30:00"
@@ -1670,7 +1670,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T13:45:00"
@@ -1693,7 +1693,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T14:15:00"
@@ -1716,7 +1716,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T15:10:00"
@@ -1736,7 +1736,7 @@
     "nationality": "Argentina",
     "imdbid": "tt15525430",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T15:20:00"
@@ -1757,7 +1757,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T15:45:00"
@@ -1772,7 +1772,7 @@
     "nationality": "Argentina",
     "imdbid": "tt28865157",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-17T16:00:00"
@@ -1792,7 +1792,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T16:45:00"
@@ -1807,7 +1807,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-17T17:00:00"
@@ -1827,7 +1827,7 @@
     "nationality": "Bélgica, Francia, Suiza",
     "imdbid": "tt19713112",
     "trailer": "https://www.youtube.com/watch?v=tlpYOmma334",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T17:15:00"
@@ -1842,7 +1842,7 @@
     "nationality": "Argentina, Alemania, Francia",
     "imdbid": "tt0499540",
     "trailer": "https://www.youtube.com/watch?v=kGUOfCJ1GIg",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-17T17:30:00"
@@ -1865,7 +1865,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T17:45:00"
@@ -1885,7 +1885,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T18:40:00"
@@ -1905,7 +1905,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T18:45:00"
@@ -1920,7 +1920,7 @@
     "nationality": "México",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-17T19:00:00"
@@ -1935,7 +1935,7 @@
     "nationality": "Brasil",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-17T19:00:00"
@@ -1958,7 +1958,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T19:15:00"
@@ -1973,7 +1973,7 @@
     "nationality": "Uruguay, Argentina",
     "imdbid": "tt3826628",
     "trailer": "https://www.youtube.com/watch?v=KcdodOH1V_g",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-17T19:30:00"
@@ -1993,7 +1993,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T20:20:00"
@@ -2016,7 +2016,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T20:30:00"
@@ -2037,7 +2037,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T20:45:00"
@@ -2057,7 +2057,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T22:00:00"
@@ -2077,7 +2077,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T22:15:00"
@@ -2097,7 +2097,7 @@
     "nationality": "Paraguay",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-17T22:30:00"
@@ -2117,7 +2117,7 @@
     "nationality": "Argentina",
     "imdbid": "tt33050502",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T12:00:00"
@@ -2140,7 +2140,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T12:15:00"
@@ -2163,7 +2163,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T12:45:00"
@@ -2183,7 +2183,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T13:30:00"
@@ -2206,7 +2206,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T13:45:00"
@@ -2229,7 +2229,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T14:15:00"
@@ -2252,7 +2252,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T15:10:00"
@@ -2267,7 +2267,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-18T15:30:00"
@@ -2288,7 +2288,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T15:45:00"
@@ -2303,7 +2303,7 @@
     "nationality": "Argentina-España",
     "imdbid": "tt0087027",
     "trailer": "https://www.youtube.com/watch?v=BTCm6R_EL_g",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-18T16:00:00"
@@ -2318,7 +2318,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-18T16:00:00"
@@ -2338,7 +2338,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T16:45:00"
@@ -2353,7 +2353,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt0094737",
     "trailer": "https://www.youtube.com/watch?v=YM8zgY7sG_g",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-18T17:00:00"
@@ -2373,7 +2373,7 @@
     "nationality": "Bélgica, Francia, Suiza",
     "imdbid": "tt19713112",
     "trailer": "https://www.youtube.com/watch?v=tlpYOmma334",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T17:15:00"
@@ -2388,7 +2388,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-18T17:30:00"
@@ -2411,7 +2411,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T17:45:00"
@@ -2426,7 +2426,7 @@
     "nationality": "México, España",
     "imdbid": "tt0080495",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-18T18:00:00"
@@ -2446,7 +2446,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T18:40:00"
@@ -2466,7 +2466,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T18:45:00"
@@ -2489,7 +2489,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T19:15:00"
@@ -2509,7 +2509,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T20:20:00"
@@ -2532,7 +2532,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T20:30:00"
@@ -2553,7 +2553,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T20:45:00"
@@ -2573,7 +2573,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T22:00:00"
@@ -2593,7 +2593,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T22:15:00"
@@ -2613,7 +2613,7 @@
     "nationality": "Paraguay",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-18T22:30:00"
@@ -2633,7 +2633,7 @@
     "nationality": "Argentina",
     "imdbid": "tt33050502",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T12:00:00"
@@ -2656,7 +2656,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T12:15:00"
@@ -2679,7 +2679,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T12:45:00"
@@ -2699,7 +2699,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T13:30:00"
@@ -2722,7 +2722,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T13:45:00"
@@ -2745,7 +2745,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T14:15:00"
@@ -2768,7 +2768,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T15:10:00"
@@ -2788,7 +2788,7 @@
     "nationality": "Argentina",
     "imdbid": "tt15525430",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T15:20:00"
@@ -2809,7 +2809,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T15:45:00"
@@ -2829,7 +2829,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T16:45:00"
@@ -2849,7 +2849,7 @@
     "nationality": "Bélgica, Francia, Suiza",
     "imdbid": "tt19713112",
     "trailer": "https://www.youtube.com/watch?v=tlpYOmma334",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T17:15:00"
@@ -2872,7 +2872,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T17:45:00"
@@ -2892,7 +2892,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T18:40:00"
@@ -2912,7 +2912,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T18:45:00"
@@ -2935,7 +2935,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T19:15:00"
@@ -2955,7 +2955,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T20:20:00"
@@ -2978,7 +2978,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T20:30:00"
@@ -2999,7 +2999,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T20:45:00"
@@ -3019,7 +3019,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T22:00:00"
@@ -3039,7 +3039,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T22:15:00"
@@ -3059,7 +3059,7 @@
     "nationality": "Paraguay",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-19T22:30:00"
@@ -3079,7 +3079,7 @@
     "nationality": "Argentina",
     "imdbid": "tt33050502",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T12:00:00"
@@ -3102,7 +3102,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T12:15:00"
@@ -3125,7 +3125,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T12:45:00"
@@ -3145,7 +3145,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T13:30:00"
@@ -3168,7 +3168,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T13:45:00"
@@ -3191,7 +3191,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T14:15:00"
@@ -3214,7 +3214,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T15:10:00"
@@ -3235,7 +3235,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T15:45:00"
@@ -3255,7 +3255,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T16:45:00"
@@ -3278,7 +3278,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T17:45:00"
@@ -3293,7 +3293,7 @@
     "nationality": "Italia, España",
     "imdbid": "tt0112922",
     "trailer": "https://www.youtube.com/watch?v=Em-aXJwGuFY",
-    "adress": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-20T18:30:00"
@@ -3313,7 +3313,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T18:45:00"
@@ -3336,7 +3336,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T19:15:00"
@@ -3359,7 +3359,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T20:30:00"
@@ -3380,7 +3380,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T20:45:00"
@@ -3400,7 +3400,7 @@
     "nationality": "Australia, Estados Unidos de América.",
     "imdbid": "tt12037194",
     "trailer": "https://www.youtube.com/watch?v=LYV3001u574",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T22:00:00"
@@ -3420,7 +3420,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T22:00:00"
@@ -3440,7 +3440,7 @@
     "nationality": "Paraguay",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-20T22:30:00"
@@ -3460,7 +3460,7 @@
     "nationality": "Argentina",
     "imdbid": "tt33050502",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T12:00:00"
@@ -3483,7 +3483,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T12:15:00"
@@ -3506,7 +3506,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T12:45:00"
@@ -3526,7 +3526,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T13:30:00"
@@ -3549,7 +3549,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T13:45:00"
@@ -3572,7 +3572,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T14:15:00"
@@ -3595,7 +3595,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T15:10:00"
@@ -3615,7 +3615,7 @@
     "nationality": "Argentina",
     "imdbid": "tt15525430",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T15:20:00"
@@ -3636,7 +3636,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T15:45:00"
@@ -3656,7 +3656,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T16:45:00"
@@ -3676,7 +3676,7 @@
     "nationality": "Bélgica, Francia, Suiza",
     "imdbid": "tt19713112",
     "trailer": "https://www.youtube.com/watch?v=tlpYOmma334",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T17:15:00"
@@ -3699,7 +3699,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T17:45:00"
@@ -3719,7 +3719,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T18:40:00"
@@ -3739,7 +3739,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T18:45:00"
@@ -3754,7 +3754,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-21T19:00:00"
@@ -3769,7 +3769,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27520543",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-21T19:00:00"
@@ -3792,7 +3792,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T19:15:00"
@@ -3812,7 +3812,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T20:20:00"
@@ -3835,7 +3835,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T20:30:00"
@@ -3856,7 +3856,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T20:45:00"
@@ -3871,7 +3871,7 @@
     "nationality": "Argentina",
     "imdbid": "tt18350982",
     "trailer": "https://www.youtube.com/watch?v=cb7rK_6cJy8",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-21T21:00:00"
@@ -3891,7 +3891,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T22:00:00"
@@ -3911,7 +3911,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T22:15:00"
@@ -3931,7 +3931,7 @@
     "nationality": "Paraguay",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-21T22:30:00"
@@ -3951,7 +3951,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T12:00:00"
@@ -3973,7 +3973,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T12:10:00"
@@ -3995,7 +3995,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T12:20:00"
@@ -4016,7 +4016,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T13:45:00"
@@ -4036,7 +4036,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T14:00:00"
@@ -4056,7 +4056,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T14:30:00"
@@ -4076,7 +4076,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T15:30:00"
@@ -4091,7 +4091,7 @@
     "nationality": "Argentina",
     "imdbid": "tt4611082",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
+    "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
     "website": "https://eventos.dac.org.ar/formulario/",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-22T15:30:00"
@@ -4106,7 +4106,7 @@
     "nationality": "Argentina",
     "imdbid": "tt6327600",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
+    "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
     "website": "https://eventos.dac.org.ar/formulario/",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-22T15:30:00"
@@ -4128,7 +4128,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T15:45:00"
@@ -4150,7 +4150,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T16:10:00"
@@ -4170,7 +4170,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T17:00:00"
@@ -4192,7 +4192,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T17:45:00"
@@ -4212,7 +4212,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T18:20:00"
@@ -4227,7 +4227,7 @@
     "nationality": "Argentina-España",
     "imdbid": "tt22299436",
     "trailer": "https://www.youtube.com/watch?v=Irr1vRyLlR8",
-    "adress": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-22T18:30:00"
@@ -4242,7 +4242,7 @@
     "nationality": "",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
+    "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
     "website": "https://eventos.dac.org.ar/formulario/",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-22T18:30:00"
@@ -4257,7 +4257,7 @@
     "nationality": "Argentina-Paraguay",
     "imdbid": "tt0455413",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
+    "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
     "website": "https://eventos.dac.org.ar/formulario/",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-22T18:30:00"
@@ -4277,7 +4277,7 @@
     "nationality": "- Argentina e Italia",
     "imdbid": "tt12066384",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T19:00:00"
@@ -4292,7 +4292,7 @@
     "nationality": "Argentina, Chile, Japón",
     "imdbid": "tt10009608",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-22T19:00:00"
@@ -4312,7 +4312,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt21454134",
     "trailer": "https://www.youtube.com/watch?v=7W0ec8UMnfg",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T19:40:00"
@@ -4334,7 +4334,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T20:00:00"
@@ -4355,7 +4355,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T20:30:00"
@@ -4370,7 +4370,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-22T21:00:00"
@@ -4390,7 +4390,7 @@
     "nationality": "Argentina, Colombia, Dom.",
     "imdbid": "tt21232516",
     "trailer": "https://www.youtube.com/watch?v=slVB9Sj_i9c",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T22:00:00"
@@ -4410,7 +4410,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T22:15:00"
@@ -4430,7 +4430,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-22T22:30:00"
@@ -4450,7 +4450,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T12:00:00"
@@ -4472,7 +4472,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T12:10:00"
@@ -4494,7 +4494,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T12:20:00"
@@ -4515,7 +4515,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T13:45:00"
@@ -4535,7 +4535,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T14:00:00"
@@ -4555,7 +4555,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T14:30:00"
@@ -4575,7 +4575,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T15:30:00"
@@ -4597,7 +4597,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T15:45:00"
@@ -4619,7 +4619,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T16:10:00"
@@ -4634,7 +4634,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
+    "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
     "website": "https://eventos.dac.org.ar/formulario/",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-23T16:45:00"
@@ -4654,7 +4654,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T17:00:00"
@@ -4669,7 +4669,7 @@
     "nationality": "Argentina",
     "imdbid": "tt1687220",
     "trailer": "https://www.youtube.com/watch?v=8lF1LCD3nqw",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-23T17:30:00"
@@ -4691,7 +4691,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T17:45:00"
@@ -4711,7 +4711,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T18:20:00"
@@ -4726,7 +4726,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt0383648",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
+    "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
     "website": "https://eventos.dac.org.ar/formulario/",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-23T18:45:00"
@@ -4746,7 +4746,7 @@
     "nationality": "- Argentina e Italia",
     "imdbid": "tt12066384",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T19:00:00"
@@ -4761,7 +4761,7 @@
     "nationality": "Argentina, Chile, Japón",
     "imdbid": "tt10009608",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-23T19:00:00"
@@ -4776,7 +4776,7 @@
     "nationality": "Brasil",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-23T19:30:00"
@@ -4796,7 +4796,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt21454134",
     "trailer": "https://www.youtube.com/watch?v=7W0ec8UMnfg",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T19:40:00"
@@ -4818,7 +4818,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T20:00:00"
@@ -4839,7 +4839,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T20:30:00"
@@ -4854,7 +4854,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-23T21:00:00"
@@ -4874,7 +4874,7 @@
     "nationality": "Corea del Sur",
     "imdbid": "tt8209702",
     "trailer": "https://www.youtube.com/watch?v=bTDFXHbtuTo",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T22:00:00"
@@ -4894,7 +4894,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T22:15:00"
@@ -4914,7 +4914,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-23T22:30:00"
@@ -4934,7 +4934,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T12:00:00"
@@ -4956,7 +4956,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T12:10:00"
@@ -4978,7 +4978,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T12:20:00"
@@ -4999,7 +4999,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T13:45:00"
@@ -5019,7 +5019,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T14:00:00"
@@ -5039,7 +5039,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T14:30:00"
@@ -5059,7 +5059,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T15:30:00"
@@ -5081,7 +5081,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T15:45:00"
@@ -5096,7 +5096,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-24T16:00:00"
@@ -5118,7 +5118,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T16:10:00"
@@ -5138,7 +5138,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T17:00:00"
@@ -5153,7 +5153,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-24T17:00:00"
@@ -5168,7 +5168,7 @@
     "nationality": "España",
     "imdbid": "tt6049420",
     "trailer": "https://www.youtube.com/watch?v=2Twtx3A5mWU",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-24T17:30:00"
@@ -5190,7 +5190,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T17:45:00"
@@ -5205,7 +5205,7 @@
     "nationality": "Argentina",
     "imdbid": "tt32444728",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-24T18:00:00"
@@ -5225,7 +5225,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T18:20:00"
@@ -5240,7 +5240,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-24T18:30:00"
@@ -5260,7 +5260,7 @@
     "nationality": "- Argentina e Italia",
     "imdbid": "tt12066384",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T19:00:00"
@@ -5275,7 +5275,7 @@
     "nationality": "Argentina",
     "imdbid": "tt28865157",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-24T19:30:00"
@@ -5290,7 +5290,7 @@
     "nationality": "Argentina",
     "imdbid": "tt1178654",
     "trailer": "https://www.youtube.com/watch?v=OBEGof6rJlY",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-24T19:30:00"
@@ -5310,7 +5310,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt21454134",
     "trailer": "https://www.youtube.com/watch?v=7W0ec8UMnfg",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T19:40:00"
@@ -5332,7 +5332,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T20:00:00"
@@ -5353,7 +5353,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T20:30:00"
@@ -5373,7 +5373,7 @@
     "nationality": "México",
     "imdbid": "tt0206044",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T22:00:00"
@@ -5388,7 +5388,7 @@
     "nationality": "Argentina",
     "imdbid": "tt32901835",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-24T22:00:00"
@@ -5408,7 +5408,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T22:15:00"
@@ -5428,7 +5428,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-24T22:30:00"
@@ -5443,7 +5443,7 @@
     "nationality": "Argentina-España",
     "imdbid": "tt15475516",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-25T00:00:00"
@@ -5463,7 +5463,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T12:00:00"
@@ -5485,7 +5485,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T12:10:00"
@@ -5507,7 +5507,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T12:20:00"
@@ -5528,7 +5528,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T13:45:00"
@@ -5548,7 +5548,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T14:00:00"
@@ -5568,7 +5568,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T14:30:00"
@@ -5588,7 +5588,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T15:30:00"
@@ -5603,7 +5603,7 @@
     "nationality": "Alemania",
     "imdbid": "tt0075266",
     "trailer": "https://www.youtube.com/watch?v=jz7xByBBer8",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-25T15:30:00"
@@ -5625,7 +5625,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T15:45:00"
@@ -5640,7 +5640,7 @@
     "nationality": "Argentina-España",
     "imdbid": "tt0087027",
     "trailer": "https://www.youtube.com/watch?v=BTCm6R_EL_g",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-25T16:00:00"
@@ -5655,7 +5655,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-25T16:00:00"
@@ -5677,7 +5677,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T16:10:00"
@@ -5697,7 +5697,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T17:00:00"
@@ -5712,7 +5712,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt0187393",
     "trailer": "https://www.youtube.com/watch?v=ZSssYtYYKzU",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-25T17:30:00"
@@ -5734,7 +5734,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T17:45:00"
@@ -5749,7 +5749,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-25T18:00:00"
@@ -5764,7 +5764,7 @@
     "nationality": "",
     "imdbid": "tt0263241",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-25T18:00:00"
@@ -5779,7 +5779,7 @@
     "nationality": "Argentina, Austria",
     "imdbid": "tt26448952",
     "trailer": "https://www.youtube.com/watch?v=3JivjokgWyo",
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-25T18:00:00"
@@ -5799,7 +5799,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T18:20:00"
@@ -5819,7 +5819,7 @@
     "nationality": "- Argentina e Italia",
     "imdbid": "tt12066384",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T19:00:00"
@@ -5839,7 +5839,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt21454134",
     "trailer": "https://www.youtube.com/watch?v=7W0ec8UMnfg",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T19:40:00"
@@ -5861,7 +5861,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T20:00:00"
@@ -5876,7 +5876,7 @@
     "nationality": "",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-25T20:00:00"
@@ -5891,7 +5891,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt0037604",
     "trailer": "https://www.youtube.com/watch?v=-BLgNwANu8A",
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-25T20:00:00"
@@ -5912,7 +5912,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T20:30:00"
@@ -5932,7 +5932,7 @@
     "nationality": "Argentina",
     "imdbid": "tt23035872",
     "trailer": "https://www.youtube.com/watch?v=-PPPmLONs-Q",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T22:00:00"
@@ -5947,7 +5947,7 @@
     "nationality": "Guatemala",
     "imdbid": "tt14805172",
     "trailer": "https://www.youtube.com/watch?v=MT9SjtbBFX8",
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-25T22:00:00"
@@ -5967,7 +5967,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T22:15:00"
@@ -5987,7 +5987,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-25T22:30:00"
@@ -6007,7 +6007,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T12:00:00"
@@ -6029,7 +6029,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T12:10:00"
@@ -6051,7 +6051,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T12:20:00"
@@ -6072,7 +6072,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T13:45:00"
@@ -6092,7 +6092,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T14:00:00"
@@ -6112,7 +6112,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T14:30:00"
@@ -6132,7 +6132,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T15:30:00"
@@ -6154,7 +6154,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T15:45:00"
@@ -6176,7 +6176,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T16:10:00"
@@ -6196,7 +6196,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T17:00:00"
@@ -6218,7 +6218,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T17:45:00"
@@ -6238,7 +6238,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T18:20:00"
@@ -6258,7 +6258,7 @@
     "nationality": "- Argentina e Italia",
     "imdbid": "tt12066384",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T19:00:00"
@@ -6278,7 +6278,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T19:30:00"
@@ -6298,7 +6298,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt21454134",
     "trailer": "https://www.youtube.com/watch?v=7W0ec8UMnfg",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T19:40:00"
@@ -6320,7 +6320,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T20:00:00"
@@ -6341,7 +6341,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T20:30:00"
@@ -6361,7 +6361,7 @@
     "nationality": "Argentina",
     "imdbid": "tt21158218",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T22:00:00"
@@ -6381,7 +6381,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T22:15:00"
@@ -6401,7 +6401,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-26T22:30:00"
@@ -6421,7 +6421,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T12:00:00"
@@ -6443,7 +6443,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T12:10:00"
@@ -6465,7 +6465,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T12:20:00"
@@ -6486,7 +6486,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T13:45:00"
@@ -6506,7 +6506,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T14:00:00"
@@ -6526,7 +6526,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T14:30:00"
@@ -6546,7 +6546,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T15:30:00"
@@ -6568,7 +6568,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T15:45:00"
@@ -6590,7 +6590,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T16:10:00"
@@ -6610,7 +6610,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T17:00:00"
@@ -6632,7 +6632,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T17:45:00"
@@ -6652,7 +6652,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T18:20:00"
@@ -6667,7 +6667,7 @@
     "nationality": "España",
     "imdbid": "tt0168080",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-27T18:30:00"
@@ -6687,7 +6687,7 @@
     "nationality": "- Argentina e Italia",
     "imdbid": "tt12066384",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T19:00:00"
@@ -6707,7 +6707,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt21454134",
     "trailer": "https://www.youtube.com/watch?v=7W0ec8UMnfg",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T19:40:00"
@@ -6729,7 +6729,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T20:00:00"
@@ -6750,7 +6750,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T20:30:00"
@@ -6770,7 +6770,7 @@
     "nationality": "Emiratos Árabes Unidos y Estados Unidos de América",
     "imdbid": "tt14966898",
     "trailer": "https://www.youtube.com/watch?v=YeKYfneOH3o",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T22:00:00"
@@ -6790,7 +6790,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T22:15:00"
@@ -6810,7 +6810,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-27T22:30:00"
@@ -6830,7 +6830,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T12:00:00"
@@ -6852,7 +6852,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T12:10:00"
@@ -6874,7 +6874,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T12:20:00"
@@ -6895,7 +6895,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T13:45:00"
@@ -6915,7 +6915,7 @@
     "nationality": "Argentina",
     "imdbid": "tt27481548",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T14:00:00"
@@ -6935,7 +6935,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T14:30:00"
@@ -6955,7 +6955,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T15:30:00"
@@ -6977,7 +6977,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T15:45:00"
@@ -6999,7 +6999,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T16:10:00"
@@ -7019,7 +7019,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T17:00:00"
@@ -7041,7 +7041,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T17:45:00"
@@ -7061,7 +7061,7 @@
     "nationality": "Argentina",
     "imdbid": "tt26453182",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T18:20:00"
@@ -7081,7 +7081,7 @@
     "nationality": "- Argentina e Italia",
     "imdbid": "tt12066384",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T19:00:00"
@@ -7096,7 +7096,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-28T19:00:00"
@@ -7111,7 +7111,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-28T19:00:00"
@@ -7131,7 +7131,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt21454134",
     "trailer": "https://www.youtube.com/watch?v=7W0ec8UMnfg",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T19:40:00"
@@ -7153,7 +7153,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T20:00:00"
@@ -7174,7 +7174,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt11317110",
     "trailer": "https://www.youtube.com/watch?v=wXtFdpwxoag",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T20:30:00"
@@ -7189,7 +7189,7 @@
     "nationality": "Argentina",
     "imdbid": "tt18350982",
     "trailer": "https://www.youtube.com/watch?v=cb7rK_6cJy8",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-28T21:00:00"
@@ -7209,7 +7209,7 @@
     "nationality": "Reino Unido",
     "imdbid": "tt0059646",
     "trailer": "https://www.youtube.com/watch?v=kMziXjk1bqc",
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T22:00:00"
@@ -7229,7 +7229,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T22:15:00"
@@ -7249,7 +7249,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "400 ARS / 200 ARS",
     "showtime": "2024-08-28T22:30:00"
@@ -7264,7 +7264,7 @@
     "nationality": "Francia, Reino Unido.",
     "imdbid": "tt0195234",
     "trailer": "https://www.youtube.com/watch?v=-n8rHwtoEwo",
-    "adress": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-08-29T18:30:00"
@@ -7279,7 +7279,7 @@
     "nationality": "Argentina, Chile, Japón",
     "imdbid": "tt10009608",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-29T19:00:00"
@@ -7294,7 +7294,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-29T19:00:00"
@@ -7309,7 +7309,7 @@
     "nationality": "Reino Unido",
     "imdbid": "tt0066849",
     "trailer": "https://www.youtube.com/watch?v=dIFHqlU58T8",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-29T20:00:00"
@@ -7324,7 +7324,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-29T21:00:00"
@@ -7339,7 +7339,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-29T21:00:00"
@@ -7354,7 +7354,7 @@
     "nationality": "España",
     "imdbid": "tt0061633",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-29T23:00:00"
@@ -7369,7 +7369,7 @@
     "nationality": "Argentina",
     "imdbid": "tt1178654",
     "trailer": "https://www.youtube.com/watch?v=OBEGof6rJlY",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-30T17:30:00"
@@ -7384,7 +7384,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt0040064",
     "trailer": "https://www.youtube.com/watch?v=GqlUqWH17AI",
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-30T18:00:00"
@@ -7399,7 +7399,7 @@
     "nationality": "Argentina, Chile, Japón",
     "imdbid": "tt10009608",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-30T19:00:00"
@@ -7414,7 +7414,7 @@
     "nationality": "España",
     "imdbid": "tt6049420",
     "trailer": "https://www.youtube.com/watch?v=2Twtx3A5mWU",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-30T19:30:00"
@@ -7429,7 +7429,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt0185937",
     "trailer": "https://www.youtube.com/watch?v=AcTh2YItSaM",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-30T20:00:00"
@@ -7444,7 +7444,7 @@
     "nationality": "Argentina, Estados Unidos de América",
     "imdbid": "tt1578890",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-30T20:00:00"
@@ -7459,7 +7459,7 @@
     "nationality": "Argentina, Alemania, Suiza",
     "imdbid": "tt29102354",
     "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-30T21:00:00"
@@ -7474,7 +7474,7 @@
     "nationality": "Argentina",
     "imdbid": "tt32901835",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-30T22:00:00"
@@ -7489,7 +7489,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-31T00:00:00"
@@ -7504,7 +7504,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-31T16:00:00"
@@ -7519,7 +7519,7 @@
     "nationality": "Brasil",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-31T17:30:00"
@@ -7534,7 +7534,7 @@
     "nationality": "Argentina",
     "imdbid": "tt32444728",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-31T18:00:00"
@@ -7549,7 +7549,7 @@
     "nationality": "Argentina, Singapur",
     "imdbid": "tt29961381",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-31T18:00:00"
@@ -7564,7 +7564,7 @@
     "nationality": "Argentina",
     "imdbid": "tt28865157",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-31T19:30:00"
@@ -7579,7 +7579,7 @@
     "nationality": "Argentina",
     "imdbid": "tt1687220",
     "trailer": "https://www.youtube.com/watch?v=8lF1LCD3nqw",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-08-31T19:30:00"
@@ -7594,7 +7594,7 @@
     "nationality": "Argentina, Cuba",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-31T20:00:00"
@@ -7609,7 +7609,7 @@
     "nationality": "Argentina",
     "imdbid": "tt32901835",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-31T22:00:00"
@@ -7624,7 +7624,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-31T22:00:00"
@@ -7639,7 +7639,7 @@
     "nationality": "Argentina-España",
     "imdbid": "tt15475516",
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-01T00:00:00"
@@ -7654,7 +7654,7 @@
     "nationality": "Argentina-España",
     "imdbid": "tt0087027",
     "trailer": "https://www.youtube.com/watch?v=BTCm6R_EL_g",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-09-01T16:00:00"
@@ -7669,7 +7669,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt0096874",
     "trailer": "https://www.youtube.com/watch?v=M8kvj07HpFI",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-09-01T17:00:00"
@@ -7684,7 +7684,7 @@
     "nationality": "Argentina",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-09-01T18:00:00"
@@ -7699,7 +7699,7 @@
     "nationality": "c",
     "imdbid": "d",
     "trailer": "e",
-    "adress": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-09-01T18:00:00"
@@ -7714,7 +7714,7 @@
     "nationality": "Argentina, Austria",
     "imdbid": "tt26448952",
     "trailer": "https://www.youtube.com/watch?v=3JivjokgWyo",
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-01T18:00:00"
@@ -7729,7 +7729,7 @@
     "nationality": "",
     "imdbid": null,
     "trailer": null,
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-09-01T20:00:00"
@@ -7744,7 +7744,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt8772262",
     "trailer": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
-    "adress": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-09-01T20:00:00"
@@ -7759,7 +7759,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt0036244",
     "trailer": "https://www.youtube.com/watch?v=hKd34tmlqko",
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-01T20:00:00"
@@ -7774,7 +7774,7 @@
     "nationality": "Estados Unidos de América",
     "imdbid": "tt0033891",
     "trailer": "https://www.youtube.com/watch?v=9j3gdbdnoEk",
-    "adress": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-01T22:00:00"
