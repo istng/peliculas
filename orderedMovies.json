@@ -15,6 +15,66 @@
     "showtime": "2024-08-01T18:30:00"
   },
   {
+    "title": "Mesocosms",
+    "director": "Welket Bungué",
+    "year": "",
+    "theater": "CCK",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-03T17:00:00"
+  },
+  {
+    "title": "Exu Y El Universo",
+    "director": "Thiago Zanato",
+    "year": "",
+    "theater": "CCK",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-03T17:00:00"
+  },
+  {
+    "title": "Dejá Nu",
+    "director": "Rolf Hellart",
+    "year": "2023",
+    "theater": "CCK",
+    "genre": "Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/y2dFdBpWnEd5GJm3rgnUVAOzJWL.jpg",
+    "nationality": "",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-03T19:00:00"
+  },
+  {
+    "title": "Rosinha Y Otros Animales Salvajes",
+    "director": "Marta Pessoa",
+    "year": "",
+    "theater": "CCK",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-03T19:00:00"
+  },
+  {
     "title": "La Comunidad",
     "director": "Álex de la Iglesia",
     "year": "2000",
@@ -32,7 +92,7 @@
   {
     "title": "Italpark",
     "director": "Juan Carlos Domínguez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/nytanbmjWjoQjWH5Zqudf8eongi.jpg",
@@ -45,9 +105,24 @@
     "showtime": "2024-08-07T19:00:00"
   },
   {
+    "title": "El Santo",
+    "director": "Agustín Carbonere",
+    "year": "2023",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/eBMA4wyg59Jox7gXLOLsrpRjXJR.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt27520543",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-07T19:00:00"
+  },
+  {
     "title": "Sola En El Paraíso",
     "director": "Justina Bustos y Victoria Comune",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/8frWdegfveLjPtDV8B6UfaaQmBo.jpg",
@@ -77,7 +152,7 @@
   {
     "title": "Quizás Es Cierto Lo Que Dicen De Nosotras",
     "director": "Camilo Becerra y Sofía Gómez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, Comedia negra.",
     "poster": "https://image.tmdb.org/t/p/w500/cUT2d0Czgh3HjGrKL4J8Wo5VMw9.jpg",
@@ -92,7 +167,7 @@
   {
     "title": "El Culto Siniestro (The Wicker Man)",
     "director": "Robin Hardy",
-    "year": "1973",
+    "year": 1973,
     "theater": "El Cultural San Martín",
     "genre": "Horror, misterio, thriller",
     "poster": "https://image.tmdb.org/t/p/w500/xsHrmfgDcEk5fGhSiieKvrDuofq.jpg",
@@ -107,7 +182,7 @@
   {
     "title": "Miranda, De Viernes A Lunes",
     "director": "María Victoria Menis",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, drama, música",
     "poster": "https://image.tmdb.org/t/p/w500/goKl143wMUR0mfTtdGL0ClHgSo4.jpg",
@@ -120,9 +195,24 @@
     "showtime": "2024-08-08T21:00:00"
   },
   {
+    "title": "Mi Amiga Del Parque",
+    "director": "Ana Katz",
+    "year": "2015",
+    "theater": "CCK",
+    "genre": "Comedia dramatica",
+    "poster": "https://image.tmdb.org/t/p/w500/5J4ch5gBDcuXPrq2m4cEnMaa1sY.jpg",
+    "nationality": "Uruguay, Argentina",
+    "imdbid": "tt3826628",
+    "trailer": "https://www.youtube.com/watch?v=KcdodOH1V_g",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-09T17:30:00"
+  },
+  {
     "title": "Quizás Es Cierto Lo Que Dicen De Nosotras",
     "director": "Camilo Becerra y Sofía Gómez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, Comedia negra.",
     "poster": "https://image.tmdb.org/t/p/w500/cUT2d0Czgh3HjGrKL4J8Wo5VMw9.jpg",
@@ -135,9 +225,24 @@
     "showtime": "2024-08-09T19:00:00"
   },
   {
+    "title": "El Otro",
+    "director": "Ariel Rotter",
+    "year": "2007",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/7jxxVLx3DgT9LM8lwOE8xVl27lF.jpg",
+    "nationality": "Argentina, Alemania, Francia",
+    "imdbid": "tt0499540",
+    "trailer": "https://www.youtube.com/watch?v=kGUOfCJ1GIg",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-09T19:30:00"
+  },
+  {
     "title": "En Compañía De Lobos",
     "director": "Neil Jordan",
-    "year": "1984",
+    "year": 1984,
     "theater": "El Cultural San Martín",
     "genre": "Horror, fantasía",
     "poster": "https://image.tmdb.org/t/p/w500/2g2YPws1MiEWTodUE8u3qOf78XS.jpg",
@@ -152,7 +257,7 @@
   {
     "title": "Reas",
     "director": "Lola Arias",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental, drama.",
     "poster": "https://image.tmdb.org/t/p/w500/rXyIIe3vTCTLStiV06viOP595eO.jpg",
@@ -167,7 +272,7 @@
   {
     "title": "Italpark",
     "director": "Juan Carlos Domínguez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/nytanbmjWjoQjWH5Zqudf8eongi.jpg",
@@ -180,9 +285,69 @@
     "showtime": "2024-08-10T16:00:00"
   },
   {
+    "title": "Latitude Fénix",
+    "director": "Welket Bungué",
+    "year": "2024",
+    "theater": "CCK",
+    "genre": "Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/7z4ysPEbzsqltRo4j1BSMv5zywn.jpg",
+    "nationality": "",
+    "imdbid": "tt28821435",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-10T17:00:00"
+  },
+  {
+    "title": "Ashkal: Los Crímenes De Túnez",
+    "director": "Youssef Chebbi",
+    "year": "2023",
+    "theater": "CCK",
+    "genre": "Comedia, Comedia negra.",
+    "poster": "https://image.tmdb.org/t/p/w500/A6dupkEpWIyWz7xAvuXaioe4O7R.jpg",
+    "nationality": "Francia, Túnez",
+    "imdbid": "tt19783912",
+    "trailer": "https://www.youtube.com/watch?v=rRTzM2fd9FE",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-10T17:00:00"
+  },
+  {
+    "title": "La Luz Incidente",
+    "director": "",
+    "year": "2015",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/daD5rfkBHCiND8uhjPw4QxGvJO8.jpg",
+    "nationality": "Argentina, Francia, Uruguay",
+    "imdbid": "tt4955012",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-10T17:30:00"
+  },
+  {
+    "title": "La Luz Incidente",
+    "director": "Ariel Rotter",
+    "year": "2015",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/daD5rfkBHCiND8uhjPw4QxGvJO8.jpg",
+    "nationality": "Argentina, Francia, Uruguay",
+    "imdbid": "tt4955012",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-10T17:30:00"
+  },
+  {
     "title": "Corresponsal",
     "director": "Emiliano Serra",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Suspense",
     "poster": "https://image.tmdb.org/t/p/w500/3HjjqgzNCYwr9HAjaqgHVrn8jpd.jpg",
@@ -195,9 +360,39 @@
     "showtime": "2024-08-10T18:00:00"
   },
   {
+    "title": "Rentrons",
+    "director": "Nasser Bessalah",
+    "year": "2023",
+    "theater": "CCK",
+    "genre": "Comedia",
+    "poster": "https://image.tmdb.org/t/p/w500/hrTZluxzdWVzmW73avzcvxaAzwU.jpg",
+    "nationality": "Francia",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-10T19:00:00"
+  },
+  {
+    "title": "Disko Afrika",
+    "director": "Luck Razanajaona",
+    "year": "",
+    "theater": "CCK",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-10T19:00:00"
+  },
+  {
     "title": "Mixtape La Pampa",
     "director": "Andres Di Tella",
-    "year": "2023",
+    "year": 2023,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/3Ga2uA0BvXXCiYLwIMyDbdMobaY.jpg",
@@ -210,9 +405,39 @@
     "showtime": "2024-08-10T19:30:00"
   },
   {
+    "title": "El Perro Que No Calla",
+    "director": "",
+    "year": "2021",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/eoOA7dwSTx02KgN6V0S1sUlDMeC.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt13648184",
+    "trailer": "https://www.youtube.com/watch?v=ggDptt-f6fU",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-10T19:30:00"
+  },
+  {
+    "title": "El Perro Que No Calla",
+    "director": "Ana Katz",
+    "year": "2021",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/eoOA7dwSTx02KgN6V0S1sUlDMeC.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt13648184",
+    "trailer": "https://www.youtube.com/watch?v=ggDptt-f6fU",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-10T19:30:00"
+  },
+  {
     "title": "Cuando Las Brujas Arden",
     "director": "Michael Reeves",
-    "year": "1968",
+    "year": 1968,
     "theater": "El Cultural San Martín",
     "genre": "Drama, historia, terror",
     "poster": "https://image.tmdb.org/t/p/w500/5QuF8YbNtOpLbcTlEFSAokUv5sp.jpg",
@@ -227,7 +452,7 @@
   {
     "title": "Después De Un Buen Día",
     "director": "Néstor Frenkel",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/kRD7tV3yzXlWSJDBjN4dFXj5pfH.jpg",
@@ -242,7 +467,7 @@
   {
     "title": "Camila",
     "director": "María Luisa Bemberg",
-    "year": "1984",
+    "year": 1984,
     "theater": "El Cultural San Martín",
     "genre": "Acción, Comedia, Pintura.",
     "poster": "https://image.tmdb.org/t/p/w500/wkuWAgwMYnaLlDythZewYADNaGN.jpg",
@@ -257,7 +482,7 @@
   {
     "title": "Gremlins",
     "director": "Joe Dante",
-    "year": "1984",
+    "year": 1984,
     "theater": "El Cultural San Martín",
     "genre": "Fantasía, terror, comedia",
     "poster": "https://image.tmdb.org/t/p/w500/gDSfs0hqAQVJ9jIHbX3AJ3StTVG.jpg",
@@ -272,7 +497,7 @@
   {
     "title": "Miranda, De Viernes A Lunes",
     "director": "María Victoria Menis",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, drama, música",
     "poster": "https://image.tmdb.org/t/p/w500/goKl143wMUR0mfTtdGL0ClHgSo4.jpg",
@@ -287,7 +512,7 @@
   {
     "title": "El Testigo (Conversaciones Con Osvaldo Bayer)",
     "director": "Norma Fernández",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/kl0whZAZMdTHy1p7olMyM2ENKcS.jpg",
@@ -302,7 +527,7 @@
   {
     "title": "La Serpiente Y El Arcoíris",
     "director": "Wes Craven",
-    "year": "1988",
+    "year": 1988,
     "theater": "El Cultural San Martín",
     "genre": "",
     "poster": "",
@@ -332,7 +557,7 @@
   {
     "title": "Italpark",
     "director": "Juan Carlos Domínguez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/nytanbmjWjoQjWH5Zqudf8eongi.jpg",
@@ -345,9 +570,24 @@
     "showtime": "2024-08-14T19:00:00"
   },
   {
+    "title": "Las Vidas De Un Vestido",
+    "director": "Paula Kleiman",
+    "year": "",
+    "theater": "CCK",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-14T19:00:00"
+  },
+  {
     "title": "Sola En El Paraíso",
     "director": "Justina Bustos y Victoria Comune",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/8frWdegfveLjPtDV8B6UfaaQmBo.jpg",
@@ -1057,6 +1297,21 @@
     "showtime": "2024-08-16T17:15:00"
   },
   {
+    "title": "El Perro Que No Calla",
+    "director": "",
+    "year": "2021",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/eoOA7dwSTx02KgN6V0S1sUlDMeC.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt13648184",
+    "trailer": "https://www.youtube.com/watch?v=ggDptt-f6fU",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-16T17:30:00"
+  },
+  {
     "date": "15/08/2024 al 21/08/2024",
     "title": "Continuará…",
     "times": [
@@ -1141,6 +1396,21 @@
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-16T19:15:00"
+  },
+  {
+    "title": "La Luz Incidente",
+    "director": "",
+    "year": "2015",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/daD5rfkBHCiND8uhjPw4QxGvJO8.jpg",
+    "nationality": "Argentina, Francia, Uruguay",
+    "imdbid": "tt4955012",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-16T19:30:00"
   },
   {
     "date": "15/08/2024 al 19/08/2024 y 21/08/2024 (SE SUSPENDE EL MARTES 20)",
@@ -1465,7 +1735,7 @@
   {
     "title": "Mixtape La Pampa",
     "director": "Andres Di Tella",
-    "year": "2023",
+    "year": 2023,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/3Ga2uA0BvXXCiYLwIMyDbdMobaY.jpg",
@@ -1516,6 +1786,21 @@
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-17T17:15:00"
+  },
+  {
+    "title": "El Otro",
+    "director": "Ariel Rotter",
+    "year": "2007",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/7jxxVLx3DgT9LM8lwOE8xVl27lF.jpg",
+    "nationality": "Argentina, Alemania, Francia",
+    "imdbid": "tt0499540",
+    "trailer": "https://www.youtube.com/watch?v=kGUOfCJ1GIg",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-17T17:30:00"
   },
   {
     "date": "15/08/2024 al 21/08/2024",
@@ -1581,6 +1866,36 @@
     "showtime": "2024-08-17T18:45:00"
   },
   {
+    "title": "Nyanga",
+    "director": "Medhin Tewolde Serrano",
+    "year": "2023",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/vjLOWBtwy2eXFgDkXFyLFew9cBt.jpg",
+    "nationality": "México",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-17T19:00:00"
+  },
+  {
+    "title": "Ijó Dudu, Memorias De La Danza Negra En Bahía",
+    "director": "José Carlos Arandiba “Zebrinha”",
+    "year": "2022",
+    "theater": "CCK",
+    "genre": "Documental, Historia, Música",
+    "poster": "https://image.tmdb.org/t/p/w500/2gIZkxcygrgri8EaWe2bEwcepOA.jpg",
+    "nationality": "Brasil",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-17T19:00:00"
+  },
+  {
     "date": "15/08/2024 al 21/08/2024",
     "title": "Continuará…",
     "times": [
@@ -1602,6 +1917,21 @@
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-17T19:15:00"
+  },
+  {
+    "title": "Mi Amiga Del Parque",
+    "director": "Ana Katz",
+    "year": "2015",
+    "theater": "CCK",
+    "genre": "Comedia dramatica",
+    "poster": "https://image.tmdb.org/t/p/w500/5J4ch5gBDcuXPrq2m4cEnMaa1sY.jpg",
+    "nationality": "Uruguay, Argentina",
+    "imdbid": "tt3826628",
+    "trailer": "https://www.youtube.com/watch?v=KcdodOH1V_g",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-17T19:30:00"
   },
   {
     "date": "15/08/2024 al 19/08/2024 y 21/08/2024 (SE SUSPENDE EL MARTES 20)",
@@ -1906,7 +2236,7 @@
   {
     "title": "Camila",
     "director": "María Luisa Bemberg",
-    "year": "1984",
+    "year": 1984,
     "theater": "El Cultural San Martín",
     "genre": "Acción, Comedia, Pintura.",
     "poster": "https://image.tmdb.org/t/p/w500/wkuWAgwMYnaLlDythZewYADNaGN.jpg",
@@ -1941,7 +2271,7 @@
   {
     "title": "Quisiera Ser Grande",
     "director": "Penny Marshall",
-    "year": "1988",
+    "year": 1988,
     "theater": "El Cultural San Martín",
     "genre": "Fantasía, drama, comedia, romance, familia",
     "poster": "https://image.tmdb.org/t/p/w500/eWhCDJiwxvx3YXkAFRiHjimnF0j.jpg",
@@ -3312,7 +3642,7 @@
   {
     "title": "Italpark",
     "director": "Juan Carlos Domínguez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/nytanbmjWjoQjWH5Zqudf8eongi.jpg",
@@ -3322,6 +3652,21 @@
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
+    "showtime": "2024-08-21T19:00:00"
+  },
+  {
+    "title": "El Santo",
+    "director": "Agustín Carbonere",
+    "year": "2023",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/eBMA4wyg59Jox7gXLOLsrpRjXJR.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt27520543",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
     "showtime": "2024-08-21T19:00:00"
   },
   {
@@ -3414,7 +3759,7 @@
   {
     "title": "Sola En El Paraíso",
     "director": "Justina Bustos y Victoria Comune",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/8frWdegfveLjPtDV8B6UfaaQmBo.jpg",
@@ -3775,7 +4120,7 @@
   {
     "title": "Quizás Es Cierto Lo Que Dicen De Nosotras",
     "director": "Camilo Becerra y Sofía Gómez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, Comedia negra.",
     "poster": "https://image.tmdb.org/t/p/w500/cUT2d0Czgh3HjGrKL4J8Wo5VMw9.jpg",
@@ -3853,7 +4198,7 @@
   {
     "title": "Miranda, De Viernes A Lunes",
     "director": "María Victoria Menis",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, drama, música",
     "poster": "https://image.tmdb.org/t/p/w500/goKl143wMUR0mfTtdGL0ClHgSo4.jpg",
@@ -4135,6 +4480,21 @@
     "showtime": "2024-08-23T17:00:00"
   },
   {
+    "title": "La Araña Vampiro",
+    "director": "Gabriel Medina",
+    "year": "2012",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/bD2NAQtENpfXDQUKhGu65ZSs2Jr.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt1687220",
+    "trailer": "https://www.youtube.com/watch?v=8lF1LCD3nqw",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-23T17:30:00"
+  },
+  {
     "date": "22/08/2024 al 28/08/2024",
     "title": "Gigantes, Una Aventura Extraordinaria (Apta Hipoacusicos)",
     "times": [
@@ -4199,7 +4559,7 @@
   {
     "title": "Quizás Es Cierto Lo Que Dicen De Nosotras",
     "director": "Camilo Becerra y Sofía Gómez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, Comedia negra.",
     "poster": "https://image.tmdb.org/t/p/w500/cUT2d0Czgh3HjGrKL4J8Wo5VMw9.jpg",
@@ -4210,6 +4570,21 @@
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-23T19:00:00"
+  },
+  {
+    "title": "Centro",
+    "director": "Sebastián Martínez",
+    "year": "2010",
+    "theater": "CCK",
+    "genre": "Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/qgsUVSspWdcuySju385Npv6RL7x.jpg",
+    "nationality": "Brasil",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-23T19:30:00"
   },
   {
     "date": "22/08/2024 al 28/08/2024",
@@ -4277,7 +4652,7 @@
   {
     "title": "Reas",
     "director": "Lola Arias",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental, drama.",
     "poster": "https://image.tmdb.org/t/p/w500/rXyIIe3vTCTLStiV06viOP595eO.jpg",
@@ -4519,7 +4894,7 @@
   {
     "title": "Italpark",
     "director": "Juan Carlos Domínguez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/nytanbmjWjoQjWH5Zqudf8eongi.jpg",
@@ -4574,6 +4949,36 @@
     "showtime": "2024-08-24T17:00:00"
   },
   {
+    "title": "Pretu Funguli",
+    "director": "Monica Musoni y Costa Valente",
+    "year": "",
+    "theater": "CCK",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-24T17:00:00"
+  },
+  {
+    "title": "El Mundo Entero",
+    "director": "Sebastián Martínez",
+    "year": "2020",
+    "theater": "CCK",
+    "genre": "Comedia",
+    "poster": "https://image.tmdb.org/t/p/w500/4pQTC5NfZpFs6xFNblcTKlXuEXq.jpg",
+    "nationality": "España",
+    "imdbid": "tt6049420",
+    "trailer": "https://www.youtube.com/watch?v=2Twtx3A5mWU",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-24T17:30:00"
+  },
+  {
     "date": "22/08/2024 al 28/08/2024",
     "title": "Gigantes, Una Aventura Extraordinaria (Apta Hipoacusicos)",
     "times": [
@@ -4598,7 +5003,7 @@
   {
     "title": "Corresponsal",
     "director": "Emiliano Serra",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Suspense",
     "poster": "https://image.tmdb.org/t/p/w500/3HjjqgzNCYwr9HAjaqgHVrn8jpd.jpg",
@@ -4631,6 +5036,21 @@
     "showtime": "2024-08-24T18:20:00"
   },
   {
+    "title": "Macongo, La Córdoba Africana",
+    "director": "Pablo Cesar",
+    "year": "",
+    "theater": "CCK",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-24T18:30:00"
+  },
+  {
     "date": "22/08/2024 al 28/08/2024",
     "title": "Metok",
     "times": [
@@ -4653,7 +5073,7 @@
   {
     "title": "Mixtape La Pampa",
     "director": "Andres Di Tella",
-    "year": "2023",
+    "year": 2023,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/3Ga2uA0BvXXCiYLwIMyDbdMobaY.jpg",
@@ -4663,6 +5083,21 @@
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
+    "showtime": "2024-08-24T19:30:00"
+  },
+  {
+    "title": "Los Paranoicos",
+    "director": "Gabriel Medina",
+    "year": "2008",
+    "theater": "CCK",
+    "genre": "Drama, comedia, romance",
+    "poster": "https://image.tmdb.org/t/p/w500/9QiUAkXOho3BtPm6DGCjuixIIzr.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt1178654",
+    "trailer": "https://www.youtube.com/watch?v=OBEGof6rJlY",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
     "showtime": "2024-08-24T19:30:00"
   },
   {
@@ -4751,7 +5186,7 @@
   {
     "title": "Después De Un Buen Día",
     "director": "Néstor Frenkel",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/kRD7tV3yzXlWSJDBjN4dFXj5pfH.jpg",
@@ -4973,7 +5408,7 @@
   {
     "title": "Camila",
     "director": "María Luisa Bemberg",
-    "year": "1984",
+    "year": 1984,
     "theater": "El Cultural San Martín",
     "genre": "Acción, Comedia, Pintura.",
     "poster": "https://image.tmdb.org/t/p/w500/wkuWAgwMYnaLlDythZewYADNaGN.jpg",
@@ -5052,7 +5487,7 @@
   {
     "title": "Miranda, De Viernes A Lunes",
     "director": "María Victoria Menis",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, drama, música",
     "poster": "https://image.tmdb.org/t/p/w500/goKl143wMUR0mfTtdGL0ClHgSo4.jpg",
@@ -5149,7 +5584,7 @@
   {
     "title": "El Testigo (Conversaciones Con Osvaldo Bayer)",
     "director": "Norma Fernández",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/kl0whZAZMdTHy1p7olMyM2ENKcS.jpg",
@@ -5782,6 +6217,21 @@
     "showtime": "2024-08-27T14:30:00"
   },
   {
+    "title": "El Placer De Estar Contigo",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-27T14:30:00"
+  },
+  {
     "date": "22/08/2024 al 28/08/2024",
     "title": "Continuará…",
     "times": [
@@ -5864,6 +6314,21 @@
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-08-27T17:00:00"
+  },
+  {
+    "title": "El Placer De Estar Contigo",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-27T17:30:00"
   },
   {
     "date": "22/08/2024 al 28/08/2024",
@@ -6003,6 +6468,21 @@
     "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "2000 ARS / 1000 ARS",
+    "showtime": "2024-08-27T20:30:00"
+  },
+  {
+    "title": "El Castillo",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "Drama, Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/miFLRJWg9aXWddzSdOTrTaqvlQe.jpg",
+    "nationality": "Argentina, Francia.",
+    "imdbid": "tt22120686",
+    "trailer": "https://www.youtube.com/watch?v=9KsvaN38mNo",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-27T20:30:00"
   },
   {
@@ -6191,6 +6671,21 @@
     "showtime": "2024-08-28T14:30:00"
   },
   {
+    "title": "Programa De Cortometrajes 1",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-28T15:00:00"
+  },
+  {
     "date": "22/08/2024 al 28/08/2024",
     "title": "Continuará…",
     "times": [
@@ -6297,6 +6792,21 @@
     "showtime": "2024-08-28T17:45:00"
   },
   {
+    "title": "Programa De Cortometrajes 2",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-28T18:00:00"
+  },
+  {
     "date": "22/08/2024 al 28/08/2024",
     "title": "El Agrónomo",
     "times": [
@@ -6339,7 +6849,7 @@
   {
     "title": "Italpark",
     "director": "Juan Carlos Domínguez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/nytanbmjWjoQjWH5Zqudf8eongi.jpg",
@@ -6349,6 +6859,21 @@
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
+    "showtime": "2024-08-28T19:00:00"
+  },
+  {
+    "title": "Las Vidas De Un Vestido",
+    "director": "Paula Kleiman",
+    "year": "",
+    "theater": "CCK",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
     "showtime": "2024-08-28T19:00:00"
   },
   {
@@ -6415,9 +6940,24 @@
     "showtime": "2024-08-28T20:30:00"
   },
   {
+    "title": "Relaciones De Clase",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/lX7xEMFrBMJjgUrbveKrg1rtmup.jpg",
+    "nationality": "Francia, Alemania",
+    "imdbid": "tt0087566",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-28T20:30:00"
+  },
+  {
     "title": "Sola En El Paraíso",
     "director": "Justina Bustos y Victoria Comune",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/8frWdegfveLjPtDV8B6UfaaQmBo.jpg",
@@ -6490,6 +7030,36 @@
     "showtime": "2024-08-28T22:30:00"
   },
   {
+    "title": "Los Amores De Kafka",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/hOswPAm9wMiDwkXtGhcg6w09Gna.jpg",
+    "nationality": "Argentina, Checoslovaquia",
+    "imdbid": "tt0092553",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-29T15:00:00"
+  },
+  {
+    "title": "Programa De Cortometrajes 1",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-29T18:00:00"
+  },
+  {
     "title": "El Jardín De La Alegría",
     "director": "Nigel Cole",
     "year": "2000",
@@ -6507,7 +7077,7 @@
   {
     "title": "Quizás Es Cierto Lo Que Dicen De Nosotras",
     "director": "Camilo Becerra y Sofía Gómez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, Comedia negra.",
     "poster": "https://image.tmdb.org/t/p/w500/cUT2d0Czgh3HjGrKL4J8Wo5VMw9.jpg",
@@ -6535,9 +7105,24 @@
     "showtime": "2024-08-29T19:00:00"
   },
   {
+    "title": "Ocho Postales De Un Mundo Ideal",
+    "director": "",
+    "year": 2024,
+    "theater": "Directores Argentinos Cinematográficos",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
+    "website": "https://eventos.dac.org.ar/formulario/",
+    "price": "Gratis, con inscripción",
+    "showtime": "2024-08-29T19:00:00"
+  },
+  {
     "title": "La Piel De Satanás",
     "director": "Piers Haggard",
-    "year": "1971",
+    "year": 1971,
     "theater": "El Cultural San Martín",
     "genre": "Terror",
     "poster": "https://image.tmdb.org/t/p/w500/spjOtYqkH4XouwC39lfcFmKl9T1.jpg",
@@ -6552,7 +7137,7 @@
   {
     "title": "Miranda, De Viernes A Lunes",
     "director": "María Victoria Menis",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, drama, música",
     "poster": "https://image.tmdb.org/t/p/w500/goKl143wMUR0mfTtdGL0ClHgSo4.jpg",
@@ -6580,6 +7165,21 @@
     "showtime": "2024-08-29T21:00:00"
   },
   {
+    "title": "El Ultimo Viaje De Kafka + Kafka",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-29T21:00:00"
+  },
+  {
     "title": "El Extraño",
     "director": "Orson Welles",
     "year": "1961",
@@ -6593,6 +7193,36 @@
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-08-29T23:00:00"
+  },
+  {
+    "title": "El Castillo",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "Drama, Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/miFLRJWg9aXWddzSdOTrTaqvlQe.jpg",
+    "nationality": "Argentina, Francia.",
+    "imdbid": "tt22120686",
+    "trailer": "https://www.youtube.com/watch?v=9KsvaN38mNo",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-30T15:00:00"
+  },
+  {
+    "title": "Los Paranoicos",
+    "director": "Gabriel Medina",
+    "year": "2008",
+    "theater": "CCK",
+    "genre": "Drama, comedia, romance",
+    "poster": "https://image.tmdb.org/t/p/w500/9QiUAkXOho3BtPm6DGCjuixIIzr.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt1178654",
+    "trailer": "https://www.youtube.com/watch?v=OBEGof6rJlY",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-30T17:30:00"
   },
   {
     "title": "Tres Padrinos",
@@ -6610,9 +7240,24 @@
     "showtime": "2024-08-30T18:00:00"
   },
   {
+    "title": "El Ultimo Viaje De Kafka + Kafka",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-30T18:00:00"
+  },
+  {
     "title": "Quizás Es Cierto Lo Que Dicen De Nosotras",
     "director": "Camilo Becerra y Sofía Gómez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, Comedia negra.",
     "poster": "https://image.tmdb.org/t/p/w500/cUT2d0Czgh3HjGrKL4J8Wo5VMw9.jpg",
@@ -6625,9 +7270,24 @@
     "showtime": "2024-08-30T19:00:00"
   },
   {
+    "title": "El Mundo Entero",
+    "director": "Sebastián Martínez",
+    "year": "2020",
+    "theater": "CCK",
+    "genre": "Comedia",
+    "poster": "https://image.tmdb.org/t/p/w500/4pQTC5NfZpFs6xFNblcTKlXuEXq.jpg",
+    "nationality": "España",
+    "imdbid": "tt6049420",
+    "trailer": "https://www.youtube.com/watch?v=2Twtx3A5mWU",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-30T19:30:00"
+  },
+  {
     "title": "El Proyecto Blair Witch",
     "director": "Daniel Myrick y Eduardo Sánchez",
-    "year": "1999",
+    "year": 1999,
     "theater": "El Cultural San Martín",
     "genre": "Horror, misterio",
     "poster": "https://image.tmdb.org/t/p/w500/9050VGrYjYrEjpOvDZVAngLbg1f.jpg",
@@ -6657,7 +7317,7 @@
   {
     "title": "Reas",
     "director": "Lola Arias",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental, drama.",
     "poster": "https://image.tmdb.org/t/p/w500/rXyIIe3vTCTLStiV06viOP595eO.jpg",
@@ -6700,9 +7360,24 @@
     "showtime": "2024-08-31T00:00:00"
   },
   {
+    "title": "Grito De Piedra",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "Aventura, drama",
+    "poster": "https://image.tmdb.org/t/p/w500/egROOqQo00anjXFYd6YDZoM4VA3.jpg",
+    "nationality": "Alemania",
+    "imdbid": "tt0102855",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-31T15:00:00"
+  },
+  {
     "title": "Italpark",
     "director": "Juan Carlos Domínguez",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/nytanbmjWjoQjWH5Zqudf8eongi.jpg",
@@ -6715,9 +7390,24 @@
     "showtime": "2024-08-31T16:00:00"
   },
   {
+    "title": "Centro",
+    "director": "Sebastián Martínez",
+    "year": "2010",
+    "theater": "CCK",
+    "genre": "Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/qgsUVSspWdcuySju385Npv6RL7x.jpg",
+    "nationality": "Brasil",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-08-31T17:30:00"
+  },
+  {
     "title": "Corresponsal",
     "director": "Emiliano Serra",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Suspense",
     "poster": "https://image.tmdb.org/t/p/w500/3HjjqgzNCYwr9HAjaqgHVrn8jpd.jpg",
@@ -6747,7 +7437,7 @@
   {
     "title": "Mixtape La Pampa",
     "director": "Andres Di Tella",
-    "year": "2023",
+    "year": 2023,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/3Ga2uA0BvXXCiYLwIMyDbdMobaY.jpg",
@@ -6757,6 +7447,21 @@
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
+    "showtime": "2024-08-31T19:30:00"
+  },
+  {
+    "title": "La Araña Vampiro",
+    "director": "Gabriel Medina",
+    "year": "2012",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/bD2NAQtENpfXDQUKhGu65ZSs2Jr.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt1687220",
+    "trailer": "https://www.youtube.com/watch?v=8lF1LCD3nqw",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
     "showtime": "2024-08-31T19:30:00"
   },
   {
@@ -6775,9 +7480,24 @@
     "showtime": "2024-08-31T20:00:00"
   },
   {
+    "title": "El Castillo",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "Drama, Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/miFLRJWg9aXWddzSdOTrTaqvlQe.jpg",
+    "nationality": "Argentina, Francia.",
+    "imdbid": "tt22120686",
+    "trailer": "https://www.youtube.com/watch?v=9KsvaN38mNo",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-08-31T20:30:00"
+  },
+  {
     "title": "Después De Un Buen Día",
     "director": "Néstor Frenkel",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/kRD7tV3yzXlWSJDBjN4dFXj5pfH.jpg",
@@ -6820,9 +7540,24 @@
     "showtime": "2024-09-01T00:00:00"
   },
   {
+    "title": "La Mary",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "Drama, fantasía",
+    "poster": "https://image.tmdb.org/t/p/w500/eTQuA2zToDOoX1LkugpkMECm8xW.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt0071819",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-01T15:00:00"
+  },
+  {
     "title": "Camila",
     "director": "María Luisa Bemberg",
-    "year": "1984",
+    "year": 1984,
     "theater": "El Cultural San Martín",
     "genre": "Acción, Comedia, Pintura.",
     "poster": "https://image.tmdb.org/t/p/w500/wkuWAgwMYnaLlDythZewYADNaGN.jpg",
@@ -6835,9 +7570,24 @@
     "showtime": "2024-09-01T16:00:00"
   },
   {
+    "title": "El Oasis De Aguas Heladas",
+    "director": "Mohammed Raouf Sebbahi",
+    "year": "",
+    "theater": "CCK",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-01T16:00:00"
+  },
+  {
     "title": "Volver Al Futuro",
     "director": "Robert Zemeckis",
-    "year": "1985",
+    "year": 1985,
     "theater": "El Cultural San Martín",
     "genre": "Aventura, comedia, ciencia ficción",
     "poster": "https://image.tmdb.org/t/p/w500/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg",
@@ -6852,7 +7602,7 @@
   {
     "title": "Miranda, De Viernes A Lunes",
     "director": "María Victoria Menis",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Comedia, drama, música",
     "poster": "https://image.tmdb.org/t/p/w500/goKl143wMUR0mfTtdGL0ClHgSo4.jpg",
@@ -6880,9 +7630,24 @@
     "showtime": "2024-09-01T18:00:00"
   },
   {
+    "title": "Cuando Huye El Dia",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+    "nationality": "Suecia",
+    "imdbid": "tt0050986",
+    "trailer": "https://www.youtube.com/watch?v=EwMgTyVbCS0",
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-01T18:00:00"
+  },
+  {
     "title": "El Testigo (Conversaciones Con Osvaldo Bayer)",
     "director": "Norma Fernández",
-    "year": "2024",
+    "year": 2024,
     "theater": "El Cultural San Martín",
     "genre": "Documental",
     "poster": "https://image.tmdb.org/t/p/w500/kl0whZAZMdTHy1p7olMyM2ENKcS.jpg",
@@ -6897,7 +7662,7 @@
   {
     "title": "Midsommar",
     "director": "Ari Aster",
-    "year": "2019",
+    "year": 2019,
     "theater": "El Cultural San Martín",
     "genre": "Horror, drama, misterio",
     "poster": "https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
@@ -6925,6 +7690,21 @@
     "showtime": "2024-09-01T20:00:00"
   },
   {
+    "title": "La Mary",
+    "director": "",
+    "year": 2024,
+    "theater": "Sala Leopoldo Lugones",
+    "genre": "Drama, fantasía",
+    "poster": "https://image.tmdb.org/t/p/w500/eTQuA2zToDOoX1LkugpkMECm8xW.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt0071819",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-01T21:00:00"
+  },
+  {
     "title": "Y La Cabalgata Pasa",
     "director": "Frank Capra",
     "year": "1964",
@@ -6938,5 +7718,245 @@
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-01T22:00:00"
+  },
+  {
+    "title": "Fuck You! El Último Show",
+    "director": "José Luis García",
+    "year": "2024",
+    "theater": "CCK",
+    "genre": "Documental, drama.",
+    "poster": "https://image.tmdb.org/t/p/w500/lg9HYND6ZT7ziQ5jxQ6DjlTOzbR.jpg",
+    "nationality": "Argentina",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-04T19:00:00"
+  },
+  {
+    "title": "Karakol",
+    "director": "",
+    "year": "2020",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/pIIW8qKhOKmYrL2nDEVbcEfbIQO.jpg",
+    "nationality": "Argentina, Uzbekistán.",
+    "imdbid": "tt13462560",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-06T17:30:00"
+  },
+  {
+    "title": "La Película Infinita",
+    "director": "",
+    "year": "2018",
+    "theater": "CCK",
+    "genre": "Documental, fantasía",
+    "poster": "https://image.tmdb.org/t/p/w500/xLjNpu7PMou1aD62IREKZ4rzY63.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt7780808",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-06T19:30:00"
+  },
+  {
+    "title": "Los Jóvenes Muertos",
+    "director": "",
+    "year": "2010",
+    "theater": "CCK",
+    "genre": "Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/kXIduTwdLYUwflQ8rw1sZMp86FW.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt1471173",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-07T17:30:00"
+  },
+  {
+    "title": "El Cajón",
+    "director": "",
+    "year": "",
+    "theater": "CCK",
+    "genre": "Documental",
+    "poster": "https://image.tmdb.org/t/p/w500None",
+    "nationality": "",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-07T19:30:00"
+  },
+  {
+    "title": "Jorge Polaco",
+    "director": "María Onis",
+    "year": "2024",
+    "theater": "CCK",
+    "genre": "Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/nh1u7RB0qD5uQSVX1pQVtbtFFol.jpg",
+    "nationality": "Argentina",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-11T19:00:00"
+  },
+  {
+    "title": "El Cajón",
+    "director": "",
+    "year": "",
+    "theater": "CCK",
+    "genre": "Documental",
+    "poster": "https://image.tmdb.org/t/p/w500None",
+    "nationality": "",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-13T17:30:00"
+  },
+  {
+    "title": "Los Jóvenes Muertos",
+    "director": "",
+    "year": "2010",
+    "theater": "CCK",
+    "genre": "Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/kXIduTwdLYUwflQ8rw1sZMp86FW.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt1471173",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-13T19:30:00"
+  },
+  {
+    "title": "La Película Infinita",
+    "director": "",
+    "year": "2018",
+    "theater": "CCK",
+    "genre": "Documental, fantasía",
+    "poster": "https://image.tmdb.org/t/p/w500/xLjNpu7PMou1aD62IREKZ4rzY63.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt7780808",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-14T17:30:00"
+  },
+  {
+    "title": "Karakol",
+    "director": "",
+    "year": "2020",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/pIIW8qKhOKmYrL2nDEVbcEfbIQO.jpg",
+    "nationality": "Argentina, Uzbekistán.",
+    "imdbid": "tt13462560",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-14T19:30:00"
+  },
+  {
+    "title": "Fuck You! El Último Show",
+    "director": "José Luis García",
+    "year": "2024",
+    "theater": "CCK",
+    "genre": "Documental, drama.",
+    "poster": "https://image.tmdb.org/t/p/w500/lg9HYND6ZT7ziQ5jxQ6DjlTOzbR.jpg",
+    "nationality": "Argentina",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-18T19:00:00"
+  },
+  {
+    "title": "Circe",
+    "director": "",
+    "year": "1964",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/bvi0HZP5F5xYxiWWZnfXkASdCS2.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt0178335",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-20T17:30:00"
+  },
+  {
+    "title": "Intimidad De Los Parques",
+    "director": "",
+    "year": "1965",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/gzfcdiPFbUPjbD99MkBF6R4iY1Y.jpg",
+    "nationality": "Argentina, Perú",
+    "imdbid": "tt0178638",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-20T19:30:00"
+  },
+  {
+    "title": "La Cifra Impar",
+    "director": "",
+    "year": "1962",
+    "theater": "CCK",
+    "genre": "Terror, Slasher.",
+    "poster": "https://image.tmdb.org/t/p/w500/jCA482NvTJCwjAOTdXFnaW2vY7m.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt0178333",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-21T17:30:00"
+  },
+  {
+    "title": "Circe",
+    "director": "",
+    "year": "1964",
+    "theater": "CCK",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/bvi0HZP5F5xYxiWWZnfXkASdCS2.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt0178335",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-21T19:00:00"
+  },
+  {
+    "title": "Jorge Polaco",
+    "director": "María Onis",
+    "year": "2024",
+    "theater": "CCK",
+    "genre": "Documental",
+    "poster": "https://image.tmdb.org/t/p/w500/nh1u7RB0qD5uQSVX1pQVtbtFFol.jpg",
+    "nationality": "Argentina",
+    "imdbid": null,
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-25T19:00:00"
   }
 ]
