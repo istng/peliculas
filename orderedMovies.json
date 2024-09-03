@@ -1169,7 +1169,7 @@
       "22:00"
     ],
     "director": "Jason Yu",
-    "genre": "Horror, misterio",
+    "genre": "Horror, misterio, thriller",
     "duration": "95",
     "theater": "Complejo Gaumont",
     "year": "2023",
@@ -6056,7 +6056,7 @@
   },
   {
     "title": "Fuck You! El Último Show",
-    "director": "",
+    "director": "José Luis García",
     "year": "2024",
     "theater": "CCK",
     "genre": "Documental, drama.",
@@ -6252,21 +6252,6 @@
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-09-05T18:30:00"
-  },
-  {
-    "title": "Matar A Un Perro",
-    "director": "Alejo Santos",
-    "year": "2013",
-    "theater": "CCK",
-    "genre": "",
-    "poster": "https://image.tmdb.org/t/p/w500/tjgVcBz4NdbWv9y6hC7GJUUJSjf.jpg",
-    "nationality": "Argentina",
-    "imdbid": null,
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-05T19:00:00"
   },
   {
     "title": "La Tigra",
@@ -6522,21 +6507,6 @@
     "website": "https://complejoteatral.gob.ar/cine",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-07T15:00:00"
-  },
-  {
-    "title": "Gardel, El Alma Que Canta",
-    "director": "",
-    "year": "",
-    "theater": "CCK",
-    "genre": "",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "nationality": "",
-    "imdbid": "tt0193185",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-07T16:30:00"
   },
   {
     "title": "Los Jóvenes Muertos",
@@ -6885,7 +6855,7 @@
   },
   {
     "title": "Jorge Polaco",
-    "director": "",
+    "director": "De María Onis",
     "year": "2024",
     "theater": "CCK",
     "genre": "Documental",
@@ -6957,96 +6927,6 @@
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-09-12T18:30:00"
-  },
-  {
-    "title": "Enfrentar Animales Salvajes",
-    "director": "Jerónimo Quevedo",
-    "year": "2014",
-    "theater": "CCK",
-    "genre": "",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "nationality": "",
-    "imdbid": "tt4589622",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-12T19:00:00"
-  },
-  {
-    "title": "Un Sueño Recurrente",
-    "director": "Santiago Esteves",
-    "year": "2013",
-    "theater": "CCK",
-    "genre": "Drama",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "nationality": "Argentina",
-    "imdbid": "tt2825982",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-12T19:00:00"
-  },
-  {
-    "title": "Rockero Reyes",
-    "director": "Romina Cohn",
-    "year": "2014",
-    "theater": "CCK",
-    "genre": "",
-    "poster": "",
-    "nationality": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-12T19:00:00"
-  },
-  {
-    "title": "Noche Adentro",
-    "director": "Pablo Lamar",
-    "year": "2009",
-    "theater": "CCK",
-    "genre": "Drama",
-    "poster": "https://image.tmdb.org/t/p/w500/oRbuP3g8slajbb972SROzpGyaf1.jpg",
-    "nationality": "Argentina-Paraguay",
-    "imdbid": "tt1638335",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-12T19:00:00"
-  },
-  {
-    "title": "Los Crímenes",
-    "director": "Santiago Esteves",
-    "year": "2011",
-    "theater": "CCK",
-    "genre": "",
-    "poster": "https://image.tmdb.org/t/p/w500/jLMwEP4eZFmd2tYjnGGHHZFKORN.jpg",
-    "nationality": "Argentina",
-    "imdbid": "tt1870457",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-12T19:00:00"
-  },
-  {
-    "title": "Nueva Vida",
-    "director": "Mauricio Kiro Russo",
-    "year": "2015",
-    "theater": "CCK",
-    "genre": "",
-    "poster": "https://image.tmdb.org/t/p/w500/r1I7CX1ktszSyUMLqGAWtyFGwOG.jpg",
-    "nationality": "Argentina, Bolivia",
-    "imdbid": "tt4616120",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-12T19:00:00"
   },
   {
     "title": "Su Camino Solitario",
@@ -7469,21 +7349,6 @@
     "showtime": "2024-09-15T20:00:00"
   },
   {
-    "title": "Homenaje A La Hora De La Siesta",
-    "director": "Leopoldo Torre Nilsson",
-    "year": "1977",
-    "theater": "MALBA",
-    "genre": "Drama",
-    "poster": "https://image.tmdb.org/t/p/w500/6nZIsmx3Ht4PQuuw4iL2bHNtA23.jpg",
-    "nationality": "Argentina",
-    "imdbid": "tt0056076",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS",
-    "showtime": "2024-09-15T20:00:00"
-  },
-  {
     "title": "Vida De Casado",
     "director": "",
     "year": "2008",
@@ -7605,7 +7470,7 @@
   },
   {
     "title": "Fuck You! El Último Show",
-    "director": "",
+    "director": "José Luis García",
     "year": "2024",
     "theater": "CCK",
     "genre": "Documental, drama.",
@@ -7647,21 +7512,6 @@
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-09-19T18:30:00"
-  },
-  {
-    "title": "La Fiesta De Casamiento",
-    "director": "Martín Morgenfeld y Gastón Margolín",
-    "year": "2011",
-    "theater": "CCK",
-    "genre": "Acción, Comedia, Pintura.",
-    "poster": "https://image.tmdb.org/t/p/w500/dCBV3hLAdxiwaxnaibw2XeBmYhL.jpg",
-    "nationality": "Argentina",
-    "imdbid": "tt1878970",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-19T19:00:00"
   },
   {
     "title": "Fin De Fiesta",
@@ -7769,6 +7619,21 @@
     "showtime": "2024-09-20T17:30:00"
   },
   {
+    "title": "El Protegido ",
+    "director": "Leopoldo Torre Nilsson",
+    "year": "1986",
+    "theater": "MALBA",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/r7K2e6C3zK8ejXIMjngfvtZnfbk.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt0201867",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-20T18:00:00"
+  },
+  {
     "title": "Sur",
     "director": "",
     "year": "1988",
@@ -7844,6 +7709,21 @@
     "showtime": "2024-09-20T22:00:00"
   },
   {
+    "title": "Nocturna: Màs Allà De La Tierra",
+    "director": "Joseph M. Newman y Jack Arnold",
+    "year": "1982",
+    "theater": "MALBA",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-21T00:00:00"
+  },
+  {
     "title": "Cuando Una Mujer Sube La Escalera",
     "director": "",
     "year": "1960",
@@ -7857,21 +7737,6 @@
     "website": "https://complejoteatral.gob.ar/cine",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-21T15:00:00"
-  },
-  {
-    "title": "Gardel, El Alma Que Canta",
-    "director": "",
-    "year": "",
-    "theater": "CCK",
-    "genre": "",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "nationality": "",
-    "imdbid": "tt0193185",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-21T16:30:00"
   },
   {
     "title": "La Cifra Impar",
@@ -8084,6 +7949,21 @@
     "showtime": "2024-09-22T18:00:00"
   },
   {
+    "title": "Prisioneros De Una Noche",
+    "director": "David José Kohon",
+    "year": "957",
+    "theater": "MALBA",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/ciRXlEJrU5jiAJMOn8ZNGTXgkgv.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt0144556",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-22T20:00:00"
+  },
+  {
     "title": "Nubes Dispersas",
     "director": "",
     "year": "1967",
@@ -8097,6 +7977,21 @@
     "website": "https://complejoteatral.gob.ar/cine",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-22T21:00:00"
+  },
+  {
+    "title": "Boquitas Pintadas",
+    "director": "Leopoldo Torre Nilsson",
+    "year": "1983",
+    "theater": "MALBA",
+    "genre": "Acción, Comedia, Pintura.",
+    "poster": "https://image.tmdb.org/t/p/w500/jz4bfmISusXc3RipRdoyeB7jn9K.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt0071238",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-22T22:00:00"
   },
   {
     "title": "Nubes Dispersas",
@@ -8130,7 +8025,7 @@
   },
   {
     "title": "Jorge Polaco",
-    "director": "",
+    "director": "De María Onis",
     "year": "2024",
     "theater": "CCK",
     "genre": "Documental",
@@ -8157,66 +8052,6 @@
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
     "price": "Gratis, con inscripción",
     "showtime": "2024-09-26T18:30:00"
-  },
-  {
-    "title": "El Papel",
-    "director": "Fermín Pedrós",
-    "year": "2013",
-    "theater": "CCK",
-    "genre": "Documental",
-    "poster": "https://image.tmdb.org/t/p/w500/AboUXTrDWEi0PuZUqaft0iwBTm7.jpg",
-    "nationality": "España",
-    "imdbid": "tt12078990",
-    "trailer": "https://www.youtube.com/watch?v=aGcYHaFaj8s",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-26T19:00:00"
-  },
-  {
-    "title": "Tres Atados",
-    "director": "Kevin Zayat",
-    "year": "2019",
-    "theater": "CCK",
-    "genre": "Drama",
-    "poster": "https://image.tmdb.org/t/p/w500/lVbxTigEJ8o9l9wEpPX2DmT8CVg.jpg",
-    "nationality": "",
-    "imdbid": "tt10474852",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-26T19:00:00"
-  },
-  {
-    "title": "Minimercado Champion",
-    "director": "Florencia Percia",
-    "year": "2010",
-    "theater": "CCK",
-    "genre": "",
-    "poster": "https://image.tmdb.org/t/p/w500/lIWfpqxOnL7HqybEJRWf1Q8jBp9.jpg",
-    "nationality": "",
-    "imdbid": null,
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-26T19:00:00"
-  },
-  {
-    "title": "Forastero",
-    "director": "Lucía Ferreyra",
-    "year": "2013",
-    "theater": "CCK",
-    "genre": "Drama",
-    "poster": "https://image.tmdb.org/t/p/w500/AcR43tIJQoPbabw7SDoAFXzzx6n.jpg",
-    "nationality": "Colombia",
-    "imdbid": "tt9589562",
-    "trailer": null,
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-26T19:00:00"
   },
   {
     "title": "Piazzolla, Los Años Del Tiburón",
@@ -8262,6 +8097,21 @@
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-27T22:00:00"
+  },
+  {
+    "title": "Nocturna: Película Sorpresa",
+    "director": "sorpreso",
+    "year": "1307",
+    "theater": "MALBA",
+    "genre": "",
+    "poster": "",
+    "nationality": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-28T00:00:00"
   },
   {
     "title": "Saluzzi, Ensayo Para Bandoneón Y Tres Hermanos",
@@ -8337,6 +8187,21 @@
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-28T22:00:00"
+  },
+  {
+    "title": "Alemania",
+    "director": "María Zanetti",
+    "year": "1908",
+    "theater": "MALBA",
+    "genre": "Drama",
+    "poster": "https://image.tmdb.org/t/p/w500/iQruQTUjyBtqkWuOwSu4G5rx3j5.jpg",
+    "nationality": "Argentina-España",
+    "imdbid": "tt15475516",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-29T00:00:00"
   },
   {
     "title": "Alemania",
@@ -8442,5 +8307,35 @@
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-09-29T18:00:00"
+  },
+  {
+    "title": "Y Que Patatín Y Que Patatán",
+    "director": "Mario Sábato",
+    "year": "1984",
+    "theater": "MALBA",
+    "genre": "Drama, Comedia",
+    "poster": "https://image.tmdb.org/t/p/w500/mXEtMBqjbSNf1ted1eM7RwdfMuM.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt0175340",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-29T20:00:00"
+  },
+  {
+    "title": "Adiós Sui Generis",
+    "director": "Bebe Kamin",
+    "year": "1985",
+    "theater": "MALBA",
+    "genre": "Documental, drama.",
+    "poster": "https://image.tmdb.org/t/p/w500/y8PL9jNDv2El9JnRmemeTzr9v8Y.jpg",
+    "nationality": "Argentina",
+    "imdbid": "tt0189337",
+    "trailer": null,
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "showtime": "2024-09-29T22:00:00"
   }
 ]
