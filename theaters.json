@@ -1,0 +1,58 @@
+{
+  "Gaumont": {
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "website": "http://www.incaa.gov.ar/complejo-gaumont",
+    "price": "2000 ARS / 1000 ARS",
+    "city": "CABA",
+    "color": "#0000FF"
+  },
+  "Cultural San Martín": {
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "website": "https://elculturalsanmartin.ar/cine/",
+    "price": "2000 ARS / 1000 ARS",
+    "city": "CABA",
+    "color": "#FF571A"
+  },
+  "CCK": {
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "city": "CABA",
+    "color": "#39537A"
+  },
+  "Biblioteca del Congreso": {
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
+    "price": "Gratis, con inscripción",
+    "city": "CABA",
+    "color": "#ADD3C3"
+  },
+  "MALBA": {
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "city": "CABA",
+    "color": "#B3B3B3"
+  },
+  "DAC": {
+    "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
+    "website": "https://eventos.dac.org.ar/formulario/",
+    "price": "Gratis, con inscripción",
+    "city": "CABA",
+    "color": "#FF8000"
+  },
+  "Leopoldo Lugones": {
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "city": "CABA",
+    "color": "#D9FFD7"
+  },
+  "Bellas Artes": {
+    "address": "https://maps.app.goo.gl/ktW2nt3wQhxT4grU7",
+    "website": "https://amigosdelbellasartes.org.ar/cine/",
+    "price": "Gratis, con inscripción",
+    "city": "CABA",
+    "color": "#EEB8B8"
+  }
+}
