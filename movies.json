@@ -72,16 +72,16 @@
       "19:45"
     ],
     "director": "Gustavo Mosquera",
-    "genre": "Ciencia ficción",
+    "genre": "",
     "duration": "87",
     "showtimes": [
       "2024-08-30T19:45:00"
     ],
-    "year": "1993",
-    "nationality": "Alemania",
+    "year": "",
+    "nationality": "",
     "theater": "Gaumont",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "imdbid": "tt0107644",
+    "poster": "",
+    "imdbid": "",
     "trailer": "",
     "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
@@ -160,7 +160,7 @@
       "14:30 (Sala 2) 22:00 (Sala 1)"
     ],
     "director": "Eskil Vogt",
-    "genre": "Acción, Ciencia Ficción, Aventura, Thriller",
+    "genre": "",
     "duration": "117",
     "showtimes": [
       "2024-08-29T14:30:00",
@@ -176,11 +176,11 @@
       "2024-09-02T22:00:00",
       "2024-09-04T22:00:00"
     ],
-    "year": "1974",
-    "nationality": "Japón",
+    "year": "",
+    "nationality": "",
     "theater": "Gaumont",
-    "poster": "https://image.tmdb.org/t/p/w500/nH0VOgKhR3iFz0gV3ABeZMm5Gho.jpg",
-    "imdbid": "tt0071474",
+    "poster": "",
+    "imdbid": "",
     "trailer": "",
     "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
@@ -477,7 +477,7 @@
       "16:00"
     ],
     "director": "Gonzalo Gutiérrez",
-    "genre": "Animación, aventura, comedia",
+    "genre": "",
     "duration": "",
     "showtimes": [
       "2024-08-29T12:20:00",
@@ -493,12 +493,12 @@
       "2024-09-02T16:00:00",
       "2024-09-04T16:00:00"
     ],
-    "year": "2024",
-    "nationality": "Argentina, Bélgica, Alemania",
+    "year": "",
+    "nationality": "",
     "theater": "Gaumont",
-    "poster": "https://image.tmdb.org/t/p/w500/j2s89bkf3kIp6QLLqyMrwdoSXrV.jpg",
-    "imdbid": "tt8816708",
-    "trailer": "https://www.youtube.com/watch?v=r6y8Ac9A7mU",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
     "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "2000 ARS / 1000 ARS"
@@ -895,7 +895,7 @@
       "12:30"
     ],
     "director": "Gonzalo Gutiérrez",
-    "genre": "Animación, aventura, comedia",
+    "genre": "",
     "duration": "",
     "showtimes": [
       "2024-09-05T12:30:00",
@@ -906,12 +906,12 @@
       "2024-09-10T12:30:00",
       "2024-09-11T12:30:00"
     ],
-    "year": "2024",
-    "nationality": "Argentina, Bélgica, Alemania",
+    "year": "",
+    "nationality": "",
     "theater": "Gaumont",
-    "poster": "https://image.tmdb.org/t/p/w500/j2s89bkf3kIp6QLLqyMrwdoSXrV.jpg",
-    "imdbid": "tt8816708",
-    "trailer": "https://www.youtube.com/watch?v=r6y8Ac9A7mU",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
     "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "2000 ARS / 1000 ARS"
@@ -919,7 +919,7 @@
   {
     "title": "Volver Al Futuro",
     "director": "Robert Zemeckis",
-    "year": 1985,
+    "year": "1985",
     "showtimes": [
       "2024-09-01T17:00:00",
       "2024-09-07T15:30:00"
@@ -928,9 +928,9 @@
     "duration": "",
     "nationality": "Estados Unidos de América",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
-    "imdbid": "tt0088763",
-    "trailer": "https://www.youtube.com/watch?v=U71BvFM7Wpw",
+    "poster": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+    "imdbid": "tt0099088",
+    "trailer": "https://www.youtube.com/watch?v=DTdBq1fQOBU",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS"
@@ -938,7 +938,7 @@
   {
     "title": "Hook",
     "director": "Steven Spielberg",
-    "year": 1991,
+    "year": "1991",
     "showtimes": [
       "2024-09-14T15:30:00"
     ],
@@ -956,7 +956,7 @@
   {
     "title": "Mrs Doubtfire, Papá Por Siempre",
     "director": "Chris Columbus",
-    "year": 1993,
+    "year": "1993",
     "showtimes": [
       "2024-09-21T15:30:00"
     ],
@@ -974,7 +974,7 @@
   {
     "title": "Jumanji",
     "director": "Joe Johnston",
-    "year": 1995,
+    "year": "1995",
     "showtimes": [
       "2024-09-28T15:30:00"
     ],
@@ -992,18 +992,18 @@
   {
     "title": "Los Caballeros De La Mesa Cuadrada",
     "director": "Terry Jones y Terry Gilliam",
-    "year": 1975,
+    "year": "1975",
     "showtimes": [
       "2024-09-05T20:00:00",
       "2024-09-14T18:00:00"
     ],
-    "genre": "Aventura, comedia, fantasía",
+    "genre": "",
     "duration": "",
-    "nationality": "Reino Unido",
+    "nationality": "",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/xZ0rC0kuIsjk6RncpNK73kwstEP.jpg",
-    "imdbid": "tt0071853",
-    "trailer": "https://www.youtube.com/watch?v=4b52A3sKz-I",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS"
@@ -1011,18 +1011,18 @@
   {
     "title": "Bandidos Del Tiempo",
     "director": "Terry Gilliam",
-    "year": 1981,
+    "year": "1981",
     "showtimes": [
       "2024-09-06T21:00:00",
       "2024-09-14T20:00:00"
     ],
-    "genre": "Familia, Fantasía, Ciencia Ficción, Aventura, Comedia",
+    "genre": "",
     "duration": "",
-    "nationality": "Reino Unido",
+    "nationality": "",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/4VZtpwdhHQSa4LUkvujyGAHb1hG.jpg",
-    "imdbid": "tt0081633",
-    "trailer": "https://www.youtube.com/watch?v=0J27T4s3S94",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS"
@@ -1030,19 +1030,19 @@
   {
     "title": "El Sentido De La Vida",
     "director": "Terry Gilliam y Terry Jones",
-    "year": 1983,
+    "year": "1983",
     "showtimes": [
       "2024-09-08T17:00:00",
       "2024-09-22T17:00:00",
       "2024-09-28T18:00:00"
     ],
-    "genre": "Comedia",
+    "genre": "",
     "duration": "",
-    "nationality": "Reino Unido",
+    "nationality": "",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/xkIdT6ztJ2tOEknZ9QyragUY82Q.jpg",
-    "imdbid": "tt0085959",
-    "trailer": "https://www.youtube.com/watch?v=wMJ24QwHdCY",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS"
@@ -1050,18 +1050,18 @@
   {
     "title": "Brazil",
     "director": "Terry Gilliam",
-    "year": 1985,
+    "year": "1985",
     "showtimes": [
       "2024-09-08T19:00:00",
       "2024-09-22T19:00:00",
       "2024-09-28T20:00:00"
     ],
-    "genre": "Drama, Comedia",
+    "genre": "",
     "duration": "",
-    "nationality": "Brasil",
+    "nationality": "",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/fwQUJHQdOG0E03Dor1mfEDMllYD.jpg",
-    "imdbid": "tt0282225",
+    "poster": "",
+    "imdbid": "",
     "trailer": "",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
@@ -1070,18 +1070,18 @@
   {
     "title": "Las Aventuras Del Barón Munchausen",
     "director": "Terry Gilliam",
-    "year": 1988,
+    "year": "1988",
     "showtimes": [
       "2024-09-15T17:00:00",
       "2024-09-19T20:30:00"
     ],
-    "genre": "Fantasía, aventura, comedia",
+    "genre": "",
     "duration": "",
-    "nationality": "Alemania, Francia, Italia y Reino Unido",
+    "nationality": "",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/fR4QomvglJ3Q8QM9c0QJ2hjl9W0.jpg",
-    "imdbid": "tt0096764",
-    "trailer": "https://www.youtube.com/watch?v=vuqBKiKycbA",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS"
@@ -1089,7 +1089,7 @@
   {
     "title": "Pescador De Ilusiones",
     "director": "Terry Gilliam",
-    "year": 1991,
+    "year": "1991",
     "showtimes": [
       "2024-09-15T19:30:00",
       "2024-09-20T20:30:00"
@@ -1108,19 +1108,19 @@
   {
     "title": "12 Monos",
     "director": "Terry Gilliam",
-    "year": 1995,
+    "year": "1995",
     "showtimes": [
       "2024-09-12T20:30:00",
       "2024-09-21T18:00:00",
       "2024-09-27T20:30:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 56 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg",
-    "imdbid": "tt0114746",
-    "trailer": "https://www.youtube.com/watch?v=Xwh1xBzsc1Q",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS"
@@ -1128,18 +1128,18 @@
   {
     "title": "Pánico Y Locura En Las Vegas",
     "director": "Terry Gilliam",
-    "year": 1998,
+    "year": "1998",
     "showtimes": [
       "2024-09-13T20:30:00",
       "2024-09-21T20:30:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/tisNLcMkxryU2zxhi0PiyDFqhm0.jpg",
-    "imdbid": "tt0120669",
-    "trailer": "https://www.youtube.com/watch?v=Rx-EsbhLZLQ",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS"
@@ -1147,16 +1147,16 @@
   {
     "title": "El Agrónomo",
     "director": "Martín Turnes",
-    "year": 2024,
+    "year": "2024",
     "showtimes": [
       "2024-09-06T20:00:00",
       "2024-09-13T20:00:00",
       "2024-09-20T20:00:00",
       "2024-09-27T20:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama - Vida Familiar",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/cxkZgltcYxjX1qk8MvUDWSYYVk0.jpg",
     "imdbid": "tt26453182",
@@ -1168,16 +1168,16 @@
   {
     "title": "La Estrella Que Perdí",
     "director": "Luz Orlando Brennan",
-    "year": 2024,
+    "year": "2024",
     "showtimes": [
       "2024-09-08T16:00:00",
       "2024-09-15T16:00:00",
       "2024-09-22T16:00:00",
       "2024-09-29T16:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama, Comedia",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/36vJ9mzYBGarxRCi6vgG7Sf96Ig.jpg",
     "imdbid": "",
@@ -1189,15 +1189,15 @@
   {
     "title": "La Culpa De Nada",
     "director": "Victoria Hladilo",
-    "year": 2024,
+    "year": "2024",
     "showtimes": [
       "2024-09-05T18:00:00",
       "2024-09-12T18:00:00",
       "2024-09-19T18:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/rIHDGDdKS7r9QzNxaB3YcA8W3vV.jpg",
     "imdbid": "",
@@ -1209,15 +1209,15 @@
   {
     "title": "El Placer Es Mío",
     "director": "Sacha Amaral",
-    "year": 2024,
+    "year": "2024",
     "showtimes": [
       "2024-09-11T21:00:00",
       "2024-09-18T21:00:00",
       "2024-09-25T21:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina, Brasil, Francia",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/lB2vuOvzNjKpZRS1VcLSV9L6aDv.jpg",
     "imdbid": "tt8183634",
@@ -1229,15 +1229,15 @@
   {
     "title": "Después De Un Buen Día",
     "director": "Néstor Frenkel",
-    "year": 2024,
+    "year": "2024",
     "showtimes": [
       "2024-09-14T17:00:00",
       "2024-09-21T17:00:00",
       "2024-09-28T17:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Documental",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/kRD7tV3yzXlWSJDBjN4dFXj5pfH.jpg",
     "imdbid": "tt32901835",
@@ -1249,13 +1249,13 @@
   {
     "title": "Mixtape La Pampa",
     "director": "Andres Di Tella",
-    "year": 2023,
+    "year": "2023",
     "showtimes": [
       "2024-09-07T18:30:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Documental",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/3Ga2uA0BvXXCiYLwIMyDbdMobaY.jpg",
     "imdbid": "tt28865157",
@@ -1267,16 +1267,16 @@
   {
     "title": "Italpark",
     "director": "Juan Carlos Domínguez",
-    "year": 2024,
+    "year": "2024",
     "showtimes": [
       "2024-09-06T18:00:00",
       "2024-09-13T18:00:00",
       "2024-09-20T18:00:00",
       "2024-09-27T18:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Documental",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/nytanbmjWjoQjWH5Zqudf8eongi.jpg",
     "imdbid": "",
@@ -1288,7 +1288,7 @@
   {
     "title": "Imprenteros",
     "director": "Lorena Vega y Gonzalo Javier Zapico",
-    "year": 2024,
+    "year": "2024",
     "showtimes": [
       "2024-09-05T20:00:00",
       "2024-09-14T19:00:00",
@@ -1299,9 +1299,9 @@
       "2024-09-22T20:00:00",
       "2024-09-29T20:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Documental",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/FTRkMxQbq8ILzWjS8KkNNXtJGb.jpg",
     "imdbid": "",
@@ -1313,15 +1313,15 @@
   {
     "title": "Señor Jazz. La Película De Carlos Inzillo",
     "director": "Federico Sotelo Y Javier Hornos",
-    "year": 2024,
+    "year": "2024",
     "showtimes": [
       "2024-09-11T19:00:00",
       "2024-09-18T19:00:00",
       "2024-09-25T19:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Documental",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 55 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/4pSXpDbdY8nnZivlLJP6IEoytgz.jpg",
     "imdbid": "",
@@ -1333,16 +1333,16 @@
   {
     "title": "El Viento Que Arrasa",
     "director": "Paula Hernández",
-    "year": 2023,
+    "year": "2023",
     "showtimes": [
       "2024-09-07T21:00:00",
       "2024-09-14T21:00:00",
       "2024-09-21T21:00:00",
       "2024-09-28T21:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina – Uruguay",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/iJW2enM30RVgS6SlsyoZNuAmlP9.jpg",
     "imdbid": "tt15475536",
@@ -1354,17 +1354,17 @@
   {
     "title": "Herencia",
     "director": "Paula Hernández",
-    "year": 2001,
+    "year": "2001",
     "showtimes": [
       "2024-09-08T18:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/rgH4hyR25OE2AvuW55URkp8bmA.jpg",
-    "imdbid": "tt0196632",
-    "trailer": "https://www.youtube.com/watch?v=PeriPGQ8VcY",
+    "poster": "https://image.tmdb.org/t/p/w500/uyRVmybSUYBlcRPD9b3DATr5Hvd.jpg",
+    "imdbid": "tt0283383",
+    "trailer": "https://www.youtube.com/watch?v=bFUulAmH1pg",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS"
@@ -1372,13 +1372,13 @@
   {
     "title": "Familia Lugones",
     "director": "Paula Hernández",
-    "year": 2007,
+    "year": "2007",
     "showtimes": [
       "2024-09-12T20:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Documental",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/503RW80oLOxGvt468GZmDzwqAjt.jpg",
     "imdbid": "tt1221866",
@@ -1390,16 +1390,16 @@
   {
     "title": "Lluvia",
     "director": "Paula Hernández",
-    "year": 2008,
+    "year": "2008",
     "showtimes": [
       "2024-09-15T18:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/cO9HFdT4HBwqNPW06h1s3Q9wHVH.jpg",
-    "imdbid": "tt1029097",
+    "poster": "https://image.tmdb.org/t/p/w500/55J372rWzOCKT3UgRHZqhwj9SQB.jpg",
+    "imdbid": "tt1194615",
     "trailer": "",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
@@ -1408,16 +1408,16 @@
   {
     "title": "Un Amor",
     "director": "Paula Hernández",
-    "year": 2011,
+    "year": "2011",
     "showtimes": [
       "2024-09-19T20:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Acción, Comedia, Pintura.",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
-    "poster": "https://image.tmdb.org/t/p/w500/4fPrwYyj1YeSWPRfNADX065U9OG.jpg",
-    "imdbid": "tt2013256",
+    "poster": "https://image.tmdb.org/t/p/w500/zuBSFC1ghs2TeUiqzQN9YlURsAe.jpg",
+    "imdbid": "tt1886740",
     "trailer": "",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
@@ -1426,13 +1426,13 @@
   {
     "title": "Los Sonámbulos",
     "director": "Paula Hernández",
-    "year": 2019,
+    "year": "2019",
     "showtimes": [
       "2024-09-22T18:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama - Vida Familiar",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina – Uruguay",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/tN9BEDSBJGag4oFIPgXFKjUKmOm.jpg",
     "imdbid": "tt10899680",
@@ -1444,15 +1444,15 @@
   {
     "title": "Doce Clavos",
     "director": "Paula Hernández",
-    "year": 2018,
+    "year": "2018",
     "showtimes": [
       "2024-09-29T18:00:00"
     ],
     "genre": "",
     "duration": "",
-    "nationality": "",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
-    "poster": "",
+    "poster": "https://image.tmdb.org/t/p/w500/fiBEa0YUp2D3EQohL7UdXsmXcEt.jpg",
     "imdbid": "",
     "trailer": "",
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
@@ -1462,13 +1462,13 @@
   {
     "title": "Las Siamesas",
     "director": "Paula Hernández",
-    "year": 2020,
+    "year": "2020",
     "showtimes": [
       "2024-09-29T18:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
     "theater": "Cultural San Martín",
     "poster": "https://image.tmdb.org/t/p/w500/fGFmUN18VNDd5TL7zrsVuLhE5wU.jpg",
     "imdbid": "tt13528580",
@@ -1476,1155 +1476,6 @@
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS"
-  },
-  {
-    "title": "Piazzolla, Los Años Del Tiburón",
-    "director": "",
-    "year": "2018",
-    "showtimes": [
-      "2024-09-27T16:30:00",
-      "2024-09-13T16:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 54 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/fglulo2dUhZCh2bzJcVr87snnlv.jpg",
-    "imdbid": "tt6731592",
-    "trailer": "https://www.youtube.com/watch?v=QXe5rZVEY2o",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Saluzzi, Ensayo Para Bandoneón Y Tres Hermanos",
-    "director": "",
-    "year": "",
-    "showtimes": [
-      "2024-09-14T16:30:00",
-      "2024-09-28T16:30:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "imdbid": "tt0258942",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "La Cifra Impar",
-    "director": "",
-    "year": "1962",
-    "showtimes": [
-      "2024-09-21T17:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/jCA482NvTJCwjAOTdXFnaW2vY7m.jpg",
-    "imdbid": "tt0178333",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Circe",
-    "director": "",
-    "year": "1989",
-    "showtimes": [
-      "2024-09-21T19:00:00",
-      "2024-09-20T17:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/3ZtWAO07BL1H6AKbWKiiB38dQAx.jpg",
-    "imdbid": "tt0097376",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Intimidad De Los Parques",
-    "director": "",
-    "year": "1965",
-    "showtimes": [
-      "2024-09-20T19:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/gzfcdiPFbUPjbD99MkBF6R4iY1Y.jpg",
-    "imdbid": "tt0178638",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Fuck You! El Último Show",
-    "director": "",
-    "year": "2024",
-    "showtimes": [
-      "2024-09-04T19:00:00",
-      "2024-09-18T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/lg9HYND6ZT7ziQ5jxQ6DjlTOzbR.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Jorge Polaco",
-    "director": "",
-    "year": "2024",
-    "showtimes": [
-      "2024-09-11T19:00:00",
-      "2024-09-25T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/nh1u7RB0qD5uQSVX1pQVtbtFFol.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "La Fiesta De Casamiento",
-    "director": "Martín Morgenfeld y Gastón Margolín",
-    "year": "2011",
-    "showtimes": [
-      "2024-09-12T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/dCBV3hLAdxiwaxnaibw2XeBmYhL.jpg",
-    "imdbid": "tt1878970",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Un Sueño Recurrente",
-    "director": "Santiago Esteves",
-    "year": "2013",
-    "showtimes": [
-      "2024-09-12T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "imdbid": "tt2825982",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Matar A Un Perro",
-    "director": "Alejo Santos",
-    "year": "2013",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/tjgVcBz4NdbWv9y6hC7GJUUJSjf.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Noche Adentro",
-    "director": "Pablo Lamar",
-    "year": "2009",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Los Crímenes",
-    "director": "Santiago Esteves",
-    "year": "2011",
-    "showtimes": [
-      "2024-09-19T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/jLMwEP4eZFmd2tYjnGGHHZFKORN.jpg",
-    "imdbid": "tt1870457",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Tres Atados",
-    "director": "Kevin Zayat",
-    "year": "2019",
-    "showtimes": [
-      "2024-09-19T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/lVbxTigEJ8o9l9wEpPX2DmT8CVg.jpg",
-    "imdbid": "tt10474852",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Minimercado Champion",
-    "director": "Florencia Percia",
-    "year": "2010",
-    "showtimes": [
-      "2024-09-05T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/lIWfpqxOnL7HqybEJRWf1Q8jBp9.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Papel",
-    "director": "Fermín Pedrós",
-    "year": "2013",
-    "showtimes": [
-      "2024-09-05T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Enfrentar Animales Salvajes",
-    "director": "Jerónimo Quevedo",
-    "year": "2014",
-    "showtimes": [
-      "2024-09-05T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Nueva Vida",
-    "director": "Mauricio Kiro Russo",
-    "year": "2015",
-    "showtimes": [
-      "2024-09-05T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 53 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/pqDNLlo7Iez1MXNEQypC4knNGN6.jpg",
-    "imdbid": "tt4462668",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Rockero Reyes",
-    "director": "Romina Cohn",
-    "year": "2014",
-    "showtimes": [
-      "2024-09-05T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Forastero",
-    "director": "Lucía Ferreyra",
-    "year": "2013",
-    "showtimes": [
-      "2024-09-05T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Así Cantaba Carlos Gardel",
-    "director": "",
-    "year": "1935",
-    "showtimes": [
-      "2024-09-28T16:30:00",
-      "2024-09-14T16:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/4qPy4LnXtnMC77HZ98Yk1PQpinJ.jpg",
-    "imdbid": "tt3197278",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Tango En El Cine",
-    "director": "",
-    "year": "",
-    "showtimes": [
-      "2024-09-07T16:30:00",
-      "2024-09-21T16:30:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "imdbid": "tt0301918",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Café De Los Maestros",
-    "director": "",
-    "year": "2008",
-    "showtimes": [
-      "2024-09-07T18:30:00",
-      "2024-09-21T18:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/nlXNEZZ0OCtirvXJbmxD7O368LO.jpg",
-    "imdbid": "tt1185589",
-    "trailer": "https://www.youtube.com/watch?v=FnvBaS2wPV0",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Roberto Goyeneche, Las Formas De La Noche",
-    "director": "",
-    "year": "2023",
-    "showtimes": [
-      "2024-09-20T16:30:00",
-      "2024-09-06T16:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/qma6RqLUiRLoQb9UxceJH6mp3k6.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Sur",
-    "director": "",
-    "year": "2017",
-    "showtimes": [
-      "2024-09-20T18:30:00",
-      "2024-09-06T18:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/mu7P2NrfN1h78ZaJXi3tgZvfEzr.jpg",
-    "imdbid": "tt6555772",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Exilio De Gardel",
-    "director": "",
-    "year": "2010",
-    "showtimes": [
-      "2024-09-27T18:30:00",
-      "2024-09-13T18:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/n7ue4W3bjegGJCaMyMlk3hLqa14.jpg",
-    "imdbid": "tt1954357",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Karakol",
-    "director": "",
-    "year": "2012",
-    "showtimes": [
-      "2024-09-06T17:30:00",
-      "2024-09-14T19:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/verU1sFnGjB7NbpM6yStKEsWzyR.jpg",
-    "imdbid": "tt1418712",
-    "trailer": "https://www.youtube.com/watch?v=MBBh7ClJ02U",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "La Película Infinita",
-    "director": "",
-    "year": "2012",
-    "showtimes": [
-      "2024-09-06T19:30:00",
-      "2024-09-14T17:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/bab5yECvL86FPhPpPSkOlpIvino.jpg",
-    "imdbid": "tt2194724",
-    "trailer": "https://www.youtube.com/watch?v=ZknpyKkHIvw",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Los Jóvenes Muertos",
-    "director": "",
-    "year": "2010",
-    "showtimes": [
-      "2024-09-07T17:30:00",
-      "2024-09-13T19:30:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 52 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/kXIduTwdLYUwflQ8rw1sZMp86FW.jpg",
-    "imdbid": "tt1471173",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Cajón",
-    "director": "",
-    "year": "2011",
-    "showtimes": [
-      "2024-09-07T19:30:00",
-      "2024-09-13T17:30:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Acto Por Partes",
-    "director": "Sergio Milán",
-    "year": "",
-    "showtimes": [
-      "2024-09-28T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "La Ciudad Y La Cautiva",
-    "director": "Franco Figueroa",
-    "year": "",
-    "showtimes": [
-      "2024-09-28T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Cruzar Un Puente",
-    "director": "Joaquín Lucesoli",
-    "year": "",
-    "showtimes": [
-      "2024-09-28T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Paisaje",
-    "director": "Matías Rojo",
-    "year": "2015",
-    "showtimes": [
-      "2024-09-28T16:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/yfXBva9jtLbRrS7Sbq28OJXogpA.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Ritual",
-    "director": "Inés Labarrère Ventroni",
-    "year": "1970",
-    "showtimes": [
-      "2024-09-28T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/gsA8J9HFsXUNzzHOGgzqivEOys5.jpg",
-    "imdbid": "tt0906032",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Todas Las Cosas Que Llevo Conmigo",
-    "director": "Mana García",
-    "year": "2023",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/dMj0SkuQewZQCPJfFRoTe1UOqJc.jpg",
-    "imdbid": "tt29965619",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Nicaragua Y Uriarte",
-    "director": "Tano Levi",
-    "year": "",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "¡Llamá, Gloria!",
-    "director": "Malena Filmus",
-    "year": "2024",
-    "showtimes": [
-      "2024-09-26T17:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/u9V1FlxK8sgZkc7qjVIEBLuD5HP.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Vendedor De Planetas",
-    "director": "Manuel Merlo",
-    "year": "",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Oda Amarilla",
-    "director": "Lucía Paz",
-    "year": "2024",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/toZHdFipZ9sryPGg5guaUYw5h3w.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Escuerzo",
-    "director": "Augusto Sinay",
-    "year": "2023",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/iBSQtKN3UhIp2f7BeDTDcIgFsX.jpg",
-    "imdbid": "tt13658886",
-    "trailer": "https://www.youtube.com/watch?v=nKv8ao9fHLk",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Misión Peluche",
-    "director": "Joaquín Romero",
-    "year": "2024",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 51 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/bkYDKBSl1kiX6w3tgFPhkwY78RU.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Collage",
-    "director": "Marius Conrotto",
-    "year": "2020",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Noche De Baile",
-    "director": "Luciana Roude",
-    "year": "1971",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/1FBfPu9jSdSBw0ZarW9UFeP9BvU.jpg",
-    "imdbid": "tt0066132",
-    "trailer": "https://www.youtube.com/watch?v=TsN5LiQLkck",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Las Fieras",
-    "director": "Juan Agustín Flores",
-    "year": "2005",
-    "showtimes": [
-      "2024-09-26T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/eXeD3tEC643rxlKizBT2MOQioUa.jpg",
-    "imdbid": "tt0418325",
-    "trailer": "https://www.youtube.com/watch?v=syq_9RB3qQo",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Gigantografías",
-    "director": "Facundo Nicolás Casale",
-    "year": "2024",
-    "showtimes": [
-      "2024-09-28T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/f4n1J2LTfWXal7bU3tZ7Vlcmxnp.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "La Otra Espera",
-    "director": "Teresita Rossetto",
-    "year": "2017",
-    "showtimes": [
-      "2024-09-28T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/o7Vv7QOQEuHZNadsxEja07X86gM.jpg",
-    "imdbid": "tt5222918",
-    "trailer": "https://www.youtube.com/watch?v=72coY37gcfM",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Evein",
-    "director": "Ornella Martina Zanoni",
-    "year": "2021",
-    "showtimes": [
-      "2024-09-28T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/24jpUxfnACnvI7AlQeQF3gfNDFO.jpg",
-    "imdbid": "tt10704730",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Último Bochazo",
-    "director": "Ignacio Cárdenas, Matías Lucantis",
-    "year": "",
-    "showtimes": [
-      "2024-09-28T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Crecer Es Matar A Tu Madre",
-    "director": "Nika Ardito",
-    "year": "2024",
-    "showtimes": [
-      "2024-09-28T19:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/qE0XX9sht5B3Wq2U2i3gMSaftQn.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Marisqueros",
-    "director": "Luis Carducci",
-    "year": "",
-    "showtimes": [
-      "2024-09-28T19:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Rey De Los Alisos",
-    "director": "",
-    "year": "",
-    "showtimes": [
-      "2024-09-15T16:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Caballito De Mar",
-    "director": "",
-    "year": "2021",
-    "showtimes": [
-      "2024-09-15T16:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/xlMYe2OdSMlPnfSow6lEI310yGt.jpg",
-    "imdbid": "tt13410664",
-    "trailer": "https://www.youtube.com/watch?v=vtEGbsAqfd0",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Baile De Las Brujas",
-    "director": "",
-    "year": "2017",
-    "showtimes": [
-      "2024-09-15T16:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/70RiLlSIi5q17Ybnq61rUt8JVoU.jpg",
-    "imdbid": "tt5814408",
-    "trailer": "https://www.youtube.com/watch?v=Hf3pttO87es",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Crónica De Un Verano",
-    "director": "",
-    "year": "1961",
-    "showtimes": [
-      "2024-09-15T18:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 50 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/cKsFs0FUJBy4b8ihPpaeyRl2SJs.jpg",
-    "imdbid": "tt0054745",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Regreso A Córcega",
-    "director": "",
-    "year": "2023",
-    "showtimes": [
-      "2024-09-08T16:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/lO1iKk8l0bPvDR3xmbregLWmYeS.jpg",
-    "imdbid": "tt22463404",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Las Diabólicas",
-    "director": "",
-    "year": "1955",
-    "showtimes": [
-      "2024-09-08T18:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/jE8ygUYBUGyUcM4sR6iinPqYeDK.jpg",
-    "imdbid": "tt0046911",
-    "trailer": "https://www.youtube.com/watch?v=BzbGtjtfZwA",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Rompehielos",
-    "director": "",
-    "year": "1979",
-    "showtimes": [
-      "2024-09-29T16:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500None",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "La Sonriente Señora Beudet",
-    "director": "",
-    "year": "",
-    "showtimes": [
-      "2024-09-29T18:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Los Amores Del Pulpo",
-    "director": "",
-    "year": "",
-    "showtimes": [
-      "2024-09-29T18:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "Erizos De Mar",
-    "director": "",
-    "year": "",
-    "showtimes": [
-      "2024-09-29T18:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Murciélago",
-    "director": "",
-    "year": "1937",
-    "showtimes": [
-      "2024-09-29T18:00:00"
-    ],
-    "genre": "",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/pVnvqsD2ftpzcGUvvXjcGBK2L31.jpg",
-    "imdbid": "tt0028878",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "El Asesino Vive En El 21",
-    "director": "",
-    "year": "1942",
-    "showtimes": [
-      "2024-09-22T16:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/q4qcDAOTJ0BvFqZevtDCp6xViJj.jpg",
-    "imdbid": "tt0034478",
-    "trailer": "https://www.youtube.com/watch?v=_UAj7GM9v-Q",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
-  },
-  {
-    "title": "La Fractura",
-    "director": "",
-    "year": "2021",
-    "showtimes": [
-      "2024-09-22T18:00:00"
-    ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/cqVOQH55iqIX3dRBoq0DoRpDXOf.jpg",
-    "imdbid": "tt13321730",
-    "trailer": "https://www.youtube.com/watch?v=ageLqzbZOsk",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada"
   },
   {
     "title": "",
@@ -2643,76 +1494,18 @@
     "price": "Gratis, con inscripción"
   },
   {
-    "title": "La Caída ",
-    "director": "Leopoldo Torre Nilsson",
-    "year": "1971",
-    "showtimes": [
-      "2024-09-06T18:30:00",
-      "2024-09-08T22:00:00"
-    ],
-    "nationality": "",
-    "genre": "",
-    "duration": "",
-    "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS"
-  },
-  {
-    "title": "Leopoldo Torre Nilsson, Mi Padre Y Yo",
-    "director": "Pablo Torre",
-    "year": "1900",
-    "showtimes": [
-      "2024-09-06T20:00:00"
-    ],
-    "nationality": "",
-    "genre": "",
-    "duration": "",
-    "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS"
-  },
-  {
-    "title": "Después De Un Buen Día",
-    "director": "Néstor Frenkel",
-    "year": "1909",
-    "showtimes": [
-      "2024-09-06T22:00:00",
-      "2024-09-13T22:00:00",
-      "2024-09-20T22:00:00",
-      "2024-09-27T22:00:00"
-    ],
-    "nationality": "",
-    "genre": "",
-    "duration": "",
-    "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS"
-  },
-  {
-    "title": "Nocturna: Topos",
+    "title": "Topos",
     "director": "Emiliano Romero",
-    "year": "1972",
+    "year": "2012",
     "showtimes": [
       "2024-09-07T00:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Fantasía, aventura, comedia",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/zQBiT0PqeK6XZGBWEGrCOwUdUp2.jpg",
+    "imdbid": "tt2032568",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -2721,19 +1514,19 @@
   {
     "title": "Partió De Mí Un Barco Llevándome",
     "director": "Cecilia Kang",
-    "year": "1929",
+    "year": "2023",
     "showtimes": [
       "2024-09-07T18:00:00",
       "2024-09-14T18:00:00",
       "2024-09-21T18:00:00",
       "2024-09-28T18:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina, Singapur",
+    "genre": "Documental",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/6xn6nfZzUObRuuloUrD3AeuWVNh.jpg",
+    "imdbid": "tt29961381",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -2742,19 +1535,19 @@
   {
     "title": "La Pràctica",
     "director": "Martìn Rejtman",
-    "year": "1968",
+    "year": "2024",
     "showtimes": [
       "2024-09-07T20:00:00",
       "2024-09-14T20:00:00",
       "2024-09-21T20:00:00",
       "2024-09-28T20:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Alemania, Argentina, Chile, México, Países Bajos, Portugal",
+    "genre": "Drama, Comedia",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/mrpG28ewnC14LiohsTGJTpFaCA9.jpg",
+    "imdbid": "tt28616751",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -2763,18 +1556,18 @@
   {
     "title": "Imprenteros",
     "director": "Lorena Vega y ",
-    "year": "1945",
+    "year": "2024",
     "showtimes": [
       "2024-09-07T22:00:00",
       "2024-09-14T22:00:00",
       "2024-09-21T22:00:00",
       "2024-09-28T22:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Documental",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
+    "poster": "https://image.tmdb.org/t/p/w500/FTRkMxQbq8ILzWjS8KkNNXtJGb.jpg",
     "imdbid": "",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
@@ -2784,28 +1577,28 @@
   {
     "title": "Alemania",
     "director": "María Zanetti",
-    "year": "1908",
+    "year": "2024",
     "showtimes": [
       "2024-09-08T00:00:00",
       "2024-09-15T00:00:00",
       "2024-09-22T00:00:00",
       "2024-09-29T00:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina-España",
+    "genre": "Drama",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/iQruQTUjyBtqkWuOwSu4G5rx3j5.jpg",
+    "imdbid": "tt15475516",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS"
   },
   {
-    "title": "Cortometrajes De Francisco Lezama Y Agostina Gálvez",
+    "title": "Francisco Lezama Y Agostina Gálvez",
     "director": "Francisco Lezama y Agostina Gálvez",
-    "year": "1973",
+    "year": "",
     "showtimes": [
       "2024-09-08T18:00:00",
       "2024-09-15T18:00:00",
@@ -2826,7 +1619,7 @@
   {
     "title": "This Is My Place",
     "director": "David Lamelas",
-    "year": "1974",
+    "year": "",
     "showtimes": [
       "2024-09-08T20:00:00"
     ],
@@ -2842,18 +1635,36 @@
     "price": "4000 ARS / 2000 ARS"
   },
   {
+    "title": "La Caída ",
+    "director": "Leopoldo Torre Nilsson",
+    "year": "1959",
+    "showtimes": [
+      "2024-09-08T22:00:00"
+    ],
+    "nationality": "Argentina",
+    "genre": "Drama",
+    "duration": "",
+    "theater": "MALBA",
+    "poster": "https://image.tmdb.org/t/p/w500/vQWgMEWMKgj30AsUej6jVODqsC4.jpg",
+    "imdbid": "tt0051465",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS"
+  },
+  {
     "title": "Piel De Verano",
     "director": "Leopoldo Torre Nilsson",
-    "year": "1975",
+    "year": "1961",
     "showtimes": [
       "2024-09-13T18:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Drama",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/uyKixpPXs79sKZL7d2WEJ0pl3tX.jpg",
+    "imdbid": "tt0055299",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -2862,25 +1673,45 @@
   {
     "title": "La Mano En La Trampa",
     "director": "Leopoldo Torre Nilsson",
-    "year": "1976",
+    "year": "1961",
     "showtimes": [
       "2024-09-13T20:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina-España",
+    "genre": "Drama",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/3VkthMudOFfkTwEAdnFfU8OmEk.jpg",
+    "imdbid": "tt0055138",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS"
   },
   {
-    "title": "Nocturna: Corazón Salvaje",
+    "title": "Después De Un Buen Día",
+    "director": "Néstor Frenkel",
+    "year": "2024",
+    "showtimes": [
+      "2024-09-13T22:00:00",
+      "2024-09-20T22:00:00",
+      "2024-09-27T22:00:00"
+    ],
+    "nationality": "Argentina",
+    "genre": "Documental",
+    "duration": "",
+    "theater": "MALBA",
+    "poster": "https://image.tmdb.org/t/p/w500/kRD7tV3yzXlWSJDBjN4dFXj5pfH.jpg",
+    "imdbid": "tt32901835",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS"
+  },
+  {
+    "title": "Corazón Salvaje",
     "director": "David Lynch",
-    "year": "1257",
+    "year": "",
     "showtimes": [
       "2024-09-14T00:00:00"
     ],
@@ -2898,16 +1729,16 @@
   {
     "title": "Homenaje A La Hora De La Siesta",
     "director": "Leopoldo Torre Nilsson",
-    "year": "1977",
+    "year": "1962",
     "showtimes": [
       "2024-09-15T20:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Drama",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/6nZIsmx3Ht4PQuuw4iL2bHNtA23.jpg",
+    "imdbid": "tt0056076",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -2916,16 +1747,16 @@
   {
     "title": "Setenta Veces Siete",
     "director": "Leopoldo Torre Nilsson",
-    "year": "1696",
+    "year": "1962",
     "showtimes": [
       "2024-09-15T22:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Acción, Comedia, Pintura.",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/z1hxHLasYtBnr6RQDsAQaevf7NY.jpg",
+    "imdbid": "tt0056471",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -2934,16 +1765,16 @@
   {
     "title": "Fin De Fiesta",
     "director": "Leopoldo Torre Nilsson",
-    "year": "1978",
+    "year": "1960",
     "showtimes": [
       "2024-09-19T19:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Drama",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/5k23o0N78WVs0aIVEfMSxKSVEX.jpg",
+    "imdbid": "tt0053824",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -2952,16 +1783,16 @@
   {
     "title": "La Maffia ",
     "director": "Leopoldo Torre Nilsson",
-    "year": "1979",
+    "year": "1972",
     "showtimes": [
       "2024-09-19T21:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Crimen",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/s98tA0kRLHH6T7sePMMqx4zVDy1.jpg",
+    "imdbid": "tt0068895",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -2970,16 +1801,16 @@
   {
     "title": "El Dependiente",
     "director": "Leonardo Favio",
-    "year": "1980",
+    "year": "1969",
     "showtimes": [
       "2024-09-19T23:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Drama",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/9jZFc8hcCHh4V2iPZhoDLBitWDC.jpg",
+    "imdbid": "tt0064223",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -2988,16 +1819,16 @@
   {
     "title": "El Protegido ",
     "director": "Leopoldo Torre Nilsson",
-    "year": "1986",
+    "year": "1956",
     "showtimes": [
       "2024-09-20T18:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Drama",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/r7K2e6C3zK8ejXIMjngfvtZnfbk.jpg",
+    "imdbid": "tt0201867",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -3006,25 +1837,25 @@
   {
     "title": "Piedra Libre",
     "director": "Leopoldo Torre Nilsson",
-    "year": "1981",
+    "year": "1976",
     "showtimes": [
       "2024-09-20T20:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Drama",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/b4KDDBw3ehWlI9jGaazQcpgPLcv.jpg",
+    "imdbid": "tt0073542",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS"
   },
   {
-    "title": "Nocturna: Màs Allà De La Tierra",
+    "title": "Màs Allà De La Tierra",
     "director": "Joseph M. Newman y Jack Arnold",
-    "year": "1982",
+    "year": "",
     "showtimes": [
       "2024-09-21T00:00:00"
     ],
@@ -3042,12 +1873,12 @@
   {
     "title": "Prisioneros De Una Noche",
     "director": "David José Kohon",
-    "year": "957",
+    "year": "1962",
     "showtimes": [
       "2024-09-22T20:00:00"
     ],
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 49 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Argentina",
+    "genre": "Drama",
     "duration": "",
     "theater": "MALBA",
     "poster": "https://image.tmdb.org/t/p/w500/ciRXlEJrU5jiAJMOn8ZNGTXgkgv.jpg",
@@ -3060,25 +1891,25 @@
   {
     "title": "Boquitas Pintadas",
     "director": "Leopoldo Torre Nilsson",
-    "year": "1983",
+    "year": "1974",
     "showtimes": [
       "2024-09-22T22:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Acción, Comedia, Pintura.",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/jz4bfmISusXc3RipRdoyeB7jn9K.jpg",
+    "imdbid": "tt0071238",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS"
   },
   {
-    "title": "Nocturna: Película Sorpresa",
+    "title": "Película Sorpresa",
     "director": "sorpreso",
-    "year": "1307",
+    "year": "",
     "showtimes": [
       "2024-09-28T00:00:00"
     ],
@@ -3096,16 +1927,16 @@
   {
     "title": "Y Que Patatín Y Que Patatán",
     "director": "Mario Sábato",
-    "year": "1984",
+    "year": "1971",
     "showtimes": [
       "2024-09-29T20:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Drama, Comedia",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/mXEtMBqjbSNf1ted1eM7RwdfMuM.jpg",
+    "imdbid": "tt0175340",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -3114,16 +1945,16 @@
   {
     "title": "Adiós Sui Generis",
     "director": "Bebe Kamin",
-    "year": "1985",
+    "year": "1976",
     "showtimes": [
       "2024-09-29T22:00:00"
     ],
-    "nationality": "",
-    "genre": "",
+    "nationality": "Argentina",
+    "genre": "Documental, drama.",
     "duration": "",
     "theater": "MALBA",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/y8PL9jNDv2El9JnRmemeTzr9v8Y.jpg",
+    "imdbid": "tt0189337",
     "trailer": "",
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
@@ -3132,17 +1963,17 @@
   {
     "title": "Nubes Flotantes",
     "director": "",
-    "year": 2024,
+    "year": "1955",
     "showtimes": [
       "2024-09-07T15:00:00",
       "2024-09-07T21:00:00"
     ],
-    "genre": "",
+    "genre": "Acción, Comedia, Pintura.",
     "duration": "",
-    "nationality": "",
+    "nationality": "Japón",
     "theater": "Leopoldo Lugones",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/qOxyc8KvdLZutKYEgqPkScQL4cv.jpg",
+    "imdbid": "tt0048757",
     "trailer": "",
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
     "website": "https://complejoteatral.gob.ar/cine",
@@ -3151,18 +1982,18 @@
   {
     "title": "Crisantemos Tardios",
     "director": "",
-    "year": 2024,
+    "year": "1954",
     "showtimes": [
       "2024-09-07T18:00:00",
       "2024-09-08T15:00:00",
       "2024-09-08T21:00:00"
     ],
-    "genre": "",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "",
+    "nationality": "Japón",
     "theater": "Leopoldo Lugones",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/e3cwwGKhwPcmsdLV8Kktu7BCk7v.jpg",
+    "imdbid": "tt0046750",
     "trailer": "",
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
     "website": "https://complejoteatral.gob.ar/cine",
@@ -3171,7 +2002,7 @@
   {
     "title": "Lluvia Repentina",
     "director": "",
-    "year": 2024,
+    "year": "",
     "showtimes": [
       "2024-09-08T18:00:00",
       "2024-09-11T15:00:00",
@@ -3191,18 +2022,18 @@
   {
     "title": "Marido Y Mujer",
     "director": "",
-    "year": 2024,
+    "year": "2017",
     "showtimes": [
       "2024-09-10T15:00:00",
       "2024-09-10T21:00:00"
     ],
-    "genre": "",
+    "genre": "Comedia",
     "duration": "",
-    "nationality": "",
+    "nationality": "Italia",
     "theater": "Leopoldo Lugones",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
+    "poster": "https://image.tmdb.org/t/p/w500/4DOI8zRChA2x7tBQowLfintVQ9s.jpg",
+    "imdbid": "tt5753552",
+    "trailer": "https://www.youtube.com/watch?v=1org4MBIaJY",
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
     "website": "https://complejoteatral.gob.ar/cine",
     "price": "4000 ARS / 2000 ARS"
@@ -3210,19 +2041,19 @@
   {
     "title": "Hijas, Esposas Y Una Madre",
     "director": "",
-    "year": 2024,
+    "year": "1960",
     "showtimes": [
       "2024-09-10T18:00:00",
       "2024-09-12T15:00:00",
       "2024-09-13T18:00:00"
     ],
-    "genre": "",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "",
+    "nationality": "Japón",
     "theater": "Leopoldo Lugones",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
+    "poster": "https://image.tmdb.org/t/p/w500/f57wkej4DtXFZK8imM3n2bQxaAO.jpg",
+    "imdbid": "tt0054105",
+    "trailer": "https://www.youtube.com/watch?v=gDEZhP7vcGo",
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
     "website": "https://complejoteatral.gob.ar/cine",
     "price": "4000 ARS / 2000 ARS"
@@ -3230,7 +2061,7 @@
   {
     "title": "Su Camino Solitario",
     "director": "",
-    "year": 2024,
+    "year": "",
     "showtimes": [
       "2024-09-11T18:00:00",
       "2024-09-13T15:00:00",
@@ -3250,18 +2081,18 @@
   {
     "title": "Vida De Casado",
     "director": "",
-    "year": 2024,
+    "year": "1951",
     "showtimes": [
       "2024-09-12T18:00:00",
       "2024-09-15T15:00:00",
       "2024-09-15T21:00:00"
     ],
-    "genre": "",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "",
+    "nationality": "Japón",
     "theater": "Leopoldo Lugones",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/cWK2cRiF2vW67XqWnGZ6GD8eTV.jpg",
+    "imdbid": "tt0043801",
     "trailer": "",
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
     "website": "https://complejoteatral.gob.ar/cine",
@@ -3270,18 +2101,18 @@
   {
     "title": "El Relampago",
     "director": "",
-    "year": 2024,
+    "year": "1980",
     "showtimes": [
       "2024-09-14T15:00:00",
       "2024-09-14T21:00:00",
       "2024-09-17T18:00:00"
     ],
-    "genre": "",
+    "genre": "Documental",
     "duration": "",
-    "nationality": "",
+    "nationality": "13. Suecia",
     "theater": "Leopoldo Lugones",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/dFIaPUhcHCx51kEHfwWoBBgtLg0.jpg",
+    "imdbid": "tt0081055",
     "trailer": "",
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
     "website": "https://complejoteatral.gob.ar/cine",
@@ -3290,18 +2121,18 @@
   {
     "title": "Una Mujer Indomable",
     "director": "",
-    "year": 2024,
+    "year": "1957",
     "showtimes": [
       "2024-09-17T15:00:00",
       "2024-09-17T21:00:00",
       "2024-09-18T18:00:00"
     ],
-    "genre": "",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "",
+    "nationality": "Japón",
     "theater": "Leopoldo Lugones",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/zxgQPtJalcdjwtqzigcpKNGlBnq.jpg",
+    "imdbid": "tt0050136",
     "trailer": "",
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
     "website": "https://complejoteatral.gob.ar/cine",
@@ -3310,15 +2141,15 @@
   {
     "title": "A La Deriva",
     "director": "",
-    "year": 2024,
+    "year": "2018",
     "showtimes": [
       "2024-09-18T15:00:00",
       "2024-09-19T15:00:00",
       "2024-09-19T21:00:00"
     ],
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 48 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Thriller, romance, aventura",
     "duration": "",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 48 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "China, Estados Unidos de América",
     "theater": "Leopoldo Lugones",
     "poster": "https://image.tmdb.org/t/p/w500/5gLDeADaETvwQlQow5szlyuhLbj.jpg",
     "imdbid": "tt6306064",
@@ -3330,18 +2161,18 @@
   {
     "title": "La Voz De La Montaña",
     "director": "",
-    "year": 2024,
+    "year": "1954",
     "showtimes": [
       "2024-09-20T15:00:00",
       "2024-09-20T21:00:00",
       "2024-09-21T18:00:00"
     ],
-    "genre": "",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "",
+    "nationality": "Japón",
     "theater": "Leopoldo Lugones",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/mzdKn2Eo5rZCV3fzBjVdxAI0KM8.jpg",
+    "imdbid": "tt0047682",
     "trailer": "",
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
     "website": "https://complejoteatral.gob.ar/cine",
@@ -3350,19 +2181,19 @@
   {
     "title": "Cuando Una Mujer Sube La Escalera",
     "director": "",
-    "year": 2024,
+    "year": "1960",
     "showtimes": [
       "2024-09-21T15:00:00",
       "2024-09-21T21:00:00",
       "2024-09-22T18:00:00"
     ],
-    "genre": "",
+    "genre": "Drama",
     "duration": "",
-    "nationality": "",
+    "nationality": "Japón",
     "theater": "Leopoldo Lugones",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
+    "poster": "https://image.tmdb.org/t/p/w500/miGb5TwM8SIK5URe0mPMOYZqr3g.jpg",
+    "imdbid": "tt0054144",
+    "trailer": "https://www.youtube.com/watch?v=ooW3aSKfsVA",
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
     "website": "https://complejoteatral.gob.ar/cine",
     "price": "4000 ARS / 2000 ARS"
@@ -3370,18 +2201,18 @@
   {
     "title": "Nubes Dispersas",
     "director": "",
-    "year": 2024,
+    "year": "1967",
     "showtimes": [
       "2024-09-22T15:00:00",
       "2024-09-22T21:00:00",
       "2024-09-24T18:00:00"
     ],
-    "genre": "",
+    "genre": "Drama, Thriller.",
     "duration": "",
-    "nationality": "",
+    "nationality": "Japón",
     "theater": "Leopoldo Lugones",
-    "poster": "",
-    "imdbid": "",
+    "poster": "https://image.tmdb.org/t/p/w500/g2vXkiwEgkL3HkDyohqx8K8PFhZ.jpg",
+    "imdbid": "tt0061971",
     "trailer": "",
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
     "website": "https://complejoteatral.gob.ar/cine",
@@ -3390,14 +2221,14 @@
   {
     "title": "Sin Aliento",
     "director": "Jean-Luc Godard",
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 48 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama - Crimen",
     "duration": "90′Dirección: Jean-Luc Godard",
     "showtimes": [
       "2024-09-06T18:00:00",
       "2024-09-28T18:00:00"
     ],
     "year": "1960",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 48 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Francia",
     "theater": "Bellas Artes",
     "poster": "https://image.tmdb.org/t/p/w500/9Wx0Wdn2EOqeCZU4SP6tlS3LOml.jpg",
     "imdbid": "tt0053472",
@@ -3409,14 +2240,14 @@
   {
     "title": "Hiroshima, Mon Amour",
     "director": "Alain Resnais",
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 48 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "Drama, historia, romance",
     "duration": "88′Dirección: Alain Resnais",
     "showtimes": [
       "2024-09-07T18:00:00",
       "2024-09-27T18:00:00"
     ],
     "year": "1959",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 48 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "Francia, Japón",
     "theater": "Bellas Artes",
     "poster": "https://image.tmdb.org/t/p/w500/adLWFW0JC8f3wjhnfBnHlf85Poh.jpg",
     "imdbid": "tt0052893",
@@ -3446,17 +2277,17 @@
   {
     "title": "Los Paraguas De Cherburgo",
     "director": "Jacques DemyDuración: 91′",
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 48 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "",
     "duration": "91′",
     "showtimes": [
       "2024-09-14T18:00:00"
     ],
     "year": "1964Dirección: Jacques Demy",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 48 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "",
     "theater": "Bellas Artes",
-    "poster": "https://image.tmdb.org/t/p/w500/7XHxvEo1C1GzbTkZuH8aAU8wOeV.jpg",
-    "imdbid": "tt0058450",
-    "trailer": "https://www.youtube.com/watch?v=U5KAmPDg8qA",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
     "address": "https://maps.app.goo.gl/ktW2nt3wQhxT4grU7",
     "website": "https://amigosdelbellasartes.org.ar/cine/",
     "price": "Gratis, con inscripción"
@@ -3482,17 +2313,17 @@
   {
     "title": "Cuento De Verano",
     "director": "Éric RohmerDuración: 113′",
-    "genre": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 48 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "genre": "",
     "duration": "113′",
     "showtimes": [
       "2024-09-21T18:00:00"
     ],
     "year": "1996Dirección: Éric Rohmer",
-    "nationality": "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 48 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE",
+    "nationality": "",
     "theater": "Bellas Artes",
-    "poster": "https://image.tmdb.org/t/p/w500/l3syqgYqqfqPVheINI5jOBN5hXL.jpg",
-    "imdbid": "tt0115940",
-    "trailer": "https://www.youtube.com/watch?v=rsBodd_UqJE",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
     "address": "https://maps.app.goo.gl/ktW2nt3wQhxT4grU7",
     "website": "https://amigosdelbellasartes.org.ar/cine/",
     "price": "Gratis, con inscripción"
