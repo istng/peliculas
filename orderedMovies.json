@@ -2348,22 +2348,6 @@
     "showtime": "2024-09-04T16:45:00"
   },
   {
-    "title": "Karakol",
-    "director": "Saula Benavente",
-    "year": 2020,
-    "genre": "Drama",
-    "duration": "",
-    "nationality": "Argentina, Uzbekistán.",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/pIIW8qKhOKmYrL2nDEVbcEfbIQO.jpg",
-    "imdbid": "tt13462560",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-04T17:30:00"
-  },
-  {
     "date": "29/08/2024 al 04/09/2024",
     "title": "Tuve El Corazón",
     "times": [
@@ -2438,22 +2422,6 @@
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-09-04T19:00:00"
-  },
-  {
-    "title": "La Película Infinita",
-    "director": "Leandro Listorti",
-    "year": 2018,
-    "genre": "Documental, fantasía",
-    "duration": "",
-    "nationality": "Argentina",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/xLjNpu7PMou1aD62IREKZ4rzY63.jpg",
-    "imdbid": "tt7780808",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-04T19:30:00"
   },
   {
     "date": "4/9/2024",
@@ -3160,6 +3128,22 @@
     "showtime": "2024-09-06T16:30:00"
   },
   {
+    "title": "Karakol",
+    "director": "Saula Benavente",
+    "year": 2020,
+    "genre": "Drama",
+    "duration": "",
+    "nationality": "Argentina, Uzbekistán.",
+    "theater": "CCK",
+    "poster": "https://image.tmdb.org/t/p/w500/pIIW8qKhOKmYrL2nDEVbcEfbIQO.jpg",
+    "imdbid": "tt13462560",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-06T17:30:00"
+  },
+  {
     "date": "05/09/2024 al 09/09/2024 y 11/09/2024 (SE SUSPENDE EL MARTES 10)",
     "title": "Robotia",
     "times": [
@@ -3267,6 +3251,22 @@
     "website": "http://www.incaa.gov.ar/complejo-gaumont",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-09-06T18:40:00"
+  },
+  {
+    "title": "La Película Infinita",
+    "director": "Leandro Listorti",
+    "year": 2018,
+    "genre": "Documental, fantasía",
+    "duration": "",
+    "nationality": "Argentina",
+    "theater": "CCK",
+    "poster": "https://image.tmdb.org/t/p/w500/xLjNpu7PMou1aD62IREKZ4rzY63.jpg",
+    "imdbid": "tt7780808",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-06T19:30:00"
   },
   {
     "date": "05/09/2024 al 09/09/2024 y 11/09/2024 (SE SUSPENDE EL MARTES 10)",
@@ -3607,14 +3607,14 @@
   },
   {
     "title": "El Tango En El Cine",
-    "director": "Guillermo Fernández Jurado y Rodolfo Corral",
+    "director": "Guillermo Fernández Jurado and Rodolfo Corral",
     "year": 1978,
     "genre": "",
     "duration": "",
     "nationality": "",
     "theater": "CCK",
     "poster": "",
-    "imdbid": "tt0301918",
+    "imdbid": "",
     "trailer": "",
     "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
@@ -5162,22 +5162,6 @@
     "showtime": "2024-09-11T16:30:00"
   },
   {
-    "title": "El Cajón",
-    "director": "Saula Benavente",
-    "year": 2006,
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-11T17:30:00"
-  },
-  {
     "date": "05/09/2024 al 09/09/2024 y 11/09/2024 (SE SUSPENDE EL MARTES 10)",
     "title": "Robotia",
     "times": [
@@ -5285,22 +5269,6 @@
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-09-11T19:00:00"
-  },
-  {
-    "title": "Los Jóvenes Muertos",
-    "director": "Leandro Listorti",
-    "year": 2010,
-    "genre": "Documental",
-    "duration": "",
-    "nationality": "Argentina",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/kXIduTwdLYUwflQ8rw1sZMp86FW.jpg",
-    "imdbid": "tt1471173",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-11T19:30:00"
   },
   {
     "date": "05/09/2024 al 09/09/2024 y 11/09/2024 (SE SUSPENDE EL MARTES 10)",
@@ -5586,6 +5554,22 @@
     "showtime": "2024-09-13T16:30:00"
   },
   {
+    "title": "El Cajón",
+    "director": "Saula Benavente",
+    "year": 2006,
+    "genre": "",
+    "duration": "",
+    "nationality": "",
+    "theater": "CCK",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-13T17:30:00"
+  },
+  {
     "title": "Italpark",
     "director": "Juan Carlos Domínguez",
     "year": "2024",
@@ -5650,7 +5634,7 @@
     "showtime": "2024-09-13T18:00:00"
   },
   {
-    "title": "El Exilio De Gardel (Tangos)",
+    "title": "El Exilio De Gardel",
     "director": "Pino Solanas",
     "year": 1985,
     "genre": "Música/Teatro",
@@ -5664,6 +5648,22 @@
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-09-13T18:30:00"
+  },
+  {
+    "title": "Los Jóvenes Muertos",
+    "director": "Leandro Listorti",
+    "year": 2010,
+    "genre": "Documental",
+    "duration": "",
+    "nationality": "Argentina",
+    "theater": "CCK",
+    "poster": "https://image.tmdb.org/t/p/w500/kXIduTwdLYUwflQ8rw1sZMp86FW.jpg",
+    "imdbid": "tt1471173",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-13T19:30:00"
   },
   {
     "title": "El Agrónomo",
@@ -5794,22 +5794,6 @@
     "showtime": "2024-09-14T15:30:00"
   },
   {
-    "title": "Saluzzi, Ensayo Para Bandoneón Y Tres Hermanos",
-    "director": "Daniel Rosenfeld",
-    "year": 2000,
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "tt0258942",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-14T16:30:00"
-  },
-  {
     "title": "Así Cantaba Carlos Gardel",
     "director": "Eduardo Morera",
     "year": 1935,
@@ -5819,6 +5803,22 @@
     "theater": "CCK",
     "poster": "https://image.tmdb.org/t/p/w500/4qPy4LnXtnMC77HZ98Yk1PQpinJ.jpg",
     "imdbid": "tt3197278",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-14T16:30:00"
+  },
+  {
+    "title": "Saluzzi, Ensayo Para Bandoneón Y Tres Hermanos",
+    "director": "Daniel Rosenfeld",
+    "year": 2000,
+    "genre": "",
+    "duration": "",
+    "nationality": "",
+    "theater": "CCK",
+    "poster": "",
+    "imdbid": "tt0258942",
     "trailer": "",
     "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
@@ -5840,6 +5840,22 @@
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-09-14T17:00:00"
+  },
+  {
+    "title": "La Película Infinita",
+    "director": "Leandro Listorti",
+    "year": 2018,
+    "genre": "Documental, fantasía",
+    "duration": "",
+    "nationality": "Argentina",
+    "theater": "CCK",
+    "poster": "https://image.tmdb.org/t/p/w500/xLjNpu7PMou1aD62IREKZ4rzY63.jpg",
+    "imdbid": "tt7780808",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-14T17:30:00"
   },
   {
     "title": "Los Caballeros De La Mesa Cuadrada",
@@ -5920,6 +5936,22 @@
     "website": "https://elculturalsanmartin.ar/cine/",
     "price": "2000 ARS / 1000 ARS",
     "showtime": "2024-09-14T19:00:00"
+  },
+  {
+    "title": "Karakol",
+    "director": "Saula Benavente",
+    "year": 2020,
+    "genre": "Drama",
+    "duration": "",
+    "nationality": "Argentina, Uzbekistán.",
+    "theater": "CCK",
+    "poster": "https://image.tmdb.org/t/p/w500/pIIW8qKhOKmYrL2nDEVbcEfbIQO.jpg",
+    "imdbid": "tt13462560",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-14T19:30:00"
   },
   {
     "title": "Bandidos Del Tiempo",
@@ -6163,14 +6195,14 @@
   },
   {
     "title": "Crónica De Un Verano",
-    "director": "Jean Rouch",
+    "director": null,
     "year": 1960,
-    "genre": "Documental",
+    "genre": "",
     "duration": "",
-    "nationality": "Francia",
+    "nationality": "",
     "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/cKsFs0FUJBy4b8ihPpaeyRl2SJs.jpg",
-    "imdbid": "tt0054745",
+    "poster": "",
+    "imdbid": "",
     "trailer": "",
     "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
@@ -6322,22 +6354,6 @@
     "showtime": "2024-09-18T15:00:00"
   },
   {
-    "title": "Karakol",
-    "director": "Saula Benavente",
-    "year": 2020,
-    "genre": "Drama",
-    "duration": "",
-    "nationality": "Argentina, Uzbekistán.",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/pIIW8qKhOKmYrL2nDEVbcEfbIQO.jpg",
-    "imdbid": "tt13462560",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-18T17:30:00"
-  },
-  {
     "title": "Una Mujer Indomable",
     "director": "Mikio Naruse",
     "year": "1957",
@@ -6384,22 +6400,6 @@
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-09-18T19:00:00"
-  },
-  {
-    "title": "La Película Infinita",
-    "director": "Leandro Listorti",
-    "year": 2018,
-    "genre": "Documental, fantasía",
-    "duration": "",
-    "nationality": "Argentina",
-    "theater": "CCK",
-    "poster": "https://image.tmdb.org/t/p/w500/xLjNpu7PMou1aD62IREKZ4rzY63.jpg",
-    "imdbid": "tt7780808",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-18T19:30:00"
   },
   {
     "title": "El Auge Del Humano 3",
@@ -6851,14 +6851,14 @@
   },
   {
     "title": "El Tango En El Cine",
-    "director": "Guillermo Fernández Jurado y Rodolfo Corral",
+    "director": "Guillermo Fernández Jurado and Rodolfo Corral",
     "year": 1978,
     "genre": "",
     "duration": "",
     "nationality": "",
     "theater": "CCK",
     "poster": "",
-    "imdbid": "tt0301918",
+    "imdbid": "",
     "trailer": "",
     "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
@@ -7586,7 +7586,7 @@
     "showtime": "2024-09-27T18:00:00"
   },
   {
-    "title": "El Exilio De Gardel (Tangos)",
+    "title": "El Exilio De Gardel",
     "director": "Pino Solanas",
     "year": 1985,
     "genre": "Música/Teatro",
@@ -7794,22 +7794,6 @@
     "showtime": "2024-09-28T15:30:00"
   },
   {
-    "title": "Saluzzi, Ensayo Para Bandoneón Y Tres Hermanos",
-    "director": "Daniel Rosenfeld",
-    "year": 2000,
-    "genre": "",
-    "duration": "",
-    "nationality": "",
-    "theater": "CCK",
-    "poster": "",
-    "imdbid": "tt0258942",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "showtime": "2024-09-28T16:30:00"
-  },
-  {
     "title": "Así Cantaba Carlos Gardel",
     "director": "Eduardo Morera",
     "year": 1935,
@@ -7819,6 +7803,22 @@
     "theater": "CCK",
     "poster": "https://image.tmdb.org/t/p/w500/4qPy4LnXtnMC77HZ98Yk1PQpinJ.jpg",
     "imdbid": "tt3197278",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "showtime": "2024-09-28T16:30:00"
+  },
+  {
+    "title": "Saluzzi, Ensayo Para Bandoneón Y Tres Hermanos",
+    "director": "Daniel Rosenfeld",
+    "year": 2000,
+    "genre": "",
+    "duration": "",
+    "nationality": "",
+    "theater": "CCK",
+    "poster": "",
+    "imdbid": "tt0258942",
     "trailer": "",
     "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
     "website": "https://www.cck.gob.ar/cine/",
