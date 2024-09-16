@@ -1,0 +1,5081 @@
+{
+  "Beetlejuice (1988)": [
+    {
+      "name": "September 03 - September 09, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-03T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Bajo El Sol Del Rocanrol": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T19:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Agr\u00f3nomo (Apta Hipoac\u00fasicos)": [
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T19:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Moebius": [
+    {
+      "name": "August 30 - September 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-30T19:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Picado Fino + Rey Muerto (Corto 12\u2032)": [
+    {
+      "name": "August 31 - September 06, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-31T19:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Rapado + Cuesta Abajo (Corto 11\u2032)": [
+    {
+      "name": "September 01 - September 07, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-01T19:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Hombre Mirando Al Sudeste": [
+    {
+      "name": "September 02 - September 08, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-02T19:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Poderes Ocultos": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T14:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-29T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T14:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-30T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T14:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-31T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T14:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-01T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T14:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-02T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T14:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-04T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Tiempo Largo Y Jodido\u2026 Qu\u00e9 Quieres Que Te Diga?": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T18:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T18:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T18:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T18:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T18:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-03T18:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T18:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "B\u00fafalo": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T12:40:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-29T16:45:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-29T20:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T12:40:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-30T16:45:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-30T20:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T12:40:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-31T16:45:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-31T20:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T12:40:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-01T16:45:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-01T20:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T12:40:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-02T16:45:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-02T20:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-03T12:40:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-03T16:45:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-03T20:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T12:40:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-04T16:45:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-04T20:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-05T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-06T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-07T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-08T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-09T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 10 - September 16, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-10T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-11T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Hombre Muerto": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T12:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-29T15:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-29T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T12:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-30T15:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-30T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T12:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-31T15:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-31T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T12:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-01T15:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-01T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T12:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-02T15:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-02T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-03T12:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-03T15:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-03T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T12:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-04T15:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-04T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-05T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-06T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-07T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-08T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-09T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 10 - September 16, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-10T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-11T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Silvia Prieto": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-03T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T22:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-05T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-06T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-07T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-08T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-09T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T20:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Tuve El Coraz\u00f3n": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T17:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T17:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T17:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T17:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T17:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-03T17:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T17:45:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-05T14:20:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-06T14:20:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-07T14:20:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-08T14:20:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-09T14:20:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 10 - September 16, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-10T14:20:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-11T14:20:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "\u00d3regano La Familia Fracaso": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T14:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T14:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T14:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T14:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T14:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-03T14:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T14:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Cr\u00f3nicas De Una Santa Errante": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-05T16:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-06T16:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-07T16:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-08T16:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-09T16:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 10 - September 16, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-10T16:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-11T16:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Agr\u00f3nomo": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T14:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T14:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T14:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T14:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T14:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-03T14:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T14:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-06T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Culpa De Nada": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-03T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T22:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-05T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 12 - September 18, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-12T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-19T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Gigantes, Una Aventura Extraordinaria": [
+    {
+      "name": "August 29 - September 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-08-29T12:20:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-29T16:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-08-30T12:20:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-30T16:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-08-31T12:20:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-08-31T16:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-01T12:20:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-01T16:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-02T12:20:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-02T16:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T12:20:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-04T16:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-05T12:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-06T12:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-07T12:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-08T12:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-09T12:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 10 - September 16, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-10T12:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-11T12:30:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Maxxxine": [
+    {
+      "name": "September 10 - September 16, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-10T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Conversi\u00f3n": [
+    {
+      "name": "September 05 - September 11, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-05T18:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-06T18:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-07T18:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-08T18:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-09T18:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-10T18:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T18:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Robotia": [
+    {
+      "name": "September 05 - September 11, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-05T16:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-05T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-06T16:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-06T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-07T16:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-07T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-08T16:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-08T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-09T16:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-09T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T16:00:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-11T18:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Tempus Fugit": [
+    {
+      "name": "September 05 - September 11, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-05T12:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-05T14:10:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-05T20:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-06T12:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-06T14:10:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-06T20:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-07T12:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-07T14:10:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-07T20:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-08T12:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-08T14:10:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-08T20:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-09T12:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-09T14:10:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-09T20:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-10T12:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-10T14:10:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-10T20:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T12:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-11T14:10:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-11T20:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Otra Memoria Del Mundo": [
+    {
+      "name": "September 05 - September 11, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-05T18:40:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-06T18:40:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-07T18:40:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-08T18:40:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-09T18:40:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-10T18:40:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T18:40:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Historia Universal": [
+    {
+      "name": "September 05 - September 11, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-05T21:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-06T21:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-07T21:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-08T21:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-09T21:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-10T21:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T21:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Relatos Salvajes": [
+    {
+      "name": "September 05 - September 11, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-05T13:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-05T16:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-05T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-06T13:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-06T16:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-06T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-07T13:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-07T16:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-07T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-08T13:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-08T16:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-08T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-09T13:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-09T16:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-09T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-10T16:15:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T13:30:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-11T16:15:00",
+            "theater": "Gaumont"
+          },
+          {
+            "showtime": "2024-09-11T22:00:00",
+            "theater": "Gaumont"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Volver Al Futuro": [
+    {
+      "name": "September 01 - September 07, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-01T17:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 07 - September 13, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-07T15:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Hook": [
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T15:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Mrs Doubtfire, Pap\u00e1 Por Siempre": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T15:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Jumanji": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T15:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Los Caballeros De La Mesa Cuadrada": [
+    {
+      "name": "September 05 - September 11, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-05T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Bandidos Del Tiempo": [
+    {
+      "name": "September 06 - September 12, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-06T21:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Sentido De La Vida": [
+    {
+      "name": "September 08 - September 14, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-08T17:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T17:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Brazil": [
+    {
+      "name": "September 08 - September 14, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-08T19:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T19:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Las Aventuras Del Bar\u00f3n Munchausen": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T17:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-19T20:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Pescador De Ilusiones": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T19:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-20T20:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "12 Monos": [
+    {
+      "name": "September 12 - September 18, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-12T20:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T20:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "P\u00e1nico Y Locura En Las Vegas": [
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T20:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T20:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Estrella Que Perd\u00ed": [
+    {
+      "name": "September 08 - September 14, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-08T16:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T16:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Placer Es M\u00edo": [
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T21:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-18T21:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 25 - October 01, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-25T21:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Despu\u00e9s De Un Buen D\u00eda": [
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T22:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-14T17:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T22:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-21T17:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T22:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-28T17:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Mixtape La Pampa": [
+    {
+      "name": "September 07 - September 13, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-07T18:30:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Italpark": [
+    {
+      "name": "September 06 - September 12, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-06T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Imprenteros": [
+    {
+      "name": "September 05 - September 11, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-05T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-08T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T19:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          },
+          {
+            "showtime": "2024-09-14T22:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-15T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T19:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          },
+          {
+            "showtime": "2024-09-21T22:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-22T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T19:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          },
+          {
+            "showtime": "2024-09-28T22:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-29T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Se\u00f1or Jazz. La Pel\u00edcula De Carlos Inzillo": [
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T19:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-18T19:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 25 - October 01, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-25T19:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Viento Que Arrasa": [
+    {
+      "name": "September 07 - September 13, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-07T21:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T21:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T21:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T21:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Herencia": [
+    {
+      "name": "September 08 - September 14, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-08T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Familia Lugones": [
+    {
+      "name": "September 12 - September 18, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-12T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Lluvia": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Un Amor": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-19T20:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Los Son\u00e1mbulos": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Doce Clavos": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Las Siamesas": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "Cultural San Mart\u00edn"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Piel De Verano": [
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T18:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Mano En La Trampa": [
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T20:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Coraz\u00f3n Salvaje": [
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T00:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Parti\u00f3 De M\u00ed Un Barco Llev\u00e1ndome": [
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T18:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T18:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T18:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Pr\u00e0ctica": [
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T20:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T20:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T20:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Alemania": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T00:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T00:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T00:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Francisco Lezama Y Agostina G\u00e1lvez": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T18:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Homenaje A La Hora De La Siesta": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T20:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Setenta Veces Siete": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T22:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Fin De Fiesta": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-19T19:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Maffia ": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-19T21:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Dependiente": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-19T23:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Protegido ": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T18:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Piedra Libre": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T20:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "M\u00e0s All\u00e0 De La Tierra": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T00:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Prisioneros De Una Noche": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T20:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Boquitas Pintadas": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T22:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Pel\u00edcula Sorpresa": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T00:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Y Que Patat\u00edn Y Que Patat\u00e1n": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T20:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Adi\u00f3s Sui Generis": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T22:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Sin Aliento": [
+    {
+      "name": "September 06 - September 12, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-06T18:00:00",
+            "theater": "Bellas Artes"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T18:00:00",
+            "theater": "Bellas Artes"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Hiroshima, Mon Amour": [
+    {
+      "name": "September 07 - September 13, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-07T18:00:00",
+            "theater": "Bellas Artes"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T18:00:00",
+            "theater": "Bellas Artes"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Cl\u00e9o De 5 A 7": [
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T18:00:00",
+            "theater": "Bellas Artes"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Los Paraguas De Cherburgo": [
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T18:00:00",
+            "theater": "Bellas Artes"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Carta Desde Siberia": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T18:00:00",
+            "theater": "Bellas Artes"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Cuento De Verano": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T18:00:00",
+            "theater": "Bellas Artes"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Auge Del Humano 3": [
+    {
+      "name": "September 12 - September 18, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-12T20:30:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-13T20:30:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-15T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-18T20:30:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-19T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "2": [
+          {
+            "showtime": "2024-09-20T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Lluvia Repentina": [
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-11T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Su Camino Solitario": [
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-13T15:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-14T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Hijas, Esposas Y Una Madre": [
+    {
+      "name": "September 12 - September 18, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-12T15:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-13T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Vida De Casado": [
+    {
+      "name": "September 12 - September 18, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-12T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-15T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-15T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Relampago": [
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-14T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-17T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Una Mujer Indomable": [
+    {
+      "name": "September 17 - September 23, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-17T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-17T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-18T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "A La Deriva": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-18T15:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-19T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-19T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Voz De La Monta\u00f1a": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-20T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-21T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Cuando Una Mujer Sube La Escalera": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-21T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Nubes Dispersas": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-22T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-24T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Rey De Los Alisos": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Caballito De Mar": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Baile De Las Brujas": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Cr\u00f3nica De Un Verano": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-15T18:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Fractura": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Regreso A C\u00f3rcega": [
+    {
+      "name": "September 08 - September 14, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-08T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Asesino Vive En El 21": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Las Diab\u00f3licas": [
+    {
+      "name": "September 08 - September 14, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-08T18:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Rompehielos": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Sonriente Se\u00f1ora Beudet": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Los Amores Del Pulpo": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Erizos De Mar": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Murci\u00e9lago": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Karakol": [
+    {
+      "name": "September 06 - September 12, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-06T17:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T19:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Pel\u00edcula Infinita": [
+    {
+      "name": "September 06 - September 12, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-06T19:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T17:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Caj\u00f3n": [
+    {
+      "name": "September 07 - September 13, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-07T19:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T17:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Los J\u00f3venes Muertos": [
+    {
+      "name": "September 07 - September 13, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-07T17:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T19:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Fuck You! El \u00daltimo Show": [
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-04T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-18T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Jorge Polaco": [
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-11T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 25 - October 01, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-25T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Cifra Impar": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T17:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Circe": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T17:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [
+          {
+            "showtime": "2024-09-21T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Intimidad De Los Parques": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T19:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "As\u00ed Cantaba Carlos Gardel": [
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Tango En El Cine": [
+    {
+      "name": "September 07 - September 13, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-07T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Caf\u00e9 De Los Maestros": [
+    {
+      "name": "September 07 - September 13, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-07T18:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-21T18:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Roberto Goyeneche, Las Formas De La Noche": [
+    {
+      "name": "September 06 - September 12, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-06T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Sur": [
+    {
+      "name": "September 06 - September 12, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-06T18:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-20T18:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Exilio De Gardel": [
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T18:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T18:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Piazzolla, Los A\u00f1os Del Tibur\u00f3n": [
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-13T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Saluzzi, Ensayo Para Bandone\u00f3n Y Tres Hermanos": [
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-14T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Misi\u00f3n Peluche": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-26T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "\u00a1Llam\u00e1, Gloria!": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-26T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Acto Por Partes": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-26T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El \u00daltimo Bochazo": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-26T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Ritual": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-26T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Collage": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-26T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Vendedor De Planetas": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-26T16:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Crecer Es Matar A Tu Madre": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-26T18:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Paisaje": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-26T18:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Otra Espera": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T17:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Oda Amarilla": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T17:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Evein": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Escuerzo": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-28T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Las Fieras": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T17:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Gigantograf\u00edas": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Cruzar Un Puente": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Todas Las Cosas Que Llevo Conmigo": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Nicaragua Y Uriarte": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Ciudad Y La Cautiva": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Marisqueros": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Noche De Baile": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-27T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ]
+}
