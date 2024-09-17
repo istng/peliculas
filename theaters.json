@@ -1,58 +1,163 @@
 {
-  "Gaumont": {
-    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
-    "website": "http://www.incaa.gov.ar/complejo-gaumont",
-    "price": "2000 ARS / 1000 ARS",
-    "city": "CABA",
-    "color": "#0000FF"
-  },
-  "Cultural San Martín": {
-    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
-    "website": "https://elculturalsanmartin.ar/cine/",
-    "price": "2000 ARS / 1000 ARS",
-    "city": "CABA",
-    "color": "#FF571A"
-  },
-  "CCK": {
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "city": "CABA",
-    "color": "#39537A"
+  "Casa de la PBA": {
+    "address": "https://www.google.com/maps/search/Casa+de+la+PBA/",
+    "website": "https://gba.gob.ar/casaPBA/agenda_cultural_casa_pba",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
   },
   "Biblioteca del Congreso": {
-    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
-    "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
-    "price": "Gratis, con inscripción",
-    "city": "CABA",
-    "color": "#ADD3C3"
+    "address": "https://www.google.com/maps/search/Biblioteca+del+Congreso/",
+    "website": "https://bcn.gob.ar/dias-de-cine/cinema-paradiso",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
   },
-  "MALBA": {
-    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS",
-    "city": "CABA",
-    "color": "#B3B3B3"
+  "Hasta trilce": {
+    "address": "https://www.google.com/maps/search/Hasta+trilce/",
+    "website": "https://www.alternativateatral.com/obra75124-pena-sin-cadenas ",
+    "price": "3500",
+    "city": "AMBA",
+    "color": "#000000"
   },
-  "DAC": {
-    "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
-    "website": "https://eventos.dac.org.ar/formulario/",
-    "price": "Gratis, con inscripción",
-    "city": "CABA",
-    "color": "#FF8000"
+  "Cosmos UBA": {
+    "address": "https://www.google.com/maps/search/Cosmos+UBA/",
+    "website": "https://www.cinecosmos.uba.ar/ ",
+    "price": "1640/980",
+    "city": "AMBA",
+    "color": "#000000"
   },
-  "Leopoldo Lugones": {
-    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-    "website": "https://complejoteatral.gob.ar/cine",
-    "price": "4000 ARS / 2000 ARS",
-    "city": "CABA",
-    "color": "#D9FFD7"
+  "Cine York": {
+    "address": "https://www.google.com/maps/search/Cine+York/",
+    "website": "https://lumiton.ar/agenda-presencial/ ",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
   },
-  "Bellas Artes": {
-    "address": "https://maps.app.goo.gl/ktW2nt3wQhxT4grU7",
-    "website": "https://amigosdelbellasartes.org.ar/cine/",
-    "price": "Gratis, con inscripción",
-    "city": "CABA",
-    "color": "#EEB8B8"
+  "Cine Arte Cacodelphia": {
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "website": "https://cineartecacodelphia.com.ar/",
+    "price": "3500",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "CC San Martín": {
+    "address": "https://www.google.com/maps/search/CC+San+Martín/",
+    "website": "https://elculturalsanmartin.ar/cine-nacional/",
+    "price": "1000",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Casa de la Lectura": {
+    "address": "https://www.google.com/maps/search/Casa+de+la+Lectura/",
+    "website": "https://agendacultural15.com/cine-para-lectores-en-casa-de-la-lectura-5/  ",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Centro Cultural Munro": {
+    "address": "https://www.google.com/maps/search/Centro+Cultural+Munro/",
+    "website": "https://lumiton.ar/agenda-presencial/ ",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "CC Recoleta": {
+    "address": "https://www.google.com/maps/search/CC+Recoleta/",
+    "website": "http://www.centroculturalrecoleta.org/agenda",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Fundación SAGAI": {
+    "address": "https://www.google.com/maps/search/Fundación+SAGAI/",
+    "website": "https://www.alternativateatral.com/evento2694-ciclo-de-cine-de-suspenso-en-fundacion-sagai",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Palacio El Victorial (Cineclub Sur)": {
+    "address": "https://www.google.com/maps/search/Palacio+El+Victorial+(Cineclub+Sur)/",
+    "website": "https://www.instagram.com/p/C_s62NWxL2R/?img_index=1",
+    "price": "1500",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Centro Cultural San Martin": {
+    "address": "https://www.google.com/maps/search/Centro+Cultural+San+Martin/",
+    "website": "https://www.instagram.com/p/C_OgOXNvp2Z/?img_index=1 ",
+    "price": "500/1000",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Casona Humahuaca": {
+    "address": "https://www.google.com/maps/search/Casona+Humahuaca/",
+    "website": "https://www.instagram.com/p/C_gHScSA8fj/?img_index=2",
+    "price": "A la gorra",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Gitana Cine": {
+    "address": "https://www.google.com/maps/search/Gitana+Cine/",
+    "website": "http://conti.derhuman.jus.gov.ar/2024/09/festival-futuros5.php#placer ",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "TAI Teatro": {
+    "address": "https://www.google.com/maps/search/TAI+Teatro/",
+    "website": "https://www.instagram.com/p/C_Y-J0avYbZ/  ",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Museo Del Cine": {
+    "address": "https://www.google.com/maps/search/Museo+Del+Cine/",
+    "website": " https://buenosaires.gob.ar/cultura/museos/museodelcine ",
+    "price": "500",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Museo Sarmiento": {
+    "address": "https://www.google.com/maps/search/Museo+Sarmiento/",
+    "website": "https://museosarmiento.cultura.gob.ar/actividad/ciclo-cine-y-literatura/",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "CC 25 de Mayo": {
+    "address": "https://www.google.com/maps/search/CC+25+de+Mayo/",
+    "website": "https://cc25.org/23-09-elda-y-los-monstruos/",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Biblioteca Nacional": {
+    "address": "https://www.google.com/maps/search/Biblioteca+Nacional/",
+    "website": "https://www.bn.gov.ar/agenda-cultural/la-nave-de-los-suenos-7",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Lumiton": {
+    "address": "https://www.google.com/maps/search/Lumiton/",
+    "website": "https://lumiton.ar/evento/safo-historia-de-una-pasion-3/ ",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "CC de la Cooperación": {
+    "address": "https://www.google.com/maps/search/CC+de+la+Cooperación/",
+    "website": "https://www.centrocultural.coop/eventos/yuyes-verdes-mujeres-y-disidencias-en-el-tango-del-siglo-xxi",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Casa del Bicentenario": {
+    "address": "https://www.google.com/maps/search/Casa+del+Bicentenario/",
+    "website": "https://casadelbicentenario.cultura.gob.ar/actividad/cnb-cine-rockumentales-de-invierno/",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
   }
 }
