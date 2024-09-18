@@ -1068,6 +1068,10 @@
         "4": [
           {
             "showtime": "2024-09-20T20:00:00",
+            "theater": "CC San Martín"
+          },
+          {
+            "showtime": "2024-09-20T20:00:00",
             "theater": "Cultural San Martín"
           },
           {
@@ -1077,6 +1081,10 @@
         ],
         "5": [],
         "6": [
+          {
+            "showtime": "2024-09-22T18:30:00",
+            "theater": "Cine York"
+          },
           {
             "showtime": "2024-09-22T18:30:00",
             "theater": "Cine York"
@@ -1092,6 +1100,14 @@
         "2": [],
         "3": [],
         "4": [
+          {
+            "showtime": "2024-09-27T20:00:00",
+            "theater": "CC San Martín"
+          },
+          {
+            "showtime": "2024-09-27T20:00:00",
+            "theater": "Centro Cultural San Martin"
+          },
           {
             "showtime": "2024-09-27T20:00:00",
             "theater": "Cultural San Martín"
@@ -1199,6 +1215,10 @@
         "1": [],
         "2": [],
         "3": [
+          {
+            "showtime": "2024-09-19T18:00:00",
+            "theater": "CC San Martín"
+          },
           {
             "showtime": "2024-09-19T18:00:00",
             "theater": "Cultural San Martín"
@@ -1426,6 +1446,10 @@
         "0": [],
         "1": [],
         "2": [
+          {
+            "showtime": "2024-09-18T19:05:00",
+            "theater": "Cosmos UBA"
+          },
           {
             "showtime": "2024-09-18T19:05:00",
             "theater": "Cosmos UBA"
@@ -1866,6 +1890,2286 @@
       }
     }
   ],
+  "Calmate, Dulce Carlota": [
+    {
+      "name": "September 17 - September 23, 2024",
+      "days": {
+        "0": [],
+        "1": [
+          {
+            "showtime": "2024-09-17T16:00:00",
+            "theater": "Casa de la PBA"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Dama Desaparece": [
+    {
+      "name": "September 17 - September 23, 2024",
+      "days": {
+        "0": [],
+        "1": [
+          {
+            "showtime": "2024-09-17T18:30:00",
+            "theater": "Casa de la PBA"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Pelicula Sorpresa (Ciclo Peña Sin Cadenas)": [
+    {
+      "name": "September 17 - September 23, 2024",
+      "days": {
+        "0": [],
+        "1": [
+          {
+            "showtime": "2024-09-17T19:00:00",
+            "theater": "Hasta trilce"
+          },
+          {
+            "showtime": "2024-09-17T21:00:00",
+            "theater": "Hasta trilce"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 24 - September 30, 2024",
+      "days": {
+        "0": [],
+        "1": [
+          {
+            "showtime": "2024-09-24T19:00:00",
+            "theater": "Hasta trilce"
+          },
+          {
+            "showtime": "2024-09-24T19:00:00",
+            "theater": "Hasta trilce"
+          },
+          {
+            "showtime": "2024-09-24T21:00:00",
+            "theater": "Hasta trilce"
+          },
+          {
+            "showtime": "2024-09-24T21:00:00",
+            "theater": "Hasta trilce"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Castillo": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T15:00:00",
+            "theater": "Cosmos UBA"
+          },
+          {
+            "showtime": "2024-09-18T15:00:00",
+            "theater": "Cosmos UBA"
+          },
+          {
+            "showtime": "2024-09-18T21:00:00",
+            "theater": "Cosmos UBA"
+          },
+          {
+            "showtime": "2024-09-18T21:00:00",
+            "theater": "Cosmos UBA"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Inmensidad": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T15:05:00",
+            "theater": "Cosmos UBA"
+          },
+          {
+            "showtime": "2024-09-18T15:05:00",
+            "theater": "Cosmos UBA"
+          },
+          {
+            "showtime": "2024-09-18T17:10:00",
+            "theater": "Cosmos UBA"
+          },
+          {
+            "showtime": "2024-09-18T17:10:00",
+            "theater": "Cosmos UBA"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Siempre Habrá Un Mañana": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T16:55:00",
+            "theater": "Cosmos UBA"
+          },
+          {
+            "showtime": "2024-09-18T16:55:00",
+            "theater": "Cosmos UBA"
+          },
+          {
+            "showtime": "2024-09-18T19:00:00",
+            "theater": "Cosmos UBA"
+          },
+          {
+            "showtime": "2024-09-18T19:00:00",
+            "theater": "Cosmos UBA"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Huellas Y Memoria De Jorge Prelorán": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T18:30:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-18T18:30:00",
+            "theater": "Cine York"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Escuerzo": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T19:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          },
+          {
+            "showtime": "2024-09-18T19:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-19T19:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          },
+          {
+            "showtime": "2024-09-19T19:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          }
+        ],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T21:10:00",
+            "theater": "Cine Arte Cacodelphia"
+          },
+          {
+            "showtime": "2024-09-21T21:10:00",
+            "theater": "Cine Arte Cacodelphia"
+          }
+        ],
+        "6": [
+          {
+            "showtime": "2024-09-22T19:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          },
+          {
+            "showtime": "2024-09-22T19:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          }
+        ]
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Partió De Mí Un Barco Llevándome": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T21:00:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-18T21:00:00",
+            "theater": "Cine York"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T18:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "El Placer Es Mío": [
+    {
+      "name": "September 11 - September 17, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-11T21:00:00",
+            "theater": "Cultural San Martín"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T21:00:00",
+            "theater": "CC San Martín"
+          },
+          {
+            "showtime": "2024-09-18T21:00:00",
+            "theater": "Cultural San Martín"
+          },
+          {
+            "showtime": "2024-09-18T21:00:00",
+            "theater": "CC San Martín"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 25 - October 01, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-25T21:00:00",
+            "theater": "CC San Martín"
+          },
+          {
+            "showtime": "2024-09-25T21:00:00",
+            "theater": "Cultural San Martín"
+          },
+          {
+            "showtime": "2024-09-25T21:00:00",
+            "theater": "CC San Martín"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Hojas De Otoño": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T21:20:00",
+            "theater": "Cosmos UBA"
+          },
+          {
+            "showtime": "2024-09-18T21:20:00",
+            "theater": "Cosmos UBA"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Baronesa": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-19T18:00:00",
+            "theater": "Casa de la Lectura"
+          },
+          {
+            "showtime": "2024-09-19T18:00:00",
+            "theater": "Casa de la Lectura"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Princesa Mononoke": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-19T18:00:00",
+            "theater": "Centro Cultural Munro"
+          },
+          {
+            "showtime": "2024-09-19T18:00:00",
+            "theater": "Centro Cultural Munro"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Estela": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-19T18:30:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-19T18:30:00",
+            "theater": "Cine York"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Ida Vitale": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-19T19:00:00",
+            "theater": "CC Recoleta"
+          },
+          {
+            "showtime": "2024-09-19T19:00:00",
+            "theater": "CC Recoleta"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-26T19:00:00",
+            "theater": "CC Recoleta"
+          },
+          {
+            "showtime": "2024-09-26T19:00:00",
+            "theater": "CC Recoleta"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Un Crimen Común": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-19T19:00:00",
+            "theater": "Fundación SAGAI"
+          },
+          {
+            "showtime": "2024-09-19T19:00:00",
+            "theater": "Fundación SAGAI"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Las Furias": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-19T20:00:00",
+            "theater": "Palacio El Victorial (Cineclub Sur)"
+          },
+          {
+            "showtime": "2024-09-19T20:00:00",
+            "theater": "Palacio El Victorial (Cineclub Sur)"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Un Amor": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-19T20:00:00",
+            "theater": "Centro Cultural San Martin"
+          },
+          {
+            "showtime": "2024-09-19T20:00:00",
+            "theater": "Cultural San Martín"
+          },
+          {
+            "showtime": "2024-09-19T20:00:00",
+            "theater": "Centro Cultural San Martin"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Mercado Del Abasto": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-19T20:30:00",
+            "theater": "Casona Humahuaca"
+          },
+          {
+            "showtime": "2024-09-19T20:30:00",
+            "theater": "Casona Humahuaca"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Pompoko": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-19T20:30:00",
+            "theater": "Centro Cultural Munro"
+          },
+          {
+            "showtime": "2024-09-19T20:30:00",
+            "theater": "Centro Cultural Munro"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Plan B": [
+    {
+      "name": "September 19 - September 25, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-19T21:00:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-19T21:00:00",
+            "theater": "Cine York"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Los Niños Del Paraíso": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-20T16:00:00",
+            "theater": "Casa de la PBA"
+          },
+          {
+            "showtime": "2024-09-20T16:00:00",
+            "theater": "Casa de la PBA"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Piazzolla, Los Años Del Tiburón": [
+    {
+      "name": "September 13 - September 19, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-13T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-20T17:30:00",
+            "theater": "CCK"
+          },
+          {
+            "showtime": "2024-09-20T18:30:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-20T18:30:00",
+            "theater": "Cine York"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Un Día En Nueva York": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-20T19:00:00",
+            "theater": "CC Recoleta"
+          },
+          {
+            "showtime": "2024-09-20T19:00:00",
+            "theater": "CC Recoleta"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Homofobia": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-20T19:00:00",
+            "theater": "Gitana Cine"
+          },
+          {
+            "showtime": "2024-09-20T19:00:00",
+            "theater": "Gitana Cine"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Transeúnte": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-20T20:30:00",
+            "theater": "TAI Teatro"
+          },
+          {
+            "showtime": "2024-09-20T20:30:00",
+            "theater": "TAI Teatro"
+          },
+          {
+            "showtime": "2024-09-20T20:30:00",
+            "theater": "TAI Teatro"
+          },
+          {
+            "showtime": "2024-09-20T20:30:00",
+            "theater": "TAI Teatro"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Herbaria": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-20T21:00:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-20T21:00:00",
+            "theater": "Cine York"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Abastecimiento": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T16:00:00",
+            "theater": "Museo Del Cine"
+          },
+          {
+            "showtime": "2024-09-21T16:00:00",
+            "theater": "Museo Del Cine"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Ultra Toxic": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T18:00:00",
+            "theater": "Museo Del Cine"
+          },
+          {
+            "showtime": "2024-09-21T18:00:00",
+            "theater": "Museo Del Cine"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Alanis": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T18:30:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-21T18:30:00",
+            "theater": "Cine York"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "El Angel Exterminador": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T19:00:00",
+            "theater": "CC Recoleta"
+          },
+          {
+            "showtime": "2024-09-21T19:00:00",
+            "theater": "CC Recoleta"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "El Viento Que Arrasa": [
+    {
+      "name": "September 07 - September 13, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-07T21:00:00",
+            "theater": "Cultural San Martín"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-14T21:00:00",
+            "theater": "Cultural San Martín"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T21:00:00",
+            "theater": "Centro Cultural San Martin"
+          },
+          {
+            "showtime": "2024-09-21T21:00:00",
+            "theater": "Cultural San Martín"
+          },
+          {
+            "showtime": "2024-09-21T21:00:00",
+            "theater": "Centro Cultural San Martin"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T21:00:00",
+            "theater": "Centro Cultural San Martin"
+          },
+          {
+            "showtime": "2024-09-28T21:00:00",
+            "theater": "Cultural San Martín"
+          },
+          {
+            "showtime": "2024-09-28T21:00:00",
+            "theater": "Centro Cultural San Martin"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "La Niña Santa": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T21:00:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-21T21:00:00",
+            "theater": "Cine York"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "El Tercer Hombre": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T14:00:00",
+            "theater": "Museo Sarmiento"
+          },
+          {
+            "showtime": "2024-09-22T14:00:00",
+            "theater": "Museo Sarmiento"
+          },
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "Museo Sarmiento"
+          },
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "Museo Sarmiento"
+          }
+        ]
+      }
+    }
+  ],
+  "Una Casa Sin Cortinas": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "Museo Del Cine"
+          },
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "Museo Del Cine"
+          }
+        ]
+      }
+    }
+  ],
+  "La Estrella Que Perdí": [
+    {
+      "name": "September 08 - September 14, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-08T16:00:00",
+            "theater": "Cultural San Martín"
+          }
+        ]
+      }
+    },
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-15T16:00:00",
+            "theater": "Cultural San Martín"
+          }
+        ]
+      }
+    },
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "CC San Martín"
+          },
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "Cultural San Martín"
+          },
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "CC San Martín"
+          }
+        ]
+      }
+    },
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "CC San Martín"
+          },
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "Cultural San Martín"
+          },
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "CC San Martín"
+          }
+        ]
+      }
+    }
+  ],
+  "La Tumba De Las Luciérnagas": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "Centro Cultural Munro"
+          },
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "Centro Cultural Munro"
+          }
+        ]
+      }
+    }
+  ],
+  "La Terraza": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "Museo Del Cine"
+          },
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "Museo Del Cine"
+          }
+        ]
+      }
+    }
+  ],
+  "Los Sonámbulos": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "Centro Cultural San Martin"
+          },
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "Cultural San Martín"
+          },
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "Centro Cultural San Martin"
+          }
+        ]
+      }
+    }
+  ],
+  "Archivo Abierto De Películas Lésbicas": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "Gitana Cine"
+          },
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "Gitana Cine"
+          }
+        ]
+      }
+    }
+  ],
+  "Nausicaä Del Valle Del Viento": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T18:30:00",
+            "theater": "Centro Cultural Munro"
+          },
+          {
+            "showtime": "2024-09-22T18:30:00",
+            "theater": "Centro Cultural Munro"
+          }
+        ]
+      }
+    }
+  ],
+  "Película Sorpresa": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T00:00:00",
+            "theater": "MALBA"
+          }
+        ],
+        "6": [
+          {
+            "showtime": "2024-09-22T19:00:00",
+            "theater": "CC Recoleta"
+          },
+          {
+            "showtime": "2024-09-22T19:00:00",
+            "theater": "CC Recoleta"
+          }
+        ]
+      }
+    }
+  ],
+  "Buenos Aires Viceversa": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T21:00:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-22T21:00:00",
+            "theater": "Cine York"
+          }
+        ]
+      }
+    }
+  ],
+  "Elda Y Los Monstruos": [
+    {
+      "name": "September 23 - September 29, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-23T20:00:00",
+            "theater": "CC 25 de Mayo"
+          },
+          {
+            "showtime": "2024-09-23T20:00:00",
+            "theater": "CC 25 de Mayo"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Las Noches De Cabiria": [
+    {
+      "name": "September 24 - September 30, 2024",
+      "days": {
+        "0": [],
+        "1": [
+          {
+            "showtime": "2024-09-24T16:00:00",
+            "theater": "Casa de la PBA"
+          },
+          {
+            "showtime": "2024-09-24T16:00:00",
+            "theater": "Casa de la PBA"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Ladrón De Bicicletas": [
+    {
+      "name": "September 24 - September 30, 2024",
+      "days": {
+        "0": [],
+        "1": [
+          {
+            "showtime": "2024-09-24T18:15:00",
+            "theater": "Casa de la PBA"
+          },
+          {
+            "showtime": "2024-09-24T18:15:00",
+            "theater": "Casa de la PBA"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Fuck You! Él Último Show": [
+    {
+      "name": "September 24 - September 30, 2024",
+      "days": {
+        "0": [],
+        "1": [
+          {
+            "showtime": "2024-09-24T18:30:00",
+            "theater": "Biblioteca Nacional"
+          },
+          {
+            "showtime": "2024-09-24T18:30:00",
+            "theater": "Biblioteca Nacional"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Safo, Historia De Una Pasión": [
+    {
+      "name": "September 25 - October 01, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-25T15:00:00",
+            "theater": "Lumiton"
+          },
+          {
+            "showtime": "2024-09-25T15:00:00",
+            "theater": "Lumiton"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Motoarrebatador": [
+    {
+      "name": "September 25 - October 01, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-25T18:30:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-25T18:30:00",
+            "theater": "Cine York"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Yuyes Verdes: Mujeres Y Disidencias En El Tango Del Siglo Xxi": [
+    {
+      "name": "September 25 - October 01, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-25T19:00:00",
+            "theater": "CC de la Cooperación"
+          },
+          {
+            "showtime": "2024-09-25T19:00:00",
+            "theater": "CC de la Cooperación"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Puntos Suspensivos": [
+    {
+      "name": "September 25 - October 01, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-25T21:00:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-25T21:00:00",
+            "theater": "Cine York"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Planta Permanente": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-26T18:00:00",
+            "theater": "Casa de la Lectura"
+          },
+          {
+            "showtime": "2024-09-26T18:00:00",
+            "theater": "Casa de la Lectura"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Cuento De La Princesa Kaguya": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-26T18:00:00",
+            "theater": "Centro Cultural Munro"
+          },
+          {
+            "showtime": "2024-09-26T18:00:00",
+            "theater": "Centro Cultural Munro"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Puto Inolvidable": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-26T18:30:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-26T18:30:00",
+            "theater": "Cine York"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Hombre Inconcluso": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-26T19:00:00",
+            "theater": "Fundación SAGAI"
+          },
+          {
+            "showtime": "2024-09-26T19:00:00",
+            "theater": "Fundación SAGAI"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Fuck You! El Último Show": [
+    {
+      "name": "September 04 - September 10, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-04T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T19:00:00",
+            "theater": "CCK"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-26T20:30:00",
+            "theater": "Casona Humahuaca"
+          },
+          {
+            "showtime": "2024-09-26T20:30:00",
+            "theater": "Casona Humahuaca"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Castillo Ambulante": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-26T20:30:00",
+            "theater": "Centro Cultural Munro"
+          },
+          {
+            "showtime": "2024-09-26T20:30:00",
+            "theater": "Centro Cultural Munro"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Crónica De Una Fuga": [
+    {
+      "name": "September 26 - October 02, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [
+          {
+            "showtime": "2024-09-26T21:00:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-26T21:00:00",
+            "theater": "Cine York"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Mundo Sigue": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-27T16:00:00",
+            "theater": "Casa de la PBA"
+          },
+          {
+            "showtime": "2024-09-27T16:00:00",
+            "theater": "Casa de la PBA"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Calle Mayor": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-27T18:15:00",
+            "theater": "Casa de la PBA"
+          },
+          {
+            "showtime": "2024-09-27T18:15:00",
+            "theater": "Casa de la PBA"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Gombrowicz O La Inmadurez": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-27T18:30:00",
+            "theater": "Biblioteca Nacional"
+          },
+          {
+            "showtime": "2024-09-27T18:30:00",
+            "theater": "Biblioteca Nacional"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "¿Dónde Estás Amor De Mi Vida...Que No Te Puedo Encontrar?": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-27T18:30:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-27T18:30:00",
+            "theater": "Cine York"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Brindis De Amor": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-27T19:00:00",
+            "theater": "CC Recoleta"
+          },
+          {
+            "showtime": "2024-09-27T19:00:00",
+            "theater": "CC Recoleta"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Llamen A Joe": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-27T20:30:00",
+            "theater": "TAI Teatro"
+          },
+          {
+            "showtime": "2024-09-27T20:30:00",
+            "theater": "TAI Teatro"
+          },
+          {
+            "showtime": "2024-09-27T20:30:00",
+            "theater": "TAI Teatro"
+          },
+          {
+            "showtime": "2024-09-27T20:30:00",
+            "theater": "TAI Teatro"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "El Crack": [
+    {
+      "name": "September 27 - October 03, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-27T21:00:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-27T21:00:00",
+            "theater": "Cine York"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Jumanji": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T15:30:00",
+            "theater": "Centro Cultural San Martin"
+          },
+          {
+            "showtime": "2024-09-28T15:30:00",
+            "theater": "Cultural San Martín"
+          },
+          {
+            "showtime": "2024-09-28T15:30:00",
+            "theater": "Centro Cultural San Martin"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Material Digitalizado De Archivos Carlos Trilnick": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T16:00:00",
+            "theater": "Museo Del Cine"
+          },
+          {
+            "showtime": "2024-09-28T16:00:00",
+            "theater": "Museo Del Cine"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Día Del Cine Mudo/Geografías Argentinas": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T18:00:00",
+            "theater": "Museo Del Cine"
+          },
+          {
+            "showtime": "2024-09-28T18:00:00",
+            "theater": "Museo Del Cine"
+          }
+        ],
+        "6": [
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "Museo Del Cine"
+          },
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "Museo Del Cine"
+          }
+        ]
+      }
+    }
+  ],
+  "La Parte Del León": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T18:30:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-28T18:30:00",
+            "theater": "Cine York"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Él": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T19:00:00",
+            "theater": "CC Recoleta"
+          },
+          {
+            "showtime": "2024-09-28T19:00:00",
+            "theater": "CC Recoleta"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Boquitas Pintadas": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T22:00:00",
+            "theater": "MALBA"
+          }
+        ]
+      }
+    },
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T21:00:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-28T21:00:00",
+            "theater": "Cine York"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Farenheit 451": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T14:00:00",
+            "theater": "Museo Sarmiento"
+          },
+          {
+            "showtime": "2024-09-29T14:00:00",
+            "theater": "Museo Sarmiento"
+          },
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "Museo Sarmiento"
+          },
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "Museo Sarmiento"
+          }
+        ]
+      }
+    }
+  ],
+  "El Viaje De Chihiro": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "Centro Cultural Munro"
+          },
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "Centro Cultural Munro"
+          }
+        ]
+      }
+    }
+  ],
+  "Graciela": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "Museo Del Cine"
+          },
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "Museo Del Cine"
+          }
+        ]
+      }
+    }
+  ],
+  "Doce Clavos + Las Siamesas": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "Centro Cultural San Martin"
+          },
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "Centro Cultural San Martin"
+          }
+        ]
+      }
+    }
+  ],
+  "El Camino De San Diego": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T18:30:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-29T18:30:00",
+            "theater": "Cine York"
+          }
+        ]
+      }
+    }
+  ],
+  "Mis Vecinos Los Yamada": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T18:30:00",
+            "theater": "Centro Cultural Munro"
+          },
+          {
+            "showtime": "2024-09-29T18:30:00",
+            "theater": "Centro Cultural Munro"
+          }
+        ]
+      }
+    }
+  ],
+  "Los Olvidados": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T19:00:00",
+            "theater": "CC Recoleta"
+          },
+          {
+            "showtime": "2024-09-29T19:00:00",
+            "theater": "CC Recoleta"
+          }
+        ]
+      }
+    }
+  ],
+  "Retrato Incompleto De La Canción Infinita": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T19:00:00",
+            "theater": "Casa del Bicentenario"
+          },
+          {
+            "showtime": "2024-09-29T19:00:00",
+            "theater": "Casa del Bicentenario"
+          }
+        ]
+      }
+    }
+  ],
+  "Gilda": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T21:00:00",
+            "theater": "Cine York"
+          },
+          {
+            "showtime": "2024-09-29T21:00:00",
+            "theater": "Cine York"
+          }
+        ]
+      }
+    }
+  ],
+  "Continuará...": [
+    {
+      "name": "September 30 - October 06, 2024",
+      "days": {
+        "0": [
+          {
+            "showtime": "2024-09-30T20:00:00",
+            "theater": "CC 25 de Mayo"
+          },
+          {
+            "showtime": "2024-09-30T20:00:00",
+            "theater": "CC 25 de Mayo"
+          }
+        ],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
   "Volver Al Futuro": [
     {
       "name": "September 01 - September 07, 2024",
@@ -1902,7 +4206,7 @@
       }
     }
   ],
-  "Hook": [
+  "Hook, El Regreso Del Capitán Garfio": [
     {
       "name": "September 14 - September 20, 2024",
       "days": {
@@ -1934,29 +4238,6 @@
           {
             "showtime": "2024-09-21T15:30:00",
             "theater": "Cultural San Martín"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "Jumanji": [
-    {
-      "name": "September 28 - October 04, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T15:30:00",
-            "theater": "Cultural San Martín"
-          },
-          {
-            "showtime": "2024-09-28T15:30:00",
-            "theater": "Centro Cultural San Martin"
           }
         ],
         "6": []
@@ -2278,145 +4559,6 @@
       }
     }
   ],
-  "La Estrella Que Perdí": [
-    {
-      "name": "September 08 - September 14, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-08T16:00:00",
-            "theater": "Cultural San Martín"
-          }
-        ]
-      }
-    },
-    {
-      "name": "September 15 - September 21, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-15T16:00:00",
-            "theater": "Cultural San Martín"
-          }
-        ]
-      }
-    },
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T16:00:00",
-            "theater": "Cultural San Martín"
-          },
-          {
-            "showtime": "2024-09-22T16:00:00",
-            "theater": "CC San Martín"
-          }
-        ]
-      }
-    },
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T16:00:00",
-            "theater": "Cultural San Martín"
-          },
-          {
-            "showtime": "2024-09-29T16:00:00",
-            "theater": "CC San Martín"
-          }
-        ]
-      }
-    }
-  ],
-  "El Placer Es Mío": [
-    {
-      "name": "September 11 - September 17, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-11T21:00:00",
-            "theater": "Cultural San Martín"
-          }
-        ],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    },
-    {
-      "name": "September 18 - September 24, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-18T21:00:00",
-            "theater": "Cultural San Martín"
-          },
-          {
-            "showtime": "2024-09-18T21:00:00",
-            "theater": "CC San Martín"
-          }
-        ],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    },
-    {
-      "name": "September 25 - October 01, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-25T21:00:00",
-            "theater": "Cultural San Martín"
-          },
-          {
-            "showtime": "2024-09-25T21:00:00",
-            "theater": "CC San Martín"
-          }
-        ],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
   "Después De Un Buen Día": [
     {
       "name": "September 14 - September 20, 2024",
@@ -2458,18 +4600,13 @@
       }
     },
     {
-      "name": "September 27 - October 03, 2024",
+      "name": "September 28 - October 04, 2024",
       "days": {
         "0": [],
         "1": [],
         "2": [],
         "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-27T22:00:00",
-            "theater": "MALBA"
-          }
-        ],
+        "4": [],
         "5": [
           {
             "showtime": "2024-09-28T17:00:00",
@@ -2652,10 +4789,6 @@
           {
             "showtime": "2024-09-28T19:00:00",
             "theater": "Cultural San Martín"
-          },
-          {
-            "showtime": "2024-09-28T22:00:00",
-            "theater": "MALBA"
           }
         ],
         "6": [
@@ -2720,84 +4853,6 @@
       }
     }
   ],
-  "El Viento Que Arrasa": [
-    {
-      "name": "September 07 - September 13, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-07T21:00:00",
-            "theater": "Cultural San Martín"
-          }
-        ],
-        "6": []
-      }
-    },
-    {
-      "name": "September 14 - September 20, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-14T21:00:00",
-            "theater": "Cultural San Martín"
-          }
-        ],
-        "6": []
-      }
-    },
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T21:00:00",
-            "theater": "Cultural San Martín"
-          },
-          {
-            "showtime": "2024-09-21T21:00:00",
-            "theater": "Centro Cultural San Martin"
-          }
-        ],
-        "6": []
-      }
-    },
-    {
-      "name": "September 28 - October 04, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T21:00:00",
-            "theater": "Cultural San Martín"
-          },
-          {
-            "showtime": "2024-09-28T21:00:00",
-            "theater": "Centro Cultural San Martin"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
   "Herencia": [
     {
       "name": "September 08 - September 14, 2024",
@@ -2855,52 +4910,6 @@
       }
     }
   ],
-  "Un Amor": [
-    {
-      "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T20:00:00",
-            "theater": "Cultural San Martín"
-          },
-          {
-            "showtime": "2024-09-19T20:00:00",
-            "theater": "Centro Cultural San Martin"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Los Sonámbulos": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T18:00:00",
-            "theater": "Cultural San Martín"
-          },
-          {
-            "showtime": "2024-09-22T18:00:00",
-            "theater": "Centro Cultural San Martin"
-          }
-        ]
-      }
-    }
-  ],
   "Doce Clavos": [
     {
       "name": "September 29 - October 05, 2024",
@@ -2936,59 +4945,6 @@
             "theater": "Cultural San Martín"
           }
         ]
-      }
-    }
-  ],
-  "Fuck You! El Último Show": [
-    {
-      "name": "September 04 - September 10, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-04T19:00:00",
-            "theater": "CCK"
-          }
-        ],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    },
-    {
-      "name": "September 18 - September 24, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-18T19:00:00",
-            "theater": "CCK"
-          }
-        ],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    },
-    {
-      "name": "September 26 - October 02, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-26T20:30:00",
-            "theater": "Casona Humahuaca"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
       }
     }
   ],
@@ -3028,121 +4984,7 @@
       }
     }
   ],
-  "Piazzolla, Los Años Del Tiburón": [
-    {
-      "name": "September 13 - September 19, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-13T16:30:00",
-            "theater": "CCK"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    },
-    {
-      "name": "September 20 - September 26, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-20T16:30:00",
-            "theater": "CCK"
-          },
-          {
-            "showtime": "2024-09-20T18:30:00",
-            "theater": "Cine York"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Saluzzi, Ensayo Para Bandoneón Y Tres Hermanos": [
-    {
-      "name": "September 14 - September 20, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-14T16:30:00",
-            "theater": "CCK"
-          }
-        ],
-        "6": []
-      }
-    },
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T16:30:00",
-            "theater": "CCK"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "La Cifra Impar": [
-    {
-      "name": "September 28 - October 04, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T17:30:00",
-            "theater": "CCK"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "Intimidad De Los Parques": [
-    {
-      "name": "September 28 - October 04, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T19:30:00",
-            "theater": "CCK"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "Circe": [
+  "Las Fieras": [
     {
       "name": "September 27 - October 03, 2024",
       "days": {
@@ -3152,7 +4994,7 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-27T19:30:00",
+            "showtime": "2024-09-27T17:00:00",
             "theater": "CCK"
           }
         ],
@@ -3161,9 +5003,9 @@
       }
     }
   ],
-  "Roberto Goyeneche, Las Formas De La Noche": [
+  "Gigantografías": [
     {
-      "name": "September 06 - September 12, 2024",
+      "name": "September 27 - October 03, 2024",
       "days": {
         "0": [],
         "1": [],
@@ -3171,16 +5013,18 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-06T16:30:00",
+            "showtime": "2024-09-27T19:00:00",
             "theater": "CCK"
           }
         ],
         "5": [],
         "6": []
       }
-    },
+    }
+  ],
+  "Cruzar Un Puente": [
     {
-      "name": "September 20 - September 26, 2024",
+      "name": "September 27 - October 03, 2024",
       "days": {
         "0": [],
         "1": [],
@@ -3188,7 +5032,7 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-20T16:30:00",
+            "showtime": "2024-09-27T19:00:00",
             "theater": "CCK"
           }
         ],
@@ -3197,9 +5041,9 @@
       }
     }
   ],
-  "Sur": [
+  "Todas Las Cosas Que Llevo Conmigo": [
     {
-      "name": "September 06 - September 12, 2024",
+      "name": "September 27 - October 03, 2024",
       "days": {
         "0": [],
         "1": [],
@@ -3207,16 +5051,18 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-06T18:30:00",
+            "showtime": "2024-09-27T19:00:00",
             "theater": "CCK"
           }
         ],
         "5": [],
         "6": []
       }
-    },
+    }
+  ],
+  "Nicaragua Y Uriarte": [
     {
-      "name": "September 20 - September 26, 2024",
+      "name": "September 27 - October 03, 2024",
       "days": {
         "0": [],
         "1": [],
@@ -3224,7 +5070,7 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-20T18:30:00",
+            "showtime": "2024-09-27T19:00:00",
             "theater": "CCK"
           }
         ],
@@ -3233,81 +5079,9 @@
       }
     }
   ],
-  "El Tango En El Cine": [
+  "La Ciudad Y La Cautiva": [
     {
-      "name": "September 07 - September 13, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-07T16:30:00",
-            "theater": "CCK"
-          }
-        ],
-        "6": []
-      }
-    },
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T16:30:00",
-            "theater": "CCK"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "Café De Los Maestros": [
-    {
-      "name": "September 07 - September 13, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-07T18:30:00",
-            "theater": "CCK"
-          }
-        ],
-        "6": []
-      }
-    },
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T18:30:00",
-            "theater": "CCK"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "El Exilio De Gardel (Tangos)": [
-    {
-      "name": "September 13 - September 19, 2024",
+      "name": "September 27 - October 03, 2024",
       "days": {
         "0": [],
         "1": [],
@@ -3315,16 +5089,18 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-13T18:30:00",
+            "showtime": "2024-09-27T19:00:00",
             "theater": "CCK"
           }
         ],
         "5": [],
         "6": []
       }
-    },
+    }
+  ],
+  "Marisqueros": [
     {
-      "name": "September 20 - September 26, 2024",
+      "name": "September 27 - October 03, 2024",
       "days": {
         "0": [],
         "1": [],
@@ -3332,7 +5108,7 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-20T19:30:00",
+            "showtime": "2024-09-27T19:00:00",
             "theater": "CCK"
           }
         ],
@@ -3341,286 +5117,22 @@
       }
     }
   ],
-  "Así Cantaba Carlos Gardel": [
+  "Noche De Baile": [
     {
-      "name": "September 14 - September 20, 2024",
+      "name": "September 27 - October 03, 2024",
       "days": {
         "0": [],
         "1": [],
         "2": [],
         "3": [],
-        "4": [],
-        "5": [
+        "4": [
           {
-            "showtime": "2024-09-14T16:30:00",
+            "showtime": "2024-09-27T19:00:00",
             "theater": "CCK"
           }
         ],
+        "5": [],
         "6": []
-      }
-    },
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T19:30:00",
-            "theater": "CCK"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "El Asesino Vive En El 21": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T16:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "La Fractura": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T18:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "Regreso A Córcega": [
-    {
-      "name": "September 08 - September 14, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-08T16:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "Las Diabólicas": [
-    {
-      "name": "September 08 - September 14, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-08T18:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "Crónica De Un Verano": [
-    {
-      "name": "September 15 - September 21, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-15T18:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "Rompehielos": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T16:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "El Rey De Los Alisos": [
-    {
-      "name": "September 15 - September 21, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-15T16:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "El Caballito De Mar": [
-    {
-      "name": "September 15 - September 21, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-15T16:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "El Baile De Las Brujas": [
-    {
-      "name": "September 15 - September 21, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-15T16:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "La Sonriente Señora Beudet": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T18:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "Los Amores Del Pulpo": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T18:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "Erizos De Mar": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T18:00:00",
-            "theater": "CCK"
-          }
-        ]
-      }
-    }
-  ],
-  "El Murciélago": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T18:00:00",
-            "theater": "CCK"
-          }
-        ]
       }
     }
   ],
@@ -3663,57 +5175,6 @@
     }
   ],
   "Evein": [
-    {
-      "name": "September 28 - October 04, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T19:00:00",
-            "theater": "CCK"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "El Escuerzo": [
-    {
-      "name": "September 18 - September 24, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-18T19:00:00",
-            "theater": "Cine Arte Cacodelphia"
-          }
-        ],
-        "3": [
-          {
-            "showtime": "2024-09-19T19:00:00",
-            "theater": "Cine Arte Cacodelphia"
-          }
-        ],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T21:10:00",
-            "theater": "Cine Arte Cacodelphia"
-          }
-        ],
-        "6": [
-          {
-            "showtime": "2024-09-22T19:00:00",
-            "theater": "Cine Arte Cacodelphia"
-          }
-        ]
-      }
-    },
     {
       "name": "September 28 - October 04, 2024",
       "days": {
@@ -3903,7 +5364,45 @@
       }
     }
   ],
-  "Las Fieras": [
+  "La Cifra Impar": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T17:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Intimidad De Los Parques": [
+    {
+      "name": "September 28 - October 04, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-28T19:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Circe": [
     {
       "name": "September 27 - October 03, 2024",
       "days": {
@@ -3913,7 +5412,7 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-27T17:00:00",
+            "showtime": "2024-09-27T19:30:00",
             "theater": "CCK"
           }
         ],
@@ -3922,9 +5421,9 @@
       }
     }
   ],
-  "Gigantografías": [
+  "El Exilio De Gardel": [
     {
-      "name": "September 27 - October 03, 2024",
+      "name": "September 13 - September 19, 2024",
       "days": {
         "0": [],
         "1": [],
@@ -3932,7 +5431,24 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-27T19:00:00",
+            "showtime": "2024-09-13T18:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-20T19:30:00",
             "theater": "CCK"
           }
         ],
@@ -3941,9 +5457,9 @@
       }
     }
   ],
-  "Cruzar Un Puente": [
+  "Roberto Goyeneche, Las Formas De La Noche": [
     {
-      "name": "September 27 - October 03, 2024",
+      "name": "September 06 - September 12, 2024",
       "days": {
         "0": [],
         "1": [],
@@ -3951,7 +5467,24 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-27T19:00:00",
+            "showtime": "2024-09-06T16:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-20T16:30:00",
             "theater": "CCK"
           }
         ],
@@ -3960,9 +5493,9 @@
       }
     }
   ],
-  "Todas Las Cosas Que Llevo Conmigo": [
+  "Sur": [
     {
-      "name": "September 27 - October 03, 2024",
+      "name": "September 06 - September 12, 2024",
       "days": {
         "0": [],
         "1": [],
@@ -3970,7 +5503,24 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-27T19:00:00",
+            "showtime": "2024-09-06T18:30:00",
+            "theater": "CCK"
+          }
+        ],
+        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-20T18:30:00",
             "theater": "CCK"
           }
         ],
@@ -3979,78 +5529,393 @@
       }
     }
   ],
-  "Nicaragua Y Uriarte": [
+  "El Tango En El Cine": [
     {
-      "name": "September 27 - October 03, 2024",
+      "name": "September 07 - September 13, 2024",
       "days": {
         "0": [],
         "1": [],
         "2": [],
         "3": [],
-        "4": [
+        "4": [],
+        "5": [
           {
-            "showtime": "2024-09-27T19:00:00",
+            "showtime": "2024-09-07T16:30:00",
             "theater": "CCK"
           }
         ],
-        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T16:30:00",
+            "theater": "CCK"
+          }
+        ],
         "6": []
       }
     }
   ],
-  "La Ciudad Y La Cautiva": [
+  "Café De Los Maestros": [
     {
-      "name": "September 27 - October 03, 2024",
+      "name": "September 07 - September 13, 2024",
       "days": {
         "0": [],
         "1": [],
         "2": [],
         "3": [],
-        "4": [
+        "4": [],
+        "5": [
           {
-            "showtime": "2024-09-27T19:00:00",
+            "showtime": "2024-09-07T18:30:00",
             "theater": "CCK"
           }
         ],
-        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T18:30:00",
+            "theater": "CCK"
+          }
+        ],
         "6": []
       }
     }
   ],
-  "Marisqueros": [
+  "Así Cantaba Carlos Gardel": [
     {
-      "name": "September 27 - October 03, 2024",
+      "name": "September 14 - September 20, 2024",
       "days": {
         "0": [],
         "1": [],
         "2": [],
         "3": [],
-        "4": [
+        "4": [],
+        "5": [
           {
-            "showtime": "2024-09-27T19:00:00",
+            "showtime": "2024-09-14T16:30:00",
             "theater": "CCK"
           }
         ],
-        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T19:30:00",
+            "theater": "CCK"
+          }
+        ],
         "6": []
       }
     }
   ],
-  "Noche De Baile": [
+  "El Rey De Los Alisos": [
     {
-      "name": "September 27 - October 03, 2024",
+      "name": "September 15 - September 21, 2024",
       "days": {
         "0": [],
         "1": [],
         "2": [],
         "3": [],
-        "4": [
+        "4": [],
+        "5": [],
+        "6": [
           {
-            "showtime": "2024-09-27T19:00:00",
+            "showtime": "2024-09-15T16:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "La Sonriente Señora Beudet": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "Los Amores Del Pulpo": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "Erizos De Mar": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "El Murciélago": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T18:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "Rompehielos": [
+    {
+      "name": "September 29 - October 05, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-29T16:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "El Asesino Vive En El 21": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "La Fractura": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "Regreso A Córcega": [
+    {
+      "name": "September 08 - September 14, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-08T16:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "Las Diabólicas": [
+    {
+      "name": "September 08 - September 14, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-08T18:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "El Caballito De Mar": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-15T16:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "El Baile De Las Brujas": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-15T16:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "Crónica De Un Verano": [
+    {
+      "name": "September 15 - September 21, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-15T18:00:00",
+            "theater": "CCK"
+          }
+        ]
+      }
+    }
+  ],
+  "Saluzzi, Ensayo Para Bandoneón Y Tres Hermanos": [
+    {
+      "name": "September 14 - September 20, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-14T16:30:00",
             "theater": "CCK"
           }
         ],
-        "5": [],
+        "6": []
+      }
+    },
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T17:30:00",
+            "theater": "CCK"
+          }
+        ],
         "6": []
       }
     }
@@ -4102,10 +5967,6 @@
           {
             "showtime": "2024-09-24T18:30:00",
             "theater": "Biblioteca del Congreso"
-          },
-          {
-            "showtime": "2024-09-24T18:30:00",
-            "theater": "Biblioteca del Congreso"
           }
         ],
         "2": [],
@@ -4117,23 +5978,6 @@
     }
   ],
   "Cinema Paradiso": [
-    {
-      "name": "September 17 - September 23, 2024",
-      "days": {
-        "0": [],
-        "1": [
-          {
-            "showtime": "2024-09-17T18:30:00",
-            "theater": "Biblioteca del Congreso"
-          }
-        ],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    },
     {
       "name": "September 26 - October 02, 2024",
       "days": {
@@ -4147,194 +5991,6 @@
           }
         ],
         "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Una Mujer Indomable": [
-    {
-      "name": "September 17 - September 23, 2024",
-      "days": {
-        "0": [],
-        "1": [
-          {
-            "showtime": "2024-09-17T15:00:00",
-            "theater": "Leopoldo Lugones"
-          },
-          {
-            "showtime": "2024-09-17T21:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "2": [
-          {
-            "showtime": "2024-09-18T18:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "El Relampago": [
-    {
-      "name": "September 17 - September 23, 2024",
-      "days": {
-        "0": [],
-        "1": [
-          {
-            "showtime": "2024-09-17T18:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "A La Deriva": [
-    {
-      "name": "September 18 - September 24, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-18T15:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "3": [
-          {
-            "showtime": "2024-09-19T15:00:00",
-            "theater": "Leopoldo Lugones"
-          },
-          {
-            "showtime": "2024-09-19T21:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "La Voz De La Montaña": [
-    {
-      "name": "September 20 - September 26, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-20T15:00:00",
-            "theater": "Leopoldo Lugones"
-          },
-          {
-            "showtime": "2024-09-20T21:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "5": [
-          {
-            "showtime": "2024-09-21T18:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "Cuando Una Mujer Sube La Escalera": [
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T15:00:00",
-            "theater": "Leopoldo Lugones"
-          },
-          {
-            "showtime": "2024-09-21T21:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "6": [
-          {
-            "showtime": "2024-09-22T18:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ]
-      }
-    }
-  ],
-  "Nubes Dispersas": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [
-          {
-            "showtime": "2024-09-24T18:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T15:00:00",
-            "theater": "Leopoldo Lugones"
-          },
-          {
-            "showtime": "2024-09-22T21:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ]
-      }
-    }
-  ],
-  "El Auge Del Humano 3": [
-    {
-      "name": "September 18 - September 24, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-18T20:30:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "3": [
-          {
-            "showtime": "2024-09-19T18:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
-        "4": [
-          {
-            "showtime": "2024-09-20T18:00:00",
-            "theater": "Leopoldo Lugones"
-          }
-        ],
         "5": [],
         "6": []
       }
@@ -4454,47 +6110,6 @@
       }
     }
   ],
-  "Partió De Mí Un Barco Llevándome": [
-    {
-      "name": "September 18 - September 24, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-18T21:00:00",
-            "theater": "Cine York"
-          }
-        ],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T18:00:00",
-            "theater": "MALBA"
-          }
-        ],
-        "6": []
-      }
-    },
-    {
-      "name": "September 28 - October 04, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T18:00:00",
-            "theater": "MALBA"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
   "La Pràctica": [
     {
       "name": "September 21 - September 27, 2024",
@@ -4507,23 +6122,6 @@
         "5": [
           {
             "showtime": "2024-09-21T20:00:00",
-            "theater": "MALBA"
-          }
-        ],
-        "6": []
-      }
-    },
-    {
-      "name": "September 28 - October 04, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T20:00:00",
             "theater": "MALBA"
           }
         ],
@@ -4622,66 +6220,6 @@
       }
     }
   ],
-  "Boquitas Pintadas": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T22:00:00",
-            "theater": "MALBA"
-          }
-        ]
-      }
-    },
-    {
-      "name": "September 28 - October 04, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T21:00:00",
-            "theater": "Cine York"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "Película Sorpresa": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T00:00:00",
-            "theater": "MALBA"
-          }
-        ],
-        "6": [
-          {
-            "showtime": "2024-09-22T19:00:00",
-            "theater": "CC Recoleta"
-          }
-        ]
-      }
-    }
-  ],
   "Y Que Patatín Y Que Patatán": [
     {
       "name": "September 29 - October 05, 2024",
@@ -4717,6 +6255,166 @@
             "theater": "MALBA"
           }
         ]
+      }
+    }
+  ],
+  "A La Deriva": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T15:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-19T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-19T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "Una Mujer Indomable": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Voz De La Montaña": [
+    {
+      "name": "September 20 - September 26, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [
+          {
+            "showtime": "2024-09-20T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-20T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-21T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "6": []
+      }
+    }
+  ],
+  "Cuando Una Mujer Sube La Escalera": [
+    {
+      "name": "September 21 - September 27, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-09-21T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-21T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "6": [
+          {
+            "showtime": "2024-09-22T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ]
+      }
+    }
+  ],
+  "Nubes Dispersas": [
+    {
+      "name": "September 22 - September 28, 2024",
+      "days": {
+        "0": [],
+        "1": [
+          {
+            "showtime": "2024-09-24T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": [
+          {
+            "showtime": "2024-09-22T15:00:00",
+            "theater": "Leopoldo Lugones"
+          },
+          {
+            "showtime": "2024-09-22T21:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ]
+      }
+    }
+  ],
+  "El Auge Del Humano 3": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T20:30:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "3": [
+          {
+            "showtime": "2024-09-19T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "4": [
+          {
+            "showtime": "2024-09-20T18:00:00",
+            "theater": "Leopoldo Lugones"
+          }
+        ],
+        "5": [],
+        "6": []
       }
     }
   ],
@@ -4868,89 +6566,7 @@
       }
     }
   ],
-  "Calmate, Dulce Carlota": [
-    {
-      "name": "September 17 - September 23, 2024",
-      "days": {
-        "0": [],
-        "1": [
-          {
-            "showtime": "2024-09-17T16:00:00",
-            "theater": "Casa de la PBA"
-          }
-        ],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "La Dama Desaparece": [
-    {
-      "name": "September 17 - September 23, 2024",
-      "days": {
-        "0": [],
-        "1": [
-          {
-            "showtime": "2024-09-17T18:30:00",
-            "theater": "Casa de la PBA"
-          }
-        ],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Pelicula Sorpresa (Ciclo Peña Sin Cadenas)": [
-    {
-      "name": "September 17 - September 23, 2024",
-      "days": {
-        "0": [],
-        "1": [
-          {
-            "showtime": "2024-09-17T19:00:00",
-            "theater": "Hasta trilce"
-          },
-          {
-            "showtime": "2024-09-17T21:00:00",
-            "theater": "Hasta trilce"
-          }
-        ],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    },
-    {
-      "name": "September 24 - September 30, 2024",
-      "days": {
-        "0": [],
-        "1": [
-          {
-            "showtime": "2024-09-24T19:00:00",
-            "theater": "Hasta trilce"
-          },
-          {
-            "showtime": "2024-09-24T21:00:00",
-            "theater": "Hasta trilce"
-          }
-        ],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "El Castillo": [
+  "El Sacrificio": [
     {
       "name": "September 18 - September 24, 2024",
       "days": {
@@ -4958,12 +6574,8 @@
         "1": [],
         "2": [
           {
-            "showtime": "2024-09-18T15:00:00",
-            "theater": "Cosmos UBA"
-          },
-          {
-            "showtime": "2024-09-18T21:00:00",
-            "theater": "Cosmos UBA"
+            "showtime": "2024-09-18T16:30:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
         "3": [],
@@ -4973,7 +6585,7 @@
       }
     }
   ],
-  "La Inmensidad": [
+  "El Viejo Roble": [
     {
       "name": "September 18 - September 24, 2024",
       "days": {
@@ -4981,12 +6593,8 @@
         "1": [],
         "2": [
           {
-            "showtime": "2024-09-18T15:05:00",
-            "theater": "Cosmos UBA"
-          },
-          {
-            "showtime": "2024-09-18T17:10:00",
-            "theater": "Cosmos UBA"
+            "showtime": "2024-09-18T18:20:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
         "3": [],
@@ -4996,7 +6604,7 @@
       }
     }
   ],
-  "Siempre Habrá Un Mañana": [
+  "Fallen Angels": [
     {
       "name": "September 18 - September 24, 2024",
       "days": {
@@ -5004,12 +6612,8 @@
         "1": [],
         "2": [
           {
-            "showtime": "2024-09-18T16:55:00",
-            "theater": "Cosmos UBA"
-          },
-          {
-            "showtime": "2024-09-18T19:00:00",
-            "theater": "Cosmos UBA"
+            "showtime": "2024-09-18T19:10:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
         "3": [],
@@ -5019,7 +6623,7 @@
       }
     }
   ],
-  "Huellas Y Memoria De Jorge Prelorán": [
+  "Titane": [
     {
       "name": "September 18 - September 24, 2024",
       "days": {
@@ -5027,8 +6631,8 @@
         "1": [],
         "2": [
           {
-            "showtime": "2024-09-18T18:30:00",
-            "theater": "Cine York"
+            "showtime": "2024-09-18T16:20:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
         "3": [],
@@ -5038,7 +6642,7 @@
       }
     }
   ],
-  "Hojas De Otoño": [
+  "Kind Of Kindness": [
     {
       "name": "September 18 - September 24, 2024",
       "days": {
@@ -5046,8 +6650,8 @@
         "1": [],
         "2": [
           {
-            "showtime": "2024-09-18T21:20:00",
-            "theater": "Cosmos UBA"
+            "showtime": "2024-09-18T20:30:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
         "3": [],
@@ -5057,621 +6661,83 @@
       }
     }
   ],
-  "Baronesa": [
+  "Motel Destino": [
+    {
+      "name": "September 18 - September 24, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [
+          {
+            "showtime": "2024-09-18T21:10:00",
+            "theater": "Cine Arte Cacodelphia"
+          }
+        ],
+        "3": [],
+        "4": [],
+        "5": [],
+        "6": []
+      }
+    }
+  ],
+  "La Sustancia": [
     {
       "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T18:00:00",
-            "theater": "Casa de la Lectura"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "La Princesa Mononoke": [
-    {
-      "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T18:00:00",
-            "theater": "Centro Cultural Munro"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "La Recepcionista": [
-    {
-      "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T18:30:00",
-            "theater": "Biblioteca del Congreso"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Estela": [
-    {
-      "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T18:30:00",
-            "theater": "Cine York"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Ida Vitale": [
-    {
-      "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T19:00:00",
-            "theater": "CC Recoleta"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    },
-    {
-      "name": "September 26 - October 02, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-26T19:00:00",
-            "theater": "CC Recoleta"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Un Crimen Común": [
-    {
-      "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T19:00:00",
-            "theater": "Fundación SAGAI"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Las Furias": [
-    {
-      "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T20:00:00",
-            "theater": "Palacio El Victorial (Cineclub Sur)"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Mercado Del Abasto": [
-    {
-      "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T20:30:00",
-            "theater": "Casona Humahuaca"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Pompoko": [
-    {
-      "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T20:30:00",
-            "theater": "Centro Cultural Munro"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Plan B": [
-    {
-      "name": "September 19 - September 25, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-19T21:00:00",
-            "theater": "Cine York"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Los Niños Del Paraíso": [
-    {
-      "name": "September 20 - September 26, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-20T16:00:00",
-            "theater": "Casa de la PBA"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Un Día En Nueva York": [
-    {
-      "name": "September 20 - September 26, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-20T19:00:00",
-            "theater": "CC Recoleta"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Homofobia": [
-    {
-      "name": "September 20 - September 26, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-20T19:00:00",
-            "theater": "Gitana Cine"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Transeúnte": [
-    {
-      "name": "September 20 - September 26, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-20T20:30:00",
-            "theater": "TAI Teatro"
-          },
-          {
-            "showtime": "2024-09-20T20:30:00",
-            "theater": "TAI Teatro"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Herbaria": [
-    {
-      "name": "September 20 - September 26, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-20T21:00:00",
-            "theater": "Cine York"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Abastecimiento": [
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T16:00:00",
-            "theater": "Museo Del Cine"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "Ultra Toxic": [
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T18:00:00",
-            "theater": "Museo Del Cine"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "Alanis": [
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T18:30:00",
-            "theater": "Cine York"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "El Angel Exterminador": [
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T19:00:00",
-            "theater": "CC Recoleta"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "La Niña Santa": [
-    {
-      "name": "September 21 - September 27, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-21T21:00:00",
-            "theater": "Cine York"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "El Tercer Hombre": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T14:00:00",
-            "theater": "Museo Sarmiento"
-          },
-          {
-            "showtime": "2024-09-22T16:00:00",
-            "theater": "Museo Sarmiento"
-          }
-        ]
-      }
-    }
-  ],
-  "Una Casa Sin Cortinas": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T16:00:00",
-            "theater": "Museo Del Cine"
-          }
-        ]
-      }
-    }
-  ],
-  "La Tumba De Las Luciérnagas": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T16:00:00",
-            "theater": "Centro Cultural Munro"
-          }
-        ]
-      }
-    }
-  ],
-  "La Terraza": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T18:00:00",
-            "theater": "Museo Del Cine"
-          }
-        ]
-      }
-    }
-  ],
-  "Archivo Abierto De Películas Lésbicas": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T18:00:00",
-            "theater": "Gitana Cine"
-          }
-        ]
-      }
-    }
-  ],
-  "Nausicaä Del Valle Del Viento": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T18:30:00",
-            "theater": "Centro Cultural Munro"
-          }
-        ]
-      }
-    }
-  ],
-  "Buenos Aires Viceversa": [
-    {
-      "name": "September 22 - September 28, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-22T21:00:00",
-            "theater": "Cine York"
-          }
-        ]
-      }
-    }
-  ],
-  "Elda Y Los Monstruos": [
-    {
-      "name": "September 23 - September 29, 2024",
-      "days": {
-        "0": [
-          {
-            "showtime": "2024-09-23T20:00:00",
-            "theater": "CC 25 de Mayo"
-          }
-        ],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Las Noches De Cabiria": [
-    {
-      "name": "September 24 - September 30, 2024",
       "days": {
         "0": [],
         "1": [
           {
             "showtime": "2024-09-24T16:00:00",
-            "theater": "Casa de la PBA"
-          }
-        ],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Ladrón De Bicicletas": [
-    {
-      "name": "September 24 - September 30, 2024",
-      "days": {
-        "0": [],
-        "1": [
+            "theater": "Cine Arte Cacodelphia"
+          },
           {
-            "showtime": "2024-09-24T18:15:00",
-            "theater": "Casa de la PBA"
+            "showtime": "2024-09-24T20:40:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
         "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Fuck You! Él Último Show": [
-    {
-      "name": "September 24 - September 30, 2024",
-      "days": {
-        "0": [],
-        "1": [
+        "3": [
           {
-            "showtime": "2024-09-24T18:30:00",
-            "theater": "Biblioteca Nacional"
+            "showtime": "2024-09-19T16:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          },
+          {
+            "showtime": "2024-09-19T20:40:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
+        "4": [
+          {
+            "showtime": "2024-09-20T16:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          },
+          {
+            "showtime": "2024-09-20T20:40:00",
+            "theater": "Cine Arte Cacodelphia"
+          }
+        ],
+        "5": [
+          {
+            "showtime": "2024-09-21T16:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          },
+          {
+            "showtime": "2024-09-21T20:40:00",
+            "theater": "Cine Arte Cacodelphia"
+          }
+        ],
+        "6": [
+          {
+            "showtime": "2024-09-22T16:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          },
+          {
+            "showtime": "2024-09-22T20:40:00",
+            "theater": "Cine Arte Cacodelphia"
+          }
+        ]
       }
-    }
-  ],
-  "Safo, Historia De Una Pasión": [
+    },
     {
       "name": "September 25 - October 01, 2024",
       "days": {
@@ -5679,8 +6745,12 @@
         "1": [],
         "2": [
           {
-            "showtime": "2024-09-25T15:00:00",
-            "theater": "Lumiton"
+            "showtime": "2024-09-25T16:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          },
+          {
+            "showtime": "2024-09-25T20:40:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
         "3": [],
@@ -5690,199 +6760,9 @@
       }
     }
   ],
-  "El Motoarrebatador": [
+  "La Práctica": [
     {
-      "name": "September 25 - October 01, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-25T18:30:00",
-            "theater": "Cine York"
-          }
-        ],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Yuyes Verdes: Mujeres Y Disidencias En El Tango Del Siglo Xxi": [
-    {
-      "name": "September 25 - October 01, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-25T19:00:00",
-            "theater": "CC de la Cooperación"
-          }
-        ],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Puntos Suspensivos": [
-    {
-      "name": "September 25 - October 01, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [
-          {
-            "showtime": "2024-09-25T21:00:00",
-            "theater": "Cine York"
-          }
-        ],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Planta Permanente": [
-    {
-      "name": "September 26 - October 02, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-26T18:00:00",
-            "theater": "Casa de la Lectura"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "El Cuento De La Princesa Kaguya": [
-    {
-      "name": "September 26 - October 02, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-26T18:00:00",
-            "theater": "Centro Cultural Munro"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Murmullo De Corazones": [
-    {
-      "name": "September 26 - October 02, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-26T18:30:00",
-            "theater": "Biblioteca del Congreso"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "El Puto Inolvidable": [
-    {
-      "name": "September 26 - October 02, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-26T18:30:00",
-            "theater": "Cine York"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "El Hombre Inconcluso": [
-    {
-      "name": "September 26 - October 02, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-26T19:00:00",
-            "theater": "Fundación SAGAI"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "El Castillo Ambulante": [
-    {
-      "name": "September 26 - October 02, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-26T20:30:00",
-            "theater": "Centro Cultural Munro"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Crónica De Una Fuga": [
-    {
-      "name": "September 26 - October 02, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [
-          {
-            "showtime": "2024-09-26T21:00:00",
-            "theater": "Cine York"
-          }
-        ],
-        "4": [],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "El Mundo Sigue": [
-    {
-      "name": "September 27 - October 03, 2024",
+      "name": "September 20 - September 26, 2024",
       "days": {
         "0": [],
         "1": [],
@@ -5890,73 +6770,14 @@
         "3": [],
         "4": [
           {
-            "showtime": "2024-09-27T16:00:00",
-            "theater": "Casa de la PBA"
+            "showtime": "2024-09-20T19:00:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
         "5": [],
         "6": []
       }
-    }
-  ],
-  "Calle Mayor": [
-    {
-      "name": "September 27 - October 03, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-27T18:15:00",
-            "theater": "Casa de la PBA"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Gombrowicz O La Inmadurez": [
-    {
-      "name": "September 27 - October 03, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-27T18:30:00",
-            "theater": "Biblioteca Nacional"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "¿Dónde Estás Amor De Mi Vida...Que No Te Puedo Encontrar?": [
-    {
-      "name": "September 27 - October 03, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-27T18:30:00",
-            "theater": "Cine York"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Brindis De Amor": [
+    },
     {
       "name": "September 27 - October 03, 2024",
       "days": {
@@ -5967,7 +6788,7 @@
         "4": [
           {
             "showtime": "2024-09-27T19:00:00",
-            "theater": "CC Recoleta"
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
         "5": [],
@@ -5975,111 +6796,45 @@
       }
     }
   ],
-  "Llamen A Joe": [
+  "Luz Mala": [
     {
-      "name": "September 27 - October 03, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-27T20:30:00",
-            "theater": "TAI Teatro"
-          },
-          {
-            "showtime": "2024-09-27T20:30:00",
-            "theater": "TAI Teatro"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "El Crack": [
-    {
-      "name": "September 27 - October 03, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [
-          {
-            "showtime": "2024-09-27T21:00:00",
-            "theater": "Cine York"
-          }
-        ],
-        "5": [],
-        "6": []
-      }
-    }
-  ],
-  "Material Digitalizado De Archivos Carlos Trilnick": [
-    {
-      "name": "September 28 - October 04, 2024",
+      "name": "September 22 - September 28, 2024",
       "days": {
         "0": [],
         "1": [],
         "2": [],
         "3": [],
         "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T16:00:00",
-            "theater": "Museo Del Cine"
-          }
-        ],
-        "6": []
-      }
-    }
-  ],
-  "Día Del Cine Mudo/Geografías Argentinas": [
-    {
-      "name": "September 28 - October 04, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T18:00:00",
-            "theater": "Museo Del Cine"
-          }
-        ],
+        "5": [],
         "6": [
           {
-            "showtime": "2024-09-29T16:00:00",
-            "theater": "Museo Del Cine"
+            "showtime": "2024-09-22T21:10:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ]
       }
     }
   ],
-  "La Parte Del León": [
+  "Xxy": [
     {
-      "name": "September 28 - October 04, 2024",
+      "name": "September 24 - September 30, 2024",
       "days": {
         "0": [],
-        "1": [],
+        "1": [
+          {
+            "showtime": "2024-09-24T19:00:00",
+            "theater": "Cine Arte Cacodelphia"
+          }
+        ],
         "2": [],
         "3": [],
         "4": [],
-        "5": [
-          {
-            "showtime": "2024-09-28T18:30:00",
-            "theater": "Cine York"
-          }
-        ],
+        "5": [],
         "6": []
       }
     }
   ],
-  "Él": [
+  "Los Tonos Mayores": [
     {
       "name": "September 28 - October 04, 2024",
       "days": {
@@ -6091,199 +6846,41 @@
         "5": [
           {
             "showtime": "2024-09-28T19:00:00",
-            "theater": "CC Recoleta"
+            "theater": "Cine Arte Cacodelphia"
+          }
+        ],
+        "6": []
+      }
+    },
+    {
+      "name": "October 12 - October 18, 2024",
+      "days": {
+        "0": [],
+        "1": [],
+        "2": [],
+        "3": [],
+        "4": [],
+        "5": [
+          {
+            "showtime": "2024-10-12T19:00:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
         "6": []
       }
     }
   ],
-  "Farenheit 451": [
+  "Drive My Car": [
     {
-      "name": "September 29 - October 05, 2024",
+      "name": "October 08 - October 14, 2024",
       "days": {
         "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
+        "1": [
           {
-            "showtime": "2024-09-29T14:00:00",
-            "theater": "Museo Sarmiento"
-          },
-          {
-            "showtime": "2024-09-29T16:00:00",
-            "theater": "Museo Sarmiento"
-          }
-        ]
-      }
-    }
-  ],
-  "El Viaje De Chihiro": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T16:00:00",
-            "theater": "Centro Cultural Munro"
-          }
-        ]
-      }
-    }
-  ],
-  "Graciela": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T18:00:00",
-            "theater": "Museo Del Cine"
-          }
-        ]
-      }
-    }
-  ],
-  "Doce Clavos + Las Siamesas": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T18:00:00",
-            "theater": "Centro Cultural San Martin"
-          }
-        ]
-      }
-    }
-  ],
-  "El Camino De San Diego": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T18:30:00",
-            "theater": "Cine York"
-          }
-        ]
-      }
-    }
-  ],
-  "Mis Vecinos Los Yamada": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T18:30:00",
-            "theater": "Centro Cultural Munro"
-          }
-        ]
-      }
-    }
-  ],
-  "Los Olvidados": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T19:00:00",
-            "theater": "CC Recoleta"
-          }
-        ]
-      }
-    }
-  ],
-  "Retrato Incompleto De La Canción Infinita": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T19:00:00",
-            "theater": "Casa del Bicentenario"
-          }
-        ]
-      }
-    }
-  ],
-  "Gilda": [
-    {
-      "name": "September 29 - October 05, 2024",
-      "days": {
-        "0": [],
-        "1": [],
-        "2": [],
-        "3": [],
-        "4": [],
-        "5": [],
-        "6": [
-          {
-            "showtime": "2024-09-29T21:00:00",
-            "theater": "Cine York"
-          }
-        ]
-      }
-    }
-  ],
-  "Continuará...": [
-    {
-      "name": "September 30 - October 06, 2024",
-      "days": {
-        "0": [
-          {
-            "showtime": "2024-09-30T20:00:00",
-            "theater": "CC 25 de Mayo"
+            "showtime": "2024-10-08T19:00:00",
+            "theater": "Cine Arte Cacodelphia"
           }
         ],
-        "1": [],
         "2": [],
         "3": [],
         "4": [],

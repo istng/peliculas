@@ -1,24 +1,59 @@
 {
-  "Casa de la PBA": {
-    "address": "https://www.google.com/maps/search/Casa+de+la+PBA/",
-    "website": "https://gba.gob.ar/casaPBA/agenda_cultural_casa_pba",
-    "price": "Gratis",
-    "city": "AMBA",
-    "color": "#000000"
+  "Gaumont": {
+    "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "website": "http://www.incaa.gov.ar/complejo-gaumont",
+    "price": "2000 ARS / 1000 ARS",
+    "city": "CABA",
+    "color": "#0000FF"
+  },
+  "Cultural San Martín": {
+    "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "website": "https://elculturalsanmartin.ar/cine/",
+    "price": "2000 ARS / 1000 ARS",
+    "city": "CABA",
+    "color": "#FF571A"
+  },
+  "CCK": {
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "city": "CABA",
+    "color": "#39537A"
   },
   "Biblioteca del Congreso": {
-    "address": "https://www.google.com/maps/search/Biblioteca+del+Congreso/",
-    "website": "https://bcn.gob.ar/dias-de-cine/cinema-paradiso",
-    "price": "Gratis",
-    "city": "AMBA",
-    "color": "#000000"
+    "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
+    "price": "Gratis, con inscripción",
+    "city": "CABA",
+    "color": "#ADD3C3"
   },
-  "Hasta trilce": {
-    "address": "https://www.google.com/maps/search/Hasta+trilce/",
-    "website": "https://www.alternativateatral.com/obra75124-pena-sin-cadenas ",
-    "price": "3500",
-    "city": "AMBA",
-    "color": "#000000"
+  "MALBA": {
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "city": "CABA",
+    "color": "#B3B3B3"
+  },
+  "DAC": {
+    "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
+    "website": "https://eventos.dac.org.ar/formulario/",
+    "price": "Gratis, con inscripción",
+    "city": "CABA",
+    "color": "#FF8000"
+  },
+  "Leopoldo Lugones": {
+    "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "website": "https://complejoteatral.gob.ar/cine",
+    "price": "4000 ARS / 2000 ARS",
+    "city": "CABA",
+    "color": "#D9FFD7"
+  },
+  "Bellas Artes": {
+    "address": "https://maps.app.goo.gl/ktW2nt3wQhxT4grU7",
+    "website": "https://amigosdelbellasartes.org.ar/cine/",
+    "price": "Gratis, con inscripción",
+    "city": "CABA",
+    "color": "#EEB8B8"
   },
   "Cosmos UBA": {
     "address": "https://www.google.com/maps/search/Cosmos+UBA/",
@@ -97,6 +132,13 @@
     "city": "AMBA",
     "color": "#000000"
   },
+  "Casa de la PBA": {
+    "address": "https://www.google.com/maps/search/Casa+de+la+PBA/",
+    "website": "https://gba.gob.ar/casaPBA/agenda_cultural_casa_pba",
+    "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
   "Gitana Cine": {
     "address": "https://www.google.com/maps/search/Gitana+Cine/",
     "website": "http://conti.derhuman.jus.gov.ar/2024/09/festival-futuros5.php#placer ",
@@ -136,6 +178,13 @@
     "address": "https://www.google.com/maps/search/Biblioteca+Nacional/",
     "website": "https://www.bn.gov.ar/agenda-cultural/la-nave-de-los-suenos-7",
     "price": "Gratis",
+    "city": "AMBA",
+    "color": "#000000"
+  },
+  "Hasta trilce": {
+    "address": "https://www.google.com/maps/search/Hasta+trilce/",
+    "website": "https://www.alternativateatral.com/obra75124-pena-sin-cadenas ",
+    "price": "3500",
     "city": "AMBA",
     "color": "#000000"
   },
