@@ -6148,22 +6148,6 @@
   {
     "title": "El Placer Es Mío",
     "director": "Sacha Amaral",
-    "theater": "CC San Martín",
-    "website": "https://elculturalsanmartin.ar/cine-nacional/",
-    "price": "1000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Drama",
-    "nationality": "Argentina, Brasil, Francia",
-    "poster": "https://image.tmdb.org/t/p/w500/lB2vuOvzNjKpZRS1VcLSV9L6aDv.jpg",
-    "imdbid": "tt8183634",
-    "trailer": "",
-    "address": "https://www.google.com/maps/search/CC+San+Martín/",
-    "showtime": "2024-09-18T21:00:00"
-  },
-  {
-    "title": "El Placer Es Mío",
-    "director": "Sacha Amaral",
     "year": "2024",
     "genre": "Drama",
     "duration": "",
@@ -6271,22 +6255,6 @@
     "imdbid": "tt0119698",
     "trailer": "https://www.youtube.com/watch?v=opCxPAwdB6U",
     "address": "https://www.google.com/maps/search/Centro+Cultural+Munro/",
-    "showtime": "2024-09-19T18:00:00"
-  },
-  {
-    "title": "La Culpa De Nada",
-    "director": "Victoria Hladilo",
-    "theater": "CC San Martín",
-    "website": "https://elculturalsanmartin.ar/cine-nacional/",
-    "price": "1000",
-    "year": "",
-    "duration": "",
-    "genre": "Drama",
-    "nationality": "Argentina",
-    "poster": "https://image.tmdb.org/t/p/w500/rIHDGDdKS7r9QzNxaB3YcA8W3vV.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://www.google.com/maps/search/CC+San+Martín/",
     "showtime": "2024-09-19T18:00:00"
   },
   {
@@ -6832,22 +6800,6 @@
     "website": "https://www.cck.gob.ar/cine/",
     "price": "Gratis, orden de llegada",
     "showtime": "2024-09-20T19:30:00"
-  },
-  {
-    "title": "El Agrónomo",
-    "director": "Martín Tures",
-    "theater": "CC San Martín",
-    "website": "https://elculturalsanmartin.ar/cine-nacional/",
-    "price": "1000",
-    "year": "",
-    "duration": "",
-    "genre": "",
-    "nationality": "",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://www.google.com/maps/search/CC+San+Martín/",
-    "showtime": "2024-09-20T20:00:00"
   },
   {
     "title": "El Agrónomo",
@@ -7487,22 +7439,6 @@
     "imdbid": "tt12158846",
     "trailer": "https://www.youtube.com/watch?v=9Hc6mw5luIc",
     "address": "https://www.google.com/maps/search/Museo+Del+Cine/",
-    "showtime": "2024-09-22T16:00:00"
-  },
-  {
-    "title": "La Estrella Que Perdí",
-    "director": "Luz Orlando Brennan",
-    "theater": "CC San Martín",
-    "website": "https://elculturalsanmartin.ar/cine-nacional/",
-    "price": "1000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Drama, Comedia",
-    "nationality": "Argentina",
-    "poster": "https://image.tmdb.org/t/p/w500/36vJ9mzYBGarxRCi6vgG7Sf96Ig.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://www.google.com/maps/search/CC+San+Martín/",
     "showtime": "2024-09-22T16:00:00"
   },
   {
@@ -8178,22 +8114,6 @@
     "showtime": "2024-09-25T20:40:00"
   },
   {
-    "title": "El Placer Es Mío",
-    "director": "Sacha Amaral",
-    "theater": "CC San Martín",
-    "website": "https://elculturalsanmartin.ar/cine-nacional/",
-    "price": "1000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Drama",
-    "nationality": "Argentina, Brasil, Francia",
-    "poster": "https://image.tmdb.org/t/p/w500/lB2vuOvzNjKpZRS1VcLSV9L6aDv.jpg",
-    "imdbid": "tt8183634",
-    "trailer": "",
-    "address": "https://www.google.com/maps/search/CC+San+Martín/",
-    "showtime": "2024-09-25T21:00:00"
-  },
-  {
     "title": "Puntos Suspensivos",
     "director": "Edgardo Cozarinsky",
     "theater": "Cine York",
@@ -8787,22 +8707,6 @@
   },
   {
     "title": "El Agrónomo",
-    "director": "Martín Tures",
-    "theater": "CC San Martín",
-    "website": "https://elculturalsanmartin.ar/cine-nacional/",
-    "price": "1000",
-    "year": "",
-    "duration": "",
-    "genre": "",
-    "nationality": "",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://www.google.com/maps/search/CC+San+Martín/",
-    "showtime": "2024-09-27T20:00:00"
-  },
-  {
-    "title": "El Agrónomo",
     "director": "Martín Turnes",
     "theater": "Centro Cultural San Martin",
     "website": "https://elculturalsanmartin.ar/cine-nacional/ ",
@@ -9264,22 +9168,6 @@
     "trailer": "",
     "address": "https://www.google.com/maps/search/Museo+Sarmiento/",
     "showtime": "2024-09-29T14:00:00"
-  },
-  {
-    "title": "La Estrella Que Perdí",
-    "director": "Luz Orlando Brennan",
-    "theater": "CC San Martín",
-    "website": "https://elculturalsanmartin.ar/cine-nacional/",
-    "price": "1000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Drama, Comedia",
-    "nationality": "Argentina",
-    "poster": "https://image.tmdb.org/t/p/w500/36vJ9mzYBGarxRCi6vgG7Sf96Ig.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://www.google.com/maps/search/CC+San+Martín/",
-    "showtime": "2024-09-29T16:00:00"
   },
   {
     "title": "Día Del Cine Mudo/Geografías Argentinas",
