@@ -5793,48 +5793,6 @@
           "month": 9,
           "showtimes": []
         }
-      },
-      {
-        "lun": {
-          "date": 23,
-          "month": 9,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 24,
-          "month": 9,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 25,
-          "month": 9,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 26,
-          "month": 9,
-          "showtimes": [
-            {
-              "showtime": "2024-09-26T20:30:00",
-              "theater": "Casona Humahuaca"
-            }
-          ]
-        },
-        "vie": {
-          "date": 27,
-          "month": 9,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 28,
-          "month": 9,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 29,
-          "month": 9,
-          "showtimes": []
-        }
       }
     ]
   },
