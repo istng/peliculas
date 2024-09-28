@@ -47,62 +47,38 @@
     "price": "Gratis, con inscripción",
     "city": "CABA"
   },
-  "CC 25 de Mayo": {
-    "address": "https://www.google.com/maps/search/CC+25+de+Mayo/",
-    "website": "https://cc25.org/23-09-elda-y-los-monstruos/",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Casa de la PBA": {
-    "address": "https://www.google.com/maps/search/Casa+de+la+PBA/",
-    "website": "https://gba.gob.ar/casaPBA/agenda_cultural_casa_pba",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
   "Cine Arte Cacodelphia": {
     "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
     "website": "https://cineartecacodelphia.com.ar/",
-    "price": "3500",
+    "price": "3500/6000",
     "city": "AMBA"
   },
-  "Biblioteca Nacional": {
-    "address": "https://www.google.com/maps/search/Biblioteca+Nacional/",
-    "website": "https://www.bn.gov.ar/agenda-cultural/la-nave-de-los-suenos-7",
+  "Cine Cosmos": {
+    "address": "https://www.google.com/maps/search/Cine+Cosmos/",
+    "website": "https://www.cinecosmos.uba.ar/ ",
+    "price": "980/1640",
+    "city": "AMBA"
+  },
+  "Museo Del Cine": {
+    "address": "https://www.google.com/maps/search/Museo+Del+Cine/",
+    "website": " https://buenosaires.gob.ar/cultura/museos/museodelcine ",
+    "price": "500",
+    "city": "AMBA"
+  },
+  "CC Borges": {
+    "address": "https://www.google.com/maps/search/CC+Borges/",
+    "website": "https://centroculturalborges.gob.ar/events/vinci-cuerpo-a-cuerpo-de-franca-gonzalez-2/",
     "price": "Gratis",
     "city": "AMBA"
   },
-  "Hasta trilce": {
-    "address": "https://www.google.com/maps/search/Hasta+trilce/",
-    "website": "https://www.alternativateatral.com/obra75124-pena-sin-cadenas ",
-    "price": "3500",
-    "city": "AMBA"
-  },
-  "Lumiton": {
-    "address": "https://www.google.com/maps/search/Lumiton/",
-    "website": "https://lumiton.ar/evento/safo-historia-de-una-pasion-3/ ",
+  "Amigos del Bellas Artes": {
+    "address": "https://www.google.com/maps/search/Amigos+del+Bellas+Artes/",
+    "website": "https://amigosdelbellasartes.org.ar/cine/",
     "price": "Gratis",
     "city": "AMBA"
   },
   "Cine York": {
     "address": "https://www.google.com/maps/search/Cine+York/",
-    "website": "https://lumiton.ar/agenda-presencial/ ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "CC de la Cooperación": {
-    "address": "https://www.google.com/maps/search/CC+de+la+Cooperación/",
-    "website": "https://www.centrocultural.coop/eventos/yuyes-verdes-mujeres-y-disidencias-en-el-tango-del-siglo-xxi",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Casa de la Lectura": {
-    "address": "https://www.google.com/maps/search/Casa+de+la+Lectura/",
-    "website": "https://agendacultural15.com/cine-para-lectores-en-casa-de-la-lectura-5/  ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Centro Cultural Munro": {
-    "address": "https://www.google.com/maps/search/Centro+Cultural+Munro/",
     "website": "https://lumiton.ar/agenda-presencial/ ",
     "price": "Gratis",
     "city": "AMBA"
@@ -113,27 +89,39 @@
     "price": "Gratis",
     "city": "AMBA"
   },
-  "Fundación SAGAI": {
-    "address": "https://www.google.com/maps/search/Fundación+SAGAI/",
-    "website": "https://www.alternativateatral.com/evento2694-ciclo-de-cine-de-suspenso-en-fundacion-sagai",
+  "Centro Cultural Munro": {
+    "address": "https://www.google.com/maps/search/Centro+Cultural+Munro/",
+    "website": "https://lumiton.ar/agenda-presencial/ ",
     "price": "Gratis",
-    "city": "AMBA"
-  },
-  "TAI Teatro": {
-    "address": "https://www.google.com/maps/search/TAI+Teatro/",
-    "website": "https://www.instagram.com/taiteatro/",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Museo Del Cine": {
-    "address": "https://www.google.com/maps/search/Museo+Del+Cine/",
-    "website": " https://buenosaires.gob.ar/cultura/museos/museodelcine ",
-    "price": "500",
     "city": "AMBA"
   },
   "Casa del Bicentenario": {
     "address": "https://www.google.com/maps/search/Casa+del+Bicentenario/",
     "website": "https://casadelbicentenario.cultura.gob.ar/actividad/cnb-cine-rockumentales-de-invierno/",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "Casa Nacional del Bicentenario": {
+    "address": "https://www.google.com/maps/search/Casa+Nacional+del+Bicentenario/",
+    "website": "https://casadelbicentenario.cultura.gob.ar/actividad/cnb-cine-rockumentales-de-invierno/",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "PUAN (Facultad de Filosofía y Letras - UBA)": {
+    "address": "https://www.google.com/maps/search/PUAN+(Facultad+de+Filosofía+y+Letras+-+UBA)/",
+    "website": "https://www.instagram.com/p/DAGtSZpRlQU/?hl=es-la ",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "CC 25 de Mayo": {
+    "address": "https://www.google.com/maps/search/CC+25+de+Mayo/",
+    "website": "https://cc25.org/30-09-continuara/#sinopsis",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "Las deudas": {
+    "address": "https://www.google.com/maps/search/Las+deudas/",
+    "website": "https://www.instagram.com/p/DAUfo5iIzoS/",
     "price": "Gratis",
     "city": "AMBA"
   }
