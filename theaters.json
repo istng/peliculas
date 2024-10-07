@@ -12,10 +12,10 @@
     "city": "CABA"
   },
   "CCK": {
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "city": "CABA"
+    "address": "https://www.google.com/maps/search/CCK/",
+    "website": "https://www.cck.gob.ar/events/cine-japones-en-16-mm/ ",
+    "price": "Gratis",
+    "city": "AMBA"
   },
   "Biblioteca del Congreso": {
     "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
@@ -47,22 +47,16 @@
     "price": "Gratis, con inscripción",
     "city": "CABA"
   },
-  "Casa de la PBA": {
-    "address": "https://www.google.com/maps/search/Casa+de+la+PBA/",
-    "website": "https://gba.gob.ar/casaPBA/agenda_cultural_casa_pba",
+  "CC Munro": {
+    "address": "https://www.google.com/maps/search/CC+Munro/",
+    "website": "https://lumiton.ar/agenda-presencial/ ",
     "price": "Gratis",
     "city": "AMBA"
   },
-  "Cine Arte Cacodelphia": {
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "website": "https://cineartecacodelphia.com.ar/",
-    "price": "3500/6000",
-    "city": "AMBA"
-  },
-  "Cine Cosmos": {
-    "address": "https://www.google.com/maps/search/Cine+Cosmos/",
-    "website": "https://www.cinecosmos.uba.ar/ ",
-    "price": "980/1640",
+  "Cine York": {
+    "address": "https://www.google.com/maps/search/Cine+York/",
+    "website": "https://lumiton.ar/agenda-presencial/ ",
+    "price": "Gratis",
     "city": "AMBA"
   },
   "CC Recoleta": {
@@ -73,13 +67,13 @@
   },
   "Casa Nacional del Bicentenario": {
     "address": "https://www.google.com/maps/search/Casa+Nacional+del+Bicentenario/",
-    "website": "https://casadelbicentenario.cultura.gob.ar/actividad/kino-cnb-bendita-tu/",
+    "website": "https://casadelbicentenario.cultura.gob.ar/actividad/kino-cnb-narcisa-hirsch-y-el-erotismo-del-tiempo/",
     "price": "Gratis",
     "city": "AMBA"
   },
-  "Las deudas": {
-    "address": "https://www.google.com/maps/search/Las+deudas/",
-    "website": "https://www.instagram.com/p/DAUfo5iIzoS/",
+  "Casa de la PBA": {
+    "address": "https://www.google.com/maps/search/Casa+de+la+PBA/",
+    "website": "https://gba.gob.ar/casaPBA/agenda_cultural_casa_pba",
     "price": "Gratis",
     "city": "AMBA"
   },
@@ -89,9 +83,39 @@
     "price": "Gratis",
     "city": "AMBA"
   },
+  "Biblioteca Nacional": {
+    "address": "https://www.google.com/maps/search/Biblioteca+Nacional/",
+    "website": "https://www.bn.gov.ar/agenda-cultural/la-nave-de-los-suenos-8  ",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "Cine Arte Cacodelphia": {
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "website": "https://cineartecacodelphia.com.ar/",
+    "price": "3500",
+    "city": "AMBA"
+  },
+  "Hasta trilce": {
+    "address": "https://www.google.com/maps/search/Hasta+trilce/",
+    "website": "https://www.alternativateatral.com/obra75124-pena-sin-cadenas ",
+    "price": "3500",
+    "city": "AMBA"
+  },
+  "CCM Haroldo Conti": {
+    "address": "https://www.google.com/maps/search/CCM+Haroldo+Conti/",
+    "website": "http://conti.derhuman.jus.gov.ar/2024/10/cine-reciente.php#terrenos",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
   "JJ Circuito Cultural": {
     "address": "https://www.google.com/maps/search/JJ+Circuito+Cultural/",
     "website": "https://www.instagram.com/p/DAi7U_qOden/?img_index=2",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "Lumiton": {
+    "address": "https://www.google.com/maps/search/Lumiton/",
+    "website": "https://lumiton.ar/agenda-presencial/ ",
     "price": "Gratis",
     "city": "AMBA"
   }
