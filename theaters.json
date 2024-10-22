@@ -12,10 +12,10 @@
     "city": "CABA"
   },
   "CCK": {
-    "address": "https://www.google.com/maps/search/CCK/",
-    "website": "https://www.cck.gob.ar/events/nuevos-clasicos-argentinos-terror/",
-    "price": "Gratis",
-    "city": "AMBA"
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada",
+    "city": "CABA"
   },
   "Biblioteca del Congreso": {
     "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
@@ -24,10 +24,10 @@
     "city": "CABA"
   },
   "MALBA": {
-    "address": "https://www.google.com/maps/search/MALBA/",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/ ",
-    "price": "2500/5000",
-    "city": "AMBA"
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
+    "city": "CABA"
   },
   "DAC": {
     "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
@@ -46,119 +46,5 @@
     "website": "https://amigosdelbellasartes.org.ar/cine/",
     "price": "Gratis, con inscripción",
     "city": "CABA"
-  },
-  "Museo del cine": {
-    "address": "https://www.google.com/maps/search/Museo+del+cine/",
-    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
-    "price": "4500/750",
-    "city": "AMBA"
-  },
-  "Casa Nacional del Bicentenario": {
-    "address": "https://www.google.com/maps/search/Casa+Nacional+del+Bicentenario/",
-    "website": "https://casadelbicentenario.cultura.gob.ar/actividad/kino-cnb-festival-transterritorial-de-cine-under/",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "CC Recoleta": {
-    "address": "https://www.google.com/maps/search/CC+Recoleta/",
-    "website": "http://www.centroculturalrecoleta.org/agenda",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Cine Arte Cacodelphia": {
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "website": "https://cineartecacodelphia.com.ar/",
-    "price": "5500/3500",
-    "city": "AMBA"
-  },
-  "CCM Haroldo Conti": {
-    "address": "https://www.google.com/maps/search/CCM+Haroldo+Conti/",
-    "website": "http://conti.derhuman.jus.gov.ar/2024/10/cine-reciente.php#terrenos",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "JJ Circuito Cultural": {
-    "address": "https://www.google.com/maps/search/JJ+Circuito+Cultural/",
-    "website": "https://www.instagram.com/p/DAi7U_qOden/?img_index=2",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Amigos del Bellas Artes": {
-    "address": "https://www.google.com/maps/search/Amigos+del+Bellas+Artes/",
-    "website": "https://amigosdelbellasartes.org.ar/cine/",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "CC 25 de Mayo": {
-    "address": "https://www.google.com/maps/search/CC+25+de+Mayo/",
-    "website": "https://cc25.org/07-10-el-espacio-que-ocupo/",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Casa de la PBA": {
-    "address": "https://www.google.com/maps/search/Casa+de+la+PBA/",
-    "website": "https://gba.gob.ar/casaPBA/agenda_cultural_casa_pba",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Microcine de la Universidad del Cine": {
-    "address": "https://www.google.com/maps/search/Microcine+de+la+Universidad+del+Cine/",
-    "website": "https://ucine.edu.ar/actividades/ciclo-cine-de-terror-  ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Hasta trilce": {
-    "address": "https://www.google.com/maps/search/Hasta+trilce/",
-    "website": "https://www.alternativateatral.com/obra75124-pena-sin-cadenas ",
-    "price": "3500",
-    "city": "AMBA"
-  },
-  "Manzana de las luces": {
-    "address": "https://www.google.com/maps/search/Manzana+de+las+luces/",
-    "website": "https://manzanadelasluces.cultura.gob.ar/actividad/ciclo-de-videos-en-la-manzana-de-las-luces-paraquaria/ ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Cine York": {
-    "address": "https://www.google.com/maps/search/Cine+York/",
-    "website": "https://lumiton.ar/agenda-presencial/ ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Programación completa en su web": {
-    "address": "https://www.google.com/maps/search/Programación+completa+en+su+web/",
-    "website": "https://www.ficuba.com/es/programacion ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Manzana de las Luces": {
-    "address": "https://www.google.com/maps/search/Manzana+de+las+Luces/",
-    "website": "https://manzanadelasluces.cultura.gob.ar/actividad/19-festival-cine-inusual-de-buenos-aires-en-la-manzana-de-las-luces/ ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "CC Munro": {
-    "address": "https://www.google.com/maps/search/CC+Munro/",
-    "website": "https://lumiton.ar/agenda-presencial/ ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Fundación SAGAI": {
-    "address": "https://www.google.com/maps/search/Fundación+SAGAI/",
-    "website": "https://www.instagram.com/p/DAtiaPiTt49/?img_index=1 ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Biblioteca Nacional": {
-    "address": "https://www.google.com/maps/search/Biblioteca+Nacional/",
-    "website": "https://www.bn.gov.ar/agenda-cultural/la-nave-de-los-suenos-8  ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Lumiton": {
-    "address": "https://www.google.com/maps/search/Lumiton/",
-    "website": "https://lumiton.ar/agenda-presencial/ ",
-    "price": "Gratis",
-    "city": "AMBA"
   }
 }
