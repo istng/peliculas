@@ -367,263 +367,6 @@
       }
     ]
   },
-  "Artes Y Silencios: Ruta Musical De Los Pueblos Del Este Catamarqueño": {
-    "details": {
-      "title": "Artes Y Silencios: Ruta Musical De Los Pueblos Del Este Catamarqueño",
-      "director": "Francisco Pascuali y Lautaro Aledda",
-      "showtimes": [
-        "2024-11-12T18:00:00"
-      ],
-      "theater": "Biblioteca Nacional",
-      "website": "https://www.bn.gov.ar/agenda-cultural/la-nave-de-los-suenos-9",
-      "price": "Gratis",
-      "year": "",
-      "duration": "",
-      "genre": "",
-      "nationality": "",
-      "address": "https://www.google.com/maps/search/Biblioteca+Nacional/",
-      "poster": "",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-12T18:00:00",
-              "theater": "Biblioteca Nacional"
-            }
-          ]
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Atahualpa Yupanqui, Un Trashumante": {
-    "details": {
-      "title": "Atahualpa Yupanqui, Un Trashumante",
-      "director": "Federico Randazzo",
-      "showtimes": [
-        "2024-11-10T18:00:00",
-        "2024-11-17T18:00:00",
-        "2024-11-24T18:00:00",
-        "2024-12-01T18:00:00"
-      ],
-      "theater": "CCSM",
-      "website": "https://www.instagram.com/p/DBzc8VbRgqk/?img_index=2 ",
-      "price": "",
-      "year": "2024",
-      "duration": "",
-      "genre": "Documental",
-      "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/CCSM/",
-      "poster": "https://image.tmdb.org/t/p/w500/r7xFUoLu4e3XJSf3za7NlCabTpt.jpg",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T18:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-17T18:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T18:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-01T18:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      }
-    ]
-  },
   "Atrapadas": {
     "details": {
       "title": "Atrapadas",
@@ -679,70 +422,6 @@
               "theater": "Museo del cine"
             }
           ]
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Ausente": {
-    "details": {
-      "title": "Ausente",
-      "director": "Marco Berger",
-      "year": "2011",
-      "showtimes": [
-        "2024-11-19T18:30:00"
-      ],
-      "genre": "Comedia, Comedia negra.",
-      "duration": "",
-      "nationality": "Argentina",
-      "theater": "Biblioteca del Congreso",
-      "poster": "https://image.tmdb.org/t/p/w500/8ZXP5iuLRJtLz4Vd30EER46wwCh.jpg",
-      "imdbid": "tt1796406",
-      "trailer": "",
-      "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
-      "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
-      "price": "Gratis, con inscripción"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-19T18:30:00",
-              "theater": "Biblioteca del Congreso"
-            }
-          ]
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
         },
         "dom": {
           "date": 24,
@@ -923,70 +602,6 @@
       }
     ]
   },
-  "Calígula": {
-    "details": {
-      "title": "Calígula",
-      "director": "Tinto Brass",
-      "showtimes": [
-        "2024-11-17T20:00:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "1979",
-      "duration": "",
-      "genre": "Drama, History.",
-      "nationality": "Estados Unidos de América e Italia",
-      "address": "https://www.google.com/maps/search/MALBA/",
-      "poster": "https://image.tmdb.org/t/p/w500/vNXAY6r9Pb6WkMCGmNeW2PlznLQ.jpg",
-      "imdbid": "tt0080491",
-      "trailer": "https://www.youtube.com/watch?v=Nn8cKrkQ9cs"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-17T20:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        }
-      }
-    ]
-  },
   "Calígula ": {
     "details": {
       "title": "Calígula ",
@@ -1054,21 +669,21 @@
   "Carne": {
     "details": {
       "title": "Carne",
-      "director": "Armando Bó",
-      "showtimes": [
-        "2024-11-09T23:59:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
+      "director": "Armando Bo",
       "year": "1968",
-      "duration": "",
-      "genre": "Drama",
+      "showtimes": [
+        "2024-11-10T00:00:00"
+      ],
       "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "Drama",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/75JBeB88mj1BWDzzTSd7Y93fRDl.jpg",
       "imdbid": "tt0064130",
-      "trailer": "https://www.youtube.com/watch?v=3CDfwcIScT4"
+      "trailer": "https://www.youtube.com/watch?v=3CDfwcIScT4",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -1100,12 +715,7 @@
         "sab": {
           "date": 9,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-09T23:59:00",
-              "theater": "MALBA"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 10,
@@ -1403,7 +1013,7 @@
       "title": "Ciudad Oculta",
       "director": "Francisco Bouzas",
       "showtimes": [
-        "2024-11-18T16:00:00"
+        "2024-11-30T16:00:00"
       ],
       "theater": "Museo del cine",
       "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
@@ -1499,263 +1109,6 @@
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Continuará...": {
-    "details": {
-      "title": "Continuará...",
-      "director": "Fermin Rivera y Emiliano Penelas",
-      "showtimes": [
-        "2024-11-09T19:00:00",
-        "2024-11-16T17:00:00",
-        "2024-11-23T17:00:00",
-        "2024-11-30T17:00:00"
-      ],
-      "theater": "CCSM",
-      "website": "https://www.instagram.com/p/DBzc8VbRgqk/?img_index=2 ",
-      "price": "500/1000",
-      "year": "2024",
-      "duration": "",
-      "genre": "Documental",
-      "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/CCSM/",
-      "poster": "https://image.tmdb.org/t/p/w500/6gTI81BFsoygqsJbEpAU9Ax2sst.jpg",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-09T19:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-16T17:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-23T17:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T17:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Corresponsal": {
-    "details": {
-      "title": "Corresponsal",
-      "director": "Emiliano Serra",
-      "showtimes": [
-        "2024-11-19T20:00:00"
-      ],
-      "theater": "JJ Circuito Cultural",
-      "website": "https://www.instagram.com/p/DBtqkZLOpd4/?img_index=1",
-      "price": "Alimento no perecedero",
-      "year": "2024",
-      "duration": "",
-      "genre": "Suspense",
-      "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/JJ+Circuito+Cultural/",
-      "poster": "https://image.tmdb.org/t/p/w500/3HjjqgzNCYwr9HAjaqgHVrn8jpd.jpg",
-      "imdbid": "tt32444728",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-19T20:00:00",
-              "theater": "JJ Circuito Cultural"
-            }
-          ]
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
           "showtimes": []
         }
       }
@@ -1953,70 +1306,6 @@
       }
     ]
   },
-  "Cul-De-Sac": {
-    "details": {
-      "title": "Cul-De-Sac",
-      "director": "Roman Polanski",
-      "showtimes": [
-        "2024-11-21T19:00:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/cineclub-nucleo__polanski-x3/ ",
-      "price": "2500/5000",
-      "year": "1966",
-      "duration": "",
-      "genre": "Thriller, comedia, crimen",
-      "nationality": "Reino Unido",
-      "address": "https://www.google.com/maps/search/MALBA/",
-      "poster": "https://image.tmdb.org/t/p/w500/jxNATC8t1rmrVMCMVMEAp41bgVm.jpg",
-      "imdbid": "tt0060268",
-      "trailer": "https://www.youtube.com/watch?v=oqCrt-pYCQA"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-21T19:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "Cuéntame Tu Vida": {
     "details": {
       "title": "Cuéntame Tu Vida",
@@ -2075,174 +1364,6 @@
         },
         "dom": {
           "date": 10,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Dahomey": {
-    "details": {
-      "title": "Dahomey",
-      "director": "",
-      "year": "1917",
-      "showtimes": [
-        "2024-11-09T18:00:00",
-        "2024-11-10T18:00:00",
-        "2024-11-14T21:00:00",
-        "2024-11-15T21:00:00",
-        "2024-11-17T21:00:00",
-        "2024-11-20T21:00:00"
-      ],
-      "genre": "Documental",
-      "duration": "",
-      "nationality": "Francia",
-      "theater": "Leopoldo Lugones",
-      "poster": "",
-      "imdbid": "",
-      "trailer": "",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "price": "4000 ARS / 2000 ARS"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-09T18:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T18:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-14T21:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-15T21:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-17T21:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-20T21:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
           "month": 11,
           "showtimes": []
         }
@@ -2337,134 +1458,6 @@
               "theater": "CCM Haroldo Conti"
             }
           ]
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Descubriendo El Amor": {
-    "details": {
-      "title": "Descubriendo El Amor",
-      "director": "Lukas Moodysson",
-      "year": "1998",
-      "showtimes": [
-        "2024-11-05T18:30:00"
-      ],
-      "genre": "Comedia, romance, drama",
-      "duration": "",
-      "nationality": "Dinamarca - Suecia",
-      "theater": "Biblioteca del Congreso",
-      "poster": "https://image.tmdb.org/t/p/w500/ggCEOiuN7aMpj042GrfK2GDJb3D.jpg",
-      "imdbid": "tt0150662",
-      "trailer": "https://www.youtube.com/watch?v=pJTa4EYcdy4",
-      "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
-      "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
-      "price": "Gratis, con inscripción"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-05T18:30:00",
-              "theater": "Biblioteca del Congreso"
-            }
-          ]
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Despues De Un Buen Día": {
-    "details": {
-      "title": "Despues De Un Buen Día",
-      "director": "Nestor Frenkel",
-      "showtimes": [
-        "2024-11-25T20:00:00"
-      ],
-      "theater": "JJ Circuito Cultural",
-      "website": "https://www.instagram.com/p/DBtqkZLOpd4/?img_index=1",
-      "price": "Alimento no perecedero",
-      "year": "2024",
-      "duration": "",
-      "genre": "Documental",
-      "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/JJ+Circuito+Cultural/",
-      "poster": "https://image.tmdb.org/t/p/w500/kRD7tV3yzXlWSJDBjN4dFXj5pfH.jpg",
-      "imdbid": "tt32901835",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-25T20:00:00",
-              "theater": "JJ Circuito Cultural"
-            }
-          ]
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
         },
         "vie": {
           "date": 29,
@@ -2655,70 +1648,6 @@
       }
     ]
   },
-  "Dolor Y Gloria": {
-    "details": {
-      "title": "Dolor Y Gloria",
-      "director": "Pedro Almodóvar",
-      "year": "2019",
-      "showtimes": [
-        "2024-11-26T18:30:00"
-      ],
-      "genre": "Drama",
-      "duration": "",
-      "nationality": "España",
-      "theater": "Biblioteca del Congreso",
-      "poster": "https://image.tmdb.org/t/p/w500/cMlueArJXXwZbeLpb4NhC3pxmBk.jpg",
-      "imdbid": "tt8291806",
-      "trailer": "https://www.youtube.com/watch?v=pJEDh4ikcWA",
-      "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
-      "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
-      "price": "Gratis, con inscripción"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-26T18:30:00",
-              "theater": "Biblioteca del Congreso"
-            }
-          ]
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "E Il Cibo Va-El Viaje De La Comida Italiana": {
     "details": {
       "title": "E Il Cibo Va-El Viaje De La Comida Italiana",
@@ -2787,20 +1716,20 @@
     "details": {
       "title": "El Abrazo De La Muerte",
       "director": "George Cukor",
+      "year": "",
       "showtimes": [
         "2024-11-21T23:00:00"
       ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "",
-      "duration": "",
-      "genre": "",
       "nationality": "",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "",
       "imdbid": "",
-      "trailer": ""
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -2823,10 +1752,6 @@
           "date": 21,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-21T23:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-21T23:00:00",
               "theater": "MALBA"
@@ -2854,68 +1779,23 @@
   "El Agrónomo": {
     "details": {
       "title": "El Agrónomo",
-      "director": "Martin Turnes",
+      "director": "Martín Turnes",
       "showtimes": [
-        "2024-11-09T21:00:00",
-        "2024-11-16T21:00:00",
-        "2024-11-23T21:00:00",
-        "2024-11-30T21:00:00"
+        "2024-11-13T18:30:00"
       ],
-      "theater": "CCSM",
-      "website": "https://www.instagram.com/p/DB1yiKmxX4B/?img_index=2 ",
-      "price": "500/1000",
+      "theater": "Cine York",
+      "website": "https://lumiton.ar/agenda-presencial/ ",
+      "price": "Gratis",
       "year": "2024",
       "duration": "",
       "genre": "Drama - Vida Familiar",
       "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/CCSM/",
+      "address": "https://www.google.com/maps/search/Cine+York/",
       "poster": "https://image.tmdb.org/t/p/w500/cxkZgltcYxjX1qk8MvUDWSYYVk0.jpg",
       "imdbid": "tt26453182",
       "trailer": ""
     },
     "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-09T21:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": []
-        }
-      },
       {
         "lun": {
           "date": 11,
@@ -2950,100 +1830,11 @@
         "sab": {
           "date": 16,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-16T21:00:00",
-              "theater": "CCSM"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 17,
           "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-23T21:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T21:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
           "showtimes": []
         }
       }
@@ -3333,12 +2124,7 @@
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-23T23:59:00",
-              "theater": "MALBA"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 24,
@@ -3357,20 +2143,20 @@
     "details": {
       "title": "El Casamiento De Muriel",
       "director": "P.J. Hogan",
+      "year": "",
       "showtimes": [
         "2024-11-24T20:00:00"
       ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "",
-      "duration": "",
-      "genre": "",
       "nationality": "",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "",
       "imdbid": "",
-      "trailer": ""
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -3408,10 +2194,6 @@
           "date": 24,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-24T20:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-24T20:00:00",
               "theater": "MALBA"
@@ -3661,10 +2443,6 @@
             {
               "showtime": "2024-11-15T18:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-15T18:00:00",
-              "theater": "MALBA"
             }
           ]
         },
@@ -3686,150 +2464,21 @@
       "title": "El Documental Del 10",
       "director": "Lucas Costa",
       "showtimes": [
-        "2024-11-10T18:00:00",
-        "2024-11-17T18:00:00",
-        "2024-11-24T18:00:00",
-        "2024-12-01T18:00:00"
+        "2024-11-25T20:00:00"
       ],
-      "theater": "CCSM",
-      "website": "https://www.instagram.com/p/DBzc8VbRgqk/?img_index=2 ",
+      "theater": "CC 25 de Mayo",
+      "website": "https://cc25.org/25-11-el-documental-del-10/",
       "price": "Gratis",
       "year": "2024",
       "duration": "",
       "genre": "Documental",
       "nationality": "",
-      "address": "https://www.google.com/maps/search/CCSM/",
+      "address": "https://www.google.com/maps/search/CC+25+de+Mayo/",
       "poster": "https://image.tmdb.org/t/p/w500/mJX9Oj8fT4upNj9NWQw60HzAdl2.jpg",
       "imdbid": "",
       "trailer": ""
     },
     "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T18:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-17T18:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T18:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      },
       {
         "lun": {
           "date": 25,
@@ -3869,12 +2518,7 @@
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-01T18:00:00",
-              "theater": "CCSM"
-            }
-          ]
+          "showtimes": []
         }
       }
     ]
@@ -4135,134 +2779,6 @@
       }
     ]
   },
-  "El Expreso De Shanghai": {
-    "details": {
-      "title": "El Expreso De Shanghai",
-      "director": "Josef Von Sternberg",
-      "showtimes": [
-        "2024-11-10T20:00:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "1932",
-      "duration": "",
-      "genre": "Drama, Romance, Guerra, Crimen, Historia",
-      "nationality": "Estados Unidos de América",
-      "address": "https://www.google.com/maps/search/MALBA/",
-      "poster": "https://image.tmdb.org/t/p/w500/l59j7Mdfry4Mbxvpo68qTG8Y4GY.jpg",
-      "imdbid": "tt0023458",
-      "trailer": "https://www.youtube.com/watch?v=i86Hc6AAVt4"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T20:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "El Jinete Pálido": {
-    "details": {
-      "title": "El Jinete Pálido",
-      "director": "Clint Eastwood",
-      "showtimes": [
-        "2024-11-22T23:59:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/proyecciones__cineclub-nocturna-21/ ",
-      "price": "2500",
-      "year": "1985",
-      "duration": "",
-      "genre": "Género: Western, Drama.",
-      "nationality": "Estados Unidos de América",
-      "address": "https://www.google.com/maps/search/MALBA/",
-      "poster": "https://image.tmdb.org/t/p/w500/kpAN5WnDEVWYzMDPkXHTbrDQuak.jpg",
-      "imdbid": "tt0089767",
-      "trailer": "https://www.youtube.com/watch?v=SGzz3hh1jHc"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-22T23:59:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "El Jinete Pálido ": {
     "details": {
       "title": "El Jinete Pálido ",
@@ -4386,70 +2902,6 @@
         "dom": {
           "date": 17,
           "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "El Joven Manos De Tijera": {
-    "details": {
-      "title": "El Joven Manos De Tijera",
-      "director": "Tim Burton",
-      "showtimes": [
-        "2024-11-30T23:59:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "1990",
-      "duration": "",
-      "genre": "Fantasía, drama, romance",
-      "nationality": "Estados Unidos de América",
-      "address": "https://www.google.com/maps/search/MALBA/",
-      "poster": "https://image.tmdb.org/t/p/w500/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
-      "imdbid": "tt0099487",
-      "trailer": "https://www.youtube.com/watch?v=S8bBjpUBbro"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T23:59:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
           "showtimes": []
         }
       }
@@ -4803,12 +3255,7 @@
         "sab": {
           "date": 16,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-16T23:59:00",
-              "theater": "MALBA"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 17,
@@ -4816,134 +3263,6 @@
           "showtimes": [
             {
               "showtime": "2024-11-17T00:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "El Silencio De Los Hombres": {
-    "details": {
-      "title": "El Silencio De Los Hombres",
-      "director": "Lucía Luvarsky",
-      "showtimes": [
-        "2024-11-24T19:00:00"
-      ],
-      "theater": "JJ Circuito Cultural",
-      "website": "https://www.instagram.com/p/DBtqkZLOpd4/?img_index=1",
-      "price": "Alimento no perecedero",
-      "year": "",
-      "duration": "",
-      "genre": "",
-      "nationality": "",
-      "address": "https://www.google.com/maps/search/JJ+Circuito+Cultural/",
-      "poster": "",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T19:00:00",
-              "theater": "JJ Circuito Cultural"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "El Soldado De Orange": {
-    "details": {
-      "title": "El Soldado De Orange",
-      "director": "Paul Verhoeven",
-      "showtimes": [
-        "2024-12-01T20:00:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "1977",
-      "duration": "",
-      "genre": "Comedia, Comedia negra.",
-      "nationality": "Bélgica, Países Bajos/Holanda",
-      "address": "https://www.google.com/maps/search/MALBA/",
-      "poster": "https://image.tmdb.org/t/p/w500/7w7fDtSUCUtcQ3Y9598CymUnuVx.jpg",
-      "imdbid": "tt0076734",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-01T20:00:00",
               "theater": "MALBA"
             }
           ]
@@ -5588,188 +3907,6 @@
       }
     ]
   },
-  "Fan Film De Un Buen Día": {
-    "details": {
-      "title": "Fan Film De Un Buen Día",
-      "director": "Nicolás del Boca",
-      "showtimes": [
-        "2024-11-11T20:00:00"
-      ],
-      "theater": "JJ Circuito Cultural",
-      "website": "https://www.instagram.com/p/DBtqkZLOpd4/?img_index=1",
-      "price": "Alimento no perecedero",
-      "year": "",
-      "duration": "",
-      "genre": "",
-      "nationality": "",
-      "address": "https://www.google.com/maps/search/JJ+Circuito+Cultural/",
-      "poster": "",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-11T20:00:00",
-              "theater": "JJ Circuito Cultural"
-            }
-          ]
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Farocki, Siglo Xx": {
-    "details": {
-      "title": "Farocki, Siglo Xx",
-      "director": "Georg K. Glaser",
-      "year": "",
-      "showtimes": [
-        "2024-11-09T15:00:00",
-        "2024-11-09T21:00:00",
-        "2024-11-10T15:00:00",
-        "2024-11-10T21:00:00"
-      ],
-      "genre": "",
-      "duration": "",
-      "nationality": "",
-      "theater": "Leopoldo Lugones",
-      "poster": "",
-      "imdbid": "",
-      "trailer": "",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "price": "4000 ARS / 2000 ARS"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-09T15:00:00",
-              "theater": "Leopoldo Lugones"
-            },
-            {
-              "showtime": "2024-11-09T21:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T15:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T21:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        }
-      }
-    ]
-  },
   "Funcion Casa Rafael": {
     "details": {
       "title": "Funcion Casa Rafael",
@@ -6127,10 +4264,6 @@
             {
               "showtime": "2024-11-10T22:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-10T22:00:00",
-              "theater": "MALBA"
             }
           ]
         }
@@ -6393,220 +4526,6 @@
       }
     ]
   },
-  "It'S Not My Film": {
-    "details": {
-      "title": "It'S Not My Film",
-      "director": "Maria Zbąska",
-      "showtimes": [
-        "2024-11-15T20:00:00"
-      ],
-      "theater": "CCSM",
-      "website": "https://elculturalsanmartin.ar/evento/cine-polaco-contemporaneo/ ",
-      "price": "Gratis",
-      "year": "2024",
-      "duration": "",
-      "genre": "Comedia dramatica",
-      "nationality": "Polonia",
-      "address": "https://www.google.com/maps/search/CCSM/",
-      "poster": "https://image.tmdb.org/t/p/w500/yogRInCNko6F45pFSKFynM3sGYw.jpg",
-      "imdbid": "tt33030245",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-15T20:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Italpark": {
-    "details": {
-      "title": "Italpark",
-      "director": "Juan Carlos Dominguez",
-      "showtimes": [
-        "2024-11-21T19:00:00",
-        "2024-11-28T19:00:00",
-        "2024-12-04T19:00:00"
-      ],
-      "theater": "CCSM",
-      "website": "https://www.instagram.com/p/DB1VlQMOq5t/?img_index=6 ",
-      "price": "500/1000",
-      "year": "2024",
-      "duration": "",
-      "genre": "Documental",
-      "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/CCSM/",
-      "poster": "https://image.tmdb.org/t/p/w500/nytanbmjWjoQjWH5Zqudf8eongi.jpg",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-21T19:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-28T19:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-04T19:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 8,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "Juan Moreira": {
     "details": {
       "title": "Juan Moreira",
@@ -6666,138 +4585,6 @@
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "La Angustia Corroe El Alma": {
-    "details": {
-      "title": "La Angustia Corroe El Alma",
-      "director": " R. W. Fassbinder ",
-      "year": "",
-      "showtimes": [
-        "2024-11-08T22:00:00"
-      ],
-      "nationality": "",
-      "genre": "",
-      "duration": "",
-      "theater": "MALBA",
-      "poster": "",
-      "imdbid": "",
-      "trailer": "",
-      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-      "price": "4000 ARS / 2000 ARS"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-08T22:00:00",
-              "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-08T22:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "La Carta": {
-    "details": {
-      "title": "La Carta",
-      "director": "William Wyler",
-      "showtimes": [
-        "2024-11-29T18:00:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "",
-      "duration": "",
-      "genre": "",
-      "nationality": "",
-      "address": "https://www.google.com/maps/search/MALBA/",
-      "poster": "",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-29T18:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
           "showtimes": []
         }
       }
@@ -6871,20 +4658,20 @@
     "details": {
       "title": "La Casta Susana",
       "director": "Benito Perojo",
+      "year": "1944",
       "showtimes": [
         "2024-11-24T22:00:00"
       ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "1944",
-      "duration": "",
-      "genre": "Comedia",
       "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "Comedia",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/uwLpJAL4XCvtjTfLnWHMNZFYwXU.jpg",
       "imdbid": "tt0193802",
-      "trailer": "https://www.youtube.com/watch?v=nU7msBvgOYE"
+      "trailer": "https://www.youtube.com/watch?v=nU7msBvgOYE",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -6922,10 +4709,6 @@
           "date": 24,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-24T22:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-24T22:00:00",
               "theater": "MALBA"
@@ -7174,20 +4957,20 @@
     "details": {
       "title": "La Dama Fantasma",
       "director": "Robert Siodmak",
+      "year": "1944",
       "showtimes": [
         "2024-11-14T21:00:00"
       ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "1944",
-      "duration": "",
-      "genre": "Misterio, Thriller, Crimen",
       "nationality": "Estados Unidos de América",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "Misterio, Thriller, Crimen",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/pSPH9NlSVbXIfBA8DLRRET3YBBc.jpg",
       "imdbid": "tt0036260",
-      "trailer": "https://www.youtube.com/watch?v=iH5ZPIsI6-M"
+      "trailer": "https://www.youtube.com/watch?v=iH5ZPIsI6-M",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -7210,10 +4993,6 @@
           "date": 14,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-14T21:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-14T21:00:00",
               "theater": "MALBA"
@@ -7557,20 +5336,20 @@
     "details": {
       "title": "La Ley De La Calle",
       "director": "Francis Ford Coppola",
-      "showtimes": [
-        "2024-11-08T23:59:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/proyecciones__cineclub-nocturna-21/ ",
-      "price": "2500",
       "year": "1983",
-      "duration": "",
-      "genre": "Crimen, drama",
+      "showtimes": [
+        "2024-11-09T00:00:00"
+      ],
       "nationality": "Estados Unidos de América",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "Crimen, drama",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/nwIUWs7cexC8Wk9c6ey8nFltAZd.jpg",
       "imdbid": "tt0086216",
-      "trailer": "https://www.youtube.com/watch?v=pmEeokjWkN8"
+      "trailer": "https://www.youtube.com/watch?v=pmEeokjWkN8",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -7597,12 +5376,7 @@
         "vie": {
           "date": 8,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-08T23:59:00",
-              "theater": "MALBA"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 9,
@@ -7746,70 +5520,6 @@
               "theater": "Museo del cine"
             }
           ]
-        }
-      }
-    ]
-  },
-  "La Mujer Hormiga": {
-    "details": {
-      "title": "La Mujer Hormiga",
-      "director": "Betania Cappato y Adrián Suárez",
-      "showtimes": [
-        "2024-11-20T19:00:00"
-      ],
-      "theater": "CCSM",
-      "website": "https://www.instagram.com/p/DB1VlQMOq5t/?img_index=6 ",
-      "price": "500/1000",
-      "year": "2024",
-      "duration": "",
-      "genre": "Drama, fantasía",
-      "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/CCSM/",
-      "poster": "https://image.tmdb.org/t/p/w500/qoIApgf83cFrfZy5udHdJC55f9P.jpg",
-      "imdbid": "tt30007717",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-20T19:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": []
         }
       }
     ]
@@ -8079,24 +5789,24 @@
   "La Práctica": {
     "details": {
       "title": "La Práctica",
-      "director": "Martín Rejtman",
+      "director": "Martìn Rejtman",
+      "year": "2024",
       "showtimes": [
         "2024-11-09T20:00:00",
         "2024-11-16T20:00:00",
         "2024-11-23T20:00:00",
         "2024-11-30T20:00:00"
       ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/estreno-la-practica/ ",
-      "price": "2500/5000",
-      "year": "2024",
-      "duration": "",
-      "genre": "Drama, Comedia",
       "nationality": "Alemania, Argentina, Chile, México, Países Bajos, Portugal",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "Drama, Comedia",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/mrpG28ewnC14LiohsTGJTpFaCA9.jpg",
       "imdbid": "tt28616751",
-      "trailer": "https://www.youtube.com/watch?v=M_ZU8XFyDLo"
+      "trailer": "https://www.youtube.com/watch?v=M_ZU8XFyDLo",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -8129,10 +5839,6 @@
           "date": 9,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-09T20:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-09T20:00:00",
               "theater": "MALBA"
@@ -8178,10 +5884,6 @@
             {
               "showtime": "2024-11-16T20:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-16T20:00:00",
-              "theater": "MALBA"
             }
           ]
         },
@@ -8221,10 +5923,6 @@
           "date": 23,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-23T20:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-23T20:00:00",
               "theater": "MALBA"
@@ -8270,10 +5968,6 @@
             {
               "showtime": "2024-11-30T20:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-30T20:00:00",
-              "theater": "MALBA"
             }
           ]
         },
@@ -8289,71 +5983,24 @@
     "details": {
       "title": "La Vida A Oscuras",
       "director": "Enrique Bellande",
+      "year": "2023",
       "showtimes": [
-        "2024-11-08T20:00:00",
         "2024-11-15T20:00:00",
         "2024-11-22T20:00:00",
         "2024-11-29T20:00:00"
       ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/la-vida-a-oscuras/ ",
-      "price": "2500/5000",
-      "year": "2023",
-      "duration": "",
-      "genre": "Documental",
       "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "Documental",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/pU77679PtMY5F3bumyIBzy4NAMD.jpg",
       "imdbid": "tt26545300",
-      "trailer": ""
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-08T20:00:00",
-              "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-08T20:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": []
-        }
-      },
       {
         "lun": {
           "date": 11,
@@ -8379,10 +6026,6 @@
           "date": 15,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-15T20:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-15T20:00:00",
               "theater": "MALBA"
@@ -8428,10 +6071,6 @@
             {
               "showtime": "2024-11-22T20:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-22T20:00:00",
-              "theater": "MALBA"
             }
           ]
         },
@@ -8471,10 +6110,6 @@
           "date": 29,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-29T20:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-29T20:00:00",
               "theater": "MALBA"
@@ -8553,70 +6188,6 @@
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Lady Dracula": {
-    "details": {
-      "title": "Lady Dracula",
-      "director": "Franz Josef Gottlieb",
-      "showtimes": [
-        "2024-11-14T22:30:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "1977",
-      "duration": "",
-      "genre": "Comedia, terror",
-      "nationality": "Alemania",
-      "address": "https://www.google.com/maps/search/MALBA/",
-      "poster": "https://image.tmdb.org/t/p/w500/b5LpJjuD6Ph6H06wmm9qJIAMoJB.jpg",
-      "imdbid": "tt0076290",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-14T22:30:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
           "showtimes": []
         }
       }
@@ -9028,74 +6599,6 @@
       }
     ]
   },
-  "Lo Que El Cielo Nos Da": {
-    "details": {
-      "title": "Lo Que El Cielo Nos Da",
-      "director": "Douglas Sirk",
-      "year": "1955",
-      "showtimes": [
-        "2024-11-08T18:00:00"
-      ],
-      "nationality": "Estados Unidos de América",
-      "genre": "Acción, Comedia, Pintura.",
-      "duration": "",
-      "theater": "MALBA",
-      "poster": "https://image.tmdb.org/t/p/w500/wlSmIk6iQ8yQhBG795UOOBUs4gF.jpg",
-      "imdbid": "tt0047811",
-      "trailer": "https://www.youtube.com/watch?v=3H8yXanHW1I",
-      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-      "price": "4000 ARS / 2000 ARS"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-08T18:00:00",
-              "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-08T18:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "Lo Que Queda": {
     "details": {
       "title": "Lo Que Queda",
@@ -9427,10 +6930,6 @@
             {
               "showtime": "2024-11-15T22:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-15T22:00:00",
-              "theater": "MALBA"
             }
           ]
         },
@@ -9452,16 +6951,20 @@
       "title": "Los Domingos Mueren Más Personas",
       "director": "Iair Said",
       "showtimes": [
-        "2024-11-13T19:00:00"
+        "2024-11-08T19:10:00",
+        "2024-11-09T19:10:00",
+        "2024-11-10T19:10:00",
+        "2024-11-12T19:10:00",
+        "2024-11-13T19:10:00"
       ],
-      "theater": "CCSM",
-      "website": "https://www.instagram.com/p/DB1VlQMOq5t/?img_index=6 ",
-      "price": "500/1000",
+      "theater": "Cine Arte Cacodelphia",
+      "website": "https://cineartecacodelphia.com.ar ",
+      "price": "5000/3000",
       "year": "2024",
       "duration": "",
       "genre": "Drama",
       "nationality": "Argentina, España, Italia, Suiza",
-      "address": "https://www.google.com/maps/search/CCSM/",
+      "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
       "poster": "https://image.tmdb.org/t/p/w500/oyQgHMPDx6gFXPwkCgCQeqfxh2u.jpg",
       "imdbid": "tt25030744",
       "trailer": ""
@@ -9539,10 +7042,6 @@
           "date": 13,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-13T19:00:00",
-              "theater": "CCSM"
-            },
             {
               "showtime": "2024-11-13T19:10:00",
               "theater": "Cine Arte Cacodelphia"
@@ -9684,10 +7183,6 @@
             {
               "showtime": "2024-11-22T18:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-22T18:00:00",
-              "theater": "MALBA"
             }
           ]
         },
@@ -9708,20 +7203,20 @@
     "details": {
       "title": "Los Paraguas De Cherburgo",
       "director": "Jacques Demy",
+      "year": "1964",
       "showtimes": [
         "2024-11-29T22:00:00"
       ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
-      "price": "2500/5000",
-      "year": "1964",
-      "duration": "",
-      "genre": "Acción, Comedia, Pintura.",
       "nationality": "Francia, Alemania",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "Acción, Comedia, Pintura.",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/7XHxvEo1C1GzbTkZuH8aAU8wOeV.jpg",
       "imdbid": "tt0058450",
-      "trailer": "https://www.youtube.com/watch?v=U5KAmPDg8qA"
+      "trailer": "https://www.youtube.com/watch?v=U5KAmPDg8qA",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -9749,10 +7244,6 @@
           "date": 29,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-29T22:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-29T22:00:00",
               "theater": "MALBA"
@@ -10071,281 +7562,6 @@
       }
     ]
   },
-  "Macongo, La Córdoba Africana": {
-    "details": {
-      "title": "Macongo, La Córdoba Africana",
-      "director": "Pablo César",
-      "year": "2023",
-      "showtimes": [
-        "2024-11-07T18:30:00"
-      ],
-      "genre": "",
-      "duration": "",
-      "nationality": "",
-      "theater": "Biblioteca del Congreso",
-      "poster": "",
-      "imdbid": "",
-      "trailer": "",
-      "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
-      "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
-      "price": "Gratis, con inscripción"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-07T18:30:00",
-              "theater": "Biblioteca del Congreso"
-            }
-          ]
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Martin Garcia": {
-    "details": {
-      "title": "Martin Garcia",
-      "director": "Anibal Garisto",
-      "showtimes": [
-        "2024-11-08T21:00:00",
-        "2024-11-10T16:00:00",
-        "2024-11-17T16:00:00",
-        "2024-11-22T21:00:00",
-        "2024-11-24T16:00:00",
-        "2024-11-29T21:00:00",
-        "2024-12-01T16:00:00"
-      ],
-      "theater": "CCSM",
-      "website": "https://www.instagram.com/p/DB1yiKmxX4B/?img_index=2 ",
-      "price": "500/1000",
-      "year": "2024",
-      "duration": "",
-      "genre": "Comedia, romance",
-      "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/CCSM/",
-      "poster": "https://image.tmdb.org/t/p/w500/m1HgLw8fwwm6GY2Qtu8KrCO6NrV.jpg",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-08T21:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T16:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-17T16:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-22T21:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T16:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-29T21:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-01T16:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        }
-      }
-    ]
-  },
   "Martín Garcia": {
     "details": {
       "title": "Martín Garcia",
@@ -10367,199 +7583,6 @@
       "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
       "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
       "price": "4000 ARS / 2000 ARS"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-09T22:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-16T22:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-23T22:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T22:00:00",
-              "theater": "MALBA"
-            }
-          ]
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Martín García": {
-    "details": {
-      "title": "Martín García",
-      "director": "Aníbal Garisto",
-      "showtimes": [
-        "2024-11-09T22:00:00",
-        "2024-11-16T22:00:00",
-        "2024-11-23T22:00:00",
-        "2024-11-30T22:00:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/martin-garcia/ ",
-      "price": "2500/5000",
-      "year": "2024",
-      "duration": "",
-      "genre": "Comedia, romance",
-      "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/MALBA/",
-      "poster": "https://image.tmdb.org/t/p/w500/m1HgLw8fwwm6GY2Qtu8KrCO6NrV.jpg",
-      "imdbid": "",
-      "trailer": ""
     },
     "calendars": [
       {
@@ -10790,70 +7813,6 @@
         },
         "dom": {
           "date": 24,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Mesocosms - Nyanga - Des Racines Nees - Calling Cabral - Rentrons": {
-    "details": {
-      "title": "Mesocosms - Nyanga - Des Racines Nees - Calling Cabral - Rentrons",
-      "director": "",
-      "year": "",
-      "showtimes": [
-        "2024-11-14T18:30:00"
-      ],
-      "genre": "",
-      "duration": "",
-      "nationality": "",
-      "theater": "Biblioteca del Congreso",
-      "poster": "",
-      "imdbid": "",
-      "trailer": "",
-      "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
-      "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
-      "price": "Gratis, con inscripción"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-14T18:30:00",
-              "theater": "Biblioteca del Congreso"
-            }
-          ]
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
           "month": 11,
           "showtimes": []
         }
@@ -11667,10 +8626,6 @@
             {
               "showtime": "2024-11-22T22:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-22T22:00:00",
-              "theater": "MALBA"
             }
           ]
         },
@@ -12060,23 +9015,23 @@
     "details": {
       "title": "Partió De Mí Un Barco Llevándome",
       "director": "Cecilia Kang",
+      "year": "2023",
       "showtimes": [
         "2024-11-09T18:00:00",
         "2024-11-16T18:00:00",
         "2024-11-23T18:00:00",
         "2024-11-30T18:00:00"
       ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/estreno__partio-de-mi-un-barco-llevandome/ ",
-      "price": "2500/5000",
-      "year": "2023",
-      "duration": "",
-      "genre": "Documental",
       "nationality": "Argentina, Singapur",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "Documental",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/6xn6nfZzUObRuuloUrD3AeuWVNh.jpg",
       "imdbid": "tt29961381",
-      "trailer": ""
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -12109,10 +9064,6 @@
           "date": 9,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-09T18:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-09T18:00:00",
               "theater": "MALBA"
@@ -12158,10 +9109,6 @@
             {
               "showtime": "2024-11-16T18:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-16T18:00:00",
-              "theater": "MALBA"
             }
           ]
         },
@@ -12204,10 +9151,6 @@
             {
               "showtime": "2024-11-23T18:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-23T18:00:00",
-              "theater": "MALBA"
             }
           ]
         },
@@ -12247,10 +9190,6 @@
           "date": 30,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-30T18:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-30T18:00:00",
               "theater": "MALBA"
@@ -12671,90 +9610,27 @@
       }
     ]
   },
-  "Polanski, Horowitz. Hometown": {
-    "details": {
-      "title": "Polanski, Horowitz. Hometown",
-      "director": "Mateusz Kudla y Anna Kokoszka-Romer",
-      "showtimes": [
-        "2024-11-13T20:00:00"
-      ],
-      "theater": "CCSM",
-      "website": "https://elculturalsanmartin.ar/evento/cine-polaco-contemporaneo/ ",
-      "price": "Gratis",
-      "year": "2021",
-      "duration": "",
-      "genre": "Documental",
-      "nationality": "Polonia",
-      "address": "https://www.google.com/maps/search/CCSM/",
-      "poster": "https://image.tmdb.org/t/p/w500/adR7fHk4zR590iFnwmAJB6bJiA4.jpg",
-      "imdbid": "tt8546414",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-13T20:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "Popular Tradición De Esta Tierra": {
     "details": {
       "title": "Popular Tradición De Esta Tierra",
-      "director": "Mariano Llinás",
+      "director": "Mariano Llinás ",
+      "year": "2024",
       "showtimes": [
         "2024-11-10T18:00:00",
         "2024-11-17T18:00:00",
-        "2024-11-24T18:00:00"
+        "2024-11-24T18:00:00",
+        "2024-12-01T18:00:00"
       ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/estreno-popular-tradicion-de-esta-tierra/ ",
-      "price": "2500/5000",
-      "year": "2024",
-      "duration": "",
-      "genre": "Documental",
       "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "Documental",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/lZZUuEddyEtZgHfTYxsjeNlOqXo.jpg",
       "imdbid": "",
-      "trailer": ""
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -12792,10 +9668,6 @@
           "date": 10,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-10T18:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-10T18:00:00",
               "theater": "MALBA"
@@ -12838,10 +9710,6 @@
           "date": 17,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-17T18:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-17T18:00:00",
               "theater": "MALBA"
@@ -12884,10 +9752,6 @@
           "date": 24,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-24T18:00:00",
-              "theater": "MALBA"
-            },
             {
               "showtime": "2024-11-24T18:00:00",
               "theater": "MALBA"
@@ -13067,70 +9931,6 @@
       }
     ]
   },
-  "Querelle": {
-    "details": {
-      "title": "Querelle",
-      "director": "Rainer Werner Fassbinder",
-      "year": "1982",
-      "showtimes": [
-        "2024-11-12T18:30:00"
-      ],
-      "genre": "Drama, fantasía",
-      "duration": "",
-      "nationality": "Alemania, Francia",
-      "theater": "Biblioteca del Congreso",
-      "poster": "https://image.tmdb.org/t/p/w500/cNATtWnC7DJYOnbKTlHbQ58bVd9.jpg",
-      "imdbid": "tt0084565",
-      "trailer": "https://www.youtube.com/watch?v=9oL-7bS6eZ8",
-      "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
-      "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
-      "price": "Gratis, con inscripción"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-12T18:30:00",
-              "theater": "Biblioteca del Congreso"
-            }
-          ]
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "Rebelde Sin Causa": {
     "details": {
       "title": "Rebelde Sin Causa",
@@ -13189,70 +9989,6 @@
         },
         "dom": {
           "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Recuerda": {
-    "details": {
-      "title": "Recuerda",
-      "director": "Melina Terribili",
-      "showtimes": [
-        "2024-11-21T21:00:00"
-      ],
-      "theater": "CCSM",
-      "website": "https://www.instagram.com/p/DBzc8VbRgqk/?img_index=2 ",
-      "price": "500/1000",
-      "year": "2024",
-      "duration": "",
-      "genre": "Documental",
-      "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/CCSM/",
-      "poster": "https://image.tmdb.org/t/p/w500/zpn1UBge8fKUxeA2yTgsFwkz85i.jpg",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-21T21:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
           "month": 11,
           "showtimes": []
         }
@@ -13327,20 +10063,20 @@
     "details": {
       "title": "Repulsión",
       "director": "Roman Polanski",
-      "showtimes": [
-        "2024-11-14T20:00:00"
-      ],
-      "theater": "CCSM",
-      "website": "https://elculturalsanmartin.ar/evento/cine-polaco-contemporaneo/ ",
-      "price": "Gratis",
       "year": "1965",
-      "duration": "",
-      "genre": "Drama, Thriller, Horror",
+      "showtimes": [
+        "2024-11-14T19:00:00"
+      ],
       "nationality": "Reino Unido",
-      "address": "https://www.google.com/maps/search/CCSM/",
+      "genre": "Drama, Thriller, Horror",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/dtyCKEPLqv9wxyVazL4b843vtUb.jpg",
       "imdbid": "tt0059646",
-      "trailer": "https://www.youtube.com/watch?v=kMziXjk1bqc"
+      "trailer": "https://www.youtube.com/watch?v=kMziXjk1bqc",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -13366,14 +10102,6 @@
             {
               "showtime": "2024-11-14T19:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-14T19:00:00",
-              "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-14T20:00:00",
-              "theater": "CCSM"
             }
           ]
         },
@@ -13518,70 +10246,6 @@
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Señor Jazz, La Película De Carlos Inzillo": {
-    "details": {
-      "title": "Señor Jazz, La Película De Carlos Inzillo",
-      "director": "Javier Hornos y Federico Sotelo",
-      "showtimes": [
-        "2024-11-26T18:30:00"
-      ],
-      "theater": "Biblioteca Nacional",
-      "website": "https://www.bn.gov.ar/agenda-cultural/la-nave-de-los-suenos-9",
-      "price": "Gratis",
-      "year": "2024",
-      "duration": "",
-      "genre": "Documental",
-      "nationality": "Argentina",
-      "address": "https://www.google.com/maps/search/Biblioteca+Nacional/",
-      "poster": "https://image.tmdb.org/t/p/w500/4pSXpDbdY8nnZivlLJP6IEoytgz.jpg",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-26T18:30:00",
-              "theater": "Biblioteca Nacional"
-            }
-          ]
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
           "showtimes": []
         }
       }
@@ -13903,113 +10567,6 @@
               "theater": "Cine York"
             }
           ]
-        }
-      }
-    ]
-  },
-  "Tempus Fugit": {
-    "details": {
-      "title": "Tempus Fugit",
-      "director": "Luciana Terribili",
-      "showtimes": [
-        "2024-11-14T21:00:00",
-        "2024-11-28T21:00:00"
-      ],
-      "theater": "CCSM",
-      "website": "https://www.instagram.com/p/DBzc8VbRgqk/?img_index=2 ",
-      "price": "500/1000",
-      "year": "2024",
-      "duration": "",
-      "genre": "Documental",
-      "nationality": "Argentina-España",
-      "address": "https://www.google.com/maps/search/CCSM/",
-      "poster": "https://image.tmdb.org/t/p/w500/3twlIL3TJWFtKy02z18JXU5VgVi.jpg",
-      "imdbid": "",
-      "trailer": ""
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-14T21:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-28T21:00:00",
-              "theater": "CCSM"
-            }
-          ]
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
         }
       }
     ]
@@ -14488,10 +11045,6 @@
             {
               "showtime": "2024-11-21T21:00:00",
               "theater": "MALBA"
-            },
-            {
-              "showtime": "2024-11-21T21:00:00",
-              "theater": "MALBA"
             }
           ]
         },
@@ -14517,20 +11070,20 @@
     "details": {
       "title": "Una Cita Con El Diablo",
       "director": "Jacques Tourneur",
-      "showtimes": [
-        "2024-11-29T23:59:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/una-cita-con-el-diablo/ ",
-      "price": "2500",
       "year": "1957",
-      "duration": "",
-      "genre": "Fantasía, terror, misterio",
+      "showtimes": [
+        "2024-11-30T00:00:00"
+      ],
       "nationality": "Reino Unido",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "Fantasía, terror, misterio",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "https://image.tmdb.org/t/p/w500/ePAjGAhynpwEI5HbpIrB28ML6lg.jpg",
       "imdbid": "tt0050766",
-      "trailer": "https://www.youtube.com/watch?v=-rwfiJpyFrI"
+      "trailer": "https://www.youtube.com/watch?v=-rwfiJpyFrI",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -14557,12 +11110,7 @@
         "vie": {
           "date": 29,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-29T23:59:00",
-              "theater": "MALBA"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 30,
@@ -14650,20 +11198,20 @@
     "details": {
       "title": "Una Historia Sencilla",
       "director": "David Lynch",
-      "showtimes": [
-        "2024-11-15T23:59:00"
-      ],
-      "theater": "MALBA",
-      "website": "https://www.malba.org.ar/evento/proyecciones__cineclub-nocturna-21/ ",
-      "price": "2500",
       "year": "",
-      "duration": "",
-      "genre": "",
+      "showtimes": [
+        "2024-11-16T00:00:00"
+      ],
       "nationality": "",
-      "address": "https://www.google.com/maps/search/MALBA/",
+      "genre": "",
+      "duration": "",
+      "theater": "MALBA",
       "poster": "",
       "imdbid": "",
-      "trailer": ""
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+      "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+      "price": "4000 ARS / 2000 ARS"
     },
     "calendars": [
       {
@@ -14690,12 +11238,7 @@
         "vie": {
           "date": 15,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-15T23:59:00",
-              "theater": "MALBA"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 16,
@@ -14861,7 +11404,7 @@
       "nationality": "Argentina",
       "address": "https://www.google.com/maps/search/CC+Recoleta/",
       "poster": "https://image.tmdb.org/t/p/w500/7yJZ739YUVrLNZleZsb3oMoIvn8.jpg",
-      "imdbid": "",
+      "imdbid": "tt19392272",
       "trailer": ""
     },
     "calendars": [
@@ -14899,12 +11442,7 @@
         "sab": {
           "date": 16,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-16T19:00:00",
-              "theater": "CCSM"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 17,
@@ -14946,12 +11484,7 @@
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-23T19:00:00",
-              "theater": "CCSM"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 24,
@@ -14993,12 +11526,7 @@
         "sab": {
           "date": 30,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T19:00:00",
-              "theater": "CCSM"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 1,
@@ -15110,70 +11638,6 @@
         "dom": {
           "date": 17,
           "month": 11,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Zamba De Mandinga": {
-    "details": {
-      "title": "Zamba De Mandinga",
-      "director": "Daniel Gerez",
-      "year": "2023",
-      "showtimes": [
-        "2024-11-28T18:30:00"
-      ],
-      "genre": "",
-      "duration": "",
-      "nationality": "",
-      "theater": "Biblioteca del Congreso",
-      "poster": "",
-      "imdbid": "",
-      "trailer": "",
-      "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
-      "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
-      "price": "Gratis, con inscripción"
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-28T18:30:00",
-              "theater": "Biblioteca del Congreso"
-            }
-          ]
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
           "showtimes": []
         }
       }
