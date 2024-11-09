@@ -12,10 +12,10 @@
     "city": "CABA"
   },
   "CCK": {
-    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-    "website": "https://www.cck.gob.ar/cine/",
-    "price": "Gratis, orden de llegada",
-    "city": "CABA"
+    "address": "https://www.google.com/maps/search/CCK/",
+    "website": "https://palaciolibertad.gob.ar/events/nuevos-clasicos-argentinos-noviembre/",
+    "price": "Gratis",
+    "city": "AMBA"
   },
   "Biblioteca del Congreso": {
     "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
@@ -24,10 +24,10 @@
     "city": "CABA"
   },
   "MALBA": {
-    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS",
-    "city": "CABA"
+    "address": "https://www.google.com/maps/search/MALBA/",
+    "website": "https://www.malba.org.ar/evento/ciclo-camp-una-seriedad-fracasada/  ",
+    "price": "2500/5000",
+    "city": "AMBA"
   },
   "DAC": {
     "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
@@ -46,5 +46,101 @@
     "website": "https://amigosdelbellasartes.org.ar/cine/",
     "price": "Gratis, con inscripción",
     "city": "CABA"
+  },
+  "Casa de la PBA": {
+    "address": "https://www.google.com/maps/search/Casa+de+la+PBA/",
+    "website": "https://gba.gob.ar/casaPBA/agenda_cultural_casa_pba",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "Cine Arte Cacodelphia": {
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "website": "https://cineartecacodelphia.com.ar ",
+    "price": "5000/3000",
+    "city": "AMBA"
+  },
+  "Cine York": {
+    "address": "https://www.google.com/maps/search/Cine+York/",
+    "website": "https://lumiton.ar/agenda-presencial/ ",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "CC Recoleta": {
+    "address": "https://www.google.com/maps/search/CC+Recoleta/",
+    "website": "http://www.centroculturalrecoleta.org/agenda",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "CCSM": {
+    "address": "https://www.google.com/maps/search/CCSM/",
+    "website": "https://www.instagram.com/p/DB1yiKmxX4B/?img_index=2 ",
+    "price": "500/1000",
+    "city": "AMBA"
+  },
+  "CCM Haroldo Conti": {
+    "address": "https://www.google.com/maps/search/CCM+Haroldo+Conti/",
+    "website": "http://conti.derhuman.jus.gov.ar/2024/11/foco-rosa",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "Museo del cine": {
+    "address": "https://www.google.com/maps/search/Museo+del+cine/",
+    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
+    "price": "1000",
+    "city": "AMBA"
+  },
+  "CC Munro": {
+    "address": "https://www.google.com/maps/search/CC+Munro/",
+    "website": "https://lumiton.ar/evento/peron-sinfonia-del-sentimiento-2/ ",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "JJ Circuito Cultural": {
+    "address": "https://www.google.com/maps/search/JJ+Circuito+Cultural/",
+    "website": "https://www.instagram.com/p/DBtqkZLOpd4/?img_index=1",
+    "price": "Alimento no perecedero",
+    "city": "AMBA"
+  },
+  "Biblioteca Nacional": {
+    "address": "https://www.google.com/maps/search/Biblioteca+Nacional/",
+    "website": "https://www.bn.gov.ar/agenda-cultural/la-nave-de-los-suenos-9",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "Manzana de las luces": {
+    "address": "https://www.google.com/maps/search/Manzana+de+las+luces/",
+    "website": "https://manzanadelasluces.cultura.gob.ar/actividad/ciclo-de-videos-en-la-manzana-de-las-luces-paraquaria/ ",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "Microcine de la Universidad del Cine": {
+    "address": "https://www.google.com/maps/search/Microcine+de+la+Universidad+del+Cine/",
+    "website": "https://ucine.edu.ar/actividades/ciclo-de-cine-cordobes-contemporaneo ",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "Cine Club Las Heras": {
+    "address": "https://www.google.com/maps/search/Cine+Club+Las+Heras/",
+    "website": "https://www.instagram.com/p/DBu1CGixlF0/?igsh=OWRleWl2cjFlNzVz&img_index=2",
+    "price": "4000",
+    "city": "AMBA"
+  },
+  "Universidad Nacional de las Artes": {
+    "address": "https://www.google.com/maps/search/Universidad+Nacional+de+las+Artes/",
+    "website": "https://criticadeartes.una.edu.ar/agenda/cineclub-que-se-puede-hacer-salvo-ver-peliculas_42639?utm_source=newsletter&utm_campaign=84209-Cineclub+¿Qué+se+puede+hacer%2C+salvo+ver+películas%3F+%7C+Ciclo+de+cine+de+terror&utm_medium=email ",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "CC 25 de Mayo": {
+    "address": "https://www.google.com/maps/search/CC+25+de+Mayo/",
+    "website": "https://cc25.org/18-11-semillas-que-caen-lejos-de-sus-raices/",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "Lumiton": {
+    "address": "https://www.google.com/maps/search/Lumiton/",
+    "website": "https://lumiton.ar/evento/la-vida-es-un-tango/ ",
+    "price": "Gratis",
+    "city": "AMBA"
   }
 }
