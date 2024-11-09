@@ -260,6 +260,378 @@
       }
     ]
   },
+  "Al Impenetrable": {
+    "details": {
+      "title": "Al Impenetrable",
+      "director": "Sonia Bertotti",
+      "genre": "Misterio",
+      "duration": null,
+      "showtimes": [
+        "2024-11-07T20:00:00",
+        "2024-11-08T20:00:00",
+        "2024-11-09T20:00:00",
+        "2024-11-10T20:00:00",
+        "2024-11-11T20:00:00",
+        "2024-11-12T20:00:00"
+      ],
+      "year": "2023",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/lHq8re07eEGKtP4yJGoBoiZ4we1.jpg",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-10-31T16:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-10-31T20:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-01T16:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-01T20:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-02T16:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-02T20:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T12:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T16:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T20:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-04T16:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-04T20:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-05T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-05T16:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-05T20:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-06T16:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-06T20:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T20:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T20:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T20:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T20:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T20:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T20:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Aniceto": {
     "details": {
       "title": "Aniceto",
@@ -490,6 +862,70 @@
         "dom": {
           "date": 1,
           "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Baghead: Habla Con Los Muertos": {
+    "details": {
+      "title": "Baghead: Habla Con Los Muertos",
+      "director": "Alberto Corredor",
+      "genre": "",
+      "duration": "95 min",
+      "showtimes": [
+        "2024-11-04T22:00:00"
+      ],
+      "year": "",
+      "nationality": "",
+      "theater": "Gaumont",
+      "poster": "",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
           "showtimes": []
         }
       }
@@ -1008,6 +1444,509 @@
       }
     ]
   },
+  "Ciclón Fantasma": {
+    "details": {
+      "title": "Ciclón Fantasma",
+      "director": "Diana Cardini",
+      "genre": "Documental",
+      "duration": "62 min",
+      "showtimes": [
+        "2024-11-07T19:30:00",
+        "2024-11-08T19:30:00",
+        "2024-11-09T19:30:00",
+        "2024-11-10T19:30:00",
+        "2024-11-11T19:30:00",
+        "2024-11-12T19:30:00",
+        "2024-11-13T19:30:00"
+      ],
+      "year": "2024",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/ag4JFBpJQ3gdw8mHBqfB8gLdttw.jpg",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T19:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T19:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T19:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T19:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T19:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T19:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T19:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Cielo Rojo (Gigantes De Metal)": {
+    "details": {
+      "title": "Cielo Rojo (Gigantes De Metal)",
+      "director": "Marcelo Leguiza",
+      "genre": "Terror",
+      "duration": null,
+      "showtimes": [
+        "2024-11-07T18:20:00",
+        "2024-11-08T18:20:00",
+        "2024-11-09T18:20:00",
+        "2024-11-10T18:20:00",
+        "2024-11-12T18:20:00"
+      ],
+      "year": "2022",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/uucEAxIHLqkH4MjkBbRmiLdSjE.jpg",
+      "imdbid": "tt19896526",
+      "trailer": "https://www.youtube.com/watch?v=ujFNxWmt4aU",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T12:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-10-31T17:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-10-31T20:50:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T12:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-01T17:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-01T20:50:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T12:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-02T17:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-02T20:50:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T12:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T17:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T20:50:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T12:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-04T17:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-04T20:50:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-05T12:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-05T17:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-05T20:50:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T12:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-06T17:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-06T20:50:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T18:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T18:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T18:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T18:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T18:20:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Ciudad Oculta": {
     "details": {
       "title": "Ciudad Oculta",
@@ -1306,6 +2245,143 @@
       }
     ]
   },
+  "Culpa Cero": {
+    "details": {
+      "title": "Culpa Cero",
+      "director": "Valeria Bertuccelli, Mora Elizalde",
+      "genre": "Comedia",
+      "duration": null,
+      "showtimes": [
+        "2024-10-31T13:00:00",
+        "2024-11-01T13:00:00",
+        "2024-11-02T13:00:00",
+        "2024-11-03T13:00:00",
+        "2024-11-04T13:00:00",
+        "2024-11-05T13:00:00",
+        "2024-11-06T13:00:00"
+      ],
+      "year": "2024",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/3f93YAzZRc2vtOQyRqrakD0YS3O.jpg",
+      "imdbid": "tt33098735",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T13:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T13:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T13:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T13:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T13:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-05T13:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T13:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Cuéntame Tu Vida": {
     "details": {
       "title": "Cuéntame Tu Vida",
@@ -1477,6 +2553,143 @@
       }
     ]
   },
+  "Darlo Todo": {
+    "details": {
+      "title": "Darlo Todo",
+      "director": "Germán Nieto",
+      "genre": "",
+      "duration": "65 min",
+      "showtimes": [
+        "2024-11-07T21:00:00",
+        "2024-11-08T21:00:00",
+        "2024-11-09T21:00:00",
+        "2024-11-10T21:00:00",
+        "2024-11-11T21:00:00",
+        "2024-11-12T21:00:00",
+        "2024-11-13T21:00:00"
+      ],
+      "year": "",
+      "nationality": "",
+      "theater": "Gaumont",
+      "poster": "",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T21:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T21:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T21:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T21:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T21:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T21:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T21:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Dialogando Con La Vida (Le Lycéen)": {
     "details": {
       "title": "Dialogando Con La Vida (Le Lycéen)",
@@ -1642,6 +2855,70 @@
         },
         "dom": {
           "date": 24,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Doctor Cerebro": {
+    "details": {
+      "title": "Doctor Cerebro",
+      "director": "Pablo Parés",
+      "genre": "Aventura de ciencia ficción",
+      "duration": "84 min",
+      "showtimes": [
+        "2024-11-01T22:00:00"
+      ],
+      "year": "2024",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/r41UzK5h4p89WTVfjx5wr9QWWYd.jpg",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 3,
           "month": 11,
           "showtimes": []
         }
@@ -2044,6 +3321,198 @@
             {
               "showtime": "2024-11-12T21:10:00",
               "theater": "Cine Arte Cacodelphia"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "El Aroma Del Pasto Recién Cortado": {
+    "details": {
+      "title": "El Aroma Del Pasto Recién Cortado",
+      "director": "Celina Murga",
+      "genre": "Drama",
+      "duration": null,
+      "showtimes": [
+        "2024-11-07T16:00:00",
+        "2024-11-08T16:00:00",
+        "2024-11-09T16:00:00",
+        "2024-11-10T16:00:00",
+        "2024-11-12T16:00:00"
+      ],
+      "year": "2024",
+      "nationality": "Alemania, Argentina, México, Uruguay",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/kqgrVSn4xJ1fVgEqZC7m1JBU7qF.jpg",
+      "imdbid": "tt26895377",
+      "trailer": "https://www.youtube.com/watch?v=CFfLNi497e4",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T19:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T19:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T19:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T19:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T19:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T19:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T16:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T16:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T16:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T16:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T16:00:00",
+              "theater": "Gaumont"
             }
           ]
         },
@@ -2779,6 +4248,273 @@
       }
     ]
   },
+  "El Frío En Los Huesos (Little Bone Lodge)": {
+    "details": {
+      "title": "El Frío En Los Huesos (Little Bone Lodge)",
+      "director": "Matthias Hoene",
+      "genre": "Terror, crimen, thriller",
+      "duration": "93 min",
+      "showtimes": [
+        "2024-11-03T22:00:00"
+      ],
+      "year": "2023",
+      "nationality": "Reino Unido",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/2BwerQH4tZvHU6zUlC77aDw7pLt.jpg",
+      "imdbid": "tt19858164",
+      "trailer": "https://www.youtube.com/watch?v=Hux3uEsesEc",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "El Hombre Que Amaba Los Platos Voladores": {
+    "details": {
+      "title": "El Hombre Que Amaba Los Platos Voladores",
+      "director": "Diego Lerman",
+      "genre": "Drama, comedia, fantasía",
+      "duration": null,
+      "showtimes": [
+        "2024-10-31T15:15:00",
+        "2024-11-01T15:15:00",
+        "2024-11-02T15:15:00",
+        "2024-11-03T15:15:00",
+        "2024-11-04T15:15:00",
+        "2024-11-06T15:15:00"
+      ],
+      "year": "2024",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/9zP65lNbCEiKv4bv0Ieq6zEy6mg.jpg",
+      "imdbid": "tt33051716",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T15:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T15:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T15:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T15:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T15:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T15:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T12:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T12:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T12:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T12:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T12:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T12:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T12:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "El Jinete Pálido ": {
     "details": {
       "title": "El Jinete Pálido ",
@@ -3138,6 +4874,70 @@
               "theater": "Museo del cine"
             }
           ]
+        }
+      }
+    ]
+  },
+  "El Reino Animal": {
+    "details": {
+      "title": "El Reino Animal",
+      "director": "Thomas Cailley",
+      "genre": "Aventura, drama, ciencia ficción, terror",
+      "duration": "127 min",
+      "showtimes": [
+        "2024-11-12T22:00:00"
+      ],
+      "year": "2023",
+      "nationality": "Belgica, Francia",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/44H0Lpg2TbE9b0rVRDsCMcvcFsQ.jpg",
+      "imdbid": "tt16606592",
+      "trailer": "https://www.youtube.com/watch?v=nWAJXTcEEOU",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
         }
       }
     ]
@@ -3907,6 +5707,134 @@
       }
     ]
   },
+  "Fin De Siglo": {
+    "details": {
+      "title": "Fin De Siglo",
+      "director": "Lucio Castro",
+      "genre": "Acción, Comedia, Pintura.",
+      "duration": "84 min",
+      "showtimes": [
+        "2024-11-10T22:00:00"
+      ],
+      "year": "2019",
+      "nationality": "Argentina, Dinamarca, España",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/u2kFrBtOzihZdp7KTixLQ79jc2a.jpg",
+      "imdbid": "tt9845398",
+      "trailer": "https://www.youtube.com/watch?v=-dNcyO7FP-M",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "Finlandia": {
+    "details": {
+      "title": "Finlandia",
+      "director": "Horacio Alcalá",
+      "genre": "Fantasía, drama",
+      "duration": "97 min",
+      "showtimes": [
+        "2024-11-11T22:00:00"
+      ],
+      "year": "2021",
+      "nationality": "México, España",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/lY7sT8eERi3iik39IY0CZbwNeA6.jpg",
+      "imdbid": "tt9487526",
+      "trailer": "https://www.youtube.com/watch?v=LJ1t6SfwiUE",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Funcion Casa Rafael": {
     "details": {
       "title": "Funcion Casa Rafael",
@@ -4456,6 +6384,70 @@
         },
         "dom": {
           "date": 24,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Humo Bajo El Agua": {
+    "details": {
+      "title": "Humo Bajo El Agua",
+      "director": "Julio Midú, Fabio Junco",
+      "genre": "Acción, Comedia, Pintura.",
+      "duration": "131 min",
+      "showtimes": [
+        "2024-11-13T22:00:00"
+      ],
+      "year": "2023",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/9EdpoEYCkt5h8xpVNERCQLNoINW.jpg",
+      "imdbid": "tt27614751",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
           "month": 11,
           "showtimes": []
         }
@@ -5979,6 +7971,70 @@
       }
     ]
   },
+  "La Sustancia": {
+    "details": {
+      "title": "La Sustancia",
+      "director": "Coralie Fargeat",
+      "genre": "Drama, terror, ciencia ficción",
+      "duration": "140 min",
+      "showtimes": [
+        "2024-11-05T22:00:00"
+      ],
+      "year": "2024",
+      "nationality": "Francia, Reino Unido.",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "imdbid": "tt17526714",
+      "trailer": "https://www.youtube.com/watch?v=lR5nlovVgvQ",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-05T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "La Vida A Oscuras": {
     "details": {
       "title": "La Vida A Oscuras",
@@ -6529,6 +8585,70 @@
         },
         "dom": {
           "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Las Mil Y Una": {
+    "details": {
+      "title": "Las Mil Y Una",
+      "director": "Clarisa Navas",
+      "genre": "Acción, Comedia, Pintura.",
+      "duration": "114 min",
+      "showtimes": [
+        "2024-11-08T22:00:00"
+      ],
+      "year": "2020",
+      "nationality": "Alemania, Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/tpDP9162IHGeDt8qvcognuuBmDA.jpg",
+      "imdbid": "tt11747286",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
           "month": 11,
           "showtimes": []
         }
@@ -7370,6 +9490,215 @@
       }
     ]
   },
+  "Los Turistas": {
+    "details": {
+      "title": "Los Turistas",
+      "director": "Gaby Smiths",
+      "genre": "Terror",
+      "duration": "83 min",
+      "showtimes": [
+        "2024-10-31T22:15:00",
+        "2024-11-01T22:15:00",
+        "2024-11-02T22:15:00",
+        "2024-11-03T22:15:00",
+        "2024-11-04T22:15:00",
+        "2024-11-05T22:15:00",
+        "2024-11-06T22:15:00"
+      ],
+      "year": "2023",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/nL3G6ShycKXrDGyBCrO8pNjLEIt.jpg",
+      "imdbid": "tt28893118",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T22:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T22:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T22:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T22:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T22:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-05T22:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T22:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T16:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T16:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T16:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T16:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T16:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T16:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T16:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Los Virus No Saben De Moral": {
     "details": {
       "title": "Los Virus No Saben De Moral",
@@ -7556,6 +9885,70 @@
         },
         "dom": {
           "date": 24,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Malditos Sean!": {
+    "details": {
+      "title": "Malditos Sean!",
+      "director": "Demián Rugna, Fabián Forte",
+      "genre": "Fantasía, terror, ciencia ficción",
+      "duration": "118 min",
+      "showtimes": [
+        "2024-10-31T22:00:00"
+      ],
+      "year": "2013",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/1BqmhZKeTAryUaMrtIJSxzmepTo.jpg",
+      "imdbid": "tt1820518",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 3,
           "month": 11,
           "showtimes": []
         }
@@ -8770,6 +11163,289 @@
       }
     ]
   },
+  "Oda Amarilla": {
+    "details": {
+      "title": "Oda Amarilla",
+      "director": "Lucía Paz",
+      "genre": "Documental",
+      "duration": "67 min",
+      "showtimes": [
+        "2024-11-07T12:30:00",
+        "2024-11-07T14:15:00",
+        "2024-11-07T20:10:00",
+        "2024-11-08T12:30:00",
+        "2024-11-08T14:15:00",
+        "2024-11-08T20:10:00",
+        "2024-11-09T12:30:00",
+        "2024-11-09T14:15:00",
+        "2024-11-09T20:10:00",
+        "2024-11-10T12:30:00",
+        "2024-11-10T14:15:00",
+        "2024-11-10T20:10:00",
+        "2024-11-11T12:30:00",
+        "2024-11-11T14:15:00",
+        "2024-11-11T20:10:00",
+        "2024-11-12T12:30:00",
+        "2024-11-12T14:15:00",
+        "2024-11-12T20:10:00",
+        "2024-11-13T12:30:00",
+        "2024-11-13T14:15:00",
+        "2024-11-13T20:10:00"
+      ],
+      "year": "2024",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/toZHdFipZ9sryPGg5guaUYw5h3w.jpg",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-07T14:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-07T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-08T14:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-08T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-09T14:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-09T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T12:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T14:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-11T14:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-11T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-12T14:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-12T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T12:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-13T14:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-13T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Operación Masacre": {
     "details": {
       "title": "Operación Masacre",
@@ -9803,6 +12479,215 @@
       }
     ]
   },
+  "Procopiuk": {
+    "details": {
+      "title": "Procopiuk",
+      "director": "Diego Lumerman",
+      "genre": "Documental",
+      "duration": null,
+      "showtimes": [
+        "2024-11-07T12:45:00",
+        "2024-11-08T12:45:00",
+        "2024-11-09T12:45:00",
+        "2024-11-10T12:45:00",
+        "2024-11-11T12:45:00",
+        "2024-11-12T12:45:00",
+        "2024-11-13T12:45:00"
+      ],
+      "year": "2023",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/qAyTEwxexShzmhXhoLd9rh1R4vC.jpg",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T19:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T19:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T19:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T19:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T19:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-05T19:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T19:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T12:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T12:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T12:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T12:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T12:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T12:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T12:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Programación Especial La Noche De Los Museo": {
     "details": {
       "title": "Programación Especial La Noche De Los Museo",
@@ -10123,6 +13008,279 @@
       }
     ]
   },
+  "Rojo Profundo": {
+    "details": {
+      "title": "Rojo Profundo",
+      "director": "Dario Argento",
+      "genre": "",
+      "duration": "128 min",
+      "showtimes": [
+        "2024-11-06T22:00:00"
+      ],
+      "year": "",
+      "nationality": "",
+      "theater": "Gaumont",
+      "poster": "",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Sara Facio: Haber Estado Ahí": {
+    "details": {
+      "title": "Sara Facio: Haber Estado Ahí",
+      "director": "Cinthia Rajschmir",
+      "genre": "",
+      "duration": null,
+      "showtimes": [
+        "2024-11-07T18:00:00",
+        "2024-11-08T18:00:00",
+        "2024-11-09T18:00:00",
+        "2024-11-10T18:00:00",
+        "2024-11-11T18:00:00",
+        "2024-11-12T18:00:00",
+        "2024-11-13T18:00:00"
+      ],
+      "year": "2024",
+      "nationality": "Chile",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/6Pe09NGPZfiDUm4NFzx00QEdHGm.jpg",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T18:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T18:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T18:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T18:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T18:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-05T18:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T18:40:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T18:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T18:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T18:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T18:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T18:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T18:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T18:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Scanner Darkly": {
     "details": {
       "title": "Scanner Darkly",
@@ -10245,6 +13403,289 @@
         },
         "dom": {
           "date": 24,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Sin Salida": {
+    "details": {
+      "title": "Sin Salida",
+      "director": "Who",
+      "genre": "Drama",
+      "duration": "101 min3",
+      "showtimes": [
+        "2024-11-07T15:45:00",
+        "2024-11-07T17:45:00",
+        "2024-11-07T21:45:00",
+        "2024-11-08T15:45:00",
+        "2024-11-08T17:45:00",
+        "2024-11-08T21:45:00",
+        "2024-11-09T15:45:00",
+        "2024-11-09T17:45:00",
+        "2024-11-09T21:45:00",
+        "2024-11-10T15:45:00",
+        "2024-11-10T17:45:00",
+        "2024-11-10T21:45:00",
+        "2024-11-11T15:45:00",
+        "2024-11-11T17:45:00",
+        "2024-11-11T21:45:00",
+        "2024-11-12T15:45:00",
+        "2024-11-12T17:45:00",
+        "2024-11-12T21:45:00",
+        "2024-11-13T15:45:00",
+        "2024-11-13T17:45:00",
+        "2024-11-13T21:45:00"
+      ],
+      "year": "2024",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/AjPiDc3Ri0nVmTvbbdky4GwBsdZ.jpg",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T15:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-07T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-07T21:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T15:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-08T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-08T21:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T15:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-09T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-09T21:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T15:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T17:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T21:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T15:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-11T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-11T21:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T15:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-12T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-12T21:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T15:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-13T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-13T21:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
           "month": 11,
           "showtimes": []
         }
@@ -10803,6 +14244,268 @@
       }
     ]
   },
+  "Transmitzvah": {
+    "details": {
+      "title": "Transmitzvah",
+      "director": "Daniel Burman",
+      "genre": "Drama, Comedia",
+      "duration": null,
+      "showtimes": [
+        "2024-10-31T17:30:00",
+        "2024-11-01T17:30:00",
+        "2024-11-02T17:30:00",
+        "2024-11-03T17:30:00",
+        "2024-11-04T17:30:00",
+        "2024-11-06T17:30:00"
+      ],
+      "year": "2024",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/tkYByI4aN6LmeoBv6LVFYyQnBSn.jpg",
+      "imdbid": "tt32598478",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T17:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T17:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T17:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T17:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T17:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T17:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T14:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T14:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T14:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T14:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T14:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T14:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Un Año Sin Amor": {
+    "details": {
+      "title": "Un Año Sin Amor",
+      "director": "Anahí Berneri",
+      "genre": "Acción, Comedia, Pintura.",
+      "duration": "96 min",
+      "showtimes": [
+        "2024-11-07T22:00:00"
+      ],
+      "year": "2005",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/tsV2kIPbNO3WI6SeBLkAthh38hC.jpg",
+      "imdbid": "tt0418484",
+      "trailer": "https://www.youtube.com/watch?v=jpm-ARJ_W-s",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Un Buen Padre": {
     "details": {
       "title": "Un Buen Padre",
@@ -11258,6 +14961,143 @@
       }
     ]
   },
+  "Una Sola Primavera": {
+    "details": {
+      "title": "Una Sola Primavera",
+      "director": "Joaquín Pedretti",
+      "genre": "Drama",
+      "duration": null,
+      "showtimes": [
+        "2024-10-31T14:45:00",
+        "2024-11-01T14:45:00",
+        "2024-11-02T14:45:00",
+        "2024-11-03T14:45:00",
+        "2024-11-04T14:45:00",
+        "2024-11-05T14:45:00",
+        "2024-11-06T14:45:00"
+      ],
+      "year": "2024",
+      "nationality": "Argentina - Paraguay",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/qBq1VP9ppazTyce2wvAxtTFpZXg.jpg",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T14:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T14:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T14:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T14:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T14:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-05T14:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T14:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Universo En Fantasía": {
     "details": {
       "title": "Universo En Fantasía",
@@ -11536,6 +15376,352 @@
       }
     ]
   },
+  "Weekend": {
+    "details": {
+      "title": "Weekend",
+      "director": "Agustín Rolandelli",
+      "genre": "Comedia dramatica",
+      "duration": null,
+      "showtimes": [
+        "2024-10-31T15:00:00",
+        "2024-10-31T22:30:00",
+        "2024-11-01T15:00:00",
+        "2024-11-01T22:30:00",
+        "2024-11-02T15:00:00",
+        "2024-11-02T22:30:00",
+        "2024-11-03T15:00:00",
+        "2024-11-03T22:30:00",
+        "2024-11-04T15:00:00",
+        "2024-11-04T22:30:00",
+        "2024-11-05T15:00:00",
+        "2024-11-05T22:30:00",
+        "2024-11-06T15:00:00",
+        "2024-11-06T22:30:00"
+      ],
+      "year": "2024",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/mfg4zmnC12tzRHRgc7ufkQiHBKT.jpg",
+      "imdbid": "tt32582779",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": [
+            {
+              "showtime": "2024-10-31T15:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-10-31T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-01T15:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-01T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-02T15:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-02T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T15:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-04T15:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-04T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-05T15:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-05T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-06T15:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-06T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Xxy": {
+    "details": {
+      "title": "Xxy",
+      "director": "Lucía Puenzo",
+      "genre": "Drama",
+      "duration": "87 min",
+      "showtimes": [
+        "2024-11-09T22:00:00"
+      ],
+      "year": "2007",
+      "nationality": "Argentina, España, Francia",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/zrR2w32pwI6T7HPGJoimmLOlDXF.jpg",
+      "imdbid": "tt0995829",
+      "trailer": "https://www.youtube.com/watch?v=ZxwT1K--xU8",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Yo Soy Mi Propia Mujer": {
     "details": {
       "title": "Yo Soy Mi Propia Mujer",
@@ -11624,6 +15810,143 @@
               "theater": "CCM Haroldo Conti"
             }
           ]
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "¡Homofobia!": {
+    "details": {
+      "title": "¡Homofobia!",
+      "director": "Goyo Anchou",
+      "genre": "Comedia",
+      "duration": "72 min",
+      "showtimes": [
+        "2024-11-07T22:30:00",
+        "2024-11-08T22:30:00",
+        "2024-11-09T22:30:00",
+        "2024-11-10T22:30:00",
+        "2024-11-11T22:30:00",
+        "2024-11-12T22:30:00",
+        "2024-11-13T22:30:00"
+      ],
+      "year": "2024",
+      "nationality": "Argentina",
+      "theater": "Gaumont",
+      "poster": "https://image.tmdb.org/t/p/w500/tYGxLZ0mJPkXwAPQMbVV6hMRBBy.jpg",
+      "imdbid": "",
+      "trailer": "",
+      "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+      "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
+      "price": "2200 ARS / 1100 ARS"
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-07T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-08T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-09T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-11T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-13T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
         },
         "vie": {
           "date": 15,
