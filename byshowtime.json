@@ -128,22 +128,6 @@
     "showtime": "2024-11-08T18:30:00"
   },
   {
-    "title": "Partes Del Todo",
-    "director": "Juan Renau",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar ",
-    "price": "5000/3000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Drama, Documental",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/7oU0jMQwECgNdvPH34hUXu9JzfC.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "showtime": "2024-11-08T19:00:00"
-  },
-  {
     "title": "Scanner Darkly",
     "director": "Richar Linklater",
     "theater": "CC Recoleta",
@@ -155,6 +139,22 @@
     "nationality": "",
     "address": "https://www.google.com/maps/search/CC+Recoleta/",
     "poster": "",
+    "imdbid": "",
+    "trailer": "",
+    "showtime": "2024-11-08T19:00:00"
+  },
+  {
+    "title": "Partes Del Todo",
+    "director": "Juan Renau",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar ",
+    "price": "5000/3000",
+    "year": "2024",
+    "duration": "",
+    "genre": "Drama, Documental",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/7oU0jMQwECgNdvPH34hUXu9JzfC.jpg",
     "imdbid": "",
     "trailer": "",
     "showtime": "2024-11-08T19:00:00"
@@ -208,22 +208,6 @@
     "showtime": "2024-11-08T19:30:00"
   },
   {
-    "title": "Tiempo De Pagar",
-    "director": "Felipe Wein",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar ",
-    "price": "5000/3000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Crimen, Drama, Thriller.",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
-    "imdbid": "tt31845993",
-    "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
-    "showtime": "2024-11-08T21:00:00"
-  },
-  {
     "title": "El Estudiante",
     "director": "Santiago Mitre",
     "theater": "Cine York",
@@ -237,6 +221,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/93BK54rXeMhrVbmwemAze6HPWFu.jpg",
     "imdbid": "tt1865357",
     "trailer": "https://www.youtube.com/watch?v=BvICsWskmrs",
+    "showtime": "2024-11-08T21:00:00"
+  },
+  {
+    "title": "Tiempo De Pagar",
+    "director": "Felipe Wein",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar ",
+    "price": "5000/3000",
+    "year": "2024",
+    "duration": "",
+    "genre": "Crimen, Drama, Thriller.",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
+    "imdbid": "tt31845993",
+    "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
     "showtime": "2024-11-08T21:00:00"
   },
   {
@@ -320,22 +320,6 @@
     "showtime": "2024-11-09T16:50:00"
   },
   {
-    "title": "El Tiempo Que Tenemos",
-    "director": "John Crowley",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar ",
-    "price": "5000/3000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Romance, drama, comedia",
-    "nationality": "Reino Unido",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/flSncTaSISRqrqoJ18ZBmThR4Ee.jpg",
-    "imdbid": "tt27131358",
-    "trailer": "https://www.youtube.com/watch?v=MH02yagHaNw",
-    "showtime": "2024-11-09T17:00:00"
-  },
-  {
     "title": "No Es Perverso Ser Homosexual, Lo Perverso Es El Contexto",
     "director": "Rosa von Praunheim",
     "theater": "CCM Haroldo Conti",
@@ -349,6 +333,22 @@
     "poster": "",
     "imdbid": "",
     "trailer": "",
+    "showtime": "2024-11-09T17:00:00"
+  },
+  {
+    "title": "El Tiempo Que Tenemos",
+    "director": "John Crowley",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar ",
+    "price": "5000/3000",
+    "year": "2024",
+    "duration": "",
+    "genre": "Romance, drama, comedia",
+    "nationality": "Reino Unido",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/flSncTaSISRqrqoJ18ZBmThR4Ee.jpg",
+    "imdbid": "tt27131358",
+    "trailer": "https://www.youtube.com/watch?v=MH02yagHaNw",
     "showtime": "2024-11-09T17:00:00"
   },
   {
@@ -432,22 +432,6 @@
     "showtime": "2024-11-09T19:00:00"
   },
   {
-    "title": "Los Tonos Mayores",
-    "director": "Ingrid Pokropek",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar/",
-    "price": "5500/3500",
-    "year": "2024",
-    "duration": "",
-    "genre": "Drama",
-    "nationality": "Argentina-España",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/dikG31aZPpKnIiToVP52vWO9ByL.jpg",
-    "imdbid": "tt29427529",
-    "trailer": "https://www.youtube.com/watch?v=FX7qLUkmQAY",
-    "showtime": "2024-11-09T19:00:00"
-  },
-  {
     "title": "Yo Soy Mi Propia Mujer",
     "director": "Rosa von Praunheim",
     "theater": "CCM Haroldo Conti",
@@ -461,6 +445,22 @@
     "poster": "",
     "imdbid": "",
     "trailer": "",
+    "showtime": "2024-11-09T19:00:00"
+  },
+  {
+    "title": "Los Tonos Mayores",
+    "director": "Ingrid Pokropek",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar/",
+    "price": "5500/3500",
+    "year": "2024",
+    "duration": "",
+    "genre": "Drama",
+    "nationality": "Argentina-España",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/dikG31aZPpKnIiToVP52vWO9ByL.jpg",
+    "imdbid": "tt29427529",
+    "trailer": "https://www.youtube.com/watch?v=FX7qLUkmQAY",
     "showtime": "2024-11-09T19:00:00"
   },
   {
@@ -752,19 +752,19 @@
     "showtime": "2024-11-10T17:30:00"
   },
   {
-    "title": "Introducción",
-    "director": "Hong Sang-Soo",
-    "theater": "CCK",
-    "website": "https://palaciolibertad.gob.ar/events/republica-de-corea-hong-sang-soo/",
-    "price": "Gratis",
-    "year": "2021",
+    "title": "La Caída",
+    "director": "Leopoldo Torre Nilsson",
+    "theater": "Museo del cine",
+    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
+    "price": "1000",
+    "year": "1959",
     "duration": "",
     "genre": "Drama",
-    "nationality": "Corea del Sur",
-    "address": "https://www.google.com/maps/search/CCK/",
-    "poster": "https://image.tmdb.org/t/p/w500/a9aTkREV7ZbwMzgHaknjqWZUtUG.jpg",
-    "imdbid": "tt14035108",
-    "trailer": "https://www.youtube.com/watch?v=LuRFqrGzCWo",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Museo+del+cine/",
+    "poster": "https://image.tmdb.org/t/p/w500/vQWgMEWMKgj30AsUej6jVODqsC4.jpg",
+    "imdbid": "tt0051465",
+    "trailer": "",
     "showtime": "2024-11-10T18:00:00"
   },
   {
@@ -784,19 +784,19 @@
     "showtime": "2024-11-10T18:00:00"
   },
   {
-    "title": "La Caída",
-    "director": "Leopoldo Torre Nilsson",
-    "theater": "Museo del cine",
-    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
-    "price": "1000",
-    "year": "1959",
+    "title": "Introducción",
+    "director": "Hong Sang-Soo",
+    "theater": "CCK",
+    "website": "https://palaciolibertad.gob.ar/events/republica-de-corea-hong-sang-soo/",
+    "price": "Gratis",
+    "year": "2021",
     "duration": "",
     "genre": "Drama",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Museo+del+cine/",
-    "poster": "https://image.tmdb.org/t/p/w500/vQWgMEWMKgj30AsUej6jVODqsC4.jpg",
-    "imdbid": "tt0051465",
-    "trailer": "",
+    "nationality": "Corea del Sur",
+    "address": "https://www.google.com/maps/search/CCK/",
+    "poster": "https://image.tmdb.org/t/p/w500/a9aTkREV7ZbwMzgHaknjqWZUtUG.jpg",
+    "imdbid": "tt14035108",
+    "trailer": "https://www.youtube.com/watch?v=LuRFqrGzCWo",
     "showtime": "2024-11-10T18:00:00"
   },
   {
@@ -816,22 +816,6 @@
     "showtime": "2024-11-10T18:30:00"
   },
   {
-    "title": "Tiempo De Pagar",
-    "director": "Felipe Wein",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar ",
-    "price": "5000/3000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Crimen, Drama, Thriller.",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
-    "imdbid": "tt31845993",
-    "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
-    "showtime": "2024-11-10T19:00:00"
-  },
-  {
     "title": "Doble De Cuerpo",
     "director": "Brian De Palma",
     "theater": "CC Recoleta",
@@ -845,6 +829,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/lRFm5P2AdOGpELwm3HHhmUz6k5I.jpg",
     "imdbid": "tt0086984",
     "trailer": "https://www.youtube.com/watch?v=vMG8V7Am8zI",
+    "showtime": "2024-11-10T19:00:00"
+  },
+  {
+    "title": "Tiempo De Pagar",
+    "director": "Felipe Wein",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar ",
+    "price": "5000/3000",
+    "year": "2024",
+    "duration": "",
+    "genre": "Crimen, Drama, Thriller.",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
+    "imdbid": "tt31845993",
+    "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
     "showtime": "2024-11-10T19:00:00"
   },
   {
@@ -896,22 +896,6 @@
     "showtime": "2024-11-10T20:00:00"
   },
   {
-    "title": "El Tiempo Que Tenemos",
-    "director": "John Crowley",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar ",
-    "price": "5000/3000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Romance, drama, comedia",
-    "nationality": "Reino Unido",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/flSncTaSISRqrqoJ18ZBmThR4Ee.jpg",
-    "imdbid": "tt27131358",
-    "trailer": "https://www.youtube.com/watch?v=MH02yagHaNw",
-    "showtime": "2024-11-10T21:00:00"
-  },
-  {
     "title": "La Noche De Los Lápices",
     "director": "Hectór Olivera",
     "theater": "Cine York",
@@ -925,6 +909,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/8GjSq46q9YC3Vv2vFH6EBOYdXwT.jpg",
     "imdbid": "tt0193355",
     "trailer": "https://www.youtube.com/watch?v=Y41L4oZfWrg",
+    "showtime": "2024-11-10T21:00:00"
+  },
+  {
+    "title": "El Tiempo Que Tenemos",
+    "director": "John Crowley",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar ",
+    "price": "5000/3000",
+    "year": "2024",
+    "duration": "",
+    "genre": "Romance, drama, comedia",
+    "nationality": "Reino Unido",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/flSncTaSISRqrqoJ18ZBmThR4Ee.jpg",
+    "imdbid": "tt27131358",
+    "trailer": "https://www.youtube.com/watch?v=MH02yagHaNw",
     "showtime": "2024-11-10T21:00:00"
   },
   {
@@ -1632,6 +1632,22 @@
     "showtime": "2024-11-15T18:30:00"
   },
   {
+    "title": "Universo En Fantasía",
+    "director": "Gerald Potterton",
+    "theater": "CC Recoleta",
+    "website": "http://www.centroculturalrecoleta.org/agenda",
+    "price": "Gratis",
+    "year": "1981",
+    "duration": "",
+    "genre": "Animación, Ciencia Ficción, Aventura, Fantasía, Música",
+    "nationality": "Canadá, Reino Unido",
+    "address": "https://www.google.com/maps/search/CC+Recoleta/",
+    "poster": "https://image.tmdb.org/t/p/w500/atUtWrDlLzT1yeVK2EoYtvbS963.jpg",
+    "imdbid": "tt0082509",
+    "trailer": "https://www.youtube.com/watch?v=-Fvzpl5wTPo",
+    "showtime": "2024-11-15T19:00:00"
+  },
+  {
     "title": "Cuando Acecha La Maldad",
     "director": "Demián Rugna",
     "theater": "Universidad Nacional de las Artes",
@@ -1645,22 +1661,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/iQ7G9LhP7NRRIUM4Vlai3eOxBAc.jpg",
     "imdbid": "tt16300962",
     "trailer": "https://www.youtube.com/watch?v=YrTnV6gNzno",
-    "showtime": "2024-11-15T19:00:00"
-  },
-  {
-    "title": "Partes Del Todo",
-    "director": "Juan Renau",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar ",
-    "price": "5000/3000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Drama, Documental",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/7oU0jMQwECgNdvPH34hUXu9JzfC.jpg",
-    "imdbid": "",
-    "trailer": "",
     "showtime": "2024-11-15T19:00:00"
   },
   {
@@ -1680,19 +1680,19 @@
     "showtime": "2024-11-15T19:00:00"
   },
   {
-    "title": "Universo En Fantasía",
-    "director": "Gerald Potterton",
-    "theater": "CC Recoleta",
-    "website": "http://www.centroculturalrecoleta.org/agenda",
-    "price": "Gratis",
-    "year": "1981",
+    "title": "Partes Del Todo",
+    "director": "Juan Renau",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar ",
+    "price": "5000/3000",
+    "year": "2024",
     "duration": "",
-    "genre": "Animación, Ciencia Ficción, Aventura, Fantasía, Música",
-    "nationality": "Canadá, Reino Unido",
-    "address": "https://www.google.com/maps/search/CC+Recoleta/",
-    "poster": "https://image.tmdb.org/t/p/w500/atUtWrDlLzT1yeVK2EoYtvbS963.jpg",
-    "imdbid": "tt0082509",
-    "trailer": "https://www.youtube.com/watch?v=-Fvzpl5wTPo",
+    "genre": "Drama, Documental",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/7oU0jMQwECgNdvPH34hUXu9JzfC.jpg",
+    "imdbid": "",
+    "trailer": "",
     "showtime": "2024-11-15T19:00:00"
   },
   {
@@ -1728,22 +1728,6 @@
     "showtime": "2024-11-15T20:00:00"
   },
   {
-    "title": "Tiempo De Pagar",
-    "director": "Felipe Wein",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar ",
-    "price": "5000/3000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Crimen, Drama, Thriller.",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
-    "imdbid": "tt31845993",
-    "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
-    "showtime": "2024-11-15T21:00:00"
-  },
-  {
     "title": "Norita",
     "director": "Jayson Mcnamara y Andrea Tortonese",
     "theater": "Cine York",
@@ -1757,6 +1741,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/iPZ6Q8s7zk5Cn8sFvycgJpIFybl.jpg",
     "imdbid": "",
     "trailer": "",
+    "showtime": "2024-11-15T21:00:00"
+  },
+  {
+    "title": "Tiempo De Pagar",
+    "director": "Felipe Wein",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar ",
+    "price": "5000/3000",
+    "year": "2024",
+    "duration": "",
+    "genre": "Crimen, Drama, Thriller.",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
+    "imdbid": "tt31845993",
+    "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
     "showtime": "2024-11-15T21:00:00"
   },
   {
@@ -1824,22 +1824,6 @@
     "showtime": "2024-11-16T17:30:00"
   },
   {
-    "title": "Partió De Mí Un Barco Llevándome",
-    "director": "Cecilia Kang",
-    "year": "2023",
-    "nationality": "Argentina, Singapur",
-    "genre": "Documental",
-    "duration": "",
-    "theater": "MALBA",
-    "poster": "https://image.tmdb.org/t/p/w500/6xn6nfZzUObRuuloUrD3AeuWVNh.jpg",
-    "imdbid": "tt29961381",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS",
-    "showtime": "2024-11-16T18:00:00"
-  },
-  {
     "title": "Obras Breves: Jessica Sarah",
     "director": "Jessica Sarah Rinland",
     "theater": "Museo del cine",
@@ -1853,6 +1837,22 @@
     "poster": "",
     "imdbid": "",
     "trailer": "",
+    "showtime": "2024-11-16T18:00:00"
+  },
+  {
+    "title": "Partió De Mí Un Barco Llevándome",
+    "director": "Cecilia Kang",
+    "year": "2023",
+    "nationality": "Argentina, Singapur",
+    "genre": "Documental",
+    "duration": "",
+    "theater": "MALBA",
+    "poster": "https://image.tmdb.org/t/p/w500/6xn6nfZzUObRuuloUrD3AeuWVNh.jpg",
+    "imdbid": "tt29961381",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-11-16T18:00:00"
   },
   {
@@ -1904,22 +1904,6 @@
     "showtime": "2024-11-16T19:00:00"
   },
   {
-    "title": "Los Tonos Mayores",
-    "director": "Ingrid Pokropek",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar/",
-    "price": "5500/3500",
-    "year": "2024",
-    "duration": "",
-    "genre": "Drama",
-    "nationality": "Argentina-España",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/dikG31aZPpKnIiToVP52vWO9ByL.jpg",
-    "imdbid": "tt29427529",
-    "trailer": "https://www.youtube.com/watch?v=FX7qLUkmQAY",
-    "showtime": "2024-11-16T19:00:00"
-  },
-  {
     "title": "Blow Out",
     "director": "Brian De Palma",
     "theater": "CC Recoleta",
@@ -1933,6 +1917,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/weMW1wLzeagP3tw6BfmYf1iL7dz.jpg",
     "imdbid": "tt0082085",
     "trailer": "https://www.youtube.com/watch?v=aTyVqcoXsGs",
+    "showtime": "2024-11-16T19:00:00"
+  },
+  {
+    "title": "Los Tonos Mayores",
+    "director": "Ingrid Pokropek",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar/",
+    "price": "5500/3500",
+    "year": "2024",
+    "duration": "",
+    "genre": "Drama",
+    "nationality": "Argentina-España",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/dikG31aZPpKnIiToVP52vWO9ByL.jpg",
+    "imdbid": "tt29427529",
+    "trailer": "https://www.youtube.com/watch?v=FX7qLUkmQAY",
     "showtime": "2024-11-16T19:00:00"
   },
   {
@@ -1968,22 +1968,6 @@
     "showtime": "2024-11-16T20:00:00"
   },
   {
-    "title": "Tiempo De Pagar",
-    "director": "Felipe Wein",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar ",
-    "price": "5000/3000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Crimen, Drama, Thriller.",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
-    "imdbid": "tt31845993",
-    "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
-    "showtime": "2024-11-16T21:00:00"
-  },
-  {
     "title": "500",
     "director": "Alexandre Valenti",
     "theater": "Cine York",
@@ -1997,6 +1981,22 @@
     "poster": "",
     "imdbid": "",
     "trailer": "",
+    "showtime": "2024-11-16T21:00:00"
+  },
+  {
+    "title": "Tiempo De Pagar",
+    "director": "Felipe Wein",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar ",
+    "price": "5000/3000",
+    "year": "2024",
+    "duration": "",
+    "genre": "Crimen, Drama, Thriller.",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
+    "imdbid": "tt31845993",
+    "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
     "showtime": "2024-11-16T21:00:00"
   },
   {
@@ -2048,18 +2048,18 @@
     "showtime": "2024-11-17T15:30:00"
   },
   {
-    "title": "Crónica De Un Niño Solo",
+    "title": "El Amigo",
     "director": "Leonardo Favio",
     "theater": "CC Munro",
-    "website": "https://lumiton.ar/evento/cronica-de-un-nino-solo-5/ ",
+    "website": "https://lumiton.ar/evento/el-amigo-3/ ",
     "price": "Gratis",
-    "year": "1965",
+    "year": "1960",
     "duration": "",
     "genre": "Drama",
     "nationality": "Argentina",
     "address": "https://www.google.com/maps/search/CC+Munro/",
-    "poster": "https://image.tmdb.org/t/p/w500/u7kUXhzpFF23UsDL9VVGAawuK3O.jpg",
-    "imdbid": "tt0057977",
+    "poster": "https://image.tmdb.org/t/p/w500/lvJDVeByM4vcMbctd4m29cc7n93.jpg",
+    "imdbid": "tt0303640",
     "trailer": "",
     "showtime": "2024-11-17T16:00:00"
   },
@@ -2080,18 +2080,18 @@
     "showtime": "2024-11-17T16:00:00"
   },
   {
-    "title": "El Amigo",
+    "title": "Crónica De Un Niño Solo",
     "director": "Leonardo Favio",
     "theater": "CC Munro",
-    "website": "https://lumiton.ar/evento/el-amigo-3/ ",
+    "website": "https://lumiton.ar/evento/cronica-de-un-nino-solo-5/ ",
     "price": "Gratis",
-    "year": "1960",
+    "year": "1965",
     "duration": "",
     "genre": "Drama",
     "nationality": "Argentina",
     "address": "https://www.google.com/maps/search/CC+Munro/",
-    "poster": "https://image.tmdb.org/t/p/w500/lvJDVeByM4vcMbctd4m29cc7n93.jpg",
-    "imdbid": "tt0303640",
+    "poster": "https://image.tmdb.org/t/p/w500/u7kUXhzpFF23UsDL9VVGAawuK3O.jpg",
+    "imdbid": "tt0057977",
     "trailer": "",
     "showtime": "2024-11-17T16:00:00"
   },
@@ -2112,22 +2112,6 @@
     "showtime": "2024-11-17T17:30:00"
   },
   {
-    "title": "El Cónsul De Burdeos",
-    "director": "Francisco Manso y João Correa",
-    "theater": "CCK",
-    "website": "https://palaciolibertad.gob.ar/events/el-consul-de-burdeos-2011-de-francisco-manso-y-joao-correa/",
-    "price": "Gratis",
-    "year": "",
-    "duration": "",
-    "genre": "",
-    "nationality": "",
-    "address": "https://www.google.com/maps/search/CCK/",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
-    "showtime": "2024-11-17T18:00:00"
-  },
-  {
     "title": "La Novelista Y Su Película",
     "director": "Hong Sang-Soo",
     "theater": "CCK",
@@ -2141,6 +2125,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/k6hSPmhFyYJMQ2dhMoaJhKzSBsI.jpg",
     "imdbid": "tt17146978",
     "trailer": "https://www.youtube.com/watch?v=xQG4NRteazo",
+    "showtime": "2024-11-17T18:00:00"
+  },
+  {
+    "title": "El Pibe Cabeza",
+    "director": "Leopoldo Torre Nilsson",
+    "theater": "Museo del cine",
+    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
+    "price": "1000",
+    "year": "1975",
+    "duration": "",
+    "genre": "Drama",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Museo+del+cine/",
+    "poster": "https://image.tmdb.org/t/p/w500/nYjnqol0XEkJh20m75YJCKBYdwP.jpg",
+    "imdbid": "tt0075064",
+    "trailer": "",
     "showtime": "2024-11-17T18:00:00"
   },
   {
@@ -2160,18 +2160,18 @@
     "showtime": "2024-11-17T18:00:00"
   },
   {
-    "title": "El Pibe Cabeza",
-    "director": "Leopoldo Torre Nilsson",
-    "theater": "Museo del cine",
-    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
-    "price": "1000",
-    "year": "1975",
+    "title": "El Cónsul De Burdeos",
+    "director": "Francisco Manso y João Correa",
+    "theater": "CCK",
+    "website": "https://palaciolibertad.gob.ar/events/el-consul-de-burdeos-2011-de-francisco-manso-y-joao-correa/",
+    "price": "Gratis",
+    "year": "",
     "duration": "",
-    "genre": "Drama",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Museo+del+cine/",
-    "poster": "https://image.tmdb.org/t/p/w500/nYjnqol0XEkJh20m75YJCKBYdwP.jpg",
-    "imdbid": "tt0075064",
+    "genre": "",
+    "nationality": "",
+    "address": "https://www.google.com/maps/search/CCK/",
+    "poster": "",
+    "imdbid": "",
     "trailer": "",
     "showtime": "2024-11-17T18:00:00"
   },
@@ -2208,22 +2208,6 @@
     "showtime": "2024-11-17T18:30:00"
   },
   {
-    "title": "Tiempo De Pagar",
-    "director": "Felipe Wein",
-    "theater": "Cine Arte Cacodelphia",
-    "website": "https://cineartecacodelphia.com.ar ",
-    "price": "5000/3000",
-    "year": "2024",
-    "duration": "",
-    "genre": "Crimen, Drama, Thriller.",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
-    "imdbid": "tt31845993",
-    "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
-    "showtime": "2024-11-17T19:00:00"
-  },
-  {
     "title": "Película Sorpresa",
     "director": "-",
     "theater": "CC Recoleta",
@@ -2237,6 +2221,22 @@
     "poster": "",
     "imdbid": "",
     "trailer": "",
+    "showtime": "2024-11-17T19:00:00"
+  },
+  {
+    "title": "Tiempo De Pagar",
+    "director": "Felipe Wein",
+    "theater": "Cine Arte Cacodelphia",
+    "website": "https://cineartecacodelphia.com.ar ",
+    "price": "5000/3000",
+    "year": "2024",
+    "duration": "",
+    "genre": "Crimen, Drama, Thriller.",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
+    "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
+    "imdbid": "tt31845993",
+    "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
     "showtime": "2024-11-17T19:00:00"
   },
   {
@@ -2448,6 +2448,22 @@
     "showtime": "2024-11-21T18:00:00"
   },
   {
+    "title": "El Einstein Del Sexo",
+    "director": "Rosa von Praunheim",
+    "theater": "CCM Haroldo Conti",
+    "website": "http://conti.derhuman.jus.gov.ar/2024/11/foco-rosa",
+    "price": "Gratis",
+    "year": "",
+    "duration": "",
+    "genre": "",
+    "nationality": "",
+    "address": "https://www.google.com/maps/search/CCM+Haroldo+Conti/",
+    "poster": "",
+    "imdbid": "",
+    "trailer": "",
+    "showtime": "2024-11-21T19:00:00"
+  },
+  {
     "title": "Virgen Rosa",
     "director": "Dennis Smith",
     "theater": "CC Recoleta",
@@ -2477,22 +2493,6 @@
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
     "price": "4000 ARS / 2000 ARS",
-    "showtime": "2024-11-21T19:00:00"
-  },
-  {
-    "title": "El Einstein Del Sexo",
-    "director": "Rosa von Praunheim",
-    "theater": "CCM Haroldo Conti",
-    "website": "http://conti.derhuman.jus.gov.ar/2024/11/foco-rosa",
-    "price": "Gratis",
-    "year": "",
-    "duration": "",
-    "genre": "",
-    "nationality": "",
-    "address": "https://www.google.com/maps/search/CCM+Haroldo+Conti/",
-    "poster": "",
-    "imdbid": "",
-    "trailer": "",
     "showtime": "2024-11-21T19:00:00"
   },
   {
@@ -2736,6 +2736,22 @@
     "showtime": "2024-11-23T17:30:00"
   },
   {
+    "title": "Mixtape La Pampa",
+    "director": "Andrés Di Tella",
+    "theater": "Museo del cine",
+    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
+    "price": "1000",
+    "year": "2023",
+    "duration": "",
+    "genre": "Documental",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Museo+del+cine/",
+    "poster": "https://image.tmdb.org/t/p/w500/3Ga2uA0BvXXCiYLwIMyDbdMobaY.jpg",
+    "imdbid": "tt28865157",
+    "trailer": "",
+    "showtime": "2024-11-23T18:00:00"
+  },
+  {
     "title": "Partió De Mí Un Barco Llevándome",
     "director": "Cecilia Kang",
     "year": "2023",
@@ -2765,22 +2781,6 @@
     "address": "https://maps.app.goo.gl/ktW2nt3wQhxT4grU7",
     "website": "https://amigosdelbellasartes.org.ar/cine/",
     "price": "Gratis, con inscripción",
-    "showtime": "2024-11-23T18:00:00"
-  },
-  {
-    "title": "Mixtape La Pampa",
-    "director": "Andrés Di Tella",
-    "theater": "Museo del cine",
-    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
-    "price": "1000",
-    "year": "2023",
-    "duration": "",
-    "genre": "Documental",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Museo+del+cine/",
-    "poster": "https://image.tmdb.org/t/p/w500/3Ga2uA0BvXXCiYLwIMyDbdMobaY.jpg",
-    "imdbid": "tt28865157",
-    "trailer": "",
     "showtime": "2024-11-23T18:00:00"
   },
   {
@@ -2896,22 +2896,6 @@
     "showtime": "2024-11-24T15:30:00"
   },
   {
-    "title": "Nazareno Cruz Y El Lobo",
-    "director": "Leonardo Favio",
-    "theater": "CC Munro",
-    "website": "https://lumiton.ar/evento/nazareno-cruz-y-el-lobo-8/ ",
-    "price": "Gratis",
-    "year": "1975",
-    "duration": "",
-    "genre": "Fantasía, drama, terror",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/CC+Munro/",
-    "poster": "https://image.tmdb.org/t/p/w500/bxp8B4AaZnlHnd6T2JofALpdCd6.jpg",
-    "imdbid": "tt0071897",
-    "trailer": "https://www.youtube.com/watch?v=7T4REi_Zta4",
-    "showtime": "2024-11-24T16:00:00"
-  },
-  {
     "title": "Mi Padre Y Yo",
     "director": "Pablo Torre",
     "theater": "Museo del cine",
@@ -2925,6 +2909,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/goYWvNKuEPscBCe2MfUAGbxERdZ.jpg",
     "imdbid": "",
     "trailer": "",
+    "showtime": "2024-11-24T16:00:00"
+  },
+  {
+    "title": "Nazareno Cruz Y El Lobo",
+    "director": "Leonardo Favio",
+    "theater": "CC Munro",
+    "website": "https://lumiton.ar/evento/nazareno-cruz-y-el-lobo-8/ ",
+    "price": "Gratis",
+    "year": "1975",
+    "duration": "",
+    "genre": "Fantasía, drama, terror",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/CC+Munro/",
+    "poster": "https://image.tmdb.org/t/p/w500/bxp8B4AaZnlHnd6T2JofALpdCd6.jpg",
+    "imdbid": "tt0071897",
+    "trailer": "https://www.youtube.com/watch?v=7T4REi_Zta4",
     "showtime": "2024-11-24T16:00:00"
   },
   {
@@ -2960,22 +2960,6 @@
     "showtime": "2024-11-24T18:00:00"
   },
   {
-    "title": "Popular Tradición De Esta Tierra",
-    "director": "Mariano Llinás ",
-    "year": "2024",
-    "nationality": "Argentina",
-    "genre": "Documental",
-    "duration": "",
-    "theater": "MALBA",
-    "poster": "https://image.tmdb.org/t/p/w500/lZZUuEddyEtZgHfTYxsjeNlOqXo.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS",
-    "showtime": "2024-11-24T18:00:00"
-  },
-  {
     "title": "La Maffia",
     "director": "Leopoldo Torre Nilsson",
     "theater": "Museo del cine",
@@ -2989,6 +2973,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/s98tA0kRLHH6T7sePMMqx4zVDy1.jpg",
     "imdbid": "tt0068895",
     "trailer": "",
+    "showtime": "2024-11-24T18:00:00"
+  },
+  {
+    "title": "Popular Tradición De Esta Tierra",
+    "director": "Mariano Llinás ",
+    "year": "2024",
+    "nationality": "Argentina",
+    "genre": "Documental",
+    "duration": "",
+    "theater": "MALBA",
+    "poster": "https://image.tmdb.org/t/p/w500/lZZUuEddyEtZgHfTYxsjeNlOqXo.jpg",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-11-24T18:00:00"
   },
   {
@@ -3360,22 +3360,6 @@
     "showtime": "2024-11-29T18:30:00"
   },
   {
-    "title": "Plaga Zombie",
-    "director": "Pablo Parés y Hernán Sáez",
-    "theater": "Universidad Nacional de las Artes",
-    "website": "https://criticadeartes.una.edu.ar/agenda/cineclub-que-se-puede-hacer-salvo-ver-peliculas_42639?utm_source=newsletter&utm_campaign=84209-Cineclub+¿Qué+se+puede+hacer%2C+salvo+ver+películas%3F+%7C+Ciclo+de+cine+de+terror&utm_medium=email ",
-    "price": "Gratis",
-    "year": "2001",
-    "duration": "",
-    "genre": "Terror, ciencia ficción, acción",
-    "nationality": "Argentina",
-    "address": "https://www.google.com/maps/search/Universidad+Nacional+de+las+Artes/",
-    "poster": "https://image.tmdb.org/t/p/w500/y1mIx9fNBVICd2QBRbYAWKGt7hV.jpg",
-    "imdbid": "tt0210909",
-    "trailer": "",
-    "showtime": "2024-11-29T19:00:00"
-  },
-  {
     "title": "South Park: La Película",
     "director": "Trey Parker",
     "theater": "CC Recoleta",
@@ -3389,6 +3373,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/tS0PedvA2mFO9VCHYwQpaU1K36U.jpg",
     "imdbid": "tt0158983",
     "trailer": "https://www.youtube.com/watch?v=K6EiSoRlobg",
+    "showtime": "2024-11-29T19:00:00"
+  },
+  {
+    "title": "Plaga Zombie",
+    "director": "Pablo Parés y Hernán Sáez",
+    "theater": "Universidad Nacional de las Artes",
+    "website": "https://criticadeartes.una.edu.ar/agenda/cineclub-que-se-puede-hacer-salvo-ver-peliculas_42639?utm_source=newsletter&utm_campaign=84209-Cineclub+¿Qué+se+puede+hacer%2C+salvo+ver+películas%3F+%7C+Ciclo+de+cine+de+terror&utm_medium=email ",
+    "price": "Gratis",
+    "year": "2001",
+    "duration": "",
+    "genre": "Terror, ciencia ficción, acción",
+    "nationality": "Argentina",
+    "address": "https://www.google.com/maps/search/Universidad+Nacional+de+las+Artes/",
+    "poster": "https://image.tmdb.org/t/p/w500/y1mIx9fNBVICd2QBRbYAWKGt7hV.jpg",
+    "imdbid": "tt0210909",
+    "trailer": "",
     "showtime": "2024-11-29T19:00:00"
   },
   {
@@ -3472,22 +3472,6 @@
     "showtime": "2024-11-30T16:00:00"
   },
   {
-    "title": "Partió De Mí Un Barco Llevándome",
-    "director": "Cecilia Kang",
-    "year": "2023",
-    "nationality": "Argentina, Singapur",
-    "genre": "Documental",
-    "duration": "",
-    "theater": "MALBA",
-    "poster": "https://image.tmdb.org/t/p/w500/6xn6nfZzUObRuuloUrD3AeuWVNh.jpg",
-    "imdbid": "tt29961381",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS",
-    "showtime": "2024-11-30T18:00:00"
-  },
-  {
     "title": "Obras Breves: Luis Federico",
     "director": "Federico Luis Tachella",
     "theater": "Museo del cine",
@@ -3501,6 +3485,22 @@
     "poster": "",
     "imdbid": "",
     "trailer": "",
+    "showtime": "2024-11-30T18:00:00"
+  },
+  {
+    "title": "Partió De Mí Un Barco Llevándome",
+    "director": "Cecilia Kang",
+    "year": "2023",
+    "nationality": "Argentina, Singapur",
+    "genre": "Documental",
+    "duration": "",
+    "theater": "MALBA",
+    "poster": "https://image.tmdb.org/t/p/w500/6xn6nfZzUObRuuloUrD3AeuWVNh.jpg",
+    "imdbid": "tt29961381",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-11-30T18:00:00"
   },
   {
@@ -3648,22 +3648,6 @@
     "showtime": "2024-12-01T16:00:00"
   },
   {
-    "title": "Popular Tradición De Esta Tierra",
-    "director": "Mariano Llinás ",
-    "year": "2024",
-    "nationality": "Argentina",
-    "genre": "Documental",
-    "duration": "",
-    "theater": "MALBA",
-    "poster": "https://image.tmdb.org/t/p/w500/lZZUuEddyEtZgHfTYxsjeNlOqXo.jpg",
-    "imdbid": "",
-    "trailer": "",
-    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
-    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS",
-    "showtime": "2024-12-01T18:00:00"
-  },
-  {
     "title": "El Pibe Cabeza",
     "director": "Leopoldo Torre Nilsson",
     "theater": "Museo del cine",
@@ -3677,6 +3661,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/nYjnqol0XEkJh20m75YJCKBYdwP.jpg",
     "imdbid": "tt0075064",
     "trailer": "",
+    "showtime": "2024-12-01T18:00:00"
+  },
+  {
+    "title": "Popular Tradición De Esta Tierra",
+    "director": "Mariano Llinás ",
+    "year": "2024",
+    "nationality": "Argentina",
+    "genre": "Documental",
+    "duration": "",
+    "theater": "MALBA",
+    "poster": "https://image.tmdb.org/t/p/w500/lZZUuEddyEtZgHfTYxsjeNlOqXo.jpg",
+    "imdbid": "",
+    "trailer": "",
+    "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
+    "price": "4000 ARS / 2000 ARS",
     "showtime": "2024-12-01T18:00:00"
   },
   {
