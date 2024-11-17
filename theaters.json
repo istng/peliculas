@@ -47,16 +47,16 @@
     "price": "Gratis, con inscripción",
     "city": "CABA"
   },
-  "Casa de la PBA": {
-    "address": "https://www.google.com/maps/search/Casa+de+la+PBA/",
-    "website": "https://gba.gob.ar/casaPBA/agenda_cultural_casa_pba",
-    "price": "Gratis",
+  "Museo del cine": {
+    "address": "https://www.google.com/maps/search/Museo+del+cine/",
+    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
+    "price": "1000",
     "city": "AMBA"
   },
   "Cine Arte Cacodelphia": {
     "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
     "website": "https://cineartecacodelphia.com.ar ",
-    "price": "5000/3000",
+    "price": "6000/3500",
     "city": "AMBA"
   },
   "Cine York": {
@@ -77,15 +77,15 @@
     "price": "Gratis",
     "city": "AMBA"
   },
-  "Museo del cine": {
-    "address": "https://www.google.com/maps/search/Museo+del+cine/",
-    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
-    "price": "1000",
-    "city": "AMBA"
-  },
   "CC Munro": {
     "address": "https://www.google.com/maps/search/CC+Munro/",
-    "website": "https://lumiton.ar/evento/peron-sinfonia-del-sentimiento-2/ ",
+    "website": "https://lumiton.ar/evento/el-amigo-3/ ",
+    "price": "Gratis",
+    "city": "AMBA"
+  },
+  "CC 25 de Mayo": {
+    "address": "https://www.google.com/maps/search/CC+25+de+Mayo/",
+    "website": "https://cc25.org/18-11-semillas-que-caen-lejos-de-sus-raices/",
     "price": "Gratis",
     "city": "AMBA"
   },
@@ -101,27 +101,15 @@
     "price": "Gratis",
     "city": "AMBA"
   },
-  "Cine Club Las Heras": {
-    "address": "https://www.google.com/maps/search/Cine+Club+Las+Heras/",
-    "website": "https://www.instagram.com/p/DBu1CGixlF0/?igsh=OWRleWl2cjFlNzVz&img_index=2",
-    "price": "4000",
+  "Lumiton": {
+    "address": "https://www.google.com/maps/search/Lumiton/",
+    "website": "https://lumiton.ar/evento/la-vida-es-un-tango/ ",
+    "price": "Gratis",
     "city": "AMBA"
   },
   "Universidad Nacional de las Artes": {
     "address": "https://www.google.com/maps/search/Universidad+Nacional+de+las+Artes/",
     "website": "https://criticadeartes.una.edu.ar/agenda/cineclub-que-se-puede-hacer-salvo-ver-peliculas_42639?utm_source=newsletter&utm_campaign=84209-Cineclub+¿Qué+se+puede+hacer%2C+salvo+ver+películas%3F+%7C+Ciclo+de+cine+de+terror&utm_medium=email ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "CC 25 de Mayo": {
-    "address": "https://www.google.com/maps/search/CC+25+de+Mayo/",
-    "website": "https://cc25.org/18-11-semillas-que-caen-lejos-de-sus-raices/",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Lumiton": {
-    "address": "https://www.google.com/maps/search/Lumiton/",
-    "website": "https://lumiton.ar/evento/la-vida-es-un-tango/ ",
     "price": "Gratis",
     "city": "AMBA"
   }
