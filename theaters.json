@@ -1,116 +1,116 @@
 {
   "Gaumont": {
     "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
+    "city": "CABA",
     "website": "https://www.incaa.gob.ar/programacion-cine-gaumont/",
-    "price": "2200 ARS / 1100 ARS",
-    "city": "CABA"
+    "price": "2200 ARS / 1100 ARS"
   },
   "Cultural San Martín": {
     "address": "https://maps.app.goo.gl/Prb2ekMzEsQ3g5NSA",
+    "city": "CABA",
     "website": "https://elculturalsanmartin.ar/cine/",
-    "price": "2000 ARS / 1000 ARS",
-    "city": "CABA"
+    "price": "2000 ARS / 1000 ARS"
   },
   "CCK": {
-    "address": "https://www.google.com/maps/search/CCK/",
-    "website": "https://palaciolibertad.gob.ar/events/nuevos-clasicos-argentinos-noviembre/",
-    "price": "Gratis",
-    "city": "AMBA"
+    "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+    "city": "CABA",
+    "website": "https://www.cck.gob.ar/cine/",
+    "price": "Gratis, orden de llegada"
   },
   "Biblioteca del Congreso": {
     "address": "https://maps.app.goo.gl/vtGugmEgEFf8Addr7",
+    "city": "CABA",
     "website": "https://bcn.gob.ar/cine-online-y-presencial/cine",
-    "price": "Gratis, con inscripción",
-    "city": "CABA"
+    "price": "Gratis, con inscripción"
   },
   "MALBA": {
     "address": "https://maps.app.goo.gl/5dBd8ifENye4EAPZ9",
+    "city": "CABA",
     "website": "https://www.malba.org.ar/eventos/de/actividades-cine-programacion/",
-    "price": "4000 ARS / 2000 ARS",
-    "city": "CABA"
+    "price": "4000 ARS / 2000 ARS"
   },
   "DAC": {
     "address": "https://maps.app.goo.gl/X8MRxX8zvgveCnva8",
+    "city": "CABA",
     "website": "https://eventos.dac.org.ar/formulario/",
-    "price": "Gratis, con inscripción",
-    "city": "CABA"
+    "price": "Gratis, con inscripción"
   },
   "Leopoldo Lugones": {
     "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+    "city": "CABA",
     "website": "https://complejoteatral.gob.ar/cine",
-    "price": "4000 ARS / 2000 ARS",
-    "city": "CABA"
+    "price": "4000 ARS / 2000 ARS"
   },
   "Bellas Artes": {
     "address": "https://maps.app.goo.gl/ktW2nt3wQhxT4grU7",
+    "city": "CABA",
     "website": "https://amigosdelbellasartes.org.ar/cine/",
-    "price": "Gratis, con inscripción",
-    "city": "CABA"
-  },
-  "Museo del cine": {
-    "address": "https://www.google.com/maps/search/Museo+del+cine/",
-    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
-    "price": "1000",
-    "city": "AMBA"
+    "price": "Gratis, con inscripción"
   },
   "Cine Arte Cacodelphia": {
-    "address": "https://www.google.com/maps/search/Cine+Arte+Cacodelphia/",
-    "website": "https://cineartecacodelphia.com.ar ",
-    "price": "6000/3500",
-    "city": "AMBA"
+    "address": "https://maps.app.goo.gl/P2PvhrNf9WZ67qqW6",
+    "city": "CABA",
+    "website": "https://cineartecacodelphia.com.ar/",
+    "price": "6000 ARS/3500 ARS"
+  },
+  "Museo del Cine": {
+    "address": "https://maps.app.goo.gl/enCXKBafWtb8BCKE7",
+    "city": "CABA",
+    "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine",
+    "price": "1000 ARS"
   },
   "Cine York": {
     "address": "https://www.google.com/maps/search/Cine+York/",
-    "website": "https://lumiton.ar/agenda-presencial/ ",
-    "price": "Gratis",
-    "city": "AMBA"
+    "city": "CABA",
+    "website": "https://lumiton.ar/agenda-presencial/",
+    "price": "Gratis"
   },
   "CC Recoleta": {
-    "address": "https://www.google.com/maps/search/CC+Recoleta/",
-    "website": "http://www.centroculturalrecoleta.org/agenda",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "CCM Haroldo Conti": {
-    "address": "https://www.google.com/maps/search/CCM+Haroldo+Conti/",
-    "website": "http://conti.derhuman.jus.gov.ar/2024/11/foco-rosa",
-    "price": "Gratis",
-    "city": "AMBA"
+    "address": "https://www.google.com/maps/search/Centro+Cultural+Recoleta/",
+    "city": "CABA",
+    "website": "https://www.buenosaires.gob.ar/cultura/recoleta",
+    "price": "Gratis"
   },
   "CC Munro": {
-    "address": "https://www.google.com/maps/search/CC+Munro/",
-    "website": "https://lumiton.ar/evento/el-amigo-3/ ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "CC 25 de Mayo": {
-    "address": "https://www.google.com/maps/search/CC+25+de+Mayo/",
-    "website": "https://cc25.org/18-11-semillas-que-caen-lejos-de-sus-raices/",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Manzana de las luces": {
-    "address": "https://www.google.com/maps/search/Manzana+de+las+luces/",
-    "website": "https://manzanadelasluces.cultura.gob.ar/actividad/ciclo-de-videos-en-la-manzana-de-las-luces-paraquaria/ ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Microcine de la Universidad del Cine": {
-    "address": "https://www.google.com/maps/search/Microcine+de+la+Universidad+del+Cine/",
-    "website": "https://ucine.edu.ar/actividades/ciclo-de-cine-cordobes-contemporaneo ",
-    "price": "Gratis",
-    "city": "AMBA"
-  },
-  "Lumiton": {
-    "address": "https://www.google.com/maps/search/Lumiton/",
-    "website": "https://lumiton.ar/evento/la-vida-es-un-tango/ ",
-    "price": "Gratis",
-    "city": "AMBA"
+    "address": "https://maps.app.goo.gl/2g5WWY7a94ZNarY46",
+    "city": "Vicente López",
+    "website": "https://lumiton.ar/agenda-presencial/",
+    "price": "Gratis"
   },
   "Universidad Nacional de las Artes": {
     "address": "https://www.google.com/maps/search/Universidad+Nacional+de+las+Artes/",
-    "website": "https://criticadeartes.una.edu.ar/agenda/cineclub-que-se-puede-hacer-salvo-ver-peliculas_42639?utm_source=newsletter&utm_campaign=84209-Cineclub+¿Qué+se+puede+hacer%2C+salvo+ver+películas%3F+%7C+Ciclo+de+cine+de+terror&utm_medium=email ",
-    "price": "Gratis",
-    "city": "AMBA"
+    "city": "CABA",
+    "website": "https://criticadeartes.una.edu.ar/agenda/",
+    "price": "Gratis"
+  },
+  "Lumiton": {
+    "address": "https://www.google.com/maps/search/Lumiton/",
+    "city": "Vicente Lopez",
+    "website": "https://lumiton.ar/agenda-presencial/",
+    "price": "Gratis"
+  },
+  "CCM Haroldo Conti": {
+    "address": "https://www.google.com/maps/search/CCM+Haroldo+Conti/",
+    "city": "CABA",
+    "website": "http://conti.derhuman.jus.gov.ar/areas/agenda/actividades-v2.php?d=cine",
+    "price": "Gratis"
+  },
+  "Manzana de las Luces": {
+    "address": "https://maps.app.goo.gl/BBpRv8LQ6d3pwfD86",
+    "city": "CABA",
+    "website": "https://manzanadelasluces.cultura.gob.ar/actividades/",
+    "price": "Gratis"
+  },
+  "Microcine de la Universidad del Cine": {
+    "address": "https://maps.app.goo.gl/pNebq8C9X9vLuVgBA",
+    "city": "CABA",
+    "website": "https://ucine.edu.ar/",
+    "price": "Gratis"
+  },
+  "CC 25 de Mayo": {
+    "address": "https://maps.app.goo.gl/3LBzoHGCAGPXwJPS8",
+    "city": "CABA",
+    "website": "https://cc25.org/cine/",
+    "price": "Gratis"
   }
 }
