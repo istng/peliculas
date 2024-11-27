@@ -137,11 +137,11 @@
       "price": "Gratis",
       "website": "https://lumiton.ar/evento/aniceto-9/ ",
       "address": "https://maps.app.goo.gl/2g5WWY7a94ZNarY46",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 20 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Música/Teatro",
       "director": "Leonardo Favio",
       "poster": "https://image.tmdb.org/t/p/w500/1OmFxHzfekJy2ezH1yxHsgDpYP7.jpg",
       "imdbid": "tt0496225",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 19 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Argentina",
       "trailer": "",
       "year": "2008",
       "runtime_mins": 82
@@ -260,9 +260,6 @@
       "title": "Atentado En Madrid",
       "showtimes": [
         "2024-11-28T22:00:00",
-        "2024-11-29T22:00:00",
-        "2024-11-30T22:00:00",
-        "2024-12-01T22:00:00",
         "2024-12-02T22:00:00",
         "2024-12-04T22:00:00"
       ],
@@ -309,32 +306,17 @@
         "vie": {
           "date": 29,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-29T22:00:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 30,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T22:00:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-01T22:00:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         }
       },
       {
@@ -524,11 +506,11 @@
       "price": "Gratis",
       "website": "http://www.centroculturalrecoleta.org/agenda",
       "address": "https://www.google.com/maps/search/Centro+Cultural+Recoleta/",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 29 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Thriller, Misterio, Crimen",
       "director": "Brian De Palma",
       "poster": "https://image.tmdb.org/t/p/w500/weMW1wLzeagP3tw6BfmYf1iL7dz.jpg",
       "imdbid": "tt0082085",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 27 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Estados Unidos De América",
       "trailer": "https://www.youtube.com/watch?v=aTyVqcoXsGs",
       "year": "1981",
       "runtime_mins": 108
@@ -589,13 +571,13 @@
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
       "genre": "",
-      "director": "Gina Telaroli",
-      "poster": "https://image.tmdb.org/t/p/w500/pGZlx7EQNYeeye068xmrUqC4vmp.jpg",
+      "director": "",
+      "poster": "",
       "imdbid": "",
-      "nationality": "Estados Unidos De América",
+      "nationality": "",
       "trailer": "",
-      "year": "2015",
-      "runtime_mins": 16
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -651,14 +633,19 @@
         "2024-11-30T12:15:00",
         "2024-12-01T12:15:00",
         "2024-12-02T12:15:00",
-        "2024-12-03T12:15:00",
         "2024-12-04T12:15:00",
         "2024-11-28T17:45:00",
         "2024-11-29T17:45:00",
         "2024-11-30T17:45:00",
         "2024-12-01T17:45:00",
         "2024-12-02T17:45:00",
-        "2024-12-04T17:45:00"
+        "2024-12-04T17:45:00",
+        "2024-11-21T12:00:00",
+        "2024-11-21T16:00:00",
+        "2024-11-21T20:10:00",
+        "2024-11-27T12:00:00",
+        "2024-11-27T16:00:00",
+        "2024-11-27T20:10:00"
       ],
       "theater": "Gaumont",
       "price": "2200 ARS / 1100 ARS",
@@ -676,6 +663,56 @@
     "calendars": [
       {
         "lun": {
+          "date": 18,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 19,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 20,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 21,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-21T12:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-21T16:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-21T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 22,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 23,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 24,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 25,
           "month": 11,
           "showtimes": []
@@ -688,7 +725,20 @@
         "mie": {
           "date": 27,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-27T12:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-27T16:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-27T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "jue": {
           "date": 28,
@@ -765,12 +815,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T12:15:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -883,11 +928,11 @@
       "price": "1000",
       "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
       "address": "https://maps.app.goo.gl/enCXKBafWtb8BCKE7",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 42 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Documental",
       "director": "Francisco Bouzas",
       "poster": "https://image.tmdb.org/t/p/w500/auLHYLGEumjQNx8m51q6eStBobX.jpg",
       "imdbid": "",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 40 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Argentina",
       "trailer": "",
       "year": "2024",
       "runtime_mins": 95
@@ -1011,14 +1056,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Romance, Drama, Comedia",
-      "director": "Éric Rohmer",
-      "poster": "https://image.tmdb.org/t/p/w500/l3syqgYqqfqPVheINI5jOBN5hXL.jpg",
-      "imdbid": "tt0115940",
-      "nationality": "Francia",
-      "trailer": "https://www.youtube.com/watch?v=rsBodd_UqJE",
-      "year": "1996",
-      "runtime_mins": 114
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -1075,11 +1120,11 @@
       "price": "Gratis",
       "website": "http://conti.derhuman.jus.gov.ar/2024/11/foco-rosa",
       "address": "https://www.google.com/maps/search/CCM+Haroldo+Conti/",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 27 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Drama - Crimen",
       "director": "Rosa Von Praunheim",
       "poster": "https://image.tmdb.org/t/p/w500/estxdEzTiwiPrposkBOaGpYa5qO.jpg",
       "imdbid": "tt9514116",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 25 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Alemania",
       "trailer": "",
       "year": "2019",
       "runtime_mins": 89
@@ -1203,11 +1248,11 @@
       "price": "Gratis",
       "website": "https://lumiton.ar/agenda-presencial/ ",
       "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 14 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Drama",
       "director": "Christophe Honoré",
       "poster": "https://image.tmdb.org/t/p/w500/qHRlWadU9QFZNP5TZcyEJVwYP2B.jpg",
       "imdbid": "tt17009856",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 13 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Francia",
       "trailer": "https://www.youtube.com/watch?v=3iCIxtmpdug",
       "year": "2022",
       "runtime_mins": 123
@@ -1326,25 +1371,22 @@
       "title": "Dormir Con Los Ojos Abiertos",
       "showtimes": [
         "2024-11-28T15:40:00",
-        "2024-11-29T15:40:00",
-        "2024-11-30T15:40:00",
-        "2024-12-01T15:40:00",
-        "2024-12-02T15:40:00",
-        "2024-12-03T15:40:00",
-        "2024-12-04T15:40:00",
         "2024-11-28T17:30:00",
-        "2024-11-29T17:30:00",
-        "2024-11-30T17:30:00",
-        "2024-12-01T17:30:00",
-        "2024-12-02T17:30:00",
-        "2024-12-03T17:30:00",
-        "2024-12-04T17:30:00",
         "2024-11-28T21:30:00",
+        "2024-11-29T15:40:00",
+        "2024-11-29T17:30:00",
         "2024-11-29T21:30:00",
+        "2024-11-30T15:40:00",
+        "2024-11-30T17:30:00",
         "2024-11-30T21:30:00",
+        "2024-12-01T15:40:00",
+        "2024-12-01T17:30:00",
         "2024-12-01T21:30:00",
+        "2024-12-02T15:40:00",
+        "2024-12-02T17:30:00",
         "2024-12-02T21:30:00",
-        "2024-12-03T21:30:00",
+        "2024-12-04T15:40:00",
+        "2024-12-04T17:30:00",
         "2024-12-04T21:30:00"
       ],
       "theater": "Gaumont",
@@ -1472,20 +1514,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T15:40:00",
-              "theater": "Gaumont"
-            },
-            {
-              "showtime": "2024-12-03T17:30:00",
-              "theater": "Gaumont"
-            },
-            {
-              "showtime": "2024-12-03T21:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -1532,20 +1561,21 @@
     "details": {
       "title": "El Angel Exterminador",
       "showtimes": [
-        "2024-11-27T21:00:00"
+        "2024-11-27T21:00:00",
+        "2024-12-01T18:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Comedia, Drama, Fantasía",
-      "director": "Luis Buñuel",
-      "poster": "https://image.tmdb.org/t/p/w500/qqZXHvBFxUpo8Pfbyvgh4SYMiWm.jpg",
-      "imdbid": "tt0056732",
-      "nationality": "México",
-      "trailer": "https://www.youtube.com/watch?v=ysYG7qaz29c",
-      "year": "1962",
-      "runtime_mins": 93
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -1587,71 +1617,12 @@
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "El Dia Que Me Quieras": {
-    "details": {
-      "title": "El Dia Que Me Quieras",
-      "showtimes": [
-        "2024-11-26T21:00:00"
-      ],
-      "theater": "Leopoldo Lugones",
-      "price": "4000 ARS / 2000 ARS",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Música",
-      "director": "Enrique Cahen Salaberry",
-      "poster": "https://image.tmdb.org/t/p/w500/t1ayqjSdKjSUSgRTu59L12CdWni.jpg",
-      "imdbid": "",
-      "nationality": "Argentina",
-      "trailer": "",
-      "year": "1969",
-      "runtime_mins": 93
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
           "showtimes": [
             {
-              "showtime": "2024-11-26T21:00:00",
+              "showtime": "2024-12-01T18:00:00",
               "theater": "Leopoldo Lugones"
             }
           ]
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
         }
       }
     ]
@@ -1720,70 +1691,6 @@
       }
     ]
   },
-  "El Documental Del 10": {
-    "details": {
-      "title": "El Documental Del 10",
-      "showtimes": [
-        "2024-11-25T20:00:00"
-      ],
-      "theater": "CC 25 de Mayo",
-      "price": "Gratis",
-      "website": "https://cc25.org/25-11-el-documental-del-10/",
-      "address": "https://maps.app.goo.gl/3LBzoHGCAGPXwJPS8",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 36 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
-      "director": "Lucas Costa",
-      "poster": "https://image.tmdb.org/t/p/w500/mJX9Oj8fT4upNj9NWQw60HzAdl2.jpg",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": "2024",
-      "runtime_mins": null
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-25T20:00:00",
-              "theater": "CC 25 de Mayo"
-            }
-          ]
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "El Dragón": {
     "details": {
       "title": "El Dragón",
@@ -1793,7 +1700,6 @@
         "2024-11-30T19:00:00",
         "2024-12-01T19:00:00",
         "2024-12-02T19:00:00",
-        "2024-12-03T19:00:00",
         "2024-12-04T19:00:00"
       ],
       "theater": "Gaumont",
@@ -1881,12 +1787,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T19:00:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -1925,10 +1826,10 @@
     "details": {
       "title": "El Escuerzo",
       "showtimes": [
+        "2024-11-07T19:00:00",
         "2024-11-14T19:00:00",
         "2024-11-21T19:00:00",
-        "2024-11-28T19:00:00",
-        "2024-11-07T19:00:00"
+        "2024-11-28T19:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -2124,14 +2025,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Drama",
-      "director": "Luchino Visconti",
-      "poster": "https://image.tmdb.org/t/p/w500/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
-      "imdbid": "tt0057091",
-      "nationality": "Francia, Italia",
-      "trailer": "https://www.youtube.com/watch?v=06f7f24lpUI",
-      "year": "1963",
-      "runtime_mins": 186
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -2188,14 +2089,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Documental",
-      "director": "Richard R. Rimmel",
-      "poster": "https://image.tmdb.org/t/p/w500/aYkrpWvhI7ZjGHr4DibmDgN5dev.jpg",
-      "imdbid": "tt0168253",
-      "nationality": "Alemania",
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
       "trailer": "",
-      "year": "1970",
-      "runtime_mins": 86
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -2246,20 +2147,21 @@
     "details": {
       "title": "El Hombre Que Cayo A La Tierra",
       "showtimes": [
-        "2024-12-05T14:30:00"
+        "2024-12-05T14:30:00",
+        "2024-12-05T20:30:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Ciencia Ficción, Drama",
-      "director": "Nicolas Roeg",
-      "poster": "https://image.tmdb.org/t/p/w500/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
-      "imdbid": "tt0074851",
-      "nationality": "Reino Unido",
-      "trailer": "https://www.youtube.com/watch?v=jyEV4Y2NnxM",
-      "year": "1976",
-      "runtime_mins": 139
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -2284,6 +2186,10 @@
           "showtimes": [
             {
               "showtime": "2024-12-05T14:30:00",
+              "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-05T20:30:00",
               "theater": "Leopoldo Lugones"
             }
           ]
@@ -2316,14 +2222,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Documental",
-      "director": "Rudolph Herzog",
-      "poster": "https://image.tmdb.org/t/p/w500/xvDmGfnTyxP2h2DWUcsEBDdf1Yd.jpg",
-      "imdbid": "tt14456290",
-      "nationality": "Alemania",
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
       "trailer": "",
-      "year": "2021",
-      "runtime_mins": 52
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -2556,18 +2462,16 @@
       "title": "El Nuevo Novio De Lucía",
       "showtimes": [
         "2024-11-28T12:00:00",
-        "2024-11-29T12:00:00",
-        "2024-11-30T12:00:00",
-        "2024-12-01T12:00:00",
-        "2024-12-02T12:00:00",
-        "2024-12-03T12:00:00",
-        "2024-12-04T12:00:00",
         "2024-11-28T20:30:00",
+        "2024-11-29T12:00:00",
         "2024-11-29T20:30:00",
+        "2024-11-30T12:00:00",
         "2024-11-30T20:30:00",
+        "2024-12-01T12:00:00",
         "2024-12-01T20:30:00",
+        "2024-12-02T12:00:00",
         "2024-12-02T20:30:00",
-        "2024-12-03T20:30:00",
+        "2024-12-04T12:00:00",
         "2024-12-04T20:30:00"
       ],
       "theater": "Gaumont",
@@ -2675,16 +2579,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T12:00:00",
-              "theater": "Gaumont"
-            },
-            {
-              "showtime": "2024-12-03T20:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -2733,11 +2628,11 @@
       "price": "Gratis",
       "website": "https://lumiton.ar/agenda-presencial/ ",
       "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 07 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Animación, Familia",
       "director": "Amandine Fredon Y Benjamin Massaoubre",
       "poster": "https://image.tmdb.org/t/p/w500/yTsaoXtBndypAQJj5C16d3Zmfxf.jpg",
       "imdbid": "tt10290244",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 05 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Canadá, Francia, Luxemburgo",
       "trailer": "https://www.youtube.com/watch?v=jTnqaOsozxw",
       "year": "2022",
       "runtime_mins": 86
@@ -2797,11 +2692,11 @@
       "price": "1000",
       "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
       "address": "https://maps.app.goo.gl/enCXKBafWtb8BCKE7",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 44 Minutes 46 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Drama",
       "director": "Leopoldo Torre Nilsson",
       "poster": "https://image.tmdb.org/t/p/w500/nYjnqol0XEkJh20m75YJCKBYdwP.jpg",
       "imdbid": "tt0075064",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 44 Minutes 44 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Argentina",
       "trailer": "",
       "year": "1975",
       "runtime_mins": 98
@@ -2856,25 +2751,22 @@
       "title": "El Proceso",
       "showtimes": [
         "2024-11-28T12:45:00",
-        "2024-11-29T12:45:00",
-        "2024-11-30T12:45:00",
-        "2024-12-01T12:45:00",
-        "2024-12-02T12:45:00",
-        "2024-12-03T12:45:00",
-        "2024-12-04T12:45:00",
         "2024-11-28T14:15:00",
-        "2024-11-29T14:15:00",
-        "2024-11-30T14:15:00",
-        "2024-12-01T14:15:00",
-        "2024-12-02T14:15:00",
-        "2024-12-03T14:15:00",
-        "2024-12-04T14:15:00",
         "2024-11-28T19:45:00",
+        "2024-11-29T12:45:00",
+        "2024-11-29T14:15:00",
         "2024-11-29T19:45:00",
+        "2024-11-30T12:45:00",
+        "2024-11-30T14:15:00",
         "2024-11-30T19:45:00",
+        "2024-12-01T12:45:00",
+        "2024-12-01T14:15:00",
         "2024-12-01T19:45:00",
+        "2024-12-02T12:45:00",
+        "2024-12-02T14:15:00",
         "2024-12-02T19:45:00",
-        "2024-12-03T19:45:00",
+        "2024-12-04T12:45:00",
+        "2024-12-04T14:15:00",
         "2024-12-04T19:45:00"
       ],
       "theater": "Gaumont",
@@ -3002,20 +2894,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T12:45:00",
-              "theater": "Gaumont"
-            },
-            {
-              "showtime": "2024-12-03T14:15:00",
-              "theater": "Gaumont"
-            },
-            {
-              "showtime": "2024-12-03T19:45:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -3062,20 +2941,21 @@
     "details": {
       "title": "El Ring",
       "showtimes": [
-        "2024-12-05T18:00:00"
+        "2024-12-05T18:00:00",
+        "2024-12-17T15:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Drama, Romance, Terror",
-      "director": "William Dieterle",
-      "poster": "https://image.tmdb.org/t/p/w500/m6fsyHeqSQs4tktk9q3awgo7IzF.jpg",
-      "imdbid": "tt0031455",
+      "genre": "Fantástico, Sobrenatural.",
+      "director": "Hideo Nakata",
+      "poster": "https://image.tmdb.org/t/p/w500/bHbz7z2pecTawhkqLpuC2m0qywe.jpg",
+      "imdbid": "tt0377109",
       "nationality": "Estados Unidos De América",
-      "trailer": "https://www.youtube.com/watch?v=jfqywxAano4",
-      "year": "1939",
-      "runtime_mins": 117
+      "trailer": "https://www.youtube.com/watch?v=apyfeNwsTu4",
+      "year": 2024,
+      "runtime_mins": 110
     },
     "calendars": [
       {
@@ -3116,6 +2996,48 @@
         },
         "dom": {
           "date": 8,
+          "month": 12,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-17T15:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
           "month": 12,
           "showtimes": []
         }
@@ -3260,11 +3182,11 @@
       "price": "Gratis",
       "website": "https://lumiton.ar/agenda-presencial/ ",
       "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 10 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Documental",
       "director": "Nicolas Philibert",
       "poster": "https://image.tmdb.org/t/p/w500/g4j8NiY6JZ6zHdWktCbPHaCG1HJ.jpg",
       "imdbid": "tt26448811",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 08 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Francia, Japón",
       "trailer": "https://www.youtube.com/watch?v=i1FB4AWer5c",
       "year": "2023",
       "runtime_mins": 109
@@ -3319,10 +3241,10 @@
       "title": "En La Playa Sola De Noche",
       "showtimes": [
         "2024-11-10T18:00:00",
+        "2024-11-17T18:00:00",
         "2024-11-24T18:00:00",
         "2024-11-30T19:00:00",
-        "2024-11-03T18:00:00",
-        "2024-11-17T18:00:00"
+        "2024-11-03T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -3561,14 +3483,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Documental",
-      "director": "Alexandre De Bellefeuille",
-      "poster": "https://image.tmdb.org/t/p/w500/timHq1h2CTTUaWyDFIsMG6xNnDz.jpg",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": null,
-      "runtime_mins": 11
+      "genre": "Drama, Romance, Misterio",
+      "director": "Charlotte Le Bon",
+      "poster": "https://image.tmdb.org/t/p/w500/cEqBxAdTroLJqrLHCQQV4mkOFld.jpg",
+      "imdbid": "tt11448830",
+      "nationality": "Canadá, Francia, Ee.Uu.",
+      "trailer": "https://www.youtube.com/watch?v=GAN4m45RzgI",
+      "year": 2024,
+      "runtime_mins": 100
     },
     "calendars": [
       {
@@ -3661,20 +3583,21 @@
     "details": {
       "title": "Felices Juntos",
       "showtimes": [
-        "2024-12-01T15:00:00"
+        "2024-12-01T15:00:00",
+        "2024-12-01T21:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Comedia, Romance",
-      "director": "Mel Damski",
-      "poster": "https://image.tmdb.org/t/p/w500/3ekqpIww56hYDSsVFU7GcNfoBGv.jpg",
-      "imdbid": "tt0097478",
-      "nationality": "Estados Unidos De América",
-      "trailer": "https://www.youtube.com/watch?v=9s_CGXv2F0I",
-      "year": "1989",
-      "runtime_mins": 102
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -3715,8 +3638,268 @@
             {
               "showtime": "2024-12-01T15:00:00",
               "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-01T21:00:00",
+              "theater": "Leopoldo Lugones"
             }
           ]
+        }
+      }
+    ]
+  },
+  "Festival De Cine En Super8 / Foco Daniela Cugliandolo (Cortos)": {
+    "details": {
+      "title": "Festival De Cine En Super8 / Foco Daniela Cugliandolo (Cortos)",
+      "showtimes": [
+        "2024-11-28T20:00:00"
+      ],
+      "theater": "Microcine de la Universidad del Cine",
+      "price": "Gratis",
+      "website": "https://ucine.edu.ar/actividades/primer-festival-super-8-en-la-fuc  ",
+      "address": "https://maps.app.goo.gl/pNebq8C9X9vLuVgBA",
+      "genre": "",
+      "director": "Daniela Cugliandolo",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 25,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 26,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 27,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 28,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-28T20:00:00",
+              "theater": "Microcine de la Universidad del Cine"
+            }
+          ]
+        },
+        "vie": {
+          "date": 29,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 30,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 1,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Festival De Cine En Super8 / Foco Ernesto Baca (Cortos)": {
+    "details": {
+      "title": "Festival De Cine En Super8 / Foco Ernesto Baca (Cortos)",
+      "showtimes": [
+        "2024-11-27T19:00:00"
+      ],
+      "theater": "Microcine de la Universidad del Cine",
+      "price": "Gratis",
+      "website": "https://ucine.edu.ar/actividades/primer-festival-super-8-en-la-fuc  ",
+      "address": "https://maps.app.goo.gl/pNebq8C9X9vLuVgBA",
+      "genre": "",
+      "director": "Ernesto Baca",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 25,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 26,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 27,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-27T19:00:00",
+              "theater": "Microcine de la Universidad del Cine"
+            }
+          ]
+        },
+        "jue": {
+          "date": 28,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 29,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 30,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 1,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Festival De Cine En Super8 / Homenaje A Narcisa Hirsch (Cortos)": {
+    "details": {
+      "title": "Festival De Cine En Super8 / Homenaje A Narcisa Hirsch (Cortos)",
+      "showtimes": [
+        "2024-11-26T19:00:00"
+      ],
+      "theater": "Microcine de la Universidad del Cine",
+      "price": "Gratis",
+      "website": "https://ucine.edu.ar/actividades/primer-festival-super-8-en-la-fuc  ",
+      "address": "https://maps.app.goo.gl/pNebq8C9X9vLuVgBA",
+      "genre": "",
+      "director": "Narcisa Hirsch",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 25,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 26,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-26T19:00:00",
+              "theater": "Microcine de la Universidad del Cine"
+            }
+          ]
+        },
+        "mie": {
+          "date": 27,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 28,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 29,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 30,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 1,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Festival De Cine En Super8 / Performance De Cine Expandido": {
+    "details": {
+      "title": "Festival De Cine En Super8 / Performance De Cine Expandido",
+      "showtimes": [
+        "2024-11-29T20:00:00"
+      ],
+      "theater": "Microcine de la Universidad del Cine",
+      "price": "Gratis",
+      "website": "https://ucine.edu.ar/actividades/primer-festival-super-8-en-la-fuc  ",
+      "address": "https://maps.app.goo.gl/pNebq8C9X9vLuVgBA",
+      "genre": "",
+      "director": "Rafael Strangloscópico Y Claudia Cárdenas",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 25,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 26,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 27,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 28,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 29,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-29T20:00:00",
+              "theater": "Microcine de la Universidad del Cine"
+            }
+          ]
+        },
+        "sab": {
+          "date": 30,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 1,
+          "month": 12,
+          "showtimes": []
         }
       }
     ]
@@ -3731,14 +3914,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Terror",
-      "director": "Omar Jacobo",
-      "poster": "https://image.tmdb.org/t/p/w500/asqUcchGXjDT5N2jd4xqH2EbYN3.jpg",
-      "imdbid": "tt12250992",
-      "nationality": "México",
+      "genre": "Comedia",
+      "director": "",
+      "poster": "https://image.tmdb.org/t/p/w500/r8LBYQGtI72Z8r5E72fTddZawGD.jpg",
+      "imdbid": "",
+      "nationality": "Portugal",
       "trailer": "",
-      "year": "2020",
-      "runtime_mins": 71
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -3795,11 +3978,11 @@
       "price": "Gratis",
       "website": "https://lumiton.ar/evento/gatica-el-mono-7/ ",
       "address": "https://maps.app.goo.gl/2g5WWY7a94ZNarY46",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 51 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Drama",
       "director": "Leonardo Favio",
       "poster": "https://image.tmdb.org/t/p/w500/usfkvVP1Sg8V2tvLtFmz40kKngv.jpg",
       "imdbid": "tt0106989",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 50 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Argentina",
       "trailer": "",
       "year": "1993",
       "runtime_mins": 136
@@ -3923,11 +4106,11 @@
       "price": "6000/3500",
       "website": "https://cineartecacodelphia.com.ar ",
       "address": "https://maps.app.goo.gl/P2PvhrNf9WZ67qqW6",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 23 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Comedia, Homosexualidad.",
       "director": "Scott Beck Y Bryan Woods",
       "poster": "https://image.tmdb.org/t/p/w500/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg",
       "imdbid": "tt28015403",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 21 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Estados Unidos De América",
       "trailer": "https://www.youtube.com/watch?v=jpWUOxRozZg",
       "year": "2024",
       "runtime_mins": 111
@@ -3982,11 +4165,6 @@
       "title": "Historia De Dos Guerreros",
       "showtimes": [
         "2024-11-21T13:15:00",
-        "2024-11-22T13:15:00",
-        "2024-11-23T13:15:00",
-        "2024-11-24T13:15:00",
-        "2024-11-25T13:15:00",
-        "2024-11-26T13:15:00",
         "2024-11-27T13:15:00"
       ],
       "theater": "Gaumont",
@@ -4032,54 +4210,29 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-22T13:15:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-23T13:15:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T13:15:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-25T13:15:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-26T13:15:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 27,
@@ -4119,10 +4272,10 @@
       "title": "Introducción",
       "showtimes": [
         "2024-11-10T18:00:00",
+        "2024-11-17T18:00:00",
         "2024-11-24T18:00:00",
         "2024-11-30T19:00:00",
-        "2024-11-03T18:00:00",
-        "2024-11-17T18:00:00"
+        "2024-11-03T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -4424,14 +4577,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 48 Minutes 05 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
-      "director": "Umberto Lenzi",
-      "poster": "https://image.tmdb.org/t/p/w500/gtwxQJvHPfoB0IaRHJjfSa5KB4F.jpg",
-      "imdbid": "tt0093090",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 48 Minutes 03 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
-      "trailer": "https://www.youtube.com/watch?v=bYxHXN7SWUQ",
-      "year": "1988",
-      "runtime_mins": 95
+      "genre": "Horror, Drama",
+      "director": "Roger Corman",
+      "poster": "https://image.tmdb.org/t/p/w500/jEzZOrGSWpl0jKOIXoY3OnEabLQ.jpg",
+      "imdbid": "tt0053925",
+      "nationality": "Estados Unidos De América",
+      "trailer": "https://www.youtube.com/watch?v=f0JK8RYmWt8",
+      "year": 2024,
+      "runtime_mins": 79
     },
     "calendars": [
       {
@@ -4488,14 +4641,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Animación, Aventura, Familia, Fantasía",
-      "director": "Lorenzo Mattotti",
-      "poster": "https://image.tmdb.org/t/p/w500/tmSLN2bNCQ8fEex3rEw7GobJP3Z.jpg",
-      "imdbid": "tt6284064",
-      "nationality": "Francia, Italia",
-      "trailer": "https://www.youtube.com/watch?v=VDlqfHCwjyQ",
-      "year": "2019",
-      "runtime_mins": 82
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -4552,11 +4705,11 @@
       "price": "6000/3500",
       "website": "https://cineartecacodelphia.com.ar ",
       "address": "https://maps.app.goo.gl/P2PvhrNf9WZ67qqW6",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 32 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Drama, Comedia",
       "director": "Pedro Almodovar",
       "poster": "https://image.tmdb.org/t/p/w500/786Uu8eHfctp2TkII7ga1AnTBSs.jpg",
       "imdbid": "tt29439114",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 30 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "España",
       "trailer": "https://www.youtube.com/watch?v=lcp__Vek4gQ",
       "year": "2024",
       "runtime_mins": 107
@@ -4670,6 +4823,242 @@
       }
     ]
   },
+  "La Mujer Que Escapó": {
+    "details": {
+      "title": "La Mujer Que Escapó",
+      "showtimes": [
+        "2024-11-10T18:00:00",
+        "2024-11-17T18:00:00",
+        "2024-11-24T18:00:00",
+        "2024-11-30T19:00:00",
+        "2024-11-03T18:00:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "Drama",
+      "director": "Hong Sang-Soo",
+      "poster": "https://image.tmdb.org/t/p/w500/uAxE3xIGDAlqQXGtOgLKaBADVHh.jpg",
+      "imdbid": "tt11697690",
+      "nationality": "Corea Del Sur",
+      "trailer": "https://www.youtube.com/watch?v=axnI9l2H6JU",
+      "year": 2020,
+      "runtime_mins": 77
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-17T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 18,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 19,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 20,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 21,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 22,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 23,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 24,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 25,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 26,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 27,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 28,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 29,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 30,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-30T19:00:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "dom": {
+          "date": 1,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "La Noche De Los Muertos Vivientes": {
     "details": {
       "title": "La Noche De Los Muertos Vivientes",
@@ -4680,14 +5069,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Horror, Comedia",
-      "director": "Bob Clark",
-      "poster": "https://image.tmdb.org/t/p/w500/bLWtAzj3zlqVBjv07v9KcGOLpiv.jpg",
-      "imdbid": "tt0068370",
-      "nationality": "Estados Unidos De América",
-      "trailer": "https://www.youtube.com/watch?v=iNmty9RxJIs",
-      "year": "1972",
-      "runtime_mins": 86
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -4734,6 +5123,242 @@
       }
     ]
   },
+  "La Novelista Y Su Película": {
+    "details": {
+      "title": "La Novelista Y Su Película",
+      "showtimes": [
+        "2024-11-10T18:00:00",
+        "2024-11-17T18:00:00",
+        "2024-11-24T18:00:00",
+        "2024-11-30T19:00:00",
+        "2024-11-03T18:00:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "Drama",
+      "director": "Hong Sang-Soo",
+      "poster": "https://image.tmdb.org/t/p/w500/k6hSPmhFyYJMQ2dhMoaJhKzSBsI.jpg",
+      "imdbid": "tt17146978",
+      "nationality": "Corea Del Sur",
+      "trailer": "https://www.youtube.com/watch?v=xQG4NRteazo",
+      "year": 2022,
+      "runtime_mins": 92
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 28,
+          "month": 10,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 29,
+          "month": 10,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 30,
+          "month": 10,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 31,
+          "month": 10,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 1,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 2,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 3,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-03T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 4,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 5,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 6,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 7,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 8,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 9,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 10,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-10T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-17T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 18,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 19,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 20,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 21,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 22,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 23,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 24,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 25,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 26,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 27,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 28,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 29,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 30,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-30T19:00:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "dom": {
+          "date": 1,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "La Petite Bande": {
     "details": {
       "title": "La Petite Bande",
@@ -4744,11 +5369,11 @@
       "price": "Gratis",
       "website": "https://lumiton.ar/agenda-presencial/ ",
       "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 38 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Comedia",
       "director": "Pierre Salvadori",
       "poster": "https://image.tmdb.org/t/p/w500/f6VSA69tHQkt8w5kbSK3PbeL13z.jpg",
       "imdbid": "tt12416794",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 37 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Francia",
       "trailer": "",
       "year": "2022",
       "runtime_mins": 100
@@ -4866,20 +5491,21 @@
     "details": {
       "title": "La Reconstruccion",
       "showtimes": [
-        "2024-12-10T21:00:00"
+        "2024-12-10T21:00:00",
+        "2024-12-11T18:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Drama, Comedia",
-      "director": "Lucian Pintilie",
-      "poster": "https://image.tmdb.org/t/p/w500/1Yfea4XRSQA8gMxkjdexThqo86o.jpg",
-      "imdbid": "tt0063493",
-      "nationality": "Rumanía",
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
       "trailer": "",
-      "year": "1968",
-      "runtime_mins": 100
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -4901,7 +5527,12 @@
         "mie": {
           "date": 11,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-11T18:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
         },
         "jue": {
           "date": 12,
@@ -4935,8 +5566,9 @@
         "2024-11-30T15:15:00",
         "2024-12-01T15:15:00",
         "2024-12-02T15:15:00",
-        "2024-12-03T15:15:00",
-        "2024-12-04T15:15:00"
+        "2024-12-04T15:15:00",
+        "2024-11-21T18:45:00",
+        "2024-11-27T18:45:00"
       ],
       "theater": "Gaumont",
       "price": "2200 ARS / 1100 ARS",
@@ -4954,6 +5586,48 @@
     "calendars": [
       {
         "lun": {
+          "date": 18,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 19,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 20,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 21,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-21T18:45:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 22,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 23,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 24,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 25,
           "month": 11,
           "showtimes": []
@@ -4966,7 +5640,12 @@
         "mie": {
           "date": 27,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-27T18:45:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "jue": {
           "date": 28,
@@ -5023,12 +5702,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T15:15:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -5074,12 +5748,12 @@
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
       "genre": "Comedia, Comedia Negra.",
-      "director": "Edgardo Dieleke, Daniel Casabe",
+      "director": "Daniel Casabe, Edgardo Dieleke",
       "poster": "https://image.tmdb.org/t/p/w500/tpF75oPTLf49k2Sb4HAB4395wFv.jpg",
       "imdbid": "tt26081688",
       "nationality": "Argentina",
       "trailer": "",
-      "year": "2024",
+      "year": 2024,
       "runtime_mins": 94
     },
     "calendars": [
@@ -5313,7 +5987,7 @@
       "imdbid": "tt2278871",
       "nationality": "Bélgica, Francia, España",
       "trailer": "https://www.youtube.com/watch?v=J_ekBcdPzIk",
-      "year": "2013",
+      "year": 2024,
       "runtime_mins": 180
     },
     "calendars": [
@@ -5371,11 +6045,11 @@
       "price": "Gratis",
       "website": "https://lumiton.ar/evento/la-vida-es-un-tango/ ",
       "address": "https://www.google.com/maps/search/Lumiton/",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 17 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Música, Romance, Comedia",
       "director": "Manuel Romero",
       "poster": "https://image.tmdb.org/t/p/w500/vW8UHnAS1c5MqzX65cTknLRNXbN.jpg",
       "imdbid": "tt0032099",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 15 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Argentina",
       "trailer": "",
       "year": "1939",
       "runtime_mins": 79
@@ -5429,20 +6103,21 @@
     "details": {
       "title": "Las Alas Del Deseo",
       "showtimes": [
-        "2024-12-06T14:30:00"
+        "2024-12-06T14:30:00",
+        "2024-12-06T20:30:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Drama, Fantasía, Romance",
-      "director": "Wim Wenders",
-      "poster": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "imdbid": "tt0093191",
-      "nationality": "Francia, Alemania",
-      "trailer": "https://www.youtube.com/watch?v=0iAzYofuItM",
-      "year": "1987",
-      "runtime_mins": 128
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -5472,6 +6147,10 @@
           "showtimes": [
             {
               "showtime": "2024-12-06T14:30:00",
+              "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-06T20:30:00",
               "theater": "Leopoldo Lugones"
             }
           ]
@@ -5563,14 +6242,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 48 Minutes 16 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
-      "director": "Lotte Reiniger",
-      "poster": "https://image.tmdb.org/t/p/w500/u17zDdZLqSefAKmo5BZ8obX2hzc.jpg",
-      "imdbid": "tt0015532",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 48 Minutes 15 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
-      "trailer": "https://www.youtube.com/watch?v=DkK6ELJeDx0",
-      "year": "1926",
-      "runtime_mins": 66
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -5685,10 +6364,10 @@
     "details": {
       "title": "Lo Que Queda",
       "showtimes": [
+        "2024-11-07T19:00:00",
         "2024-11-14T19:00:00",
         "2024-11-21T19:00:00",
-        "2024-11-28T19:00:00",
-        "2024-11-07T19:00:00"
+        "2024-11-28T19:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -5884,13 +6563,13 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 54 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Drama",
       "director": "Pilar Palomero",
       "poster": "https://image.tmdb.org/t/p/w500/gmDfHGgHxKlpNbdPGIS6QYNyFdb.jpg",
       "imdbid": "tt26923334",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 52 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "España",
       "trailer": "https://www.youtube.com/watch?v=j_kLWwAEInI",
-      "year": "2024",
+      "year": 2024,
       "runtime_mins": 101
     },
     "calendars": [
@@ -5943,11 +6622,12 @@
       "title": "Los Domingos Mueren Más Personas",
       "showtimes": [
         "2024-11-28T16:10:00",
-        "2024-11-29T16:10:00",
-        "2024-11-30T16:10:00",
-        "2024-12-01T16:10:00",
         "2024-12-02T16:10:00",
-        "2024-12-04T16:10:00"
+        "2024-12-04T16:10:00",
+        "2024-11-21T13:50:00",
+        "2024-11-21T22:30:00",
+        "2024-11-27T13:50:00",
+        "2024-11-27T22:30:00"
       ],
       "theater": "Gaumont",
       "price": "2200 ARS / 1100 ARS",
@@ -5965,6 +6645,52 @@
     "calendars": [
       {
         "lun": {
+          "date": 18,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 19,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 20,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 21,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-21T13:50:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-21T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 22,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 23,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 24,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 25,
           "month": 11,
           "showtimes": []
@@ -5977,7 +6703,16 @@
         "mie": {
           "date": 27,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-27T13:50:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-27T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "jue": {
           "date": 28,
@@ -5992,32 +6727,17 @@
         "vie": {
           "date": 29,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-29T16:10:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 30,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T16:10:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-01T16:10:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         }
       },
       {
@@ -6084,7 +6804,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
       "imdbid": "tt0058450",
       "nationality": "Francia, Alemania",
-      "trailer": "https://www.youtube.com/watch?v=U5KAmPDg8qA",
+      "trailer": "https://www.youtube.com/watch?v=7H-fl3njp5s",
       "year": "1964",
       "runtime_mins": 92
     },
@@ -6143,14 +6863,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Fantasía, Drama",
-      "director": "Akira Kurosawa",
-      "poster": "https://image.tmdb.org/t/p/w500/j0NQsYqnqvhTtBj7vhCa9iKT0NA.jpg",
-      "imdbid": "tt0100998",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 48 Minutes 20 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
-      "trailer": "https://www.youtube.com/watch?v=zFX_AMcPQkI",
-      "year": "1990",
-      "runtime_mins": 119
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -6207,11 +6927,11 @@
       "price": "6000/3500",
       "website": "https://cineartecacodelphia.com.ar/",
       "address": "https://maps.app.goo.gl/P2PvhrNf9WZ67qqW6",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 17 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Drama",
       "director": "Ingrid Pokropek",
       "poster": "https://image.tmdb.org/t/p/w500/dikG31aZPpKnIiToVP52vWO9ByL.jpg",
       "imdbid": "tt29427529",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 15 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Argentina-España",
       "trailer": "https://www.youtube.com/watch?v=FX7qLUkmQAY",
       "year": "2024",
       "runtime_mins": 101
@@ -6271,14 +6991,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Comedia, Drama, Romance",
-      "director": "Charlie Chaplin",
-      "poster": "https://image.tmdb.org/t/p/w500/ugmakEL5y294I5bXgiBqApuZpwc.jpg",
-      "imdbid": "tt0021749",
-      "nationality": "Estados Unidos De América",
-      "trailer": "https://www.youtube.com/watch?v=7vl7F8S4cpQ",
-      "year": "1931",
-      "runtime_mins": 87
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -6591,11 +7311,11 @@
       "price": "1000",
       "website": "https://buenosaires.gob.ar/cultura/museos/museodelcine ",
       "address": "https://maps.app.goo.gl/enCXKBafWtb8BCKE7",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 44 Minutes 58 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Documental",
       "director": "Pablo Torre",
       "poster": "https://image.tmdb.org/t/p/w500/goYWvNKuEPscBCe2MfUAGbxERdZ.jpg",
       "imdbid": "",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 44 Minutes 57 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Argentina",
       "trailer": "",
       "year": "2024",
       "runtime_mins": 84
@@ -6655,13 +7375,13 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 48 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Documental",
       "director": "Paco Plaza",
       "poster": "https://image.tmdb.org/t/p/w500/13vW8JUTgP6QdcwMELlZ6fmacub.jpg",
       "imdbid": "",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 46 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "España",
       "trailer": "",
-      "year": "2024",
+      "year": 2024,
       "runtime_mins": 95
     },
     "calendars": [
@@ -6714,10 +7434,10 @@
       "title": "Necesidades De Una Viajera",
       "showtimes": [
         "2024-11-10T18:00:00",
+        "2024-11-17T18:00:00",
         "2024-11-24T18:00:00",
         "2024-11-30T19:00:00",
-        "2024-11-03T18:00:00",
-        "2024-11-17T18:00:00"
+        "2024-11-03T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -6955,14 +7675,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 42 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
-      "director": "Marc Göbel",
-      "poster": "https://image.tmdb.org/t/p/w500/5CaTDrWHuGitvBlSViV255lEJTl.jpg",
-      "imdbid": "tt7850152",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 40 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
-      "trailer": "",
-      "year": "2018",
-      "runtime_mins": null
+      "genre": "Animación, Aventura, Fantasía, Familia, Comedia",
+      "director": "David Alaux",
+      "poster": "https://image.tmdb.org/t/p/w500/68HzyzxWHou2YyiueJZYnPZUbfd.jpg",
+      "imdbid": "tt22360682",
+      "nationality": "Francia",
+      "trailer": "https://www.youtube.com/watch?v=DdDxeqgquaY",
+      "year": 2024,
+      "runtime_mins": 95
     },
     "calendars": [
       {
@@ -7083,11 +7803,11 @@
       "price": "Gratis",
       "website": "https://lumiton.ar/agenda-presencial/ ",
       "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 57 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Comedia, Comedia Negra.",
       "director": "Albert Serra",
       "poster": "https://image.tmdb.org/t/p/w500/kc4SFgb4sHkdzbcRxKCT9Dk6vg9.jpg",
       "imdbid": "tt13702796",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 56 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Francia, Polinesia Francesa, Alemania, Portugal, España",
       "trailer": "https://www.youtube.com/watch?v=CMrPRG3pTwE",
       "year": "2022",
       "runtime_mins": 166
@@ -7269,20 +7989,21 @@
     "details": {
       "title": "Pat Garrett & Billy The Kid",
       "showtimes": [
-        "2024-12-04T21:00:00"
+        "2024-12-04T21:00:00",
+        "2024-12-06T17:30:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Documental",
-      "director": "Nick Redman",
+      "genre": "",
+      "director": "",
       "poster": "",
-      "imdbid": "tt4706650",
-      "nationality": "Estados Unidos De América",
+      "imdbid": "",
+      "nationality": "",
       "trailer": "",
-      "year": "2006",
-      "runtime_mins": 14
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -7314,7 +8035,12 @@
         "vie": {
           "date": 6,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-06T17:30:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
         },
         "sab": {
           "date": 7,
@@ -7339,14 +8065,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Animación, Familia, Fantasía",
-      "director": "Joann Sfar",
-      "poster": "https://image.tmdb.org/t/p/w500/mLd9FVJTwnPO3ERv82ea5IZo6Hl.jpg",
-      "imdbid": "tt7534136",
-      "nationality": "Belgica, Francia",
-      "trailer": "https://www.youtube.com/watch?v=vUf8tY6Unew",
-      "year": "2020",
-      "runtime_mins": 82
+      "genre": "Comedia, Animación, Familia, Fantasía",
+      "director": "Richard Claus, Karsten Kiilerich",
+      "poster": "https://image.tmdb.org/t/p/w500/i9z2rBO4i5MhbvpEIxXZUoXSYUo.jpg",
+      "imdbid": "tt4729560",
+      "nationality": "Países Bajos, Reino Unido, Alemania, Dinamarca",
+      "trailer": "https://www.youtube.com/watch?v=CB_-u2lMNxw",
+      "year": 2024,
+      "runtime_mins": 83
     },
     "calendars": [
       {
@@ -7403,11 +8129,11 @@
       "price": "Gratis",
       "website": "https://lumiton.ar/evento/peron-sinfonia-del-sentimiento-3/ ",
       "address": "https://maps.app.goo.gl/2g5WWY7a94ZNarY46",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 05 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Documental",
       "director": "Leonardo Favio",
       "poster": "https://image.tmdb.org/t/p/w500/su6P5d71nNf1H4DdWsiZzW8sdSf.jpg",
       "imdbid": "tt0247615",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 03 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Argentina",
       "trailer": "",
       "year": "1999",
       "runtime_mins": 340
@@ -7467,11 +8193,11 @@
       "price": "Gratis",
       "website": "https://criticadeartes.una.edu.ar/agenda/cineclub-que-se-puede-hacer-salvo-ver-peliculas_42639?utm_source=newsletter&utm_campaign=84209-Cineclub+¿Qué+se+puede+hacer%2C+salvo+ver+películas%3F+%7C+Ciclo+de+cine+de+terror&utm_medium=email ",
       "address": "https://www.google.com/maps/search/Universidad+Nacional+de+las+Artes/",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 46 Minutes 00 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Terror, Ciencia Ficción, Acción",
       "director": "Pablo Parés Y Hernán Sáez",
       "poster": "https://image.tmdb.org/t/p/w500/y1mIx9fNBVICd2QBRbYAWKGt7hV.jpg",
       "imdbid": "tt0210909",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 58 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Argentina",
       "trailer": "",
       "year": "2001",
       "runtime_mins": 101
@@ -7653,60 +8379,60 @@
     "details": {
       "title": "Repulsion",
       "showtimes": [
-        "2024-11-26T18:00:00"
+        "2024-12-10T18:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Comedia, Comedia Negra.",
-      "director": "Emil Křižka",
-      "poster": "https://image.tmdb.org/t/p/w500/lgMvfdjRJkeuGGJdx2Xfbi2U4ba.jpg",
-      "imdbid": "tt14188996",
-      "nationality": "República Checa",
-      "trailer": "https://www.youtube.com/watch?v=tuWSQO753g4",
-      "year": "2021",
-      "runtime_mins": 86
+      "genre": "Drama",
+      "director": "Yan-Hong Chen",
+      "poster": "https://image.tmdb.org/t/p/w500/4z7wpPpy8jzH19rWTPsMxo81hCq.jpg",
+      "imdbid": "",
+      "nationality": "Taiwán",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": 30
     },
     "calendars": [
       {
         "lun": {
-          "date": 25,
-          "month": 11,
+          "date": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 26,
-          "month": 11,
+          "date": 10,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-11-26T18:00:00",
+              "showtime": "2024-12-10T18:00:00",
               "theater": "Leopoldo Lugones"
             }
           ]
         },
         "mie": {
-          "date": 27,
-          "month": 11,
+          "date": 11,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 28,
-          "month": 11,
+          "date": 12,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
-          "date": 29,
-          "month": 11,
+          "date": 13,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
-          "date": 30,
-          "month": 11,
+          "date": 14,
+          "month": 12,
           "showtimes": []
         },
         "dom": {
-          "date": 1,
+          "date": 15,
           "month": 12,
           "showtimes": []
         }
@@ -7722,8 +8448,9 @@
         "2024-11-30T13:45:00",
         "2024-12-01T13:45:00",
         "2024-12-02T13:45:00",
-        "2024-12-03T13:45:00",
-        "2024-12-04T13:45:00"
+        "2024-12-04T13:45:00",
+        "2024-11-21T17:15:00",
+        "2024-11-27T17:15:00"
       ],
       "theater": "Gaumont",
       "price": "2200 ARS / 1100 ARS",
@@ -7741,6 +8468,48 @@
     "calendars": [
       {
         "lun": {
+          "date": 18,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 19,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 20,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 21,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-21T17:15:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 22,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 23,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 24,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 25,
           "month": 11,
           "showtimes": []
@@ -7753,7 +8522,12 @@
         "mie": {
           "date": 27,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-27T17:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "jue": {
           "date": 28,
@@ -7810,12 +8584,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T13:45:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -7855,11 +8624,6 @@
       "title": "Sara Facio: Haber Estado Ahí",
       "showtimes": [
         "2024-11-21T12:20:00",
-        "2024-11-22T12:20:00",
-        "2024-11-23T12:20:00",
-        "2024-11-24T12:20:00",
-        "2024-11-25T12:20:00",
-        "2024-11-26T12:20:00",
         "2024-11-27T12:20:00"
       ],
       "theater": "Gaumont",
@@ -7905,54 +8669,29 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-22T12:20:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-23T12:20:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T12:20:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-25T12:20:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-26T12:20:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 27,
@@ -7997,13 +8736,13 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 59 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Drama, Música",
       "director": "Isaki Lacuesta",
       "poster": "https://image.tmdb.org/t/p/w500/jn5bX0ArpPw9BYi0bvlO9GPdHD8.jpg",
       "imdbid": "tt27518776",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 47 Minutes 58 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Espana, Francia",
       "trailer": "https://www.youtube.com/watch?v=2GrCnVuIBhM",
-      "year": "2024",
+      "year": 2024,
       "runtime_mins": 109
     },
     "calendars": [
@@ -8060,8 +8799,11 @@
         "2024-11-30T17:00:00",
         "2024-12-01T17:00:00",
         "2024-12-02T17:00:00",
-        "2024-12-03T17:00:00",
-        "2024-12-04T17:00:00"
+        "2024-12-04T17:00:00",
+        "2024-11-21T15:20:00",
+        "2024-11-21T20:30:00",
+        "2024-11-27T15:20:00",
+        "2024-11-27T20:30:00"
       ],
       "theater": "Gaumont",
       "price": "2200 ARS / 1100 ARS",
@@ -8079,6 +8821,52 @@
     "calendars": [
       {
         "lun": {
+          "date": 18,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 19,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 20,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 21,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-21T15:20:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-21T20:30:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 22,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 23,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 24,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 25,
           "month": 11,
           "showtimes": []
@@ -8091,7 +8879,16 @@
         "mie": {
           "date": 27,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-27T15:20:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-27T20:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "jue": {
           "date": 28,
@@ -8148,12 +8945,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T17:00:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -8193,11 +8985,6 @@
       "title": "Sin Salida",
       "showtimes": [
         "2024-11-21T14:30:00",
-        "2024-11-22T14:30:00",
-        "2024-11-23T14:30:00",
-        "2024-11-24T14:30:00",
-        "2024-11-25T14:30:00",
-        "2024-11-26T14:30:00",
         "2024-11-27T14:30:00"
       ],
       "theater": "Gaumont",
@@ -8243,54 +9030,29 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-22T14:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-23T14:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T14:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-25T14:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-26T14:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 27,
@@ -8399,11 +9161,11 @@
       "price": "Gratis",
       "website": "http://www.centroculturalrecoleta.org/agenda",
       "address": "https://www.google.com/maps/search/Centro+Cultural+Recoleta/",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 54 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Animación, Comedia",
       "director": "Trey Parker",
       "poster": "https://image.tmdb.org/t/p/w500/eMmphiw6BnG5ptwPeXCdyxG8Jlf.jpg",
       "imdbid": "tt0158983",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 52 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Estados Unidos De América",
       "trailer": "https://www.youtube.com/watch?v=K6EiSoRlobg",
       "year": "1999",
       "runtime_mins": 81
@@ -8463,13 +9225,13 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 48 Minutes 11 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Drama, History.",
       "director": "Icíar Bollaín",
       "poster": "https://image.tmdb.org/t/p/w500/ax7yyYIfRQtKCPo39yibUJFsmAG.jpg",
       "imdbid": "tt30973261",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 48 Minutes 09 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "España",
       "trailer": "https://www.youtube.com/watch?v=btZynwc6SUo",
-      "year": "2024",
+      "year": 2024,
       "runtime_mins": 100
     },
     "calendars": [
@@ -8593,7 +9355,7 @@
       "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
       "genre": "Terror / Slasher",
       "director": "Damien Leone",
-      "poster": "https://image.tmdb.org/t/p/w500/chvYRyJI1fnBdf9Gt6RerJNEAav.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/l1175hgL5DoXnqeZQCcU3eZIdhX.jpg",
       "imdbid": "tt27911000",
       "nationality": "Estados Unidos De América",
       "trailer": "https://www.youtube.com/watch?v=0EDDtgWnSeY",
@@ -8719,11 +9481,11 @@
       "price": "6000/3500",
       "website": "https://cineartecacodelphia.com.ar ",
       "address": "https://maps.app.goo.gl/P2PvhrNf9WZ67qqW6",
-      "genre": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 11 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "genre": "Crimen, Drama, Thriller.",
       "director": "Felipe Wein",
-      "poster": "https://image.tmdb.org/t/p/w500/qkZGGkctpt7d6RiG5TWGRf3UfWe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5YOkEHvMRXqcGDfsvM8YyVO57qH.jpg",
       "imdbid": "tt31845993",
-      "nationality": "Mymemory Warning: You Used All Available Free Translations For Today. Next Available In  13 Hours 45 Minutes 09 Seconds Visit Https://Mymemory.Translated.Net/Doc/Usagelimits.Php To Translate More",
+      "nationality": "Argentina",
       "trailer": "https://www.youtube.com/watch?v=EKy8hQAmZvI",
       "year": "2024",
       "runtime_mins": 63
@@ -8842,11 +9604,14 @@
       "title": "Vera Y El Placer De Los Otros",
       "showtimes": [
         "2024-11-28T19:30:00",
-        "2024-11-29T19:30:00",
-        "2024-11-30T19:30:00",
-        "2024-12-01T19:30:00",
         "2024-12-02T19:30:00",
-        "2024-12-04T19:30:00"
+        "2024-12-04T19:30:00",
+        "2024-11-21T13:40:00",
+        "2024-11-21T17:45:00",
+        "2024-11-21T22:00:00",
+        "2024-11-27T13:40:00",
+        "2024-11-27T17:45:00",
+        "2024-11-27T22:00:00"
       ],
       "theater": "Gaumont",
       "price": "2200 ARS / 1100 ARS",
@@ -8864,6 +9629,56 @@
     "calendars": [
       {
         "lun": {
+          "date": 18,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 19,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 20,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 21,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-21T13:40:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-21T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-21T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
+        },
+        "vie": {
+          "date": 22,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 23,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 24,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 25,
           "month": 11,
           "showtimes": []
@@ -8876,7 +9691,20 @@
         "mie": {
           "date": 27,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-27T13:40:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-27T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-27T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "jue": {
           "date": 28,
@@ -8891,32 +9719,17 @@
         "vie": {
           "date": 29,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-29T19:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 30,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T19:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-01T19:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         }
       },
       {
@@ -8978,14 +9791,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Drama",
-      "director": "Carla Simón",
-      "poster": "https://image.tmdb.org/t/p/w500/krdSl7IpDb9c31CXrzA5yfP1oYM.jpg",
-      "imdbid": "tt5897636",
-      "nationality": "España",
-      "trailer": "https://www.youtube.com/watch?v=Bb1NMc-_KaU",
-      "year": "2017",
-      "runtime_mins": 96
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 2024,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -9037,9 +9850,6 @@
       "title": "Virgen Rosa",
       "showtimes": [
         "2024-11-21T16:30:00",
-        "2024-11-22T16:30:00",
-        "2024-11-23T16:30:00",
-        "2024-11-24T16:30:00",
         "2024-11-25T16:30:00",
         "2024-11-27T16:30:00"
       ],
@@ -9086,32 +9896,17 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-22T16:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-23T16:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T16:30:00",
-              "theater": "Gaumont"
-            }
-          ]
+          "showtimes": []
         }
       },
       {
