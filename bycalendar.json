@@ -260,6 +260,9 @@
       "title": "Atentado En Madrid",
       "showtimes": [
         "2024-11-28T22:00:00",
+        "2024-11-29T22:00:00",
+        "2024-11-30T22:00:00",
+        "2024-12-01T22:00:00",
         "2024-12-02T22:00:00",
         "2024-12-04T22:00:00"
       ],
@@ -306,17 +309,32 @@
         "vie": {
           "date": 29,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-29T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 30,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-30T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-01T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
@@ -571,13 +589,13 @@
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
       "genre": "",
-      "director": "",
-      "poster": "",
+      "director": "Gina Telaroli",
+      "poster": "https://image.tmdb.org/t/p/w500/pGZlx7EQNYeeye068xmrUqC4vmp.jpg",
       "imdbid": "",
-      "nationality": "",
+      "nationality": "Estados Unidos De América",
       "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "year": "2015",
+      "runtime_mins": 16
     },
     "calendars": [
       {
@@ -641,10 +659,25 @@
         "2024-12-02T17:45:00",
         "2024-12-04T17:45:00",
         "2024-11-21T12:00:00",
-        "2024-11-21T16:00:00",
-        "2024-11-21T20:10:00",
+        "2024-11-22T12:00:00",
+        "2024-11-23T12:00:00",
+        "2024-11-24T12:00:00",
+        "2024-11-25T12:00:00",
+        "2024-11-26T12:00:00",
         "2024-11-27T12:00:00",
+        "2024-11-21T16:00:00",
+        "2024-11-22T16:00:00",
+        "2024-11-23T16:00:00",
+        "2024-11-24T16:00:00",
+        "2024-11-25T16:00:00",
+        "2024-11-26T16:00:00",
         "2024-11-27T16:00:00",
+        "2024-11-21T20:10:00",
+        "2024-11-22T20:10:00",
+        "2024-11-23T20:10:00",
+        "2024-11-24T20:10:00",
+        "2024-11-25T20:10:00",
+        "2024-11-26T20:10:00",
         "2024-11-27T20:10:00"
       ],
       "theater": "Gaumont",
@@ -698,29 +731,94 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-22T12:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-22T16:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-22T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-23T12:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-23T16:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-23T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T12:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-24T16:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-24T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-25T12:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-25T16:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-25T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-26T12:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-26T16:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-26T20:10:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 27,
@@ -1056,14 +1154,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Romance, Drama, Comedia",
+      "director": "Éric Rohmer",
+      "poster": "https://image.tmdb.org/t/p/w500/l3syqgYqqfqPVheINI5jOBN5hXL.jpg",
+      "imdbid": "tt0115940",
+      "nationality": "Francia",
+      "trailer": "https://www.youtube.com/watch?v=rsBodd_UqJE",
+      "year": "1996",
+      "runtime_mins": 114
     },
     "calendars": [
       {
@@ -1371,22 +1469,25 @@
       "title": "Dormir Con Los Ojos Abiertos",
       "showtimes": [
         "2024-11-28T15:40:00",
-        "2024-11-28T17:30:00",
-        "2024-11-28T21:30:00",
         "2024-11-29T15:40:00",
-        "2024-11-29T17:30:00",
-        "2024-11-29T21:30:00",
         "2024-11-30T15:40:00",
-        "2024-11-30T17:30:00",
-        "2024-11-30T21:30:00",
         "2024-12-01T15:40:00",
-        "2024-12-01T17:30:00",
-        "2024-12-01T21:30:00",
         "2024-12-02T15:40:00",
-        "2024-12-02T17:30:00",
-        "2024-12-02T21:30:00",
+        "2024-12-03T15:40:00",
         "2024-12-04T15:40:00",
+        "2024-11-28T17:30:00",
+        "2024-11-29T17:30:00",
+        "2024-11-30T17:30:00",
+        "2024-12-01T17:30:00",
+        "2024-12-02T17:30:00",
+        "2024-12-03T17:30:00",
         "2024-12-04T17:30:00",
+        "2024-11-28T21:30:00",
+        "2024-11-29T21:30:00",
+        "2024-11-30T21:30:00",
+        "2024-12-01T21:30:00",
+        "2024-12-02T21:30:00",
+        "2024-12-03T21:30:00",
         "2024-12-04T21:30:00"
       ],
       "theater": "Gaumont",
@@ -1514,7 +1615,20 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-03T15:40:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-12-03T17:30:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-12-03T21:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 4,
@@ -1562,20 +1676,20 @@
       "title": "El Angel Exterminador",
       "showtimes": [
         "2024-11-27T21:00:00",
-        "2024-12-01T18:00:00"
+        "2024-12-01T21:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Comedia, Drama, Fantasía",
+      "director": "Luis Buñuel",
+      "poster": "https://image.tmdb.org/t/p/w500/qqZXHvBFxUpo8Pfbyvgh4SYMiWm.jpg",
+      "imdbid": "tt0056732",
+      "nationality": "México",
+      "trailer": "https://www.youtube.com/watch?v=ysYG7qaz29c",
+      "year": "1962",
+      "runtime_mins": 93
     },
     "calendars": [
       {
@@ -1619,8 +1733,72 @@
           "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-12-01T18:00:00",
+              "showtime": "2024-12-01T21:00:00",
               "theater": "Leopoldo Lugones"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "El Color De La Granada": {
+    "details": {
+      "title": "El Color De La Granada",
+      "showtimes": [
+        "2024-12-01T17:30:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "Serguéi Paradzhánov",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": 1969,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 25,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 26,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 27,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 28,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 29,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 30,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 1,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-01T17:30:00",
+              "theater": "CCK"
             }
           ]
         }
@@ -1700,6 +1878,7 @@
         "2024-11-30T19:00:00",
         "2024-12-01T19:00:00",
         "2024-12-02T19:00:00",
+        "2024-12-03T19:00:00",
         "2024-12-04T19:00:00"
       ],
       "theater": "Gaumont",
@@ -1787,7 +1966,12 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-03T19:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 4,
@@ -1826,10 +2010,8 @@
     "details": {
       "title": "El Escuerzo",
       "showtimes": [
-        "2024-11-07T19:00:00",
-        "2024-11-14T19:00:00",
         "2024-11-21T19:00:00",
-        "2024-11-28T19:00:00"
+        "2024-11-07T19:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -1841,7 +2023,7 @@
       "imdbid": "tt13658886",
       "nationality": "Argentina-España",
       "trailer": "https://www.youtube.com/watch?v=nKv8ao9fHLk",
-      "year": "2023",
+      "year": 2024,
       "runtime_mins": 91
     },
     "calendars": [
@@ -1889,48 +2071,6 @@
       },
       {
         "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-14T19:00:00",
-              "theater": "CCK"
-            }
-          ]
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
           "date": 18,
           "month": 11,
           "showtimes": []
@@ -1970,48 +2110,6 @@
           "month": 11,
           "showtimes": []
         }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-28T19:00:00",
-              "theater": "CCK"
-            }
-          ]
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
-        }
       }
     ]
   },
@@ -2025,14 +2123,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Drama",
+      "director": "Luchino Visconti",
+      "poster": "https://image.tmdb.org/t/p/w500/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+      "imdbid": "tt0057091",
+      "nationality": "Francia, Italia",
+      "trailer": "https://www.youtube.com/watch?v=06f7f24lpUI",
+      "year": "1963",
+      "runtime_mins": 186
     },
     "calendars": [
       {
@@ -2089,14 +2187,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
+      "genre": "Documental",
+      "director": "Richard R. Rimmel",
+      "poster": "https://image.tmdb.org/t/p/w500/aYkrpWvhI7ZjGHr4DibmDgN5dev.jpg",
+      "imdbid": "tt0168253",
+      "nationality": "Alemania",
       "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "year": "1970",
+      "runtime_mins": 86
     },
     "calendars": [
       {
@@ -2154,14 +2252,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Ciencia Ficción, Drama",
+      "director": "Nicolas Roeg",
+      "poster": "https://image.tmdb.org/t/p/w500/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
+      "imdbid": "tt0074851",
+      "nationality": "Reino Unido",
+      "trailer": "https://www.youtube.com/watch?v=jyEV4Y2NnxM",
+      "year": "1976",
+      "runtime_mins": 139
     },
     "calendars": [
       {
@@ -2222,14 +2320,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
+      "genre": "Documental",
+      "director": "Rudolph Herzog",
+      "poster": "https://image.tmdb.org/t/p/w500/xvDmGfnTyxP2h2DWUcsEBDdf1Yd.jpg",
+      "imdbid": "tt14456290",
+      "nationality": "Alemania",
       "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "year": "2021",
+      "runtime_mins": 52
     },
     "calendars": [
       {
@@ -2345,8 +2443,16 @@
       "title": "El Llanto",
       "showtimes": [
         "2024-11-28T14:00:00",
+        "2024-11-29T14:00:00",
+        "2024-11-30T14:00:00",
+        "2024-12-01T14:00:00",
+        "2024-12-02T14:00:00",
         "2024-12-04T14:00:00",
         "2024-11-28T22:30:00",
+        "2024-11-29T22:30:00",
+        "2024-11-30T22:30:00",
+        "2024-12-01T22:30:00",
+        "2024-12-02T22:30:00",
         "2024-12-04T22:30:00"
       ],
       "theater": "Gaumont",
@@ -2396,24 +2502,60 @@
         "vie": {
           "date": 29,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-29T14:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-29T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 30,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-30T14:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-30T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-01T14:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-12-01T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
         "lun": {
           "date": 2,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-02T14:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-12-02T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mar": {
           "date": 3,
@@ -2462,16 +2604,18 @@
       "title": "El Nuevo Novio De Lucía",
       "showtimes": [
         "2024-11-28T12:00:00",
-        "2024-11-28T20:30:00",
         "2024-11-29T12:00:00",
-        "2024-11-29T20:30:00",
         "2024-11-30T12:00:00",
-        "2024-11-30T20:30:00",
         "2024-12-01T12:00:00",
-        "2024-12-01T20:30:00",
         "2024-12-02T12:00:00",
-        "2024-12-02T20:30:00",
+        "2024-12-03T12:00:00",
         "2024-12-04T12:00:00",
+        "2024-11-28T20:30:00",
+        "2024-11-29T20:30:00",
+        "2024-11-30T20:30:00",
+        "2024-12-01T20:30:00",
+        "2024-12-02T20:30:00",
+        "2024-12-03T20:30:00",
         "2024-12-04T20:30:00"
       ],
       "theater": "Gaumont",
@@ -2579,7 +2723,16 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-03T12:00:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-12-03T20:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 4,
@@ -2751,22 +2904,25 @@
       "title": "El Proceso",
       "showtimes": [
         "2024-11-28T12:45:00",
-        "2024-11-28T14:15:00",
-        "2024-11-28T19:45:00",
         "2024-11-29T12:45:00",
-        "2024-11-29T14:15:00",
-        "2024-11-29T19:45:00",
         "2024-11-30T12:45:00",
-        "2024-11-30T14:15:00",
-        "2024-11-30T19:45:00",
         "2024-12-01T12:45:00",
-        "2024-12-01T14:15:00",
-        "2024-12-01T19:45:00",
         "2024-12-02T12:45:00",
-        "2024-12-02T14:15:00",
-        "2024-12-02T19:45:00",
+        "2024-12-03T12:45:00",
         "2024-12-04T12:45:00",
+        "2024-11-28T14:15:00",
+        "2024-11-29T14:15:00",
+        "2024-11-30T14:15:00",
+        "2024-12-01T14:15:00",
+        "2024-12-02T14:15:00",
+        "2024-12-03T14:15:00",
         "2024-12-04T14:15:00",
+        "2024-11-28T19:45:00",
+        "2024-11-29T19:45:00",
+        "2024-11-30T19:45:00",
+        "2024-12-01T19:45:00",
+        "2024-12-02T19:45:00",
+        "2024-12-03T19:45:00",
         "2024-12-04T19:45:00"
       ],
       "theater": "Gaumont",
@@ -2894,7 +3050,20 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-03T12:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-12-03T14:15:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-12-03T19:45:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 4,
@@ -2948,14 +3117,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Fantástico, Sobrenatural.",
-      "director": "Hideo Nakata",
-      "poster": "https://image.tmdb.org/t/p/w500/bHbz7z2pecTawhkqLpuC2m0qywe.jpg",
-      "imdbid": "tt0377109",
+      "genre": "Drama, Romance, Terror",
+      "director": "William Dieterle",
+      "poster": "https://image.tmdb.org/t/p/w500/m6fsyHeqSQs4tktk9q3awgo7IzF.jpg",
+      "imdbid": "tt0031455",
       "nationality": "Estados Unidos De América",
-      "trailer": "https://www.youtube.com/watch?v=apyfeNwsTu4",
-      "year": 2024,
-      "runtime_mins": 110
+      "trailer": "https://www.youtube.com/watch?v=jfqywxAano4",
+      "year": "1939",
+      "runtime_mins": 117
     },
     "calendars": [
       {
@@ -3240,11 +3409,7 @@
     "details": {
       "title": "En La Playa Sola De Noche",
       "showtimes": [
-        "2024-11-10T18:00:00",
-        "2024-11-17T18:00:00",
-        "2024-11-24T18:00:00",
-        "2024-11-30T19:00:00",
-        "2024-11-03T18:00:00"
+        "2024-11-30T19:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -3260,174 +3425,6 @@
       "runtime_mins": 101
     },
     "calendars": [
-      {
-        "lun": {
-          "date": 28,
-          "month": 10,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 29,
-          "month": 10,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 30,
-          "month": 10,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 31,
-          "month": 10,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 1,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 2,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 3,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-03T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-17T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
       {
         "lun": {
           "date": 25,
@@ -3483,14 +3480,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Drama, Romance, Misterio",
-      "director": "Charlotte Le Bon",
-      "poster": "https://image.tmdb.org/t/p/w500/cEqBxAdTroLJqrLHCQQV4mkOFld.jpg",
-      "imdbid": "tt11448830",
-      "nationality": "Canadá, Francia, Ee.Uu.",
-      "trailer": "https://www.youtube.com/watch?v=GAN4m45RzgI",
-      "year": 2024,
-      "runtime_mins": 100
+      "genre": "Documental",
+      "director": "Alexandre De Bellefeuille",
+      "poster": "https://image.tmdb.org/t/p/w500/timHq1h2CTTUaWyDFIsMG6xNnDz.jpg",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": 11
     },
     "calendars": [
       {
@@ -3584,20 +3581,20 @@
       "title": "Felices Juntos",
       "showtimes": [
         "2024-12-01T15:00:00",
-        "2024-12-01T21:00:00"
+        "2024-12-01T18:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Comedia, Romance",
+      "director": "Mel Damski",
+      "poster": "https://image.tmdb.org/t/p/w500/3ekqpIww56hYDSsVFU7GcNfoBGv.jpg",
+      "imdbid": "tt0097478",
+      "nationality": "Estados Unidos De América",
+      "trailer": "https://www.youtube.com/watch?v=9s_CGXv2F0I",
+      "year": "1989",
+      "runtime_mins": 102
     },
     "calendars": [
       {
@@ -3640,7 +3637,7 @@
               "theater": "Leopoldo Lugones"
             },
             {
-              "showtime": "2024-12-01T21:00:00",
+              "showtime": "2024-12-01T18:00:00",
               "theater": "Leopoldo Lugones"
             }
           ]
@@ -3914,14 +3911,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Comedia",
-      "director": "",
-      "poster": "https://image.tmdb.org/t/p/w500/r8LBYQGtI72Z8r5E72fTddZawGD.jpg",
-      "imdbid": "",
-      "nationality": "Portugal",
+      "genre": "Terror",
+      "director": "Omar Jacobo",
+      "poster": "https://image.tmdb.org/t/p/w500/asqUcchGXjDT5N2jd4xqH2EbYN3.jpg",
+      "imdbid": "tt12250992",
+      "nationality": "México",
       "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "year": "2020",
+      "runtime_mins": 71
     },
     "calendars": [
       {
@@ -4165,6 +4162,11 @@
       "title": "Historia De Dos Guerreros",
       "showtimes": [
         "2024-11-21T13:15:00",
+        "2024-11-22T13:15:00",
+        "2024-11-23T13:15:00",
+        "2024-11-24T13:15:00",
+        "2024-11-25T13:15:00",
+        "2024-11-26T13:15:00",
         "2024-11-27T13:15:00"
       ],
       "theater": "Gaumont",
@@ -4210,29 +4212,54 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-22T13:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-23T13:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T13:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-25T13:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-26T13:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 27,
@@ -4271,11 +4298,7 @@
     "details": {
       "title": "Introducción",
       "showtimes": [
-        "2024-11-10T18:00:00",
-        "2024-11-17T18:00:00",
-        "2024-11-24T18:00:00",
-        "2024-11-30T19:00:00",
-        "2024-11-03T18:00:00"
+        "2024-11-10T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -4291,48 +4314,6 @@
       "runtime_mins": 66
     },
     "calendars": [
-      {
-        "lun": {
-          "date": 28,
-          "month": 10,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 29,
-          "month": 10,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 30,
-          "month": 10,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 31,
-          "month": 10,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 1,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 2,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 3,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-03T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
       {
         "lun": {
           "date": 4,
@@ -4373,132 +4354,6 @@
               "theater": "CCK"
             }
           ]
-        }
-      },
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-17T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T19:00:00",
-              "theater": "CCK"
-            }
-          ]
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
         }
       }
     ]
@@ -4577,14 +4432,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Horror, Drama",
-      "director": "Roger Corman",
-      "poster": "https://image.tmdb.org/t/p/w500/jEzZOrGSWpl0jKOIXoY3OnEabLQ.jpg",
-      "imdbid": "tt0053925",
-      "nationality": "Estados Unidos De América",
-      "trailer": "https://www.youtube.com/watch?v=f0JK8RYmWt8",
-      "year": 2024,
-      "runtime_mins": 79
+      "genre": "Terror",
+      "director": "Umberto Lenzi",
+      "poster": "https://image.tmdb.org/t/p/w500/gtwxQJvHPfoB0IaRHJjfSa5KB4F.jpg",
+      "imdbid": "tt0093090",
+      "nationality": "Italia",
+      "trailer": "https://www.youtube.com/watch?v=bYxHXN7SWUQ",
+      "year": "1988",
+      "runtime_mins": 95
     },
     "calendars": [
       {
@@ -4641,14 +4496,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Animación, Aventura, Familia, Fantasía",
+      "director": "Lorenzo Mattotti",
+      "poster": "https://image.tmdb.org/t/p/w500/tmSLN2bNCQ8fEex3rEw7GobJP3Z.jpg",
+      "imdbid": "tt6284064",
+      "nationality": "Francia, Italia",
+      "trailer": "https://www.youtube.com/watch?v=VDlqfHCwjyQ",
+      "year": "2019",
+      "runtime_mins": 82
     },
     "calendars": [
       {
@@ -4827,10 +4682,6 @@
     "details": {
       "title": "La Mujer Que Escapó",
       "showtimes": [
-        "2024-11-10T18:00:00",
-        "2024-11-17T18:00:00",
-        "2024-11-24T18:00:00",
-        "2024-11-30T19:00:00",
         "2024-11-03T18:00:00"
       ],
       "theater": "CCK",
@@ -4888,174 +4739,6 @@
             }
           ]
         }
-      },
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-17T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T19:00:00",
-              "theater": "CCK"
-            }
-          ]
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
-        }
       }
     ]
   },
@@ -5069,14 +4752,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Horror, Comedia",
+      "director": "Bob Clark",
+      "poster": "https://image.tmdb.org/t/p/w500/bLWtAzj3zlqVBjv07v9KcGOLpiv.jpg",
+      "imdbid": "tt0068370",
+      "nationality": "Estados Unidos De América",
+      "trailer": "https://www.youtube.com/watch?v=iNmty9RxJIs",
+      "year": "1972",
+      "runtime_mins": 86
     },
     "calendars": [
       {
@@ -5127,11 +4810,7 @@
     "details": {
       "title": "La Novelista Y Su Película",
       "showtimes": [
-        "2024-11-10T18:00:00",
-        "2024-11-17T18:00:00",
-        "2024-11-24T18:00:00",
-        "2024-11-30T19:00:00",
-        "2024-11-03T18:00:00"
+        "2024-11-17T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -5147,90 +4826,6 @@
       "runtime_mins": 92
     },
     "calendars": [
-      {
-        "lun": {
-          "date": 28,
-          "month": 10,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 29,
-          "month": 10,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 30,
-          "month": 10,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 31,
-          "month": 10,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 1,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 2,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 3,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-03T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
       {
         "lun": {
           "date": 11,
@@ -5271,90 +4866,6 @@
               "theater": "CCK"
             }
           ]
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-24T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T19:00:00",
-              "theater": "CCK"
-            }
-          ]
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
         }
       }
     ]
@@ -5498,14 +5009,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
+      "genre": "Drama, Comedia",
+      "director": "Lucian Pintilie",
+      "poster": "https://image.tmdb.org/t/p/w500/1Yfea4XRSQA8gMxkjdexThqo86o.jpg",
+      "imdbid": "tt0063493",
+      "nationality": "Rumanía",
       "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "year": "1968",
+      "runtime_mins": 100
     },
     "calendars": [
       {
@@ -5566,8 +5077,14 @@
         "2024-11-30T15:15:00",
         "2024-12-01T15:15:00",
         "2024-12-02T15:15:00",
+        "2024-12-03T15:15:00",
         "2024-12-04T15:15:00",
         "2024-11-21T18:45:00",
+        "2024-11-22T18:45:00",
+        "2024-11-23T18:45:00",
+        "2024-11-24T18:45:00",
+        "2024-11-25T18:45:00",
+        "2024-11-26T18:45:00",
         "2024-11-27T18:45:00"
       ],
       "theater": "Gaumont",
@@ -5613,29 +5130,54 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-22T18:45:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-23T18:45:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T18:45:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-25T18:45:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-26T18:45:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 27,
@@ -5702,7 +5244,12 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-03T15:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 4,
@@ -5753,7 +5300,7 @@
       "imdbid": "tt26081688",
       "nationality": "Argentina",
       "trailer": "",
-      "year": 2024,
+      "year": "2024",
       "runtime_mins": 94
     },
     "calendars": [
@@ -5987,7 +5534,7 @@
       "imdbid": "tt2278871",
       "nationality": "Bélgica, Francia, España",
       "trailer": "https://www.youtube.com/watch?v=J_ekBcdPzIk",
-      "year": 2024,
+      "year": "2013",
       "runtime_mins": 180
     },
     "calendars": [
@@ -6110,14 +5657,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Drama, Fantasía, Romance",
+      "director": "Wim Wenders",
+      "poster": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+      "imdbid": "tt0093191",
+      "nationality": "Francia, Alemania",
+      "trailer": "https://www.youtube.com/watch?v=0iAzYofuItM",
+      "year": "1987",
+      "runtime_mins": 128
     },
     "calendars": [
       {
@@ -6242,14 +5789,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Animación, Aventura, Fantasía, Romance",
+      "director": "Lotte Reiniger",
+      "poster": "https://image.tmdb.org/t/p/w500/u17zDdZLqSefAKmo5BZ8obX2hzc.jpg",
+      "imdbid": "tt0015532",
+      "nationality": "Alemania",
+      "trailer": "https://www.youtube.com/watch?v=DkK6ELJeDx0",
+      "year": "1926",
+      "runtime_mins": 66
     },
     "calendars": [
       {
@@ -6364,9 +5911,7 @@
     "details": {
       "title": "Lo Que Queda",
       "showtimes": [
-        "2024-11-07T19:00:00",
         "2024-11-14T19:00:00",
-        "2024-11-21T19:00:00",
         "2024-11-28T19:00:00"
       ],
       "theater": "CCK",
@@ -6379,52 +5924,10 @@
       "imdbid": "",
       "nationality": "Argentina",
       "trailer": "",
-      "year": "2024",
+      "year": 2024,
       "runtime_mins": 63
     },
     "calendars": [
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-07T19:00:00",
-              "theater": "CCK"
-            }
-          ]
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": []
-        }
-      },
       {
         "lun": {
           "date": 11,
@@ -6463,48 +5966,6 @@
         },
         "dom": {
           "date": 17,
-          "month": 11,
-          "showtimes": []
-        }
-      },
-      {
-        "lun": {
-          "date": 18,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-21T19:00:00",
-              "theater": "CCK"
-            }
-          ]
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 24,
           "month": 11,
           "showtimes": []
         }
@@ -6569,7 +6030,7 @@
       "imdbid": "tt26923334",
       "nationality": "España",
       "trailer": "https://www.youtube.com/watch?v=j_kLWwAEInI",
-      "year": 2024,
+      "year": "2024",
       "runtime_mins": 101
     },
     "calendars": [
@@ -6622,11 +6083,24 @@
       "title": "Los Domingos Mueren Más Personas",
       "showtimes": [
         "2024-11-28T16:10:00",
+        "2024-11-29T16:10:00",
+        "2024-11-30T16:10:00",
+        "2024-12-01T16:10:00",
         "2024-12-02T16:10:00",
         "2024-12-04T16:10:00",
         "2024-11-21T13:50:00",
-        "2024-11-21T22:30:00",
+        "2024-11-22T13:50:00",
+        "2024-11-23T13:50:00",
+        "2024-11-24T13:50:00",
+        "2024-11-25T13:50:00",
+        "2024-11-26T13:50:00",
         "2024-11-27T13:50:00",
+        "2024-11-21T22:30:00",
+        "2024-11-22T22:30:00",
+        "2024-11-23T22:30:00",
+        "2024-11-24T22:30:00",
+        "2024-11-25T22:30:00",
+        "2024-11-26T22:30:00",
         "2024-11-27T22:30:00"
       ],
       "theater": "Gaumont",
@@ -6676,29 +6150,74 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-22T13:50:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-22T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-23T13:50:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-23T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T13:50:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-24T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-25T13:50:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-25T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-26T13:50:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-26T22:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 27,
@@ -6727,17 +6246,32 @@
         "vie": {
           "date": 29,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-29T16:10:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 30,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-30T16:10:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-01T16:10:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
@@ -6863,14 +6397,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Fantasía, Drama",
+      "director": "Akira Kurosawa",
+      "poster": "https://image.tmdb.org/t/p/w500/j0NQsYqnqvhTtBj7vhCa9iKT0NA.jpg",
+      "imdbid": "tt0100998",
+      "nationality": "Estados Unidos, Francia, Japón",
+      "trailer": "https://www.youtube.com/watch?v=zFX_AMcPQkI",
+      "year": "1990",
+      "runtime_mins": 119
     },
     "calendars": [
       {
@@ -6991,14 +6525,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Comedia, Drama, Romance",
+      "director": "Charlie Chaplin",
+      "poster": "https://image.tmdb.org/t/p/w500/ugmakEL5y294I5bXgiBqApuZpwc.jpg",
+      "imdbid": "tt0021749",
+      "nationality": "Estados Unidos De América",
+      "trailer": "https://www.youtube.com/watch?v=7vl7F8S4cpQ",
+      "year": "1931",
+      "runtime_mins": 87
     },
     "calendars": [
       {
@@ -7381,7 +6915,7 @@
       "imdbid": "",
       "nationality": "España",
       "trailer": "",
-      "year": 2024,
+      "year": "2024",
       "runtime_mins": 95
     },
     "calendars": [
@@ -7433,11 +6967,7 @@
     "details": {
       "title": "Necesidades De Una Viajera",
       "showtimes": [
-        "2024-11-10T18:00:00",
-        "2024-11-17T18:00:00",
-        "2024-11-24T18:00:00",
-        "2024-11-30T19:00:00",
-        "2024-11-03T18:00:00"
+        "2024-11-24T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -7453,132 +6983,6 @@
       "runtime_mins": null
     },
     "calendars": [
-      {
-        "lun": {
-          "date": 28,
-          "month": 10,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 29,
-          "month": 10,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 30,
-          "month": 10,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 31,
-          "month": 10,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 1,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 2,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 3,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-03T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 4,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 10,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-10T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
-      {
-        "lun": {
-          "date": 11,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 17,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-17T18:00:00",
-              "theater": "CCK"
-            }
-          ]
-        }
-      },
       {
         "lun": {
           "date": 18,
@@ -7620,48 +7024,6 @@
             }
           ]
         }
-      },
-      {
-        "lun": {
-          "date": 25,
-          "month": 11,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 26,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 27,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 28,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 29,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 30,
-          "month": 11,
-          "showtimes": [
-            {
-              "showtime": "2024-11-30T19:00:00",
-              "theater": "CCK"
-            }
-          ]
-        },
-        "dom": {
-          "date": 1,
-          "month": 12,
-          "showtimes": []
-        }
       }
     ]
   },
@@ -7675,14 +7037,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Animación, Aventura, Fantasía, Familia, Comedia",
-      "director": "David Alaux",
-      "poster": "https://image.tmdb.org/t/p/w500/68HzyzxWHou2YyiueJZYnPZUbfd.jpg",
-      "imdbid": "tt22360682",
-      "nationality": "Francia",
-      "trailer": "https://www.youtube.com/watch?v=DdDxeqgquaY",
-      "year": 2024,
-      "runtime_mins": 95
+      "genre": "Crimen",
+      "director": "Marc Göbel",
+      "poster": "https://image.tmdb.org/t/p/w500/5CaTDrWHuGitvBlSViV255lEJTl.jpg",
+      "imdbid": "tt7850152",
+      "nationality": "Alemania",
+      "trailer": "",
+      "year": "2018",
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -7989,21 +7351,20 @@
     "details": {
       "title": "Pat Garrett & Billy The Kid",
       "showtimes": [
-        "2024-12-04T21:00:00",
-        "2024-12-06T17:30:00"
+        "2024-12-04T21:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
+      "genre": "Documental",
+      "director": "Nick Redman",
       "poster": "",
-      "imdbid": "",
-      "nationality": "",
+      "imdbid": "tt4706650",
+      "nationality": "Estados Unidos De América",
       "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "year": "2006",
+      "runtime_mins": 14
     },
     "calendars": [
       {
@@ -8035,12 +7396,7 @@
         "vie": {
           "date": 6,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-06T17:30:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
           "date": 7,
@@ -8065,14 +7421,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Comedia, Animación, Familia, Fantasía",
-      "director": "Richard Claus, Karsten Kiilerich",
-      "poster": "https://image.tmdb.org/t/p/w500/i9z2rBO4i5MhbvpEIxXZUoXSYUo.jpg",
-      "imdbid": "tt4729560",
-      "nationality": "Países Bajos, Reino Unido, Alemania, Dinamarca",
-      "trailer": "https://www.youtube.com/watch?v=CB_-u2lMNxw",
-      "year": 2024,
-      "runtime_mins": 83
+      "genre": "Animación, Familia, Fantasía",
+      "director": "Joann Sfar",
+      "poster": "https://image.tmdb.org/t/p/w500/mLd9FVJTwnPO3ERv82ea5IZo6Hl.jpg",
+      "imdbid": "tt7534136",
+      "nationality": "Belgica, Francia",
+      "trailer": "https://www.youtube.com/watch?v=vUf8tY6Unew",
+      "year": "2020",
+      "runtime_mins": 82
     },
     "calendars": [
       {
@@ -8385,14 +7741,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Drama",
-      "director": "Yan-Hong Chen",
-      "poster": "https://image.tmdb.org/t/p/w500/4z7wpPpy8jzH19rWTPsMxo81hCq.jpg",
-      "imdbid": "",
-      "nationality": "Taiwán",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": 30
+      "genre": "Comedia, Comedia Negra.",
+      "director": "Emil Křižka",
+      "poster": "https://image.tmdb.org/t/p/w500/lgMvfdjRJkeuGGJdx2Xfbi2U4ba.jpg",
+      "imdbid": "tt14188996",
+      "nationality": "República Checa",
+      "trailer": "https://www.youtube.com/watch?v=tuWSQO753g4",
+      "year": "2021",
+      "runtime_mins": 86
     },
     "calendars": [
       {
@@ -8448,8 +7804,14 @@
         "2024-11-30T13:45:00",
         "2024-12-01T13:45:00",
         "2024-12-02T13:45:00",
+        "2024-12-03T13:45:00",
         "2024-12-04T13:45:00",
         "2024-11-21T17:15:00",
+        "2024-11-22T17:15:00",
+        "2024-11-23T17:15:00",
+        "2024-11-24T17:15:00",
+        "2024-11-25T17:15:00",
+        "2024-11-26T17:15:00",
         "2024-11-27T17:15:00"
       ],
       "theater": "Gaumont",
@@ -8495,29 +7857,54 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-22T17:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-23T17:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T17:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-25T17:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-26T17:15:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 27,
@@ -8584,7 +7971,12 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-03T13:45:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 4,
@@ -8624,6 +8016,11 @@
       "title": "Sara Facio: Haber Estado Ahí",
       "showtimes": [
         "2024-11-21T12:20:00",
+        "2024-11-22T12:20:00",
+        "2024-11-23T12:20:00",
+        "2024-11-24T12:20:00",
+        "2024-11-25T12:20:00",
+        "2024-11-26T12:20:00",
         "2024-11-27T12:20:00"
       ],
       "theater": "Gaumont",
@@ -8669,29 +8066,54 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-22T12:20:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-23T12:20:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T12:20:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-25T12:20:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-26T12:20:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 27,
@@ -8742,7 +8164,7 @@
       "imdbid": "tt27518776",
       "nationality": "Espana, Francia",
       "trailer": "https://www.youtube.com/watch?v=2GrCnVuIBhM",
-      "year": 2024,
+      "year": "2024",
       "runtime_mins": 109
     },
     "calendars": [
@@ -8799,10 +8221,21 @@
         "2024-11-30T17:00:00",
         "2024-12-01T17:00:00",
         "2024-12-02T17:00:00",
+        "2024-12-03T17:00:00",
         "2024-12-04T17:00:00",
         "2024-11-21T15:20:00",
-        "2024-11-21T20:30:00",
+        "2024-11-22T15:20:00",
+        "2024-11-23T15:20:00",
+        "2024-11-24T15:20:00",
+        "2024-11-25T15:20:00",
+        "2024-11-26T15:20:00",
         "2024-11-27T15:20:00",
+        "2024-11-21T20:30:00",
+        "2024-11-22T20:30:00",
+        "2024-11-23T20:30:00",
+        "2024-11-24T20:30:00",
+        "2024-11-25T20:30:00",
+        "2024-11-26T20:30:00",
         "2024-11-27T20:30:00"
       ],
       "theater": "Gaumont",
@@ -8852,29 +8285,74 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-22T15:20:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-22T20:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-23T15:20:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-23T20:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T15:20:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-24T20:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-25T15:20:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-25T20:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-26T15:20:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-26T20:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 27,
@@ -8945,7 +8423,12 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-03T17:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 4,
@@ -8985,6 +8468,11 @@
       "title": "Sin Salida",
       "showtimes": [
         "2024-11-21T14:30:00",
+        "2024-11-22T14:30:00",
+        "2024-11-23T14:30:00",
+        "2024-11-24T14:30:00",
+        "2024-11-25T14:30:00",
+        "2024-11-26T14:30:00",
         "2024-11-27T14:30:00"
       ],
       "theater": "Gaumont",
@@ -9030,29 +8518,54 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-22T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-23T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-25T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-26T14:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 27,
@@ -9231,7 +8744,7 @@
       "imdbid": "tt30973261",
       "nationality": "España",
       "trailer": "https://www.youtube.com/watch?v=btZynwc6SUo",
-      "year": 2024,
+      "year": "2024",
       "runtime_mins": 100
     },
     "calendars": [
@@ -9604,13 +9117,31 @@
       "title": "Vera Y El Placer De Los Otros",
       "showtimes": [
         "2024-11-28T19:30:00",
+        "2024-11-29T19:30:00",
+        "2024-11-30T19:30:00",
+        "2024-12-01T19:30:00",
         "2024-12-02T19:30:00",
         "2024-12-04T19:30:00",
         "2024-11-21T13:40:00",
-        "2024-11-21T17:45:00",
-        "2024-11-21T22:00:00",
+        "2024-11-22T13:40:00",
+        "2024-11-23T13:40:00",
+        "2024-11-24T13:40:00",
+        "2024-11-25T13:40:00",
+        "2024-11-26T13:40:00",
         "2024-11-27T13:40:00",
+        "2024-11-21T17:45:00",
+        "2024-11-22T17:45:00",
+        "2024-11-23T17:45:00",
+        "2024-11-24T17:45:00",
+        "2024-11-25T17:45:00",
+        "2024-11-26T17:45:00",
         "2024-11-27T17:45:00",
+        "2024-11-21T22:00:00",
+        "2024-11-22T22:00:00",
+        "2024-11-23T22:00:00",
+        "2024-11-24T22:00:00",
+        "2024-11-25T22:00:00",
+        "2024-11-26T22:00:00",
         "2024-11-27T22:00:00"
       ],
       "theater": "Gaumont",
@@ -9664,29 +9195,94 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-22T13:40:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-22T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-22T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-23T13:40:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-23T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-23T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T13:40:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-24T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-24T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
         "lun": {
           "date": 25,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-25T13:40:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-25T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-25T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mar": {
           "date": 26,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-26T13:40:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-26T17:45:00",
+              "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-11-26T22:00:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "mie": {
           "date": 27,
@@ -9719,17 +9315,32 @@
         "vie": {
           "date": 29,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-29T19:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 30,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-30T19:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 1,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-01T19:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
@@ -9791,14 +9402,14 @@
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "",
-      "director": "",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": 2024,
-      "runtime_mins": null
+      "genre": "Drama",
+      "director": "Carla Simón",
+      "poster": "https://image.tmdb.org/t/p/w500/krdSl7IpDb9c31CXrzA5yfP1oYM.jpg",
+      "imdbid": "tt5897636",
+      "nationality": "España",
+      "trailer": "https://www.youtube.com/watch?v=Bb1NMc-_KaU",
+      "year": "2017",
+      "runtime_mins": 96
     },
     "calendars": [
       {
@@ -9850,6 +9461,9 @@
       "title": "Virgen Rosa",
       "showtimes": [
         "2024-11-21T16:30:00",
+        "2024-11-22T16:30:00",
+        "2024-11-23T16:30:00",
+        "2024-11-24T16:30:00",
         "2024-11-25T16:30:00",
         "2024-11-27T16:30:00"
       ],
@@ -9896,17 +9510,32 @@
         "vie": {
           "date": 22,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-22T16:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "sab": {
           "date": 23,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-23T16:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         },
         "dom": {
           "date": 24,
           "month": 11,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-11-24T16:30:00",
+              "theater": "Gaumont"
+            }
+          ]
         }
       },
       {
