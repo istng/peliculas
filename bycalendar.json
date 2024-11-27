@@ -1676,7 +1676,7 @@
       "title": "El Angel Exterminador",
       "showtimes": [
         "2024-11-27T21:00:00",
-        "2024-12-01T21:00:00"
+        "2024-12-01T18:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
@@ -1733,7 +1733,7 @@
           "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-12-01T21:00:00",
+              "showtime": "2024-12-01T18:00:00",
               "theater": "Leopoldo Lugones"
             }
           ]
@@ -2010,8 +2010,10 @@
     "details": {
       "title": "El Escuerzo",
       "showtimes": [
+        "2024-11-07T19:00:00",
+        "2024-11-14T19:00:00",
         "2024-11-21T19:00:00",
-        "2024-11-07T19:00:00"
+        "2024-11-28T19:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -2023,7 +2025,7 @@
       "imdbid": "tt13658886",
       "nationality": "Argentina-España",
       "trailer": "https://www.youtube.com/watch?v=nKv8ao9fHLk",
-      "year": 2024,
+      "year": "2023",
       "runtime_mins": 91
     },
     "calendars": [
@@ -2071,6 +2073,48 @@
       },
       {
         "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-14T19:00:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 18,
           "month": 11,
           "showtimes": []
@@ -2108,6 +2152,48 @@
         "dom": {
           "date": 24,
           "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
+          "date": 25,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 26,
+          "month": 11,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 27,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 28,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-28T19:00:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "vie": {
+          "date": 29,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 30,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 1,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -3581,7 +3667,7 @@
       "title": "Felices Juntos",
       "showtimes": [
         "2024-12-01T15:00:00",
-        "2024-12-01T18:00:00"
+        "2024-12-01T21:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
@@ -3637,7 +3723,7 @@
               "theater": "Leopoldo Lugones"
             },
             {
-              "showtime": "2024-12-01T18:00:00",
+              "showtime": "2024-12-01T21:00:00",
               "theater": "Leopoldo Lugones"
             }
           ]
@@ -4298,7 +4384,7 @@
     "details": {
       "title": "Introducción",
       "showtimes": [
-        "2024-11-10T18:00:00"
+        "2024-12-10T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -4316,44 +4402,44 @@
     "calendars": [
       {
         "lun": {
-          "date": 4,
-          "month": 11,
+          "date": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 5,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 6,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 7,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 8,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 9,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
           "date": 10,
-          "month": 11,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-11-10T18:00:00",
+              "showtime": "2024-12-10T18:00:00",
               "theater": "CCK"
             }
           ]
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": []
         }
       }
     ]
@@ -4682,7 +4768,7 @@
     "details": {
       "title": "La Mujer Que Escapó",
       "showtimes": [
-        "2024-11-03T18:00:00"
+        "2024-12-03T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -4700,44 +4786,44 @@
     "calendars": [
       {
         "lun": {
-          "date": 28,
-          "month": 10,
+          "date": 2,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 29,
-          "month": 10,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 30,
-          "month": 10,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 31,
-          "month": 10,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 1,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 2,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
           "date": 3,
-          "month": 11,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-11-03T18:00:00",
+              "showtime": "2024-12-03T18:00:00",
               "theater": "CCK"
             }
           ]
+        },
+        "mie": {
+          "date": 4,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 5,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 6,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 8,
+          "month": 12,
+          "showtimes": []
         }
       }
     ]
@@ -4810,7 +4896,7 @@
     "details": {
       "title": "La Novelista Y Su Película",
       "showtimes": [
-        "2024-11-17T18:00:00"
+        "2024-12-17T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -4828,44 +4914,44 @@
     "calendars": [
       {
         "lun": {
-          "date": 11,
-          "month": 11,
+          "date": 16,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 12,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 13,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 14,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 15,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 16,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
           "date": 17,
-          "month": 11,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-11-17T18:00:00",
+              "showtime": "2024-12-17T18:00:00",
               "theater": "CCK"
             }
           ]
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": []
         }
       }
     ]
@@ -5924,7 +6010,7 @@
       "imdbid": "",
       "nationality": "Argentina",
       "trailer": "",
-      "year": 2024,
+      "year": "2024",
       "runtime_mins": 63
     },
     "calendars": [
@@ -6967,7 +7053,7 @@
     "details": {
       "title": "Necesidades De Una Viajera",
       "showtimes": [
-        "2024-11-24T18:00:00"
+        "2024-12-24T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -6985,44 +7071,44 @@
     "calendars": [
       {
         "lun": {
-          "date": 18,
-          "month": 11,
+          "date": 23,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 19,
-          "month": 11,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 20,
-          "month": 11,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 21,
-          "month": 11,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 22,
-          "month": 11,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 23,
-          "month": 11,
-          "showtimes": []
-        },
-        "dom": {
           "date": 24,
-          "month": 11,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-11-24T18:00:00",
+              "showtime": "2024-12-24T18:00:00",
               "theater": "CCK"
             }
           ]
+        },
+        "mie": {
+          "date": 25,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 26,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 27,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 28,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 29,
+          "month": 12,
+          "showtimes": []
         }
       }
     ]
