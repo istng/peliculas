@@ -1,4 +1,68 @@
 {
+  "A Woman Under The Influence": {
+    "details": {
+      "title": "A Woman Under The Influence",
+      "showtimes": [
+        "2024-12-31T00:00:00"
+      ],
+      "theater": "CC Munro",
+      "price": "Gratis",
+      "website": "https://lumiton.ar/evento/una-mujer-bajo-la-influencia-a-woman-under-the-influence-7/ ",
+      "address": "https://maps.app.goo.gl/2g5WWY7a94ZNarY46",
+      "genre": "Drama",
+      "director": "John Cassavetes",
+      "poster": "https://image.tmdb.org/t/p/w500/6EJ4JoTxnH1QmGTE9pPzgtW1cLW.jpg",
+      "imdbid": "tt0072417",
+      "nationality": "Estados Unidos De América",
+      "trailer": "https://www.youtube.com/watch?v=d5O7ujg3VQU",
+      "year": "1974",
+      "runtime_mins": 155
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 30,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 31,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-31T00:00:00",
+              "theater": "CC Munro"
+            }
+          ]
+        },
+        "mie": {
+          "date": 1,
+          "month": 1,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 2,
+          "month": 1,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 3,
+          "month": 1,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 4,
+          "month": 1,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 5,
+          "month": 1,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Algo Viejo, Algo Nuevo, Algo Prestado": {
     "details": {
       "title": "Algo Viejo, Algo Nuevo, Algo Prestado",
@@ -210,11 +274,11 @@
       "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
       "genre": "Drama",
       "director": "Pablo Yotich",
-      "poster": "",
+      "poster": "https://image.tmdb.org/t/p/w500/HiYzx9RWZh30mz18eq2OFUeAge.jpg",
       "imdbid": "",
-      "nationality": "",
+      "nationality": "Argentina",
       "trailer": "",
-      "year": null,
+      "year": "2024",
       "runtime_mins": null
     },
     "calendars": [
@@ -543,7 +607,7 @@
     "details": {
       "title": "Bajo El Peso De La Ley",
       "showtimes": [
-        "2024-09-21T16:30:00"
+        "2024-12-13T16:30:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -555,49 +619,49 @@
       "imdbid": "tt0090967",
       "nationality": "Estados Unidos De América",
       "trailer": "https://www.youtube.com/watch?v=IeFU1PJ-APQ",
-      "year": "1986",
+      "year": 1986,
       "runtime_mins": 106
     },
     "calendars": [
       {
         "lun": {
-          "date": 16,
-          "month": 9,
+          "date": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 17,
-          "month": 9,
+          "date": 10,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
-          "date": 18,
-          "month": 9,
+          "date": 11,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 19,
-          "month": 9,
+          "date": 12,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
-          "date": 20,
-          "month": 9,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 21,
-          "month": 9,
+          "date": 13,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-21T16:30:00",
+              "showtime": "2024-12-13T16:30:00",
               "theater": "CCK"
             }
           ]
         },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
         "dom": {
-          "date": 22,
-          "month": 9,
+          "date": 15,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -725,6 +789,70 @@
         },
         "dom": {
           "date": 15,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Casamiento En Buenos Aires": {
+    "details": {
+      "title": "Casamiento En Buenos Aires",
+      "showtimes": [
+        "2024-12-18T15:00:00"
+      ],
+      "theater": "Lumiton",
+      "price": "Gratis",
+      "website": "https://lumiton.ar/evento/casamiento-en-buenos-aires-2/ ",
+      "address": "https://www.google.com/maps/search/Lumiton/",
+      "genre": "Comedia",
+      "director": "Manuel Romero",
+      "poster": "https://image.tmdb.org/t/p/w500/bsLNnoSJ8pczLTYwhacCeP5PReI.jpg",
+      "imdbid": "tt0178307",
+      "nationality": "Argentina",
+      "trailer": "",
+      "year": "1940",
+      "runtime_mins": 73
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-18T15:00:00",
+              "theater": "Lumiton"
+            }
+          ]
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
           "month": 12,
           "showtimes": []
         }
@@ -1172,6 +1300,156 @@
       }
     ]
   },
+  "Confidencialmente Tuya": {
+    "details": {
+      "title": "Confidencialmente Tuya",
+      "showtimes": [
+        "2024-12-08T18:00:00",
+        "2024-12-15T18:00:00",
+        "2024-12-22T18:00:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "F. Truffaut",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 2,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 3,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 4,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 5,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 6,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 8,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-08T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-15T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      }
+    ]
+  },
   "Copacabana": {
     "details": {
       "title": "Copacabana",
@@ -1364,24 +1642,26 @@
       }
     ]
   },
-  "Cuento De Verano": {
+  "César Y Rosalie": {
     "details": {
-      "title": "Cuento De Verano",
+      "title": "César Y Rosalie",
       "showtimes": [
-        "2024-12-04T18:00:00"
+        "2024-12-08T15:00:00",
+        "2024-12-15T15:00:00",
+        "2024-12-22T15:00:00"
       ],
-      "theater": "Leopoldo Lugones",
-      "price": "4000 ARS / 2000 ARS",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Romance, Drama, Comedia",
-      "director": "Éric Rohmer",
-      "poster": "https://image.tmdb.org/t/p/w500/l3syqgYqqfqPVheINI5jOBN5hXL.jpg",
-      "imdbid": "tt0115940",
-      "nationality": "Francia",
-      "trailer": "https://www.youtube.com/watch?v=rsBodd_UqJE",
-      "year": "1996",
-      "runtime_mins": 114
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "C. Sautet",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
     },
     "calendars": [
       {
@@ -1398,12 +1678,7 @@
         "mie": {
           "date": 4,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-04T18:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
+          "showtimes": []
         },
         "jue": {
           "date": 5,
@@ -1423,7 +1698,96 @@
         "dom": {
           "date": 8,
           "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-08T15:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
           "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-15T15:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T15:00:00",
+              "theater": "CCK"
+            }
+          ]
         }
       }
     ]
@@ -1567,25 +1931,25 @@
         "2024-12-09T17:30:00",
         "2024-12-11T17:30:00",
         "2024-11-28T15:40:00",
-        "2024-11-29T15:40:00",
-        "2024-11-30T15:40:00",
-        "2024-12-01T15:40:00",
-        "2024-12-02T15:40:00",
-        "2024-12-03T15:40:00",
-        "2024-12-04T15:40:00",
         "2024-11-28T17:30:00",
-        "2024-11-29T17:30:00",
-        "2024-11-30T17:30:00",
-        "2024-12-01T17:30:00",
-        "2024-12-02T17:30:00",
-        "2024-12-03T17:30:00",
-        "2024-12-04T17:30:00",
         "2024-11-28T21:30:00",
+        "2024-11-29T15:40:00",
+        "2024-11-29T17:30:00",
         "2024-11-29T21:30:00",
+        "2024-11-30T15:40:00",
+        "2024-11-30T17:30:00",
         "2024-11-30T21:30:00",
+        "2024-12-01T15:40:00",
+        "2024-12-01T17:30:00",
         "2024-12-01T21:30:00",
+        "2024-12-02T15:40:00",
+        "2024-12-02T17:30:00",
         "2024-12-02T21:30:00",
+        "2024-12-03T15:40:00",
+        "2024-12-03T17:30:00",
         "2024-12-03T21:30:00",
+        "2024-12-04T15:40:00",
+        "2024-12-04T17:30:00",
         "2024-12-04T21:30:00"
       ],
       "theater": "Gaumont",
@@ -2357,203 +2721,6 @@
       }
     ]
   },
-  "El Hombre Que Cayo A La Tierra": {
-    "details": {
-      "title": "El Hombre Que Cayo A La Tierra",
-      "showtimes": [
-        "2024-12-05T14:30:00",
-        "2024-12-05T20:30:00"
-      ],
-      "theater": "Leopoldo Lugones",
-      "price": "4000 ARS / 2000 ARS",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Ciencia Ficción, Drama",
-      "director": "Nicolas Roeg",
-      "poster": "https://image.tmdb.org/t/p/w500/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
-      "imdbid": "tt0074851",
-      "nationality": "Reino Unido",
-      "trailer": "https://www.youtube.com/watch?v=jyEV4Y2NnxM",
-      "year": "1976",
-      "runtime_mins": 139
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-05T14:30:00",
-              "theater": "Leopoldo Lugones"
-            },
-            {
-              "showtime": "2024-12-05T20:30:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 8,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "El Humor (Pequeña Enciclpedia Ilustrada)": {
-    "details": {
-      "title": "El Humor (Pequeña Enciclpedia Ilustrada)",
-      "showtimes": [
-        "2024-12-04T15:00:00"
-      ],
-      "theater": "Leopoldo Lugones",
-      "price": "4000 ARS / 2000 ARS",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Documental",
-      "director": "Rudolph Herzog",
-      "poster": "https://image.tmdb.org/t/p/w500/xvDmGfnTyxP2h2DWUcsEBDdf1Yd.jpg",
-      "imdbid": "tt14456290",
-      "nationality": "Alemania",
-      "trailer": "",
-      "year": "2021",
-      "runtime_mins": 52
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-04T15:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 8,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "El Lado Oscuro Del Corazón": {
-    "details": {
-      "title": "El Lado Oscuro Del Corazón",
-      "showtimes": [
-        "2024-12-05T21:00:00"
-      ],
-      "theater": "Cine York",
-      "price": "Gratis",
-      "website": "https://lumiton.ar/agenda-presencial/ ",
-      "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Comedia, Drama, Romance",
-      "director": "Eliseo Subiela",
-      "poster": "https://image.tmdb.org/t/p/w500/7sGolviXy0GUJ5OzDuxcv61k2UX.jpg",
-      "imdbid": "tt0104662",
-      "nationality": "Argentina - Canadá",
-      "trailer": "",
-      "year": "1992",
-      "runtime_mins": 127
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-05T21:00:00",
-              "theater": "Cine York"
-            }
-          ]
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 8,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "El Llanto": {
     "details": {
       "title": "El Llanto",
@@ -2577,12 +2744,6 @@
         "2024-12-01T22:30:00",
         "2024-12-02T22:30:00",
         "2024-12-04T22:30:00",
-        "2024-11-28T14:00:00",
-        "2024-11-29T14:00:00",
-        "2024-11-30T14:00:00",
-        "2024-12-01T14:00:00",
-        "2024-12-02T14:00:00",
-        "2024-12-04T14:00:00",
         "2024-11-28T22:30:00",
         "2024-11-29T22:30:00",
         "2024-11-30T22:30:00",
@@ -2629,10 +2790,6 @@
               "theater": "Gaumont"
             },
             {
-              "showtime": "2024-11-28T14:00:00",
-              "theater": "Gaumont"
-            },
-            {
               "showtime": "2024-11-28T22:30:00",
               "theater": "Gaumont"
             },
@@ -2646,10 +2803,6 @@
           "date": 29,
           "month": 11,
           "showtimes": [
-            {
-              "showtime": "2024-11-29T14:00:00",
-              "theater": "Gaumont"
-            },
             {
               "showtime": "2024-11-29T14:00:00",
               "theater": "Gaumont"
@@ -2673,10 +2826,6 @@
               "theater": "Gaumont"
             },
             {
-              "showtime": "2024-11-30T14:00:00",
-              "theater": "Gaumont"
-            },
-            {
               "showtime": "2024-11-30T22:30:00",
               "theater": "Gaumont"
             },
@@ -2690,10 +2839,6 @@
           "date": 1,
           "month": 12,
           "showtimes": [
-            {
-              "showtime": "2024-12-01T14:00:00",
-              "theater": "Gaumont"
-            },
             {
               "showtime": "2024-12-01T14:00:00",
               "theater": "Gaumont"
@@ -2719,10 +2864,6 @@
               "theater": "Gaumont"
             },
             {
-              "showtime": "2024-12-02T14:00:00",
-              "theater": "Gaumont"
-            },
-            {
               "showtime": "2024-12-02T22:30:00",
               "theater": "Gaumont"
             },
@@ -2741,10 +2882,6 @@
           "date": 4,
           "month": 12,
           "showtimes": [
-            {
-              "showtime": "2024-12-04T14:00:00",
-              "theater": "Gaumont"
-            },
             {
               "showtime": "2024-12-04T14:00:00",
               "theater": "Gaumont"
@@ -2866,18 +3003,18 @@
         "2024-12-10T18:40:00",
         "2024-12-11T18:40:00",
         "2024-11-28T12:00:00",
-        "2024-11-29T12:00:00",
-        "2024-11-30T12:00:00",
-        "2024-12-01T12:00:00",
-        "2024-12-02T12:00:00",
-        "2024-12-03T12:00:00",
-        "2024-12-04T12:00:00",
         "2024-11-28T20:30:00",
+        "2024-11-29T12:00:00",
         "2024-11-29T20:30:00",
+        "2024-11-30T12:00:00",
         "2024-11-30T20:30:00",
+        "2024-12-01T12:00:00",
         "2024-12-01T20:30:00",
+        "2024-12-02T12:00:00",
         "2024-12-02T20:30:00",
+        "2024-12-03T12:00:00",
         "2024-12-03T20:30:00",
+        "2024-12-04T12:00:00",
         "2024-12-04T20:30:00"
       ],
       "theater": "Gaumont",
@@ -3174,25 +3311,25 @@
       "title": "El Proceso",
       "showtimes": [
         "2024-11-28T12:45:00",
-        "2024-11-29T12:45:00",
-        "2024-11-30T12:45:00",
-        "2024-12-01T12:45:00",
-        "2024-12-02T12:45:00",
-        "2024-12-03T12:45:00",
-        "2024-12-04T12:45:00",
         "2024-11-28T14:15:00",
-        "2024-11-29T14:15:00",
-        "2024-11-30T14:15:00",
-        "2024-12-01T14:15:00",
-        "2024-12-02T14:15:00",
-        "2024-12-03T14:15:00",
-        "2024-12-04T14:15:00",
         "2024-11-28T19:45:00",
+        "2024-11-29T12:45:00",
+        "2024-11-29T14:15:00",
         "2024-11-29T19:45:00",
+        "2024-11-30T12:45:00",
+        "2024-11-30T14:15:00",
         "2024-11-30T19:45:00",
+        "2024-12-01T12:45:00",
+        "2024-12-01T14:15:00",
         "2024-12-01T19:45:00",
+        "2024-12-02T12:45:00",
+        "2024-12-02T14:15:00",
         "2024-12-02T19:45:00",
+        "2024-12-03T12:45:00",
+        "2024-12-03T14:15:00",
         "2024-12-03T19:45:00",
+        "2024-12-04T12:45:00",
+        "2024-12-04T14:15:00",
         "2024-12-04T19:45:00"
       ],
       "theater": "Gaumont",
@@ -3422,7 +3559,6 @@
     "details": {
       "title": "El Ring",
       "showtimes": [
-        "2024-12-05T18:00:00",
         "2024-12-17T15:00:00"
       ],
       "theater": "Leopoldo Lugones",
@@ -3439,48 +3575,6 @@
       "runtime_mins": 96
     },
     "calendars": [
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-05T18:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 8,
-          "month": 12,
-          "showtimes": []
-        }
-      },
       {
         "lun": {
           "date": 16,
@@ -3570,6 +3664,70 @@
               "theater": "Cine York"
             }
           ]
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "El Sonido De Antes": {
+    "details": {
+      "title": "El Sonido De Antes",
+      "showtimes": [
+        "2024-12-11T19:00:00"
+      ],
+      "theater": "Manzana de las Luces",
+      "price": "Gratis",
+      "website": "https://manzanadelasluces.cultura.gob.ar/actividad/ciclo-de-cine-tango-en-la-manzana-de-las-luces/ ",
+      "address": "https://maps.app.goo.gl/BBpRv8LQ6d3pwfD86",
+      "genre": "Documental, Drama.",
+      "director": "Yael Szmulewicz",
+      "poster": "https://image.tmdb.org/t/p/w500/mAyZgGHCbfXoaW5P3R5G8HHMl9I.jpg",
+      "imdbid": "tt27481548",
+      "nationality": "Argentina",
+      "trailer": "",
+      "year": "2024",
+      "runtime_mins": 80
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-11T19:00:00",
+              "theater": "Manzana de las Luces"
+            }
+          ]
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
         },
         "vie": {
           "date": 13,
@@ -3717,6 +3875,70 @@
       }
     ]
   },
+  "El Último Metro": {
+    "details": {
+      "title": "El Último Metro",
+      "showtimes": [
+        "2024-12-22T18:00:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "F. Truffaut",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      }
+    ]
+  },
   "El Último Verano De La Boyita": {
     "details": {
       "title": "El Último Verano De La Boyita",
@@ -3785,61 +4007,61 @@
     "details": {
       "title": "Elsa Y Fred",
       "showtimes": [
-        "2024-09-07T20:30:00"
+        "2024-12-14T20:30:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
       "website": "https://www.cck.gob.ar/cine/",
       "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-      "genre": "Drama, Comedia, Romance",
-      "director": "Michael Radford",
-      "poster": "https://image.tmdb.org/t/p/w500/yNzVwtlqOmPLVKD5zZIzAME9vYc.jpg",
-      "imdbid": "tt2113659",
-      "nationality": "Estados Unidos De América",
-      "trailer": "https://www.youtube.com/watch?v=TnORJy_2tzg",
-      "year": "2014",
-      "runtime_mins": 97
+      "genre": "Comedia, Drama, Romance",
+      "director": "Marcos Carnevale",
+      "poster": "https://image.tmdb.org/t/p/w500/4xjfBIP8BCCkKDmSBlAfguUiW8N.jpg",
+      "imdbid": "tt0453047",
+      "nationality": "Argentina-España",
+      "trailer": "https://www.youtube.com/watch?v=g39vTGrx3Ts",
+      "year": "2005",
+      "runtime_mins": 108
     },
     "calendars": [
       {
         "lun": {
-          "date": 2,
-          "month": 9,
+          "date": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 3,
-          "month": 9,
+          "date": 10,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
-          "date": 4,
-          "month": 9,
+          "date": 11,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 5,
-          "month": 9,
+          "date": 12,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
-          "date": 6,
-          "month": 9,
+          "date": 13,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
-          "date": 7,
-          "month": 9,
+          "date": 14,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-07T20:30:00",
+              "showtime": "2024-12-14T20:30:00",
               "theater": "CCK"
             }
           ]
         },
         "dom": {
-          "date": 8,
-          "month": 9,
+          "date": 15,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -4134,11 +4356,11 @@
       "address": "https://maps.app.goo.gl/6v18BdYS1Y5zQWat9",
       "genre": "Documental",
       "director": "Lucas Peñafort, Fernando González",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
+      "poster": "https://image.tmdb.org/t/p/w500/khBkLXJWiGN97VTaQS2KObxiZyD.jpg",
+      "imdbid": "tt33543154",
+      "nationality": "Argentina, Uzbekistán.",
       "trailer": "",
-      "year": null,
+      "year": "2024",
       "runtime_mins": null
     },
     "calendars": [
@@ -4377,7 +4599,11 @@
     "details": {
       "title": "Extraños En El Paraíso",
       "showtimes": [
-        "2024-09-20T16:30:00"
+        "2024-12-20T16:30:00",
+        "2024-12-07T17:00:00",
+        "2024-12-13T16:30:00",
+        "2024-12-14T16:30:00",
+        "2024-12-21T16:30:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -4395,70 +4621,6 @@
     "calendars": [
       {
         "lun": {
-          "date": 16,
-          "month": 9,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 17,
-          "month": 9,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 18,
-          "month": 9,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 19,
-          "month": 9,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 20,
-          "month": 9,
-          "showtimes": [
-            {
-              "showtime": "2024-09-20T16:30:00",
-              "theater": "CCK"
-            }
-          ]
-        },
-        "sab": {
-          "date": 21,
-          "month": 9,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 22,
-          "month": 9,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Falcon Lake": {
-    "details": {
-      "title": "Falcon Lake",
-      "showtimes": [
-        "2024-12-03T14:30:00"
-      ],
-      "theater": "Leopoldo Lugones",
-      "price": "4000 ARS / 2000 ARS",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Documental",
-      "director": "Alexandre De Bellefeuille",
-      "poster": "https://image.tmdb.org/t/p/w500/timHq1h2CTTUaWyDFIsMG6xNnDz.jpg",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": null,
-      "runtime_mins": 11
-    },
-    "calendars": [
-      {
-        "lun": {
           "date": 2,
           "month": 12,
           "showtimes": []
@@ -4466,12 +4628,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T14:30:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -4491,10 +4648,109 @@
         "sab": {
           "date": 7,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-07T17:00:00",
+              "theater": "CCK"
+            }
+          ]
         },
         "dom": {
           "date": 8,
+          "month": 12,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-13T16:30:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-14T16:30:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-20T16:30:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-21T16:30:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "dom": {
+          "date": 22,
           "month": 12,
           "showtimes": []
         }
@@ -4693,75 +4949,11 @@
       }
     ]
   },
-  "Freaks": {
-    "details": {
-      "title": "Freaks",
-      "showtimes": [
-        "2024-12-07T15:00:00"
-      ],
-      "theater": "Leopoldo Lugones",
-      "price": "4000 ARS / 2000 ARS",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Terror",
-      "director": "Omar Jacobo",
-      "poster": "https://image.tmdb.org/t/p/w500/asqUcchGXjDT5N2jd4xqH2EbYN3.jpg",
-      "imdbid": "tt12250992",
-      "nationality": "México",
-      "trailer": "",
-      "year": "2020",
-      "runtime_mins": 71
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-07T15:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "dom": {
-          "date": 8,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "Golpe De Suerte En París": {
     "details": {
       "title": "Golpe De Suerte En París",
       "showtimes": [
-        "2024-12-03T17:00:00"
+        "2024-12-07T17:10:00"
       ],
       "theater": "Cine Arte Cacodelphia",
       "price": "6000 ARS / 3500 ARS",
@@ -4786,12 +4978,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T17:00:00",
-              "theater": "Cine Arte Cacodelphia"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -4811,7 +4998,12 @@
         "sab": {
           "date": 7,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-07T17:10:00",
+              "theater": "Cine Arte Cacodelphia"
+            }
+          ]
         },
         "dom": {
           "date": 8,
@@ -4889,7 +5081,7 @@
     "details": {
       "title": "Hereje",
       "showtimes": [
-        "2024-12-03T19:00:00"
+        "2024-12-10T19:30:00"
       ],
       "theater": "Cine Arte Cacodelphia",
       "price": "6000 ARS / 3500 ARS",
@@ -4907,42 +5099,42 @@
     "calendars": [
       {
         "lun": {
-          "date": 2,
+          "date": 9,
           "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 3,
+          "date": 10,
           "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-12-03T19:00:00",
+              "showtime": "2024-12-10T19:30:00",
               "theater": "Cine Arte Cacodelphia"
             }
           ]
         },
         "mie": {
-          "date": 4,
+          "date": 11,
           "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 5,
+          "date": 12,
           "month": 12,
           "showtimes": []
         },
         "vie": {
-          "date": 6,
+          "date": 13,
           "month": 12,
           "showtimes": []
         },
         "sab": {
-          "date": 7,
+          "date": 14,
           "month": 12,
           "showtimes": []
         },
         "dom": {
-          "date": 8,
+          "date": 15,
           "month": 12,
           "showtimes": []
         }
@@ -4953,14 +5145,14 @@
     "details": {
       "title": "Historias En Noches De Insomnio",
       "showtimes": [
-        "2024-09-21T18:00:00"
+        "2024-12-21T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
       "website": "https://www.cck.gob.ar/cine/",
       "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
       "genre": "",
-      "director": "",
+      "director": "Jonas Mekas",
       "poster": "",
       "imdbid": "",
       "nationality": "",
@@ -4972,105 +5164,41 @@
       {
         "lun": {
           "date": 16,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
           "date": 17,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
           "date": 18,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
           "date": 19,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
           "date": 20,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
           "date": 21,
-          "month": 9,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-21T18:00:00",
+              "showtime": "2024-12-21T18:00:00",
               "theater": "CCK"
             }
           ]
         },
         "dom": {
           "date": 22,
-          "month": 9,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Hombre Mirando Al Sudeste": {
-    "details": {
-      "title": "Hombre Mirando Al Sudeste",
-      "showtimes": [
-        "2024-12-04T21:00:00"
-      ],
-      "theater": "Cine York",
-      "price": "Gratis",
-      "website": "https://lumiton.ar/agenda-presencial/ ",
-      "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Misterio, Ciencia Ficción, Drama",
-      "director": "Eliseo Subiela",
-      "poster": "https://image.tmdb.org/t/p/w500/vxTNlao45QcCr97s0VcBFXXIxF6.jpg",
-      "imdbid": "tt0091214",
-      "nationality": "Argentina",
-      "trailer": "",
-      "year": "1987",
-      "runtime_mins": 109
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-04T21:00:00",
-              "theater": "Cine York"
-            }
-          ]
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 8,
           "month": 12,
           "showtimes": []
         }
@@ -5081,7 +5209,9 @@
     "details": {
       "title": "Hombre Muerto",
       "showtimes": [
-        "2024-09-20T18:30:00"
+        "2024-12-20T18:30:00",
+        "2024-12-14T19:00:00",
+        "2024-12-21T19:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -5099,43 +5229,235 @@
     "calendars": [
       {
         "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-14T19:00:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 16,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
           "date": 17,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
           "date": 18,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
           "date": 19,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
           "date": 20,
-          "month": 9,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-20T18:30:00",
+              "showtime": "2024-12-20T18:30:00",
               "theater": "CCK"
             }
           ]
         },
         "sab": {
           "date": 21,
-          "month": 9,
-          "showtimes": []
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-21T19:00:00",
+              "theater": "CCK"
+            }
+          ]
         },
         "dom": {
           "date": 22,
-          "month": 9,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Humanidad Y Globos De Papel": {
+    "details": {
+      "title": "Humanidad Y Globos De Papel",
+      "showtimes": [
+        "2024-12-12T15:00:00",
+        "2024-12-12T21:00:00",
+        "2024-12-14T18:00:00",
+        "2024-12-15T18:00:00"
+      ],
+      "theater": "Leopoldo Lugones",
+      "price": "4000 ARS / 2000 ARS",
+      "website": "https://complejoteatral.gob.ar/cine",
+      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+      "genre": "Drama, History.",
+      "director": "Sadao Yamanaka",
+      "poster": "https://image.tmdb.org/t/p/w500/1M2AyCuh9rPWDD9pNVrGoQngV6Z.jpg",
+      "imdbid": "tt0029314",
+      "nationality": "Japón",
+      "trailer": "https://www.youtube.com/watch?v=6hwrQQ1Arsg",
+      "year": "1937",
+      "runtime_mins": 86
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-12T15:00:00",
+              "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-12T21:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-14T18:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-15T18:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "Husbands": {
+    "details": {
+      "title": "Husbands",
+      "showtimes": [
+        "2024-12-12T18:00:00"
+      ],
+      "theater": "CC Munro",
+      "price": "Gratis",
+      "website": "https://lumiton.ar/evento/maridos-husbands-5/ ",
+      "address": "https://maps.app.goo.gl/2g5WWY7a94ZNarY46",
+      "genre": "Comedia Dramatica",
+      "director": "John Cassavetes",
+      "poster": "https://image.tmdb.org/t/p/w500/qPKIKwyT9htY23JzT10ucuerF4f.jpg",
+      "imdbid": "tt0065867",
+      "nationality": "Estados Unidos De América",
+      "trailer": "https://www.youtube.com/watch?v=Eu9pnWGT_Vw",
+      "year": "1970",
+      "runtime_mins": 131
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-12T18:00:00",
+              "theater": "CC Munro"
+            }
+          ]
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -5278,6 +5600,113 @@
       }
     ]
   },
+  "Jules Y Jim": {
+    "details": {
+      "title": "Jules Y Jim",
+      "showtimes": [
+        "2024-12-15T16:00:00",
+        "2024-12-22T16:00:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "F. Truffaut",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-15T16:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T16:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      }
+    ]
+  },
   "Kiss Kiss Bang Bang": {
     "details": {
       "title": "Kiss Kiss Bang Bang",
@@ -5406,24 +5835,24 @@
       }
     ]
   },
-  "La Conquista Del Paraíso": {
+  "La Favorita Del Rey": {
     "details": {
-      "title": "La Conquista Del Paraíso",
+      "title": "La Favorita Del Rey",
       "showtimes": [
-        "2024-12-04T18:30:00"
+        "2024-12-07T17:20:00"
       ],
-      "theater": "Cine York",
-      "price": "Gratis",
-      "website": "https://lumiton.ar/agenda-presencial/ ",
-      "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Drama",
-      "director": "Eliseo Subiela",
-      "poster": "https://image.tmdb.org/t/p/w500/gvWNu0JA2K0HaLoNM6OLCZKO3zh.jpg",
-      "imdbid": "tt0080560",
-      "nationality": "Argentina",
-      "trailer": "",
-      "year": "1981",
-      "runtime_mins": 103
+      "theater": "Cine Arte Cacodelphia",
+      "price": "6000 ARS / 3500 ARS",
+      "website": "https://cineartecacodelphia.com.ar ",
+      "address": "https://maps.app.goo.gl/P2PvhrNf9WZ67qqW6",
+      "genre": "Drama, Historia, Romance",
+      "director": "Maïwenn",
+      "poster": "https://image.tmdb.org/t/p/w500/rSTtGXebezwZ6GVTeZVaeJ9ZQF1.jpg",
+      "imdbid": "tt17277414",
+      "nationality": "Bélgica, Francia, Rusia, Arabia Saudita, Reino Unido, Estados Unidos De América",
+      "trailer": "https://www.youtube.com/watch?v=wGDk1Pekn-A",
+      "year": "2023",
+      "runtime_mins": 117
     },
     "calendars": [
       {
@@ -5440,12 +5869,7 @@
         "mie": {
           "date": 4,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-04T18:30:00",
-              "theater": "Cine York"
-            }
-          ]
+          "showtimes": []
         },
         "jue": {
           "date": 5,
@@ -5460,7 +5884,12 @@
         "sab": {
           "date": 7,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-07T17:20:00",
+              "theater": "Cine Arte Cacodelphia"
+            }
+          ]
         },
         "dom": {
           "date": 8,
@@ -5474,7 +5903,7 @@
     "details": {
       "title": "La Habitación De Al Lado",
       "showtimes": [
-        "2024-12-03T17:30:00"
+        "2024-12-07T17:00:00"
       ],
       "theater": "Cine Arte Cacodelphia",
       "price": "6000 ARS / 3500 ARS",
@@ -5499,12 +5928,7 @@
         "mar": {
           "date": 3,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T17:30:00",
-              "theater": "Cine Arte Cacodelphia"
-            }
-          ]
+          "showtimes": []
         },
         "mie": {
           "date": 4,
@@ -5524,12 +5948,81 @@
         "sab": {
           "date": 7,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-07T17:00:00",
+              "theater": "Cine Arte Cacodelphia"
+            }
+          ]
         },
         "dom": {
           "date": 8,
           "month": 12,
           "showtimes": []
+        }
+      }
+    ]
+  },
+  "La Historia De Adèle H.": {
+    "details": {
+      "title": "La Historia De Adèle H.",
+      "showtimes": [
+        "2024-12-22T16:00:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "F. Truffaut",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T16:00:00",
+              "theater": "CCK"
+            }
+          ]
         }
       }
     ]
@@ -5786,6 +6279,113 @@
           "date": 8,
           "month": 12,
           "showtimes": []
+        }
+      }
+    ]
+  },
+  "La Piel Dura": {
+    "details": {
+      "title": "La Piel Dura",
+      "showtimes": [
+        "2024-12-15T18:00:00",
+        "2024-12-22T18:00:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "F. Truffaut",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-15T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T18:00:00",
+              "theater": "CCK"
+            }
+          ]
         }
       }
     ]
@@ -6076,70 +6676,6 @@
       }
     ]
   },
-  "La Sudestada": {
-    "details": {
-      "title": "La Sudestada",
-      "showtimes": [
-        "2024-12-03T21:00:00"
-      ],
-      "theater": "Leopoldo Lugones",
-      "price": "4000 ARS / 2000 ARS",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Comedia, Comedia Negra.",
-      "director": "Daniel Casabe, Edgardo Dieleke",
-      "poster": "https://image.tmdb.org/t/p/w500/tpF75oPTLf49k2Sb4HAB4395wFv.jpg",
-      "imdbid": "tt26081688",
-      "nationality": "Argentina",
-      "trailer": "",
-      "year": "2024",
-      "runtime_mins": 94
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-03T21:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 8,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
   "La Sustancia": {
     "details": {
       "title": "La Sustancia",
@@ -6171,10 +6707,6 @@
           "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-12-03T20:40:00",
-              "theater": "Cine Arte Cacodelphia"
-            },
-            {
               "showtime": "2024-12-03T22:00:00",
               "theater": "Gaumont"
             }
@@ -6205,202 +6737,207 @@
           "month": 12,
           "showtimes": []
         }
-      }
-    ]
-  },
-  "La Vida De Adele": {
-    "details": {
-      "title": "La Vida De Adele",
-      "showtimes": [
-        "2024-12-03T17:00:00"
-      ],
-      "theater": "Leopoldo Lugones",
-      "price": "4000 ARS / 2000 ARS",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Drama, Thriller.",
-      "director": "Abdellatif Kechiche",
-      "poster": "https://image.tmdb.org/t/p/w500/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg",
-      "imdbid": "tt2278871",
-      "nationality": "Bélgica, Francia, España",
-      "trailer": "https://www.youtube.com/watch?v=J_ekBcdPzIk",
-      "year": "2013",
-      "runtime_mins": 180
-    },
-    "calendars": [
+      },
       {
         "lun": {
-          "date": 2,
+          "date": 9,
           "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 3,
+          "date": 10,
           "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-12-03T17:00:00",
-              "theater": "Leopoldo Lugones"
+              "showtime": "2024-12-10T19:20:00",
+              "theater": "Cine Arte Cacodelphia"
             }
           ]
         },
         "mie": {
-          "date": 4,
+          "date": 11,
           "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 5,
+          "date": 12,
           "month": 12,
           "showtimes": []
         },
         "vie": {
-          "date": 6,
+          "date": 13,
           "month": 12,
           "showtimes": []
         },
         "sab": {
-          "date": 7,
+          "date": 14,
           "month": 12,
           "showtimes": []
         },
         "dom": {
-          "date": 8,
+          "date": 15,
           "month": 12,
           "showtimes": []
         }
       }
     ]
   },
-  "Las Alas Del Deseo": {
+  "La Vasija De Un Millon De Ryo": {
     "details": {
-      "title": "Las Alas Del Deseo",
+      "title": "La Vasija De Un Millon De Ryo",
       "showtimes": [
-        "2024-12-06T14:30:00",
-        "2024-12-06T20:30:00"
+        "2024-11-12T15:00:00",
+        "2024-11-12T21:00:00",
+        "2024-12-12T15:00:00",
+        "2024-12-12T18:00:00",
+        "2024-12-12T21:00:00",
+        "2024-12-13T15:00:00",
+        "2024-12-13T21:00:00",
+        "2024-12-14T15:00:00",
+        "2024-12-14T18:00:00",
+        "2024-12-14T21:00:00",
+        "2024-12-15T15:00:00",
+        "2024-12-15T18:00:00"
       ],
       "theater": "Leopoldo Lugones",
       "price": "4000 ARS / 2000 ARS",
       "website": "https://complejoteatral.gob.ar/cine",
       "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Drama, Fantasía, Romance",
-      "director": "Wim Wenders",
-      "poster": "https://image.tmdb.org/t/p/w500/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
-      "imdbid": "tt0093191",
-      "nationality": "Francia, Alemania",
-      "trailer": "https://www.youtube.com/watch?v=0iAzYofuItM",
-      "year": "1987",
-      "runtime_mins": 128
+      "genre": "",
+      "director": "",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
     },
     "calendars": [
       {
         "lun": {
-          "date": 2,
-          "month": 12,
+          "date": 11,
+          "month": 11,
           "showtimes": []
         },
         "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
+          "date": 12,
+          "month": 11,
           "showtimes": [
             {
-              "showtime": "2024-12-06T14:30:00",
+              "showtime": "2024-11-12T15:00:00",
               "theater": "Leopoldo Lugones"
             },
             {
-              "showtime": "2024-12-06T20:30:00",
+              "showtime": "2024-11-12T21:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-12T15:00:00",
+              "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-12T18:00:00",
+              "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-12T21:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-13T15:00:00",
+              "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-13T21:00:00",
               "theater": "Leopoldo Lugones"
             }
           ]
         },
         "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 8,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Las Aventuras De Dios": {
-    "details": {
-      "title": "Las Aventuras De Dios",
-      "showtimes": [
-        "2024-12-06T18:30:00"
-      ],
-      "theater": "Cine York",
-      "price": "Gratis",
-      "website": "https://lumiton.ar/agenda-presencial/ ",
-      "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Drama, Fantasía",
-      "director": "Eliseo Subiela",
-      "poster": "https://image.tmdb.org/t/p/w500/sWeUnnnjyAWsZPkqXjK6SNeIdaZ.jpg",
-      "imdbid": "tt0261546",
-      "nationality": "Argentina",
-      "trailer": "",
-      "year": "2002",
-      "runtime_mins": 84
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 6,
+          "date": 14,
           "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-12-06T18:30:00",
-              "theater": "Cine York"
+              "showtime": "2024-12-14T15:00:00",
+              "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-14T18:00:00",
+              "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-14T21:00:00",
+              "theater": "Leopoldo Lugones"
             }
           ]
         },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
-        },
         "dom": {
-          "date": 8,
+          "date": 15,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-15T15:00:00",
+              "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-15T18:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
         }
       }
     ]
@@ -6465,6 +7002,284 @@
           "date": 22,
           "month": 12,
           "showtimes": []
+        }
+      }
+    ]
+  },
+  "Las Cosas De La Vida": {
+    "details": {
+      "title": "Las Cosas De La Vida",
+      "showtimes": [
+        "2024-12-22T15:00:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "C. Sautet",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T15:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "Los 400 Golpes": {
+    "details": {
+      "title": "Los 400 Golpes",
+      "showtimes": [
+        "2024-12-08T16:00:00",
+        "2024-12-15T16:00:00",
+        "2024-12-22T16:00:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "F. Truffaut",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 2,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 3,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 4,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 5,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 6,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 8,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-08T16:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-15T16:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T16:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "Los Amantes Astronautas": {
+    "details": {
+      "title": "Los Amantes Astronautas",
+      "showtimes": [
+        "2024-12-08T21:00:00"
+      ],
+      "theater": "Cine Arte Cacodelphia",
+      "price": "6000 ARS / 3500 ARS",
+      "website": "https://cineartecacodelphia.com.ar ",
+      "address": "https://maps.app.goo.gl/P2PvhrNf9WZ67qqW6",
+      "genre": "Comedia Dramatica",
+      "director": "Marco Berger",
+      "poster": "https://image.tmdb.org/t/p/w500/hyu2nt255VLL4RgGCAtcDK8RLv3.jpg",
+      "imdbid": "tt22299436",
+      "nationality": "Argentina-España",
+      "trailer": "https://www.youtube.com/watch?v=Irr1vRyLlR8",
+      "year": "2024",
+      "runtime_mins": 111
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 2,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 3,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 4,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 5,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 6,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 8,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-08T21:00:00",
+              "theater": "Cine Arte Cacodelphia"
+            }
+          ]
         }
       }
     ]
@@ -6835,7 +7650,7 @@
     "details": {
       "title": "Los Herederos",
       "showtimes": [
-        "2024-12-07T20:00:00"
+        "2024-12-07T22:00:00"
       ],
       "theater": "MALBA",
       "price": "4000 ARS / 2000 ARS",
@@ -6882,7 +7697,7 @@
           "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-12-07T20:00:00",
+              "showtime": "2024-12-07T22:00:00",
               "theater": "MALBA"
             }
           ]
@@ -7151,6 +7966,70 @@
       }
     ]
   },
+  "Los Tonos Mayores": {
+    "details": {
+      "title": "Los Tonos Mayores",
+      "showtimes": [
+        "2024-12-07T19:30:00"
+      ],
+      "theater": "Cine Arte Cacodelphia",
+      "price": "6000 ARS / 3500 ARS",
+      "website": "https://cineartecacodelphia.com.ar ",
+      "address": "https://maps.app.goo.gl/P2PvhrNf9WZ67qqW6",
+      "genre": "Drama",
+      "director": "Ingrid Pokropek",
+      "poster": "https://image.tmdb.org/t/p/w500/dikG31aZPpKnIiToVP52vWO9ByL.jpg",
+      "imdbid": "tt29427529",
+      "nationality": "Argentina-España",
+      "trailer": "https://www.youtube.com/watch?v=FX7qLUkmQAY",
+      "year": "2024",
+      "runtime_mins": 101
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 2,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 3,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 4,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 5,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 6,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-07T19:30:00",
+              "theater": "Cine Arte Cacodelphia"
+            }
+          ]
+        },
+        "dom": {
+          "date": 8,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Los Traidores": {
     "details": {
       "title": "Los Traidores",
@@ -7283,7 +8162,7 @@
     "details": {
       "title": "Luna De Avellaneda",
       "showtimes": [
-        "2024-09-14T20:30:00"
+        "2024-12-07T20:30:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -7301,44 +8180,108 @@
     "calendars": [
       {
         "lun": {
-          "date": 9,
-          "month": 9,
+          "date": 2,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 10,
-          "month": 9,
+          "date": 3,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
-          "date": 11,
-          "month": 9,
+          "date": 4,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 12,
-          "month": 9,
+          "date": 5,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
-          "date": 13,
-          "month": 9,
+          "date": 6,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
-          "date": 14,
-          "month": 9,
+          "date": 7,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-14T20:30:00",
+              "showtime": "2024-12-07T20:30:00",
               "theater": "CCK"
             }
           ]
         },
         "dom": {
-          "date": 15,
-          "month": 9,
+          "date": 8,
+          "month": 12,
           "showtimes": []
+        }
+      }
+    ]
+  },
+  "Max Y Los Chatarreros": {
+    "details": {
+      "title": "Max Y Los Chatarreros",
+      "showtimes": [
+        "2024-12-22T17:00:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "C. Sautet",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T17:00:00",
+              "theater": "CCK"
+            }
+          ]
         }
       }
     ]
@@ -7419,7 +8362,7 @@
       "address": "https://www.google.com/maps/search/Cine+York/",
       "genre": "Documental",
       "director": "Raymundo Gleyzer",
-      "poster": "https://image.tmdb.org/t/p/w500/aHxKU3KAGszAaZONfrA0K3Xc4rD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/eb5wsTJ7GkPkcEKeWPIGIiIw1Dx.jpg",
       "imdbid": "tt0128344",
       "nationality": "Argentina",
       "trailer": "",
@@ -7471,66 +8414,109 @@
       }
     ]
   },
-  "No Mires Para Abajo": {
+  "Nelly Y El Señor Arnaud": {
     "details": {
-      "title": "No Mires Para Abajo",
+      "title": "Nelly Y El Señor Arnaud",
       "showtimes": [
-        "2024-12-06T21:00:00"
+        "2024-12-15T17:00:00",
+        "2024-12-22T17:00:00"
       ],
-      "theater": "Cine York",
-      "price": "Gratis",
-      "website": "https://lumiton.ar/agenda-presencial/ ",
-      "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Acción, Comedia, Pintura.",
-      "director": "Eliseo Subiela",
-      "poster": "https://image.tmdb.org/t/p/w500/s7igxMxtKQKHdnDxnSAJej7RTGp.jpg",
-      "imdbid": "tt1233487",
-      "nationality": "Argentina, Francia.",
-      "trailer": "https://www.youtube.com/watch?v=WtSp0mi4twA",
-      "year": "2008",
-      "runtime_mins": 80
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "C. Sautet",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
     },
     "calendars": [
       {
         "lun": {
-          "date": 2,
+          "date": 9,
           "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 3,
+          "date": 10,
           "month": 12,
           "showtimes": []
         },
         "mie": {
-          "date": 4,
+          "date": 11,
           "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 5,
+          "date": 12,
           "month": 12,
           "showtimes": []
         },
         "vie": {
-          "date": 6,
+          "date": 13,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-06T21:00:00",
-              "theater": "Cine York"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
-          "date": 7,
+          "date": 14,
           "month": 12,
           "showtimes": []
         },
         "dom": {
-          "date": 8,
+          "date": 15,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-15T17:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 16,
           "month": 12,
           "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T17:00:00",
+              "theater": "CCK"
+            }
+          ]
         }
       }
     ]
@@ -7667,7 +8653,7 @@
     "details": {
       "title": "Noche En La Tierra",
       "showtimes": [
-        "2024-09-14T16:30:00"
+        "2024-12-06T18:30:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -7685,43 +8671,43 @@
     "calendars": [
       {
         "lun": {
-          "date": 9,
-          "month": 9,
+          "date": 2,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 10,
-          "month": 9,
+          "date": 3,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
-          "date": 11,
-          "month": 9,
+          "date": 4,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 12,
-          "month": 9,
+          "date": 5,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
-          "date": 13,
-          "month": 9,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 14,
-          "month": 9,
+          "date": 6,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-14T16:30:00",
+              "showtime": "2024-12-06T18:30:00",
               "theater": "CCK"
             }
           ]
         },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": []
+        },
         "dom": {
-          "date": 15,
-          "month": 9,
+          "date": 8,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -7791,65 +8777,65 @@
       }
     ]
   },
-  "Osvaldo": {
+  "Opening Night": {
     "details": {
-      "title": "Osvaldo",
+      "title": "Opening Night",
       "showtimes": [
-        "2024-12-02T20:00:00"
+        "2024-12-31T00:00:00"
       ],
-      "theater": "CC 25 de Mayo",
+      "theater": "CC Munro",
       "price": "Gratis",
-      "website": "https://cc25.org/02-12-osvaldo/",
-      "address": "https://maps.app.goo.gl/3LBzoHGCAGPXwJPS8",
-      "genre": "",
-      "director": "Nicolás Artín, Alejandra Alicia Cáceres \"Viveka\"",
-      "poster": "",
-      "imdbid": "",
-      "nationality": "",
-      "trailer": "",
-      "year": null,
-      "runtime_mins": null
+      "website": "https://lumiton.ar/evento/noche-de-estreno-opening-night-6/ ",
+      "address": "https://maps.app.goo.gl/2g5WWY7a94ZNarY46",
+      "genre": "Drama",
+      "director": "John Cassavetes",
+      "poster": "https://image.tmdb.org/t/p/w500/7NYSr8Z6xiW4zZqOBf3BTee1TRM.jpg",
+      "imdbid": "tt0079672",
+      "nationality": "Estados Unidos De América",
+      "trailer": "https://www.youtube.com/watch?v=eRZZAvWIBAo",
+      "year": "1977",
+      "runtime_mins": 144
     },
     "calendars": [
       {
         "lun": {
-          "date": 2,
+          "date": 30,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 31,
           "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-12-02T20:00:00",
-              "theater": "CC 25 de Mayo"
+              "showtime": "2024-12-31T00:00:00",
+              "theater": "CC Munro"
             }
           ]
         },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
         "mie": {
-          "date": 4,
-          "month": 12,
+          "date": 1,
+          "month": 1,
           "showtimes": []
         },
         "jue": {
-          "date": 5,
-          "month": 12,
+          "date": 2,
+          "month": 1,
           "showtimes": []
         },
         "vie": {
-          "date": 6,
-          "month": 12,
+          "date": 3,
+          "month": 1,
           "showtimes": []
         },
         "sab": {
-          "date": 7,
-          "month": 12,
+          "date": 4,
+          "month": 1,
           "showtimes": []
         },
         "dom": {
-          "date": 8,
-          "month": 12,
+          "date": 5,
+          "month": 1,
           "showtimes": []
         }
       }
@@ -7910,70 +8896,6 @@
               "theater": "Cine York"
             }
           ]
-        },
-        "dom": {
-          "date": 8,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Pat Garrett & Billy The Kid": {
-    "details": {
-      "title": "Pat Garrett & Billy The Kid",
-      "showtimes": [
-        "2024-12-04T21:00:00"
-      ],
-      "theater": "Leopoldo Lugones",
-      "price": "4000 ARS / 2000 ARS",
-      "website": "https://complejoteatral.gob.ar/cine",
-      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
-      "genre": "Documental",
-      "director": "Nick Redman",
-      "poster": "",
-      "imdbid": "tt4706650",
-      "nationality": "Estados Unidos De América",
-      "trailer": "",
-      "year": "2006",
-      "runtime_mins": 14
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-04T21:00:00",
-              "theater": "Leopoldo Lugones"
-            }
-          ]
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": []
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
         },
         "dom": {
           "date": 8,
@@ -8051,61 +8973,104 @@
     "details": {
       "title": "Perdido, Perdido, Perdido",
       "showtimes": [
-        "2024-09-14T17:30:00"
+        "2024-12-06T17:30:00",
+        "2024-12-14T17:30:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
       "website": "https://www.cck.gob.ar/cine/",
       "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-      "genre": "Drama",
-      "director": "Volker Schlöndorff, Margarethe Von Trotta",
-      "poster": "https://image.tmdb.org/t/p/w500/d7Z1gzPkHm29jmiqnjvzXZg2koI.jpg",
-      "imdbid": "tt0073858",
-      "nationality": "Alemania",
-      "trailer": "https://www.youtube.com/watch?v=P5zBH-PFjag",
+      "genre": "",
+      "director": "Jonas Mekas",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
       "year": 1976,
-      "runtime_mins": 104
+      "runtime_mins": null
     },
     "calendars": [
       {
         "lun": {
+          "date": 2,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 3,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 4,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 5,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 6,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-06T17:30:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 8,
+          "month": 12,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 9,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
           "date": 10,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
           "date": 11,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
           "date": 12,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
           "date": 13,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
           "date": 14,
-          "month": 9,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-14T17:30:00",
+              "showtime": "2024-12-14T17:30:00",
               "theater": "CCK"
             }
           ]
         },
         "dom": {
           "date": 15,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -8628,7 +9593,7 @@
     "details": {
       "title": "Rapado",
       "showtimes": [
-        "2024-12-06T19:00:00"
+        "2024-12-29T19:00:00"
       ],
       "theater": "CC Recoleta",
       "price": "Gratis",
@@ -8646,44 +9611,44 @@
     "calendars": [
       {
         "lun": {
-          "date": 2,
+          "date": 23,
           "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 3,
+          "date": 24,
           "month": 12,
           "showtimes": []
         },
         "mie": {
-          "date": 4,
+          "date": 25,
           "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 5,
+          "date": 26,
           "month": 12,
           "showtimes": []
         },
         "vie": {
-          "date": 6,
+          "date": 27,
           "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-06T19:00:00",
-              "theater": "CC Recoleta"
-            }
-          ]
+          "showtimes": []
         },
         "sab": {
-          "date": 7,
+          "date": 28,
           "month": 12,
           "showtimes": []
         },
         "dom": {
-          "date": 8,
+          "date": 29,
           "month": 12,
-          "showtimes": []
+          "showtimes": [
+            {
+              "showtime": "2024-12-29T19:00:00",
+              "theater": "CC Recoleta"
+            }
+          ]
         }
       }
     ]
@@ -8748,6 +9713,70 @@
           "date": 15,
           "month": 12,
           "showtimes": []
+        }
+      }
+    ]
+  },
+  "Reas": {
+    "details": {
+      "title": "Reas",
+      "showtimes": [
+        "2024-12-08T19:00:00"
+      ],
+      "theater": "Cine Arte Cacodelphia",
+      "price": "6000 ARS / 3500 ARS",
+      "website": "https://cineartecacodelphia.com.ar ",
+      "address": "https://maps.app.goo.gl/P2PvhrNf9WZ67qqW6",
+      "genre": "Documental, Drama.",
+      "director": "Lola Arias",
+      "poster": "https://image.tmdb.org/t/p/w500/rXyIIe3vTCTLStiV06viOP595eO.jpg",
+      "imdbid": "tt29102354",
+      "nationality": "Argentina, Alemania, Suiza",
+      "trailer": "https://www.youtube.com/watch?v=YmfYcTsKscs",
+      "year": "2024",
+      "runtime_mins": 79
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 2,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 3,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 4,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 5,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 6,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 8,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-08T19:00:00",
+              "theater": "Cine Arte Cacodelphia"
+            }
+          ]
         }
       }
     ]
@@ -8820,14 +9849,15 @@
     "details": {
       "title": "Reminiscencias De Un Viaje A Lituania",
       "showtimes": [
-        "2024-09-13T19:30:00"
+        "2024-12-21T16:00:00",
+        "2024-12-21T16:30:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
       "website": "https://www.cck.gob.ar/cine/",
       "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
       "genre": "",
-      "director": "",
+      "director": "Jonas Mekas",
       "poster": "",
       "imdbid": "",
       "nationality": "",
@@ -8838,43 +9868,47 @@
     "calendars": [
       {
         "lun": {
-          "date": 9,
-          "month": 9,
+          "date": 16,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 10,
-          "month": 9,
+          "date": 17,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
-          "date": 11,
-          "month": 9,
+          "date": 18,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 12,
-          "month": 9,
+          "date": 19,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
-          "date": 13,
-          "month": 9,
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-13T19:30:00",
+              "showtime": "2024-12-21T16:00:00",
+              "theater": "CCK"
+            },
+            {
+              "showtime": "2024-12-21T16:30:00",
               "theater": "CCK"
             }
           ]
         },
-        "sab": {
-          "date": 14,
-          "month": 9,
-          "showtimes": []
-        },
         "dom": {
-          "date": 15,
-          "month": 9,
+          "date": 22,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -9228,61 +10262,125 @@
     "details": {
       "title": "Salto",
       "showtimes": [
-        "2024-09-12T18:00:00"
+        "2024-12-12T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
       "website": "https://www.cck.gob.ar/cine/",
       "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-      "genre": "Documental",
-      "director": "Jerry Rothwell",
-      "poster": "https://image.tmdb.org/t/p/w500/hqvze6LNRPZLwaXkBWel5zjmHPb.jpg",
-      "imdbid": "tt9098928",
-      "nationality": "Ee.Uu. Reino Unido Europa",
-      "trailer": "https://www.youtube.com/watch?v=J9ZxvR_cm94",
+      "genre": "",
+      "director": "Peter Chan",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
       "year": 2020,
-      "runtime_mins": 82
+      "runtime_mins": null
     },
     "calendars": [
       {
         "lun": {
           "date": 9,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
           "date": 10,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
           "date": 11,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
           "date": 12,
-          "month": 9,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-12T18:00:00",
+              "showtime": "2024-12-12T18:00:00",
               "theater": "CCK"
             }
           ]
         },
         "vie": {
           "date": 13,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
           "date": 14,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "dom": {
           "date": 15,
-          "month": 9,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "San Pugliese": {
+    "details": {
+      "title": "San Pugliese",
+      "showtimes": [
+        "2024-12-18T19:00:00"
+      ],
+      "theater": "Manzana de las Luces",
+      "price": "Gratis",
+      "website": "https://manzanadelasluces.cultura.gob.ar/actividad/ciclo-de-cine-tango-en-la-manzana-de-las-luces/ ",
+      "address": "https://maps.app.goo.gl/BBpRv8LQ6d3pwfD86",
+      "genre": "Documental, Drama.",
+      "director": "Maximiliano Acosta, Santiago Nacif Cabrera Y Lola Winer",
+      "poster": "https://image.tmdb.org/t/p/w500/lNfwb0sVn6xj8ZOHgg6YTLzDb0L.jpg",
+      "imdbid": "tt33050502",
+      "nationality": "Argentina",
+      "trailer": "",
+      "year": "2024",
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-18T19:00:00",
+              "theater": "Manzana de las Luces"
+            }
+          ]
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -9563,6 +10661,10 @@
             {
               "showtime": "2024-12-07T15:30:00",
               "theater": "Gaumont"
+            },
+            {
+              "showtime": "2024-12-07T19:00:00",
+              "theater": "Cine Arte Cacodelphia"
             }
           ]
         },
@@ -9694,61 +10796,227 @@
     "details": {
       "title": "Sombra",
       "showtimes": [
-        "2024-09-05T18:00:00"
+        "2024-12-19T15:30:00",
+        "2024-12-19T18:00:00",
+        "2024-12-12T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
       "website": "https://www.cck.gob.ar/cine/",
       "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
-      "genre": "Acción, Thriller",
-      "director": "Kim Jee-Woon",
-      "poster": "https://image.tmdb.org/t/p/w500/kHiBkgmMY8QJQo2r5yXRhJ7P7k.jpg",
-      "imdbid": "tt4914580",
-      "nationality": "Corea Del Sur",
-      "trailer": "https://www.youtube.com/watch?v=Pmg168t67Vs",
+      "genre": "",
+      "director": "Zhang Yimou",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
       "year": 2018,
-      "runtime_mins": 140
+      "runtime_mins": null
     },
     "calendars": [
       {
         "lun": {
-          "date": 2,
-          "month": 9,
+          "date": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 3,
-          "month": 9,
+          "date": 10,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
-          "date": 4,
-          "month": 9,
+          "date": 11,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 5,
-          "month": 9,
+          "date": 12,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-05T18:00:00",
+              "showtime": "2024-12-12T18:00:00",
               "theater": "CCK"
             }
           ]
         },
         "vie": {
-          "date": 6,
-          "month": 9,
+          "date": 13,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
-          "date": 7,
-          "month": 9,
+          "date": 14,
+          "month": 12,
           "showtimes": []
         },
         "dom": {
-          "date": 8,
-          "month": 9,
+          "date": 15,
+          "month": 12,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-19T15:30:00",
+              "theater": "CCK"
+            },
+            {
+              "showtime": "2024-12-19T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
+  "Soshun Kochiyama": {
+    "details": {
+      "title": "Soshun Kochiyama",
+      "showtimes": [
+        "2024-11-12T21:00:00",
+        "2024-12-13T15:00:00",
+        "2024-12-13T21:00:00",
+        "2024-12-14T15:00:00"
+      ],
+      "theater": "Leopoldo Lugones",
+      "price": "4000 ARS / 2000 ARS",
+      "website": "https://complejoteatral.gob.ar/cine",
+      "address": "https://maps.app.goo.gl/S2jNmrp1KXd6Ayg5A",
+      "genre": "Drama",
+      "director": "Sadao Yamanaka",
+      "poster": "https://image.tmdb.org/t/p/w500/e0b93Ew6nGffih6mW4TNvLF5Uxq.jpg",
+      "imdbid": "tt0272690",
+      "nationality": "Japón",
+      "trailer": "",
+      "year": "1936",
+      "runtime_mins": 82
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 11,
+          "month": 11,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 12,
+          "month": 11,
+          "showtimes": [
+            {
+              "showtime": "2024-11-12T21:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
+        },
+        "mie": {
+          "date": 13,
+          "month": 11,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 14,
+          "month": 11,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 15,
+          "month": 11,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 16,
+          "month": 11,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 17,
+          "month": 11,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-13T15:00:00",
+              "theater": "Leopoldo Lugones"
+            },
+            {
+              "showtime": "2024-12-13T21:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-14T15:00:00",
+              "theater": "Leopoldo Lugones"
+            }
+          ]
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -9882,6 +11150,134 @@
       }
     ]
   },
+  "The Killing Of A Chinese Bookie": {
+    "details": {
+      "title": "The Killing Of A Chinese Bookie",
+      "showtimes": [
+        "2024-12-15T16:00:00"
+      ],
+      "theater": "CC Munro",
+      "price": "Gratis",
+      "website": "https://lumiton.ar/evento/el-asesinato-de-un-corredor-de-apuestas-chino-the-killing-of-a-chinese-bookie-4/ ",
+      "address": "https://maps.app.goo.gl/2g5WWY7a94ZNarY46",
+      "genre": "Thriller, Crimen, Drama",
+      "director": "John Cassavetes",
+      "poster": "https://image.tmdb.org/t/p/w500/clQgmbmBOxvA2NepvijoL7YUCvr.jpg",
+      "imdbid": "tt0074749",
+      "nationality": "Estados Unidos De América",
+      "trailer": "https://www.youtube.com/watch?v=1UTPS2iwAX4",
+      "year": "1976",
+      "runtime_mins": 135
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-15T16:00:00",
+              "theater": "CC Munro"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "Tiempo De Pagar": {
+    "details": {
+      "title": "Tiempo De Pagar",
+      "showtimes": [
+        "2024-12-07T21:10:00"
+      ],
+      "theater": "Cine Arte Cacodelphia",
+      "price": "6000 ARS / 3500 ARS",
+      "website": "https://cineartecacodelphia.com.ar ",
+      "address": "https://maps.app.goo.gl/P2PvhrNf9WZ67qqW6",
+      "genre": "",
+      "director": "Felipe Weinn",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 2,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 3,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 4,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 5,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 6,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-07T21:10:00",
+              "theater": "Cine Arte Cacodelphia"
+            }
+          ]
+        },
+        "dom": {
+          "date": 8,
+          "month": 12,
+          "showtimes": []
+        }
+      }
+    ]
+  },
   "Tiro De Gracia": {
     "details": {
       "title": "Tiro De Gracia",
@@ -9950,7 +11346,9 @@
     "details": {
       "title": "Tren Misterioso",
       "showtimes": [
-        "2024-09-07T19:00:00"
+        "2024-12-07T19:00:00",
+        "2024-12-13T19:00:00",
+        "2024-12-14T19:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -9969,42 +11367,89 @@
       {
         "lun": {
           "date": 2,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
           "date": 3,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
           "date": 4,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
           "date": 5,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
           "date": 6,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
           "date": 7,
-          "month": 9,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-07T19:00:00",
+              "showtime": "2024-12-07T19:00:00",
               "theater": "CCK"
             }
           ]
         },
         "dom": {
           "date": 8,
-          "month": 9,
+          "month": 12,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-13T19:00:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-14T19:00:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -10078,7 +11523,7 @@
     "details": {
       "title": "Título A Definir",
       "showtimes": [
-        "2024-09-21T20:30:00"
+        "2024-12-21T20:30:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -10097,42 +11542,42 @@
       {
         "lun": {
           "date": 16,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
           "date": 17,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
           "date": 18,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
           "date": 19,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
           "date": 20,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
           "date": 21,
-          "month": 9,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-21T20:30:00",
+              "showtime": "2024-12-21T20:30:00",
               "theater": "CCK"
             }
           ]
         },
         "dom": {
           "date": 22,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -10206,7 +11651,7 @@
     "details": {
       "title": "Un Tal Mario",
       "showtimes": [
-        "2024-12-05T19:00:00"
+        "2024-12-12T19:00:00"
       ],
       "theater": "CC Recoleta",
       "price": "Gratis",
@@ -10224,42 +11669,42 @@
     "calendars": [
       {
         "lun": {
-          "date": 2,
+          "date": 9,
           "month": 12,
           "showtimes": []
         },
         "mar": {
-          "date": 3,
+          "date": 10,
           "month": 12,
           "showtimes": []
         },
         "mie": {
-          "date": 4,
+          "date": 11,
           "month": 12,
           "showtimes": []
         },
         "jue": {
-          "date": 5,
+          "date": 12,
           "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-12-05T19:00:00",
+              "showtime": "2024-12-12T19:00:00",
               "theater": "CC Recoleta"
             }
           ]
         },
         "vie": {
-          "date": 6,
+          "date": 13,
           "month": 12,
           "showtimes": []
         },
         "sab": {
-          "date": 7,
+          "date": 14,
           "month": 12,
           "showtimes": []
         },
         "dom": {
-          "date": 8,
+          "date": 15,
           "month": 12,
           "showtimes": []
         }
@@ -10398,14 +11843,15 @@
     "details": {
       "title": "Una Pequeña Flor Roja",
       "showtimes": [
-        "2024-09-19T18:00:00"
+        "2024-12-19T18:00:00",
+        "2024-12-12T18:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
       "website": "https://www.cck.gob.ar/cine/",
       "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
       "genre": "",
-      "director": "",
+      "director": "Han Yan",
       "poster": "",
       "imdbid": "",
       "nationality": "",
@@ -10416,43 +11862,85 @@
     "calendars": [
       {
         "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-12T18:00:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 16,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
           "date": 17,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
           "date": 18,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
           "date": 19,
-          "month": 9,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-19T18:00:00",
+              "showtime": "2024-12-19T18:00:00",
               "theater": "CCK"
             }
           ]
         },
         "vie": {
           "date": 20,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
           "date": 21,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "dom": {
           "date": 22,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -10462,7 +11950,8 @@
     "details": {
       "title": "Vacaciones Permanentes",
       "showtimes": [
-        "2024-09-21T19:00:00"
+        "2024-12-06T17:00:00",
+        "2024-12-21T19:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
@@ -10480,43 +11969,85 @@
     "calendars": [
       {
         "lun": {
+          "date": 2,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 3,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 4,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 5,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 6,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-06T17:00:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 8,
+          "month": 12,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 16,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
           "date": 17,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
           "date": 18,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
           "date": 19,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
           "date": 20,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "sab": {
           "date": 21,
-          "month": 9,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-21T19:00:00",
+              "showtime": "2024-12-21T19:00:00",
               "theater": "CCK"
             }
           ]
         },
         "dom": {
           "date": 22,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -10796,18 +12327,126 @@
       }
     ]
   },
-  "Walden. Diarios, Notas Y Bocetos": {
+  "Vincent, François, Paul Y Los Otros": {
     "details": {
-      "title": "Walden. Diarios, Notas Y Bocetos",
+      "title": "Vincent, François, Paul Y Los Otros",
       "showtimes": [
-        "2024-09-20T17:30:00"
+        "2024-12-15T17:00:00",
+        "2024-12-22T17:00:00"
       ],
       "theater": "CCK",
       "price": "Gratis, orden de llegada",
       "website": "https://www.cck.gob.ar/cine/",
       "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
       "genre": "",
-      "director": "",
+      "director": "C. Sautet",
+      "poster": "",
+      "imdbid": "",
+      "nationality": "",
+      "trailer": "",
+      "year": null,
+      "runtime_mins": null
+    },
+    "calendars": [
+      {
+        "lun": {
+          "date": 9,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 10,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 11,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 12,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 13,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 14,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 15,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-15T17:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      },
+      {
+        "lun": {
+          "date": 16,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 17,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 18,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 19,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 20,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 21,
+          "month": 12,
+          "showtimes": []
+        },
+        "dom": {
+          "date": 22,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-22T17:00:00",
+              "theater": "CCK"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "Walden. Diarios, Notas Y Bocetos": {
+    "details": {
+      "title": "Walden. Diarios, Notas Y Bocetos",
+      "showtimes": [
+        "2024-12-20T17:30:00",
+        "2024-12-07T17:30:00"
+      ],
+      "theater": "CCK",
+      "price": "Gratis, orden de llegada",
+      "website": "https://www.cck.gob.ar/cine/",
+      "address": "https://maps.app.goo.gl/FjsLk2J8uKUmZFUP8",
+      "genre": "",
+      "director": "Jonas Mekas",
       "poster": "",
       "imdbid": "",
       "nationality": "",
@@ -10818,43 +12457,85 @@
     "calendars": [
       {
         "lun": {
+          "date": 2,
+          "month": 12,
+          "showtimes": []
+        },
+        "mar": {
+          "date": 3,
+          "month": 12,
+          "showtimes": []
+        },
+        "mie": {
+          "date": 4,
+          "month": 12,
+          "showtimes": []
+        },
+        "jue": {
+          "date": 5,
+          "month": 12,
+          "showtimes": []
+        },
+        "vie": {
+          "date": 6,
+          "month": 12,
+          "showtimes": []
+        },
+        "sab": {
+          "date": 7,
+          "month": 12,
+          "showtimes": [
+            {
+              "showtime": "2024-12-07T17:30:00",
+              "theater": "CCK"
+            }
+          ]
+        },
+        "dom": {
+          "date": 8,
+          "month": 12,
+          "showtimes": []
+        }
+      },
+      {
+        "lun": {
           "date": 16,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mar": {
           "date": 17,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "mie": {
           "date": 18,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "jue": {
           "date": 19,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "vie": {
           "date": 20,
-          "month": 9,
+          "month": 12,
           "showtimes": [
             {
-              "showtime": "2024-09-20T17:30:00",
+              "showtime": "2024-12-20T17:30:00",
               "theater": "CCK"
             }
           ]
         },
         "sab": {
           "date": 21,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         },
         "dom": {
           "date": 22,
-          "month": 9,
+          "month": 12,
           "showtimes": []
         }
       }
@@ -10982,70 +12663,6 @@
         },
         "dom": {
           "date": 15,
-          "month": 12,
-          "showtimes": []
-        }
-      }
-    ]
-  },
-  "Últimas Imágenes Del Naufragio": {
-    "details": {
-      "title": "Últimas Imágenes Del Naufragio",
-      "showtimes": [
-        "2024-12-05T18:30:00"
-      ],
-      "theater": "Cine York",
-      "price": "Gratis",
-      "website": "https://lumiton.ar/agenda-presencial/ ",
-      "address": "https://www.google.com/maps/search/Cine+York/",
-      "genre": "Drama",
-      "director": "Eliseo Subiela",
-      "poster": "https://image.tmdb.org/t/p/w500/3qeiV84N7Be9jKomFmU9nvEKAW0.jpg",
-      "imdbid": "tt0098732",
-      "nationality": "España - Argentina",
-      "trailer": "",
-      "year": "1989",
-      "runtime_mins": 131
-    },
-    "calendars": [
-      {
-        "lun": {
-          "date": 2,
-          "month": 12,
-          "showtimes": []
-        },
-        "mar": {
-          "date": 3,
-          "month": 12,
-          "showtimes": []
-        },
-        "mie": {
-          "date": 4,
-          "month": 12,
-          "showtimes": []
-        },
-        "jue": {
-          "date": 5,
-          "month": 12,
-          "showtimes": [
-            {
-              "showtime": "2024-12-05T18:30:00",
-              "theater": "Cine York"
-            }
-          ]
-        },
-        "vie": {
-          "date": 6,
-          "month": 12,
-          "showtimes": []
-        },
-        "sab": {
-          "date": 7,
-          "month": 12,
-          "showtimes": []
-        },
-        "dom": {
-          "date": 8,
           "month": 12,
           "showtimes": []
         }
